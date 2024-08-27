@@ -41,47 +41,47 @@ with open('README.md', 'r') as file:
 # Nuovo contenuto da inserire nella sezione
 new_content = f"""
 <!--- Inizia la sezione estendibile per i Top Artists --->
-<details open>
-  <summary style="font-size: 20px; font-weight: bold; cursor: pointer;">My Top 10 Artists on Spotify</summary>
+# Top 10 Artists
+
+<details>
+  <summary style="font-size: 20px; font-weight: bold; cursor: pointer; color: #3498db;">Top 10 Artists</summary>
   <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px;">
     {''.join([
-      f'<a href="{artist["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center;">'
-      f'<img src="{artist["images"][0]["url"]}" alt="{artist["name"]}" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 10px;" />'
-      f'<span style="font-size: 16px; font-weight: bold;">{artist["name"]}</span>'
+      f'<a href="{artist["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; text-align: center;">'
+      f'<img src="{artist["images"][0]["url"]}" alt="{artist["name"]}" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 10px; object-fit: cover;" />'
+      f'<span style="display: block; font-size: 16px; font-weight: bold; color: #ffffff; margin-top: 5px;">{artist["name"]}</span>'
       f'</a>'
       for artist in top_artists
     ])}
   </div>
 </details>
 
-<br />
-<br />
+# Last 10 Songs Listened To
 
 <!--- Inizia la sezione estendibile per le ultime 10 canzoni ascoltate --->
-<details open>
-  <summary style="font-size: 20px; font-weight: bold; cursor: pointer;">My Last 10 Songs Listened To</summary>
+<details>
+  <summary style="font-size: 20px; font-weight: bold; cursor: pointer; color: #3498db;">Last 10 Songs Listened To</summary>
   <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px;">
     {''.join([
-      f'<a href="{track["track"]["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center;">'
-      f'<img src="{track["track"]["album"]["images"][0]["url"]}" alt="{track["track"]["name"]}" style="width: 80px; height: 80px; border-radius: 10px; margin-right: 10px;" />'
-      f'<span style="font-size: 16px; font-weight: bold;">{track["track"]["name"]}</span>'
+      f'<a href="{track["track"]["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; text-align: center;">'
+      f'<img src="{track["track"]["album"]["images"][0]["url"]}" alt="{track["track"]["name"]}" style="width: 80px; height: 80px; border-radius: 10px; margin-right: 10px; object-fit: cover;" />'
+      f'<span style="display: block; font-size: 16px; font-weight: bold; color: #ffffff; margin-top: 5px;">{track["track"]["name"]}</span>'
       f'</a>'
       for track in recent_tracks
     ])}
   </div>
 </details>
 
-<br />
-<br />
+# Top 10 Most Played Songs
 
 <!--- Inizia la sezione estendibile per le 10 canzoni più ascoltate --->
-<details open>
-  <summary style="font-size: 20px; font-weight: bold; cursor: pointer;">My Top 10 Most Played Songs</summary>
+<details>
+  <summary style="font-size: 20px; font-weight: bold; cursor: pointer; color: #3498db;">Top 10 Most Played Songs</summary>
   <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px;">
     {''.join([
-      f'<a href="{track["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center;">'
-      f'<img src="{track["album"]["images"][0]["url"]}" alt="{track["name"]}" style="width: 80px; height: 80px; border-radius: 10px; margin-right: 10px;" />'
-      f'<span style="font-size: 16px; font-weight: bold;">{track["name"]}</span>'
+      f'<a href="{track["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; text-align: center;">'
+      f'<img src="{track["album"]["images"][0]["url"]}" alt="{track["name"]}" style="width: 80px; height: 80px; border-radius: 10px; margin-right: 10px; object-fit: cover;" />'
+      f'<span style="display: block; font-size: 16px; font-weight: bold; color: #ffffff; margin-top: 5px;">{track["name"]}</span>'
       f'</a>'
       for track in top_tracks
     ])}
