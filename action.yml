@@ -1,0 +1,15 @@
+name: 'My GitHub Action'
+description: 'A short description of my GitHub Action'
+inputs:
+  example_input:
+    description: 'An example input'
+    required: true
+    default: 'default_value'
+outputs:
+  example_output:
+    description: 'An example output'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.example_input }}
