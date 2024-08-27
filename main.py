@@ -32,23 +32,66 @@ top_tracks = sp.current_user_top_tracks(limit=10)['items']
 recent_tracks = sp.current_user_recently_played(limit=10)['items']
 
 svg_content = f"""
-<svg width="500" height="250" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg width="1200" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <!-- Background with rounded corners -->
+  <defs>
+    <clipPath id="rounded-clip">
+      <rect x="0" y="0" width="1200" height="500" rx="20" ry="20"/>
+    </clipPath>
+    <!-- Clip paths for rounded images -->
+    <!--
+    <clipPath id="circle-clip">
+      <circle cx="30" cy="30" width="30" height="30" r="90"/>
+    </clipPath>
+    -->
+  </defs>
+
+
+
   <!-- Background -->
+  <rect width="100%" height="100%" fill="#2c3e50" clip-path="url(#rounded-clip)"/>
 
-  <!-- Contenitore con angoli arrotondati -->
-  <rect x="10" y="10" width="480" height="230" rx="20" ry="20" fill="#34495e" />
+  <!-- Sezione Top Artists -->
+  <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
+    <text x="20" y="40" font-size="30" font-weight="bold" fill="white">Top 10 Artists:</text>
+    {''.join([
+        f'<a xlink:href="{artist["external_urls"]["spotify"]}" target="_blank">'
+        f'<image x="10" y="{80 + i * 40}" width="30" height="30" xlink:href="{artist["images"][0]["url"]}" clip-path="url(#circle-clip)"/>'
+        f'<text x="50" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{artist["name"]}</text>'
+        f'</a>'
+        for i, artist in enumerate(top_artists)
+    ])}
+  </g>
 
-  <!-- Album Cover -->
-  <clipPath id="clip-circle">
-    <circle cx="125" cy="125" r="100" />
-  </clipPath>
-  <image href="{recent_tracks[0]['track']['album']['images'][0]['url']}" width="250" height="250" clip-path="url(#clip-circle)" />
+  <!-- Separatore -->
+  <line x1="340" y1="20" x2="340" y2="1000" stroke="white" stroke-width="2" clip-path="url(#rounded-clip)"/>
 
-  <!-- Title -->
-  <text x="250" y="100" font-family="Arial" font-size="45" fill="white">{recent_tracks[0]["track"]["name"].capitalize()}</text>
+  <!-- Sezione Top Tracks -->
+  <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
+    <text x="360" y="40" font-size="30" font-weight="bold" fill="white">Top 10 songs:</text>
+    {''.join([
+        f'<a xlink:href="{track["external_urls"]["spotify"]}" target="_blank">'
+        f'<image x="360" y="{80 + i * 40}" width="30" height="30" xlink:href="{track['album']['images'][0]['url']}" clip-path="url(#circle-clip)"/>'
+        f'<text x="400" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{track["name"]}</text>'
+        f'</a>'
+        for i, track in enumerate(top_tracks)
+    ])}
+  </g>
 
-  <!-- Artist -->
-  <text x="250" y="150" font-family="Arial" font-size="24" fill="white">Artist: {recent_tracks[0]['track']['album']['artists'][0]['name']}</text>
+  <!-- Separatore -->
+  <line x1="680" y1="20" x2="680" y2="1000" stroke="white" stroke-width="2" clip-path="url(#rounded-clip)"/>
+
+  <!-- Sezione Recent Tracks -->
+  <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
+    <text x="700" y="40" font-size="30" font-weight="bold" fill="white">Last 10 Songs Listened To:</text>
+    {''.join([
+        f'<a xlink:href="{track["track"]["external_urls"]["spotify"]}" target="_blank">'
+        f'<image x="700" y="{80 + i * 40}" width="30" height="30" xlink:href="{track['track']['album']['images'][0]['url']}" clip-path="url(#circle-clip)"/>'
+        f'<text x="740" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{track["track"]["name"]}</text>'
+        f'</a>'
+        for i, track in enumerate(recent_tracks)
+    ])}
+  </g>
 </svg>
 """
 
