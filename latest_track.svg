@@ -21,36 +21,7 @@
   <!-- Sezione Top Artists -->
   <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
     <text x="20" y="40" font-size="30" font-weight="bold" fill="white">Top 10 Artists:</text>
-    <a xlink:href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb" target="_blank">
-			<image x="10" y="80" width="30" height="30" xlink:href="https://i.scdn.co/image/ab67616d0000b2733e97097d544a704eb344cbe4" clip-path="url(#circle-clip)"/>
-			<text x="50" y="100" font-size="20" fill="white" width="250" overflow="visible">yungest Moonstar</text></a>
-		<a xlink:href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank">
-			<image x="10" y="120" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9" clip-path="url(#circle-clip)"/>
-			<text x="50" y="140" font-size="20" fill="white" width="250" overflow="visible">Drake</text></a>
-		<a xlink:href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS" target="_blank">
-			<image x="10" y="160" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb18505fd55b5918fe7c6b1fcc" clip-path="url(#circle-clip)"/>
-			<text x="50" y="180" font-size="20" fill="white" width="250" overflow="visible">Pinguini Tattici Nucleari</text></a>
-		<a xlink:href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4" target="_blank">
-			<image x="10" y="200" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb8044505721270eb00050b188" clip-path="url(#circle-clip)"/>
-			<text x="50" y="220" font-size="20" fill="white" width="250" overflow="visible">Coez</text></a>
-		<a xlink:href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR" target="_blank">
-			<image x="10" y="240" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" clip-path="url(#circle-clip)"/>
-			<text x="50" y="260" font-size="20" fill="white" width="250" overflow="visible">Eminem</text></a>
-		<a xlink:href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz" target="_blank">
-			<image x="10" y="280" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb84a0dd74f21e8acce6a9fd49" clip-path="url(#circle-clip)"/>
-			<text x="50" y="300" font-size="20" fill="white" width="250" overflow="visible">Linkin Park</text></a>
-		<a xlink:href="https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u" target="_blank">
-			<image x="10" y="320" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb6cbf5f96f5dc45584cdae566" clip-path="url(#circle-clip)"/>
-			<text x="50" y="340" font-size="20" fill="white" width="250" overflow="visible">ANNA</text></a>
-		<a xlink:href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA" target="_blank">
-			<image x="10" y="360" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb2ab61d146599aeea3bdd771a" clip-path="url(#circle-clip)"/>
-			<text x="50" y="380" font-size="20" fill="white" width="250" overflow="visible">thasup</text></a>
-		<a xlink:href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq" target="_blank">
-			<image x="10" y="400" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb0eefd7d68573ea8f0f4db84a" clip-path="url(#circle-clip)"/>
-			<text x="50" y="420" font-size="20" fill="white" width="250" overflow="visible">Lil Nas X</text></a>
-		<a xlink:href="https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1" target="_blank">
-			<image x="10" y="440" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5ebda789181e4ece5949757f419" clip-path="url(#circle-clip)"/>
-			<text x="50" y="460" font-size="20" fill="white" width="250" overflow="visible">Sidewalks and Skeletons</text></a>
+    <a xlink:href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb" target="_blank"><image x="10" y="80" width="30" height="30" xlink:href="https://i.scdn.co/image/ab67616d0000b2733e97097d544a704eb344cbe4" clip-path="url(#circle-clip)"/><text x="50" y="100" font-size="20" fill="white" width="250" overflow="visible">yungest Moonstar</text></a><a xlink:href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank"><image x="10" y="120" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9" clip-path="url(#circle-clip)"/><text x="50" y="140" font-size="20" fill="white" width="250" overflow="visible">Drake</text></a><a xlink:href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS" target="_blank"><image x="10" y="160" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb18505fd55b5918fe7c6b1fcc" clip-path="url(#circle-clip)"/><text x="50" y="180" font-size="20" fill="white" width="250" overflow="visible">Pinguini Tattici Nucleari</text></a><a xlink:href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4" target="_blank"><image x="10" y="200" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb8044505721270eb00050b188" clip-path="url(#circle-clip)"/><text x="50" y="220" font-size="20" fill="white" width="250" overflow="visible">Coez</text></a><a xlink:href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR" target="_blank"><image x="10" y="240" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" clip-path="url(#circle-clip)"/><text x="50" y="260" font-size="20" fill="white" width="250" overflow="visible">Eminem</text></a><a xlink:href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz" target="_blank"><image x="10" y="280" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb84a0dd74f21e8acce6a9fd49" clip-path="url(#circle-clip)"/><text x="50" y="300" font-size="20" fill="white" width="250" overflow="visible">Linkin Park</text></a><a xlink:href="https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u" target="_blank"><image x="10" y="320" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb6cbf5f96f5dc45584cdae566" clip-path="url(#circle-clip)"/><text x="50" y="340" font-size="20" fill="white" width="250" overflow="visible">ANNA</text></a><a xlink:href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA" target="_blank"><image x="10" y="360" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb2ab61d146599aeea3bdd771a" clip-path="url(#circle-clip)"/><text x="50" y="380" font-size="20" fill="white" width="250" overflow="visible">thasup</text></a><a xlink:href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq" target="_blank"><image x="10" y="400" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5eb0eefd7d68573ea8f0f4db84a" clip-path="url(#circle-clip)"/><text x="50" y="420" font-size="20" fill="white" width="250" overflow="visible">Lil Nas X</text></a><a xlink:href="https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1" target="_blank"><image x="10" y="440" width="30" height="30" xlink:href="https://i.scdn.co/image/ab6761610000e5ebda789181e4ece5949757f419" clip-path="url(#circle-clip)"/><text x="50" y="460" font-size="20" fill="white" width="250" overflow="visible">Sidewalks and Skeletons</text></a>
   </g>
 
   <!-- Separatore -->

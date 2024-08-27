@@ -54,9 +54,9 @@ svg_content = f"""
   <!-- Sezione Top Artists -->
   <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
     <text x="20" y="40" font-size="30" font-weight="bold" fill="white">Top 10 Artists:</text>
-    {'\n\t\t'.join([
-        f'<a xlink:href="{artist["external_urls"]["spotify"]}" target="_blank">\n\t\t\t'
-        f'<image x="10" y="{80 + i * 40}" width="30" height="30" xlink:href="{artist["images"][0]["url"]}" clip-path="url(#circle-clip)"/>\n\t\t\t'
+    {''.join([
+        f'<a xlink:href="{artist["external_urls"]["spotify"]}" target="_blank">'
+        f'<image x="10" y="{80 + i * 40}" width="30" height="30" xlink:href="{artist["images"][0]["url"]}" clip-path="url(#circle-clip)"/>'
         f'<text x="50" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{artist["name"]}</text>'
         f'</a>'
         for i, artist in enumerate(top_artists)
