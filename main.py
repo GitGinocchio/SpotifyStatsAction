@@ -26,82 +26,13 @@ token_info = auth.refresh_access_token(REFRESH_TOKEN)
 sp = spotipy.Spotify(auth=token_info['access_token'],oauth_manager=auth)
 
 
-
+ 
 # Ottieni i top artisti e top canzoni
 top_artists = sp.current_user_top_artists(limit=10)['items']
 top_tracks = sp.current_user_top_tracks(limit=10)['items']
 recent_tracks = sp.current_user_recently_played(limit=10)['items']
 
 
-svg_content = f"""
-<svg width="1200" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-  <!-- Background with rounded corners -->
-  <defs>
-    <clipPath id="rounded-clip">
-      <rect x="0" y="0" width="1200" height="500" rx="20" ry="20"/>
-    </clipPath>
-    <!-- Clip paths for rounded images -->
-    <!--
-    <clipPath id="circle-clip">
-      <circle cx="30" cy="30" width="30" height="30" r="90"/>
-    </clipPath>
-    -->
-  </defs>
-
-
-
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#2c3e50" clip-path="url(#rounded-clip)"/>
-
-  <!-- Sezione Top Artists -->
-  <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
-    <text x="20" y="40" font-size="30" font-weight="bold" fill="white">Top 10 Artists:</text>
-    {''.join([
-        f'<a xlink:href="{artist["external_urls"]["spotify"]}" target="_blank">'
-        f'<image x="10" y="{80 + i * 40}" width="30" height="30" xlink:href="{artist["images"][0]["url"]}" clip-path="url(#circle-clip)"/>'
-        f'<text x="50" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{artist["name"]}</text>'
-        f'</a>'
-        for i, artist in enumerate(top_artists)
-    ])}
-  </g>
-
-  <!-- Separatore -->
-  <line x1="340" y1="20" x2="340" y2="1000" stroke="white" stroke-width="2" clip-path="url(#rounded-clip)"/>
-
-  <!-- Sezione Top Tracks -->
-  <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
-    <text x="360" y="40" font-size="30" font-weight="bold" fill="white">Top 10 songs:</text>
-    {''.join([
-        f'<a xlink:href="{track["external_urls"]["spotify"]}" target="_blank">'
-        f'<image x="360" y="{80 + i * 40}" width="30" height="30" xlink:href="{track['album']['images'][0]['url']}" clip-path="url(#circle-clip)"/>'
-        f'<text x="400" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{track["name"]}</text>'
-        f'</a>'
-        for i, track in enumerate(top_tracks)
-    ])}
-  </g>
-
-  <!-- Separatore -->
-  <line x1="680" y1="20" x2="680" y2="1000" stroke="white" stroke-width="2" clip-path="url(#rounded-clip)"/>
-
-  <!-- Sezione Recent Tracks -->
-  <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
-    <text x="700" y="40" font-size="30" font-weight="bold" fill="white">Last 10 Songs Listened To:</text>
-    {''.join([
-        f'<a xlink:href="{track["track"]["external_urls"]["spotify"]}" target="_blank">'
-        f'<image x="700" y="{80 + i * 40}" width="30" height="30" xlink:href="{track['track']['album']['images'][0]['url']}" clip-path="url(#circle-clip)"/>'
-        f'<text x="740" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{track["track"]["name"]}</text>'
-        f'</a>'
-        for i, track in enumerate(recent_tracks)
-    ])}
-  </g>
-</svg>
-"""
-
-
-
-# Salva il file SVG
-#with open("latest_track.svg", "w") as f:
-#   f.write(svg_content)
 
 # Leggi il contenuto del file README.md
 with open('README.md', 'r') as file:
@@ -109,15 +40,53 @@ with open('README.md', 'r') as file:
 
 # Nuovo contenuto da inserire nella sezione
 new_content = f"""
-# Top 10 Artists
+<!--- Inizia la sezione estendibile per i Top Artists --->
+<details open>
+  <summary style="font-size: 20px; font-weight: bold; cursor: pointer;">My Top 10 Artists on Spotify</summary>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px;">
+    {''.join([
+      f'<a href="{artist["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center;">'
+      f'<img src="{artist["images"][0]["url"]}" alt="{artist["name"]}" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 10px;" />'
+      f'<span style="font-size: 16px; font-weight: bold;">{artist["name"]}</span>'
+      f'</a>'
+      for artist in top_artists
+    ])}
+  </div>
+</details>
 
-<!--- Inizia la sezione Top Artists --->
-|   |   |
-|---|---|
-{''.join([
-  f'| ![{artist["name"]}]({artist["images"][0]["url"]}) | [{artist["name"]}]({artist["external_urls"]["spotify"]}) |\n'
-  for artist in top_artists
-])}
+<br />
+<br />
+
+<!--- Inizia la sezione estendibile per le ultime 10 canzoni ascoltate --->
+<details open>
+  <summary style="font-size: 20px; font-weight: bold; cursor: pointer;">My Last 10 Songs Listened To</summary>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px;">
+    {''.join([
+      f'<a href="{track["track"]["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center;">'
+      f'<img src="{track["track"]["album"]["images"][0]["url"]}" alt="{track["track"]["name"]}" style="width: 80px; height: 80px; border-radius: 10px; margin-right: 10px;" />'
+      f'<span style="font-size: 16px; font-weight: bold;">{track["track"]["name"]}</span>'
+      f'</a>'
+      for track in recent_tracks
+    ])}
+  </div>
+</details>
+
+<br />
+<br />
+
+<!--- Inizia la sezione estendibile per le 10 canzoni più ascoltate --->
+<details open>
+  <summary style="font-size: 20px; font-weight: bold; cursor: pointer;">My Top 10 Most Played Songs</summary>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px;">
+    {''.join([
+      f'<a href="{track["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center;">'
+      f'<img src="{track["album"]["images"][0]["url"]}" alt="{track["name"]}" style="width: 80px; height: 80px; border-radius: 10px; margin-right: 10px;" />'
+      f'<span style="font-size: 16px; font-weight: bold;">{track["name"]}</span>'
+      f'</a>'
+      for track in top_tracks
+    ])}
+  </div>
+</details>
 """
 
 # Usa un'espressione regolare per trovare la sezione e sostituirne il contenuto
