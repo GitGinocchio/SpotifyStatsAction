@@ -1,5 +1,7 @@
 from spotipy.oauth2 import SpotifyOAuth
+import requests
 import spotipy
+import base64
 import os
 
 # Sostituisci con le tue credenziali
@@ -55,10 +57,10 @@ svg_content = f"""
   <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
     <text x="20" y="40" font-size="30" font-weight="bold" fill="white">Top 10 Artists:</text>
     {''.join([
-        #f'<a xlink:href="{artist["external_urls"]["spotify"]}" target="_blank">'
+        f'<a xlink:href="{artist["external_urls"]["spotify"]}" target="_blank">'
         f'<image x="10" y="{80 + i * 40}" width="30" height="30" xlink:href="{artist["images"][0]["url"]}" clip-path="url(#circle-clip)"/>'
         f'<text x="50" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{artist["name"]}</text>'
-        #f'</a>'
+        f'</a>'
         for i, artist in enumerate(top_artists)
     ])}
   </g>
@@ -70,10 +72,10 @@ svg_content = f"""
   <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
     <text x="360" y="40" font-size="30" font-weight="bold" fill="white">Top 10 songs:</text>
     {''.join([
-        #f'<a xlink:href="{track["external_urls"]["spotify"]}" target="_blank">'
+        f'<a xlink:href="{track["external_urls"]["spotify"]}" target="_blank">'
         f'<image x="360" y="{80 + i * 40}" width="30" height="30" xlink:href="{track['album']['images'][0]['url']}" clip-path="url(#circle-clip)"/>'
         f'<text x="400" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{track["name"]}</text>'
-        #f'</a>'
+        f'</a>'
         for i, track in enumerate(top_tracks)
     ])}
   </g>
@@ -85,10 +87,10 @@ svg_content = f"""
   <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
     <text x="700" y="40" font-size="30" font-weight="bold" fill="white">Last 10 Songs Listened To:</text>
     {''.join([
-        #f'<a xlink:href="{track["track"]["external_urls"]["spotify"]}" target="_blank">'
+        f'<a xlink:href="{track["track"]["external_urls"]["spotify"]}" target="_blank">'
         f'<image x="700" y="{80 + i * 40}" width="30" height="30" xlink:href="{track['track']['album']['images'][0]['url']}" clip-path="url(#circle-clip)"/>'
         f'<text x="740" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{track["track"]["name"]}</text>'
-        #f'</a>'
+        f'</a>'
         for i, track in enumerate(recent_tracks)
     ])}
   </g>
