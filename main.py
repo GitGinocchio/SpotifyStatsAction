@@ -87,7 +87,7 @@ svg_content = f"""
     {''.join([
         f'<a xlink:href="{track["track"]["external_urls"]["spotify"]}" target="_blank">'
         f'<image x="700" y="{80 + i * 40}" width="30" height="30" xlink:href="{track['track']['album']['images'][0]['url']}" clip-path="url(#circle-clip)"/>'
-        f'<text x="740" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{i + 1}. {track["track"]["name"]}</text>'
+        f'<text x="740" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{track["track"]["name"]}</text>'
         f'</a>'
         for i, track in enumerate(recent_tracks)
     ])}
