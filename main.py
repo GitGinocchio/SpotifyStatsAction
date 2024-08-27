@@ -31,10 +31,6 @@ top_artists = sp.current_user_top_artists(limit=10)['items']
 top_tracks = sp.current_user_top_tracks(limit=10)['items']
 recent_tracks = sp.current_user_recently_played(limit=10)['items']
 
-with open("image.png", "wb") as img:
-    print(requests.get(recent_tracks[0]['track']['album']['images'][0]['url']).content)
-    img.write(requests.get(recent_tracks[0]['track']['album']['images'][0]['url']).content)
-
 svg_content = f"""
 <svg width="500" height="250" xmlns="http://www.w3.org/2000/svg" version="1.1">
   <!-- Background -->
@@ -46,7 +42,7 @@ svg_content = f"""
   <clipPath id="clip-circle">
     <circle cx="125" cy="125" r="100" />
   </clipPath>
-  <image href="image.png" width="250" height="250" clip-path="url(#clip-circle)" />
+  <image href="{recent_tracks[0]['track']['album']['images'][0]['url']}" width="250" height="250" clip-path="url(#clip-circle)" />
 
   <!-- Title -->
   <text x="250" y="100" font-family="Arial" font-size="45" fill="white">{recent_tracks[0]["track"]["name"].capitalize()}</text>
