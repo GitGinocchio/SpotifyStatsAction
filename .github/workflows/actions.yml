@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '0 0 * * 1' # At 00:00 on Monday
 
 jobs:
   build:
@@ -11,14 +11,11 @@ jobs:
 
       - name: checkout repo content
         uses: actions/checkout@v2 # checkout the repository content to github runner
-        with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
       - name: setup python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9' # install the python version needed
-          cache: 'pip'
           
       - name: install python packages
         run: |
@@ -32,17 +29,15 @@ jobs:
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
         run: python main.py
           
-      - name: Check for changes # create env variable indicating if any changes were made
-        id: git-check
+      - name: commit files
         run: |
-          git config user.name 'github-actions'
-          git config user.email 'github-actions@github.com'
-          git add .
-          git diff --staged --quiet || echo "changes=true" >> $GITHUB_ENV 
-      - name: Commit and push if changes
-        if: env.changes == 'true'
-        run: |
-          git config user.name 'github-actions'
-          git config user.email 'github-actions@github.com'
-          git commit -m "updated video index"
-          git push https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/GitGinocchio/spotify-stats-action.git
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+          
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
