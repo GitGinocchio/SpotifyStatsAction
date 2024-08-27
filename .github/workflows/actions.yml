@@ -40,7 +40,9 @@ jobs:
           git add .
           git diff --staged --quiet || echo "changes=true" >> $GITHUB_ENV 
       - name: Commit and push if changes
-        if: env.changes == 'true' # if changes made push new data to repo
+        if: env.changes == 'true'
         run: |
+          git config user.name 'github-actions'
+          git config user.email 'github-actions@github.com'
           git commit -m "updated video index"
-          git push
+          git push https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/GitGinocchio/spotify-stats-action.git
