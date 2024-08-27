@@ -5,7 +5,7 @@ Show your spotify stats inside your README.md
 <!-- START_SECTION: Spotify Stats -->
 
 ### Last Update Timestamp
-<p>27/08/2024, 21:38:41</p>
+<p>27/08/2024, 22:20:57</p>
 
 <!--- Inizia la sezione estendibile per i Top Artists --->
 <details open>
