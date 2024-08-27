@@ -115,7 +115,7 @@ new_content = f"""
 |   |   |
 |---|---|
 {''.join([
-  f'![{{ artist["name"] }}]({{ artist["images"][0]["url"] }}) | [{{ artist["name"] }}]({{ artist["external_urls"]["spotify"] }}) |'
+  f'![{ track["name"] }]({ track["external_urls"]["spotify"] }) | [{ track["name"] }]({ track['album']['images'][0]['url'] }) |'
   for i, track in enumerate(recent_tracks)
 ])}
 """
