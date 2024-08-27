@@ -56,7 +56,7 @@ svg_content = f"""
     <text x="20" y="40" font-size="30" font-weight="bold" fill="white">Top 10 Artists:</text>
     {''.join([
         f'<a xlink:href="{artist["external_urls"]["spotify"]}" target="_blank">'
-        f'<image x="10" y="{80 + i * 40}" width="30" height="30" xlink:href="{artist["images"][0]["url"]}" clip-path="url(#circle-clip)"/>'
+        f'<image x="10" y="{80 + i * 40}" width="30" height="30" xlink:href="{artist["images"][0]["url"]}" /> <!-- clip-path="url(#circle-clip)"/> -->'
         f'<text x="50" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{artist["name"]}</text>'
         f'</a>'
         for i, artist in enumerate(top_artists)
