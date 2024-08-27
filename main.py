@@ -89,8 +89,8 @@ new_content = f"""
 
 # Usa un'espressione regolare per trovare la sezione e sostituirne il contenuto
 updated_content = re.sub(
-    r'<!-- START_SECTION: Spotify Stats >.*?<!-- END_SECTION: Spotify Stats >',
-    f'<!-- START_SECTION: Spotify Stats >\n{new_content}\n<!-- END_SECTION: Spotify Stats >',
+    r'<!-- START_SECTION: Spotify Stats -->.*?<!-- END_SECTION: Spotify Stats -->',
+    f'<!-- START_SECTION: Spotify Stats -->\n{new_content}\n<!-- END_SECTION: Spotify Stats -->',
     readme_content,
     flags=re.DOTALL
 )
