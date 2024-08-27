@@ -41,13 +41,14 @@ with open('README.md', 'r') as file:
 # Nuovo contenuto da inserire nella sezione
 new_content = f"""
 <!--- Inizia la sezione estendibile per i Top Artists --->
+<!--- Inizia la sezione estendibile per i Top Artists --->
 <details open>
   <summary style="font-size: 20px; font-weight: bold; cursor: pointer;">Top 10 Artists</summary>
   <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px;">
     {''.join([
       f'<a href="{artist["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: #000; display: flex; align-items: center; text-align: center;">'
       f'<img src="{artist["images"][0]["url"]}" alt="{artist["name"]}" style="width: 80px; height: 80px; margin-right: 10px;" />'
-      f'<span style="display: block; font-size: 16px; font-weight: bold; color: #000; margin-top: 5px;">{artist["name"]}</span>'
+      f'<p style="font-size: 16px; font-weight: bold; color: #000; margin-top: 5px; text-align: center;">{artist["name"]}</p>'
       f'</a>'
       for artist in top_artists
     ])}
@@ -61,7 +62,7 @@ new_content = f"""
     {''.join([
       f'<a href="{track["track"]["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: #000; display: flex; align-items: center; text-align: center;">'
       f'<img src="{track["track"]["album"]["images"][0]["url"]}" alt="{track["track"]["name"]}" style="width: 80px; height: 80px; margin-right: 10px;" />'
-      f'<span style="display: block; font-size: 16px; font-weight: bold; color: #000; margin-top: 5px;">{track["track"]["name"]}</span>'
+      f'<p style="font-size: 16px; font-weight: bold; color: #000; margin-top: 5px; text-align: center;">{track["track"]["name"]}</p>'
       f'</a>'
       for track in recent_tracks
     ])}
@@ -75,7 +76,7 @@ new_content = f"""
     {''.join([
       f'<a href="{track["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: #000; display: flex; align-items: center; text-align: center;">'
       f'<img src="{track["album"]["images"][0]["url"]}" alt="{track["name"]}" style="width: 80px; height: 80px; margin-right: 10px;" />'
-      f'<span style="display: block; font-size: 16px; font-weight: bold; color: #000; margin-top: 5px;">{track["name"]}</span>'
+      f'<p style="font-size: 16px; font-weight: bold; color: #000; margin-top: 5px; text-align: center;">{track["name"]}</p>'
       f'</a>'
       for track in top_tracks
     ])}
