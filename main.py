@@ -2,6 +2,7 @@ from spotipy.oauth2 import SpotifyOAuth
 import requests
 import spotipy
 import base64
+import datetime
 import os
 import re
 
@@ -40,6 +41,10 @@ with open('README.md', 'r') as file:
 
 # Nuovo contenuto da inserire nella sezione
 new_content = f"""
+
+# Last Update Timestamp
+<p>{datetime.datetime.now(datetime.UTC).timestamp()}</p>
+
 <!--- Inizia la sezione estendibile per i Top Artists --->
 <details open>
   <summary style="font-size: 20px; font-weight: bold; cursor: pointer; text-align: center;">Top 10 Artists</summary>
