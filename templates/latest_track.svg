@@ -1,0 +1,18 @@
+<svg width="500" height="250" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <!-- Background -->
+
+  <!-- Contenitore con angoli arrotondati -->
+  <rect x="10" y="10" width="480" height="230" rx="20" ry="20" fill="#34495e" />
+
+  <!-- Album Cover -->
+  <clipPath id="clip-circle">
+    <circle cx="125" cy="125" r="100" />
+  </clipPath>
+  <image href="{album_cover_url}" width="250" height="250" clip-path="url(#clip-circle)" />
+
+  <!-- Title -->
+  <text x="250" y="100" font-family="Arial" font-size="45" fill="white">{song_name.capitalize()}</text>
+
+  <!-- Artist -->
+  <text x="250" y="150" font-family="Arial" font-size="24" fill="white">Artist: {artist_name}</text>
+</svg>
