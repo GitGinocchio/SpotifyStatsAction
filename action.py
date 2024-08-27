@@ -42,7 +42,7 @@ with open('README.md', 'r') as file:
 # Nuovo contenuto da inserire nella sezione
 new_content = f"""
 ### Last Update Timestamp
-<p>{datetime.datetime.now(datetime.UTC).strftime("%d/%m/%Y, %H:%M:%S")}</p>
+<p>{datetime.datetime.now(datetime.UTC).strftime("%d/%m/%Y, %H:%M:%S") + datetime.timedelta(hours=2)}</p>
 
 <!--- Inizia la sezione estendibile per i Top Artists --->
 <details open>
