@@ -36,13 +36,14 @@ jobs:
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
 
+      - name: fetch latest changes
+        run: git fetch origin main
+
       - name: pull changes
-        run: |
-          git pull --rebase origin main
+        run: git pull --rebase origin main
 
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-
