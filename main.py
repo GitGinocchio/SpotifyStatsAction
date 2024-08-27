@@ -41,7 +41,6 @@ with open('README.md', 'r') as file:
 # Nuovo contenuto da inserire nella sezione
 new_content = f"""
 <!--- Inizia la sezione estendibile per i Top Artists --->
-# Top 10 Artists
 
 <details>
   <summary style="font-size: 20px; font-weight: bold; cursor: pointer; color: #3498db;">Top 10 Artists</summary>
@@ -56,8 +55,6 @@ new_content = f"""
   </div>
 </details>
 
-# Last 10 Songs Listened To
-
 <!--- Inizia la sezione estendibile per le ultime 10 canzoni ascoltate --->
 <details>
   <summary style="font-size: 20px; font-weight: bold; cursor: pointer; color: #3498db;">Last 10 Songs Listened To</summary>
@@ -71,8 +68,6 @@ new_content = f"""
     ])}
   </div>
 </details>
-
-# Top 10 Most Played Songs
 
 <!--- Inizia la sezione estendibile per le 10 canzoni più ascoltate --->
 <details>
@@ -98,5 +93,5 @@ updated_content = re.sub(
 )
 
 # Scrivi il contenuto aggiornato nel file README.md
-with open('README.md', 'w') as file:
+with open('README.md', 'w', encoding='utf-8') as file:
     file.write(updated_content)

@@ -4,17 +4,14 @@ Show your spotify stats inside your README.md
 
 <!-- START_SECTION: Spotify Stats >
 
-# Top 10 Artists
-
 <!--- Inizia la sezione estendibile per i Top Artists --->
+
 <details>
   <summary style="font-size: 20px; font-weight: bold; cursor: pointer; color: #3498db;">Top 10 Artists</summary>
   <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px;">
     <a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; text-align: center;"><img src="https://i.scdn.co/image/ab67616d0000b2733e97097d544a704eb344cbe4" alt="yungest Moonstar" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 10px; object-fit: cover;" /><span style="display: block; font-size: 16px; font-weight: bold; color: #ffffff; margin-top: 5px;">yungest Moonstar</span></a><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; text-align: center;"><img src="https://i.scdn.co/image/ab6761610000e5eb18505fd55b5918fe7c6b1fcc" alt="Pinguini Tattici Nucleari" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 10px; object-fit: cover;" /><span style="display: block; font-size: 16px; font-weight: bold; color: #ffffff; margin-top: 5px;">Pinguini Tattici Nucleari</span></a><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; text-align: center;"><img src="https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9" alt="Drake" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 10px; object-fit: cover;" /><span style="display: block; font-size: 16px; font-weight: bold; color: #ffffff; margin-top: 5px;">Drake</span></a><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; text-align: center;"><img src="https://i.scdn.co/image/ab6761610000e5eb8044505721270eb00050b188" alt="Coez" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 10px; object-fit: cover;" /><span style="display: block; font-size: 16px; font-weight: bold; color: #ffffff; margin-top: 5px;">Coez</span></a><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; text-align: center;"><img src="https://i.scdn.co/image/ab6761610000e5eb84a0dd74f21e8acce6a9fd49" alt="Linkin Park" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 10px; object-fit: cover;" /><span style="display: block; font-size: 16px; font-weight: bold; color: #ffffff; margin-top: 5px;">Linkin Park</span></a><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; text-align: center;"><img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="Eminem" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 10px; object-fit: cover;" /><span style="display: block; font-size: 16px; font-weight: bold; color: #ffffff; margin-top: 5px;">Eminem</span></a><a href="https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; text-align: center;"><img src="https://i.scdn.co/image/ab6761610000e5eb6cbf5f96f5dc45584cdae566" alt="ANNA" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 10px; object-fit: cover;" /><span style="display: block; font-size: 16px; font-weight: bold; color: #ffffff; margin-top: 5px;">ANNA</span></a><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; text-align: center;"><img src="https://i.scdn.co/image/ab6761610000e5eb2ab61d146599aeea3bdd771a" alt="thasup" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 10px; object-fit: cover;" /><span style="display: block; font-size: 16px; font-weight: bold; color: #ffffff; margin-top: 5px;">thasup</span></a><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; text-align: center;"><img src="https://i.scdn.co/image/ab6761610000e5eb0eefd7d68573ea8f0f4db84a" alt="Lil Nas X" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 10px; object-fit: cover;" /><span style="display: block; font-size: 16px; font-weight: bold; color: #ffffff; margin-top: 5px;">Lil Nas X</span></a><a href="https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; text-align: center;"><img src="https://i.scdn.co/image/ab6761610000e5ebda789181e4ece5949757f419" alt="Sidewalks and Skeletons" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 10px; object-fit: cover;" /><span style="display: block; font-size: 16px; font-weight: bold; color: #ffffff; margin-top: 5px;">Sidewalks and Skeletons</span></a>
   </div>
 </details>
-
-# Last 10 Songs Listened To
 
 <!--- Inizia la sezione estendibile per le ultime 10 canzoni ascoltate --->
 <details>
@@ -24,9 +21,7 @@ Show your spotify stats inside your README.md
   </div>
 </details>
 
-# Top 10 Most Played Songs
-
-<!--- Inizia la sezione estendibile per le 10 canzoni più ascoltate --->
+<!--- Inizia la sezione estendibile per le 10 canzoni piÃ¹ ascoltate --->
 <details>
   <summary style="font-size: 20px; font-weight: bold; cursor: pointer; color: #3498db;">Top 10 Most Played Songs</summary>
   <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px;">
