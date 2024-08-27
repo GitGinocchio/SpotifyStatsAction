@@ -25,8 +25,6 @@ auth = SpotifyOAuth(client_id=CLIENT_ID,client_secret=CLIENT_SECRET,redirect_uri
 token_info = auth.refresh_access_token(REFRESH_TOKEN)
 
 sp = spotipy.Spotify(auth=token_info['access_token'],oauth_manager=auth)
-
-
  
 # Ottieni i top artisti e top canzoni
 top_artists = sp.current_user_top_artists(limit=10)['items']
@@ -39,10 +37,12 @@ recent_tracks = sp.current_user_recently_played(limit=10)['items']
 with open('README.md', 'r') as file:
     readme_content = file.read()
 
+timestamp = datetime.timedelta(hours=2) + datetime.datetime.now(datetime.UTC)
+
 # Nuovo contenuto da inserire nella sezione
 new_content = f"""
 ### Last Update Timestamp
-<p>{datetime.datetime.now(datetime.UTC).strftime("%d/%m/%Y, %H:%M:%S") + datetime.timedelta(hours=2)}</p>
+<p>{timestamp.strftime("%d/%m/%Y, %H:%M:%S")}</p>
 
 <!--- Inizia la sezione estendibile per i Top Artists --->
 <details open>
