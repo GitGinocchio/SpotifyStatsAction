@@ -32,67 +32,66 @@ recent_tracks = sp.current_user_recently_played(limit=10)['items']
 print(recent_tracks[0]['track']['album']['images'][0]['url'])
 
 svg_content = f"""
-<svg width="1200" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<svg width="1200" height="500" xmlns="http://www.w3.org/2000/svg" version="1.1">
   <!-- Background with rounded corners -->
   <defs>
     <clipPath id="rounded-clip">
       <rect x="0" y="0" width="1200" height="500" rx="20" ry="20"/>
     </clipPath>
-    <!-- Clip paths for rounded images -->
-    <!--
     <clipPath id="circle-clip">
-      <circle cx="30" cy="30" width="30" height="30" r="90"/>
+      <circle cx="30" cy="30" r="30"/>
     </clipPath>
-    -->
   </defs>
-
-
 
   <!-- Background -->
   <rect width="100%" height="100%" fill="#2c3e50" clip-path="url(#rounded-clip)"/>
 
   <!-- Sezione Top Artists -->
-  <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
+  <g fill="white" font-family="Arial" font-size="20">
     <text x="20" y="40" font-size="30" font-weight="bold" fill="white">Top 10 Artists:</text>
+    <!-- Replace the placeholder URLs and data with actual data -->
     {''.join([
-        f'<a xlink:href="{artist["external_urls"]["spotify"]}" target="_blank">'
-        f'<image x="10" y="{80 + i * 40}" width="30" height="30" xlink:href="{artist["images"][0]["url"]}" /> <!-- clip-path="url(#circle-clip)"/> -->'
-        f'<text x="50" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{artist["name"]}</text>'
+        f'<a href="{artist["external_urls"]["spotify"]}" target="_blank">'
+        f'<image x="10" y="{80 + i * 80}" width="60" height="60" href="{artist["images"][0]["url"]}" clip-path="url(#circle-clip)"/>'
+        f'<text x="80" y="{110 + i * 80}" font-size="20" fill="white" width="250" overflow="visible">{artist["name"]}</text>'
         f'</a>'
         for i, artist in enumerate(top_artists)
     ])}
   </g>
 
   <!-- Separatore -->
-  <line x1="340" y1="20" x2="340" y2="1000" stroke="white" stroke-width="2" clip-path="url(#rounded-clip)"/>
+  <line x1="340" y1="20" x2="340" y2="480" stroke="white" stroke-width="2"/>
 
   <!-- Sezione Top Tracks -->
-  <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
-    <text x="360" y="40" font-size="30" font-weight="bold" fill="white">Top 10 songs:</text>
+  <g fill="white" font-family="Arial" font-size="20">
+    <text x="360" y="40" font-size="30" font-weight="bold" fill="white">Top 10 Songs:</text>
+    <!-- Replace the placeholder URLs and data with actual data -->
     {''.join([
-        f'<a xlink:href="{track["external_urls"]["spotify"]}" target="_blank">'
-        f'<image x="360" y="{80 + i * 40}" width="30" height="30" xlink:href="{track['album']['images'][0]['url']}" clip-path="url(#circle-clip)"/>'
-        f'<text x="400" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{track["name"]}</text>'
+        f'<a href="{track["external_urls"]["spotify"]}" target="_blank">'
+        f'<image x="360" y="{80 + i * 80}" width="60" height="60" href="{track["album"]["images"][0]["url"]}" clip-path="url(#circle-clip)"/>'
+        f'<text x="430" y="{110 + i * 80}" font-size="20" fill="white" width="250" overflow="visible">{track["name"]}</text>'
         f'</a>'
         for i, track in enumerate(top_tracks)
     ])}
   </g>
 
   <!-- Separatore -->
-  <line x1="680" y1="20" x2="680" y2="1000" stroke="white" stroke-width="2" clip-path="url(#rounded-clip)"/>
+  <line x1="680" y1="20" x2="680" y2="480" stroke="white" stroke-width="2"/>
 
   <!-- Sezione Recent Tracks -->
-  <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
+  <g fill="white" font-family="Arial" font-size="20">
     <text x="700" y="40" font-size="30" font-weight="bold" fill="white">Last 10 Songs Listened To:</text>
+    <!-- Replace the placeholder URLs and data with actual data -->
     {''.join([
-        f'<a xlink:href="{track["track"]["external_urls"]["spotify"]}" target="_blank">'
-        f'<image x="700" y="{80 + i * 40}" width="30" height="30" xlink:href="{track['track']['album']['images'][0]['url']}" clip-path="url(#circle-clip)"/>'
-        f'<text x="740" y="{100 + i * 40}" font-size="20" fill="white" width="250" overflow="visible">{track["track"]["name"]}</text>'
+        f'<a href="{track["track"]["external_urls"]["spotify"]}" target="_blank">'
+        f'<image x="700" y="{80 + i * 80}" width="60" height="60" href="{track["track"]["album"]["images"][0]["url"]}" clip-path="url(#circle-clip)"/>'
+        f'<text x="770" y="{110 + i * 80}" font-size="20" fill="white" width="250" overflow="visible">{track["track"]["name"]}</text>'
         f'</a>'
         for i, track in enumerate(recent_tracks)
     ])}
   </g>
 </svg>
+
 """
 
 # Salva il file SVG
