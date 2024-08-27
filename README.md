@@ -28,5 +28,4 @@ Show your spotify stats inside your README.md
   </div>
 </details>
 
-
 <!-- END_SECTION: Spotify Stats >

@@ -81,7 +81,6 @@ new_content = f"""
     ])}
   </div>
 </details>
-
 """
 
 # Usa un'espressione regolare per trovare la sezione e sostituirne il contenuto
