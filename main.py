@@ -53,7 +53,7 @@ svg_content = f"""
 
   <!-- Sezione Top Artists -->
   <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
-    <text x="20" y="40" font-size="30" font-weight="bold" fill="white">Top 10 Artisti:</text>
+    <text x="20" y="40" font-size="30" font-weight="bold" fill="white">Top 10 Artists:</text>
     {''.join([
         f'<a xlink:href="{artist["external_urls"]["spotify"]}" target="_blank">'
         f'<image x="10" y="{80 + i * 40}" width="30" height="30" xlink:href="{artist["images"][0]["url"]}" clip-path="url(#circle-clip)"/>'
@@ -68,7 +68,7 @@ svg_content = f"""
 
   <!-- Sezione Top Tracks -->
   <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
-    <text x="360" y="40" font-size="30" font-weight="bold" fill="white">Top 10 Canzoni:</text>
+    <text x="360" y="40" font-size="30" font-weight="bold" fill="white">Top 10 songs:</text>
     {''.join([
         f'<a xlink:href="{track["external_urls"]["spotify"]}" target="_blank">'
         f'<image x="360" y="{80 + i * 40}" width="30" height="30" xlink:href="{track['album']['images'][0]['url']}" clip-path="url(#circle-clip)"/>'
@@ -83,7 +83,7 @@ svg_content = f"""
 
   <!-- Sezione Recent Tracks -->
   <g fill="white" font-family="Arial" font-size="20" clip-path="url(#rounded-clip)">
-    <text x="700" y="40" font-size="30" font-weight="bold" fill="white">Ultime 10 Canzoni Ascoltate:</text>
+    <text x="700" y="40" font-size="30" font-weight="bold" fill="white">Last 10 Songs Listened To:</text>
     {''.join([
         f'<a xlink:href="{track["track"]["external_urls"]["spotify"]}" target="_blank">'
         f'<image x="700" y="{80 + i * 40}" width="30" height="30" xlink:href="{track['track']['album']['images'][0]['url']}" clip-path="url(#circle-clip)"/>'
