@@ -3,6 +3,7 @@ import requests
 import spotipy
 import base64
 import os
+import re
 
 # Sostituisci con le tue credenziali
 CLIENT_ID = os.environ['CLIENT_ID']
@@ -30,6 +31,7 @@ sp = spotipy.Spotify(auth=token_info['access_token'],oauth_manager=auth)
 top_artists = sp.current_user_top_artists(limit=10)['items']
 top_tracks = sp.current_user_top_tracks(limit=10)['items']
 recent_tracks = sp.current_user_recently_played(limit=10)['items']
+
 
 svg_content = f"""
 <svg width="1200" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
@@ -95,6 +97,37 @@ svg_content = f"""
 </svg>
 """
 
+
+
 # Salva il file SVG
-with open("latest_track.svg", "w") as f:
-    f.write(svg_content)
+#with open("latest_track.svg", "w") as f:
+#   f.write(svg_content)
+
+# Leggi il contenuto del file README.md
+with open('README.md', 'r') as file:
+    readme_content = file.read()
+
+# Nuovo contenuto da inserire nella sezione
+new_content = f"""
+# Top 10 Artists
+
+<!--- Inizia la sezione Top Artists --->
+|   |   |
+|---|---|
+{''.join([
+  f'![{{ artist["name"] }}]({{ artist["images"][0]["url"] }}) | [{{ artist["name"] }}]({{ artist["external_urls"]["spotify"] }}) |'
+  for i, track in enumerate(recent_tracks)
+])}
+"""
+
+# Usa un'espressione regolare per trovare la sezione e sostituirne il contenuto
+updated_content = re.sub(
+    r'<!-- START_SECTION: Spotify Stats >.*?<!-- END_SECTION: Spotify Stats >',
+    f'<!-- START_SECTION: Spotify Stats >\n{new_content}\n<!-- END_SECTION: Spotify Stats >',
+    readme_content,
+    flags=re.DOTALL
+)
+
+# Scrivi il contenuto aggiornato nel file README.md
+with open('README.md', 'w') as file:
+    file.write(updated_content)
