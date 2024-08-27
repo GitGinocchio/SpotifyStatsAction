@@ -48,7 +48,7 @@ new_content = f"""
     {''.join([
       f'<a href="{artist["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: #000; display: flex; align-items: center; text-align: center;">'
       f'<img src="{artist["images"][0]["url"]}" alt="{artist["name"]}" style="width: 80px; height: 80px; margin-right: 10px;" />'
-      f'<p style="font-size: 16px; font-weight: bold; color: #000; margin-top: 5px; text-align: center;">{artist["name"]}</p>'
+      f'<p dir="auto" style="font-size: 16px; font-weight: bold; color: #000; margin-top: 5px; text-align: center;">{artist["name"]}</p>'
       f'</a>'
       for artist in top_artists
     ])}
