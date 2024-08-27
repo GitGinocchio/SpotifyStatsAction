@@ -41,15 +41,13 @@ with open('README.md', 'r') as file:
 # Nuovo contenuto da inserire nella sezione
 new_content = f"""
 <!--- Inizia la sezione estendibile per i Top Artists --->
-<!--- Inizia la sezione estendibile per i Top Artists --->
 <details open>
   <summary style="font-size: 20px; font-weight: bold; cursor: pointer;">Top 10 Artists</summary>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px;">
+  <div>
     {''.join([
-      f'<a href="{artist["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: #000; display: flex; align-items: center; text-align: center;">'
-      f'<img src="{artist["images"][0]["url"]}" alt="{artist["name"]}" style="width: 80px; height: 80px; margin-right: 10px;" />'
-      f'<p dir="auto" style="font-size: 16px; font-weight: bold; color: #000; margin-top: 5px; text-align: center;">{artist["name"]}</p>'
-      f'</a>'
+      f'![{artist["name"]}]({artist["images"][0]["url"]})\n'
+      f'[Listen on Spotify]({artist["external_urls"]["spotify"]})\n'
+      f'**{artist["name"]}**\n\n'
       for artist in top_artists
     ])}
   </div>
@@ -58,12 +56,11 @@ new_content = f"""
 <!--- Inizia la sezione estendibile per le ultime 10 canzoni ascoltate --->
 <details open>
   <summary style="font-size: 20px; font-weight: bold; cursor: pointer;">Last 10 Songs Listened To</summary>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px;">
+  <div>
     {''.join([
-      f'<a href="{track["track"]["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: #000; display: flex; align-items: center; text-align: center;">'
-      f'<img src="{track["track"]["album"]["images"][0]["url"]}" alt="{track["track"]["name"]}" style="width: 80px; height: 80px; margin-right: 10px;" />'
-      f'<p style="font-size: 16px; font-weight: bold; color: #000; margin-top: 5px; text-align: center;">{track["track"]["name"]}</p>'
-      f'</a>'
+      f'![{track["track"]["name"]}]({track["track"]["album"]["images"][0]["url"]})\n'
+      f'[Listen on Spotify]({track["track"]["external_urls"]["spotify"]})\n'
+      f'**{track["track"]["name"]}**\n\n'
       for track in recent_tracks
     ])}
   </div>
@@ -72,12 +69,11 @@ new_content = f"""
 <!--- Inizia la sezione estendibile per le 10 canzoni più ascoltate --->
 <details open>
   <summary style="font-size: 20px; font-weight: bold; cursor: pointer;">Top 10 Most Played Songs</summary>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 10px;">
+  <div>
     {''.join([
-      f'<a href="{track["external_urls"]["spotify"]}" target="_blank" style="text-decoration: none; color: #000; display: flex; align-items: center; text-align: center;">'
-      f'<img src="{track["album"]["images"][0]["url"]}" alt="{track["name"]}" style="width: 80px; height: 80px; margin-right: 10px;" />'
-      f'<p style="font-size: 16px; font-weight: bold; color: #000; margin-top: 5px; text-align: center;">{track["name"]}</p>'
-      f'</a>'
+      f'![{track["name"]}]({track["album"]["images"][0]["url"]})\n'
+      f'[Listen on Spotify]({track["external_urls"]["spotify"]})\n'
+      f'**{track["name"]}**\n\n'
       for track in top_tracks
     ])}
   </div>
