@@ -108,7 +108,6 @@ runs:
       if: ${{ inputs.update_mode == 'README' || inputs.update_mode == 'BOTH' }}
       shell: bash
       run: |
-        cd ${{ github.action_path }}
         UPDATE=$(python ${{ github.action_path }}/src/update_readmes.py \
           --readme-list "${{ inputs.readme_list }}" \
           --update-last-played-songs "${{ inputs.update_last_played_songs }}" \
@@ -121,8 +120,7 @@ runs:
           --user-most-played-template-path "${{ inputs.most_played_template_path }}" \
           --most-played-songs-to-show "${{ inputs.most_played_songs_to_show }}" \
         ) || exit 1
-        echo $UPDATE
-        echo "markdown=$(echo $UPDATE)" >> $GITHUB_ENV
+        echo "markdown=$(echo $UPDATE)" >> $GITHUB_OUTPUT
     - name: Update SVGs
       id: "update-svgs"
       if: ${{ inputs.update_mode == 'SVG' || inputs.update_mode == 'BOTH' }}
