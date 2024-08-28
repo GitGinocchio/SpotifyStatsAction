@@ -146,4 +146,3 @@ runs:
 	  	message: "${{ inputs.commit_message }}"
         author_name: "${{ inputs.author_name }}"
         author_email: "${{ inputs.author_email }}"
-	  
