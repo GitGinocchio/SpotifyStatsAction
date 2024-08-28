@@ -122,7 +122,7 @@ runs:
         ) || exit 1
         echo "markdown=$(echo $UPDATE)" >> $GITHUB_OUTPUT
     
-	- name: Update SVGs
+    - name: Update SVGs
       id: "update-svgs"
       if: ${{ inputs.update_mode == 'SVG' || inputs.update_mode == 'BOTH' }}
       shell: bash
