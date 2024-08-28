@@ -11,11 +11,11 @@ Show your spotify stats inside your README.md
   </tr>
   <tr>
     <td style="padding: 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732152d0cce3e224cb63dd4dbe" href="https://open.spotify.com/track/45QnUF5R9Q7vn2yNuFl0iv" alt="Album cover" style="width: 90px; height: 90px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ba26678947112dff3c3158bf" href="https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK" alt="Album cover" style="width: 90px; height: 90px;">
     </td>
     <td style="vertical-align: top;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/45QnUF5R9Q7vn2yNuFl0iv"><strong>Green</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1YXukrpYcexmNOjhhRr2Ea">Bearded Skull</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"><strong>INDUSTRY BABY (feat. Jack Harlow)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a>, <a href="https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ">Jack Harlow</a></p>
     </td>
   </tr>
 </table>
