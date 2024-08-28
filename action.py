@@ -41,11 +41,12 @@ with open('README.md', 'r') as file:
 #timestamp = datetime.timedelta(hours=2) + datetime.datetime.now(datetime.UTC)
 
 # Nuovo contenuto da inserire nella sezione
-with open(r"assets\templates\markdown\last_played_song.md",'r') as file:
+with open(r".\assets\templates\markdown\last_played_song.md",'r') as file:
     new_content = file.read()
     new_content = new_content.format(
       	username=sp.me()['display_name'],
       	song_image_url=recent_tracks[0]["track"]["album"]["images"][0]["url"],
+        song_page_url=recent_tracks[0]["track"]["external_urls"]["spotify"],
       	song_title=recent_tracks[0]["track"]["name"],
       	song_authors=format_authors(recent_tracks[0]['track']['artists'])
     )
