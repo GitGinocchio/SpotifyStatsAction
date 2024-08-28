@@ -14,7 +14,7 @@ Show your spotify stats inside your README.md
       <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Album cover" style="width: 90px; height: 90px; border-radius: 10px;">
     </td>
     <td style="vertical-align: top;">
-      <p style="margin: 0; font-weight: bold;">Lose Yourself to Dance (feat. Pharrell Williams)</p>
+      <p style="margin: 0; font-weight: bold;"><strong>Lose Yourself to Dance (feat. Pharrell Williams)</strong></p>
       <p style="margin: 5px 0 0 0; color: grey;">Daft Punk, Pharrell Williams</p>
     </td>
   </tr>
