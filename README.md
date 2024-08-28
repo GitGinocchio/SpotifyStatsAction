@@ -11,11 +11,11 @@ Show your spotify stats inside your README.md
   </tr>
   <tr>
     <td style="padding: 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" href="https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R" alt="Album cover" style="width: 90px; height: 90px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27337baa3bdecc1dc19f7364d82" href="https://open.spotify.com/track/7HwvPmK74MBRDhCIyMXReP" alt="Album cover" style="width: 90px; height: 90px;">
     </td>
     <td style="vertical-align: top;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R"><strong>Lose Yourself to Dance (feat. Pharrell Williams)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a>, <a href="https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8">Pharrell Williams</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7HwvPmK74MBRDhCIyMXReP"><strong>blun7 a swishland</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
     </td>
   </tr>
 </table>
