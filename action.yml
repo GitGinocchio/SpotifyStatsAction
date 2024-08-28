@@ -1,148 +1,140 @@
 name: 'Spotify GitHub Action Stats'
 description: 'Show your spotify stats inside your README.md'
 branding:
-	icon: "activity"
-	color: "green"
+  icon: "activity"
+  color: "green"
 inputs:
-	author_name:
-		description: "The name of the committer"
-		required: false
-		default: "GitHub Actions"
-	author_email:
-		description: "The email address of the committer"
-		required: false
-		default: "41898282+github-actions[bot]@users.noreply.github.com"
-	commit_message:
-		description: "The commit message to use for the commit"
-		required: false
-		default: "docs(readme): Update Spotify Stats"
-	update_mode:
-		description: "Decide whether to update README files, SVGs, or both"
-		required: true
-		default: "README"
-	# Update SVGs Inputs
+  author_name:
+    description: "The name of the committer"
+    required: false
+    default: "GitHub Actions"
+  author_email:
+    description: "The email address of the committer"
+    required: false
+    default: "41898282+github-actions[bot]@users.noreply.github.com"
+  commit_message:
+    description: "The commit message to use for the commit"
+    required: false
+    default: "docs(readme): Update Spotify Stats"
+  update_mode:
+    description: "Decide whether to update README files, SVGs, or both"
+    required: true
+    default: "README"
+  
+  # Update SVGs Inputs
+  
+  # Update READMEs Inputs
+  readme_list:
+    description: "A list of comma separated paths to the READMEs files to be updated"
+    required: false
+    default: "README.md"
+  
+  # Last Played Songs Args
+  update_last_played_songs:
+    description: "Whether to update the recently played songs section"
+    required: false
+    default: false
+  last_played_songs_template_path:
+    description: "The path of the template to use"
+    required: false
+    default: "last_played_songs.md"
+  last_played_songs_to_show:
+    description: "How many recently listened songs to show"
+    required: false
+    default: 5
 
-	# Update READMEs Inputs
-	readme_list:
-		description: "A list of comma separated paths to the READMEs files to be updated"
-		required: false
-		default: "README.md"
-	
-	# Last Played Songs Args
-	
-	update_last_played_songs:
-		description: "Whether to update the recently played songs section"
-		required: false
-		default: false
-	
-	last_played_songs_template_path:
-		description: The path of the template to use
-		required: false
-		default: "last_played_songs.md"
+  # Top Artists Args
+  update_user_top_artists:
+    description: "Whether to update the user top artists section"
+    required: false
+    default: false
+  top_artists_template_path:
+    description: "The path of the template to use"
+    required: false
+    default: "user_top_artists.md"
+  top_artists_to_show:
+    description: "How many top artists to show"
+    required: false
+    default: 5
 
-	last_played_songs_to_show:
-		description: "How many recently listened songs to show"
-		required: false
-		default: 5
-
-	# Top Artists Args
-
-	update_user_top_artists:
-		description: "Whether to update the user top artists section"
-		required: false
-		default: false
-	
-	top_artists_template_path:
-		description: "The path of the template to use"
-		required: false
-		default: "user_top_artists.md"
-	
-	top_artists_to_show:
-		description: "How many top artists to show"
-		required: false
-		default: 5
-	
-	# Most Played Songs Args
-
-	update_user_most_played_songs:
-		description: "Whether to update the user most played songs section"
-		required: false
-		default: false
-
-	most_played_template_path:
-		description: "The path of the template to use"
-		required: false
-		default: "user_most_played.md"
-
-	most_played_songs_to_show:
-		description: "How many most played songs to show"
-		required: false
-		default: 5
+  # Most Played Songs Args
+  update_user_most_played_songs:
+    description: "Whether to update the user most played songs section"
+    required: false
+    default: false
+  most_played_template_path:
+    description: "The path of the template to use"
+    required: false
+    default: "user_most_played.md"
+  most_played_songs_to_show:
+    description: "How many most played songs to show"
+    required: false
+    default: 5
 
 outputs:
-	markdown:
-    	description: "The section markdown as output"
-    	value: ${{ steps.generate-readme-update.outputs.markdown }}
-  	committed:
-    	description: "Whether the action has created a commit ('true' or 'false')"
-    	value: ${{ steps.add-and-commit.outputs.committed }}
-  	commit_long_sha:
-    	description: "The full SHA of the commit that has just been created"
-    	value: ${{ steps.add-and-commit.outputs.commit_long_sha }}
-  	commit_sha:
-    	description: "The short 7-character SHA of the commit that has just been created"
-    	value: ${{ steps.add-and-commit.outputs.commit_sha }}
-  	pushed:
-    	description: "Whether the action has pushed to the remote ('true' or 'false')"
-    	value: ${{ steps.add-and-commit.outputs.pushed }}
+  markdown:
+    description: "The section markdown as output"
+    value: ${{ steps.generate-readme-update.outputs.markdown }}
+  committed:
+    description: "Whether the action has created a commit ('true' or 'false')"
+    value: ${{ steps.add-and-commit.outputs.committed }}
+  commit_long_sha:
+    description: "The full SHA of the commit that has just been created"
+    value: ${{ steps.add-and-commit.outputs.commit_long_sha }}
+  commit_sha:
+    description: "The short 7-character SHA of the commit that has just been created"
+    value: ${{ steps.add-and-commit.outputs.commit_sha }}
+  pushed:
+    description: "Whether the action has pushed to the remote ('true' or 'false')"
+    value: ${{ steps.add-and-commit.outputs.pushed }}
+
 runs:
   using: "composite"
-
   steps:
-	- name: Checkout
-	  uses: actions/checkout@v3
+    - name: Checkout
+      uses: actions/checkout@v3
 
-	- name: Setup Python
-	  uses: actions/setup-py@v4
-	  with:
-	  	python-version: "3.11"
-	
-	- name: Install Python dependencies
-	  shell: bash
-	  run: python -m pip install -r ${{ github.action_path }}/action-requirements.txt
-	
-	- name: Update README
-	  id: "update-readme"
-	  if: ${{ inputs.update_mode == 'readme' || inputs.update_mode == 'both' }}
-	  shell: bash
-	  run: |
-	  	UPDATE=$(python ${{ github.action_path }}/src/update_readmes.py \
-			--readme-list "${{ inputs.readme_list }}" \
-			--update-last-played-songs "${{ inputs.update_last_played_songs }}" \
-			--last-played-songs-template-path "${{ inputs.last_played_songs_template_path }}" \
-			--last-played-songs-to-show "${{ inputs.last_played_songs_to_show }}" \
-			--update-user-top-artists "${{ inputs.update_user_top_artists }}" \
-			--user-top-artists-template-path "${{ inputs.top_artists_template_path }}" \
-			--user-top-artists-num-of-artists-to-show "${{ inputs.top_artists_to_show }}" \
-			--update-user-most-played-songs "${{ inputs.update_user_most_played_songs }}" \
-			--user-most-played-template-path "${{ inputs.most_played_template_path }}" \
-			--most-played-songs-to-show "${{ inputs.most_played_songs_to_show }}" \
-		) || exit 1
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+    
+    - name: Install Python dependencies
+      shell: bash
+      run: python -m pip install -r ${{ github.action_path }}/action-requirements.txt
+    
+    - name: Update README
+      id: "update-readme"
+      if: ${{ inputs.update_mode == 'readme' || inputs.update_mode == 'both' }}
+      shell: bash
+      run: |
+        UPDATE=$(python ${{ github.action_path }}/src/update_readmes.py \
+          --readme-list "${{ inputs.readme_list }}" \
+          --update-last-played-songs "${{ inputs.update_last_played_songs }}" \
+          --last-played-songs-template-path "${{ inputs.last_played_songs_template_path }}" \
+          --last-played-songs-to-show "${{ inputs.last_played_songs_to_show }}" \
+          --update-user-top-artists "${{ inputs.update_user_top_artists }}" \
+          --user-top-artists-template-path "${{ inputs.top_artists_template_path }}" \
+          --user-top-artists-num-of-artists-to-show "${{ inputs.top_artists_to_show }}" \
+          --update-user-most-played-songs "${{ inputs.update_user_most_played_songs }}" \
+          --user-most-played-template-path "${{ inputs.most_played_template_path }}" \
+          --most-played-songs-to-show "${{ inputs.most_played_songs_to_show }}" \
+        ) || exit 1
         echo "markdown=$(echo $UPDATE)" >> $GITHUB_OUTPUT
 
-	- name: Update SVGs
-	  id: "update-svgs"
-	  if: ${{ inputs.update_mode == '' || inputs.update_mode == '' }}
-	  shell: bash
-	  run: |
-	  	UPDATE=$(python ${{ github.action_path }}/src/update_svgs.py \
-		) || exit 1
+    - name: Update SVGs
+      id: "update-svgs"
+      if: ${{ inputs.update_mode == '' || inputs.update_mode == '' }}
+      shell: bash
+      run: |
+        UPDATE=$(python ${{ github.action_path }}/src/update_svgs.py \
+        ) || exit 1
         echo "markdown=$(echo $UPDATE)" >> $GITHUB_OUTPUT
-	
-	- name: Commit Changes
-	  id: "add-and-commit"
-	  uses: EndBug/add-and-commit@v9
-	  with:
-	  	message: "${{ inputs.commit_message }}"
+    
+    - name: Commit Changes
+      id: "add-and-commit"
+      uses: EndBug/add-and-commit@v9
+      with:
+        message: "${{ inputs.commit_message }}"
         author_name: "${{ inputs.author_name }}"
         author_email: "${{ inputs.author_email }}"
