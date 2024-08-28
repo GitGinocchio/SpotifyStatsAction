@@ -11,9 +11,9 @@ env = Environment(loader=FileSystemLoader('templates/markdown'))
 spotify = get_spotify()
 
 def validate_args(args : Namespace):
-    assert os.path.exists(os.path.join(os.path.dirname(__file__),f'templates/markdown/{args.last_played_template}'))
-    assert os.path.exists(os.path.join(os.path.dirname(__file__),f'templates/markdown/{args.top_artists_template}'))
-    assert os.path.exists(os.path.join(os.path.dirname(__file__),f'templates/markdown/{args.most_played_template}'))
+    #assert os.path.exists(os.path.join(os.path.dirname(__file__),f'templates/markdown/{args.last_played_template}'))
+    #assert os.path.exists(os.path.join(os.path.dirname(__file__),f'templates/markdown/{args.top_artists_template}'))
+    #assert os.path.exists(os.path.join(os.path.dirname(__file__),f'templates/markdown/{args.most_played_template}'))
 
     assert args.num_top_artists > 0 and args.num_top_artists <= 20
     assert args.num_last_played_songs > 0 and args.num_last_played_songs <= 50
