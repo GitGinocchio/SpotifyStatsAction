@@ -9,6 +9,7 @@ env = Environment(loader=FileSystemLoader('templates/markdown'))
 spotify = get_spotify()
 
 def validate_args(args : Namespace):
+    print(os.listdir())
     assert os.path.exists(f'templates/markdown/{args.last_played_template}')
     assert os.path.exists(f'templates/markdown/{args.top_artists_template}')
     assert os.path.exists(f'templates/markdown/{args.most_played_template}')
