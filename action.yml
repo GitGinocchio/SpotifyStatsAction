@@ -121,7 +121,7 @@ runs:
           --user-most-played-template-path "${{ inputs.most_played_template_path }}" \
           --most-played-songs-to-show "${{ inputs.most_played_songs_to_show }}" \
         ) || exit 1
-		echo $UPDATE
+        echo $UPDATE
         echo "markdown=$(echo $UPDATE)" >> $GITHUB_ENV
     - name: Update SVGs
       id: "update-svgs"
