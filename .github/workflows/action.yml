@@ -1,0 +1,31 @@
+name: run main.py
+
+on:
+  schedule:
+    - cron: '0/30 0/1 * * *' # At 00:00 on Monday
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+	uses: actions/checkout@v3
+
+      - name: Run Spotify GitHub Action Stats
+        uses: ./action.yml
+        with:
+          commit_message: 'docs(readme): Update Spotify Stats'
+          update_mode: 'README'
+          readme_list: 'README.md'
+          update_last_played_songs: true
+          last_played_songs_template_path: 'templates/last_played_songs.md'
+          last_played_songs_to_show: 5
+          update_user_top_artists: true
+          top_artists_template_path: 'templates/user_top_artists.md'
+          top_artists_to_show: 5
+          update_user_most_played_songs: true
+          most_played_template_path: 'templates/user_most_played.md'
+          most_played_songs_to_show: 5
+
+
