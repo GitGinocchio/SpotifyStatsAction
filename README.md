@@ -15,7 +15,7 @@ Show your spotify stats inside your README.md
     </td>
     <td style="vertical-align: top;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R"><strong>Lose Yourself to Dance (feat. Pharrell Williams)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">Daft Punk, Pharrell Williams</p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a>, <a href="https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8">Pharrell Williams</a></p>
     </td>
   </tr>
 </table>
