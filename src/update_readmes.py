@@ -4,8 +4,6 @@ from auth import get_spotify
 from utils import *
 import re
 
-os.chdir(os.path.dirname(__file__))
-
 env = Environment(loader=FileSystemLoader('templates/markdown'))
 
 spotify = get_spotify()
