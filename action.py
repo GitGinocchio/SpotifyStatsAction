@@ -40,11 +40,14 @@ with open('README.md', 'r') as file:
 
 #timestamp = datetime.timedelta(hours=2) + datetime.datetime.now(datetime.UTC)
 
+print(sp.me()['external_urls']['spotify'])
+
 # Nuovo contenuto da inserire nella sezione
 with open(r".\assets\templates\markdown\last_played_song.md",'r') as file:
     new_content = file.read()
     new_content = new_content.format(
       	username=sp.me()['display_name'],
+        user_page_url=sp.me()['external_urls']['spotify'],
       	song_image_url=recent_tracks[0]["track"]["album"]["images"][0]["url"],
         song_page_url=recent_tracks[0]["track"]["external_urls"]["spotify"],
       	song_title=recent_tracks[0]["track"]["name"],
