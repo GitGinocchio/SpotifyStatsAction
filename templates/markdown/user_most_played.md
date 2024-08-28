@@ -9,11 +9,11 @@
   {% for song in top_songs %}
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="{{ song['track']['album']['images'][0]['url'] }}" href="{{ song['track']['external_urls']['spotify'] }}" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="{{ song['album']['images'][0]['url'] }}" href="{{ song['external_urls']['spotify'] }}" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="{{ song['track']['external_urls']['spotify'] }}"><strong>{{ song['track']['name'] }}</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">{{ format_authors(song['track']['artists'],include_urls=True) }}</p>
+      <p style="margin: 0; color: black;"><a href="{{ song['external_urls']['spotify'] }}"><strong>{{ song['name'] }}</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;">{{ format_authors(song['artists'],include_urls=True) }}</p>
     </td>
   </tr>
   {% endfor %}
