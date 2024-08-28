@@ -7,6 +7,8 @@ import datetime
 import os
 import re
 
+os.chdir(os.path.dirname(__file__))
+
 # Sostituisci con le tue credenziali
 CLIENT_ID = os.environ['CLIENT_ID']
 CLIENT_SECRET = os.environ['CLIENT_SECRET']
