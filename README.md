@@ -11,11 +11,11 @@ Show your spotify stats inside your README.md
   </tr>
   <tr>
     <td style="padding: 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e586bbe44c4c0f8cb273b515" href="https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp" alt="Album cover" style="width: 90px; height: 90px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D" alt="Album cover" style="width: 90px; height: 90px;">
     </td>
     <td style="vertical-align: top;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp"><strong>STURDY</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3">Rondodasosa</a>, <a href="https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN">Nko</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"><strong>CRAZY LOVE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
 </table>
