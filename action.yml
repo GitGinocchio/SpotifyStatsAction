@@ -108,7 +108,7 @@ runs:
       if: ${{ inputs.update_mode == 'readme' || inputs.update_mode == 'both' }}
       shell: bash
       run: |
-        chdir .
+        cd ${{ github.action_path }}
         python ${{ github.action_path }}/src/update_readmes.py \
           --readme-list "${{ inputs.readme_list }}" \
           --update-last-played-songs "${{ inputs.update_last_played_songs }}" \
