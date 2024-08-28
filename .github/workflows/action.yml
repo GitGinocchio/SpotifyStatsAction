@@ -9,8 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-			- name: Checkout
-				uses: actions/checkout@v3
+      - name: Checkout
+	uses: actions/checkout@v3
 
       - name: Run Spotify GitHub Action Stats
         uses: ./action.yml
