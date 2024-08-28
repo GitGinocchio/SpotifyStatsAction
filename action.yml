@@ -105,7 +105,7 @@ runs:
     
     - name: Update README
       id: "update-readme"
-      if: ${{ inputs.update_mode == 'readme' || inputs.update_mode == 'both' }}
+      if: ${{ inputs.update_mode == 'README' || inputs.update_mode == 'BOTH' }}
       shell: bash
       run: |
         cd ${{ github.action_path }}
@@ -124,7 +124,7 @@ runs:
         echo "markdown=$(echo $UPDATE)" >> $GITHUB_ENV
     - name: Update SVGs
       id: "update-svgs"
-      if: ${{ inputs.update_mode == '' || inputs.update_mode == '' }}
+      if: ${{ inputs.update_mode == 'SVG' || inputs.update_mode == 'BOTH' }}
       shell: bash
       run: |
         UPDATE=$(python ${{ github.action_path }}/src/update_svgs.py \
