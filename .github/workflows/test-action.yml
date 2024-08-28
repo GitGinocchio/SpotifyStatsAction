@@ -1,0 +1,35 @@
+name: GitHub Spotify Stats
+on:
+  schedule:
+    # Runs every day at 12:00
+    - cron: '0/30 0/1 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: GitGinocchio/spotify-stats-action@main
+        id: spotify-stats-action
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+        with:
+          commit_message: 'docs(readme): Update Spotify Stats'
+          update_mode: 'README'
+          readme_list: 'README.md'
+          update_last_played_songs: true
+          last_played_songs_template_path: 'templates/last_played_songs.md'
+          last_played_songs_to_show: 5
+          update_user_top_artists: true
+          top_artists_template_path: 'templates/user_top_artists.md'
+          top_artists_to_show: 5
+          update_user_most_played_songs: true
+          most_played_template_path: 'templates/user_most_played.md'
+          most_played_songs_to_show: 5
+      - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
+        shell: bash
