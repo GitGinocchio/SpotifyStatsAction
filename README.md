@@ -11,11 +11,11 @@ Show your spotify stats inside your README.md
   </tr>
   <tr>
     <td style="padding: 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a9dd8fe8788c32ab41adc605" href="https://open.spotify.com/track/6IN5Me8uFQAACEVudU5BRX" alt="Album cover" style="width: 90px; height: 90px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e586bbe44c4c0f8cb273b515" href="https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp" alt="Album cover" style="width: 90px; height: 90px;">
     </td>
     <td style="vertical-align: top;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6IN5Me8uFQAACEVudU5BRX"><strong>Gossip</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2">Rob $tone</a>, <a href="https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v">Too $hort</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp"><strong>STURDY</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3">Rondodasosa</a>, <a href="https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN">Nko</a></p>
     </td>
   </tr>
 </table>
