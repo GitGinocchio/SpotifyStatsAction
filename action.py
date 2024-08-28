@@ -47,7 +47,7 @@ with open(r"templates\markdown\last_played_song.md",'r') as file:
       	username=sp.me()['display_name'],
       	song_image_url=recent_tracks[0]["track"]["album"]["images"][0]["url"],
       	song_title=recent_tracks[0]["track"]["name"],
-      	song_author=format_authors(recent_tracks[0]['track']['artists'])
+      	song_authors=format_authors(recent_tracks[0]['track']['artists'])
     )
 
 # Usa un'espressione regolare per trovare la sezione e sostituirne il contenuto
