@@ -1,6 +1,6 @@
 name: 'Spotify GitHub Action Stats'
 description: 'Show your spotify stats inside your README.md'
-brandimg:
+branding:
 	icon: "activity"
 	color: "green"
 inputs:
