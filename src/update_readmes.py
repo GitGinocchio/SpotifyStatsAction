@@ -110,7 +110,8 @@ if __name__ == '__main__':
         "--update-last-played-songs",
         dest="update_last_played",
         help="Whether to update the recently played songs section",
-        action='store_true'
+        type=bool,
+        default=False
     )
 
     parser.add_argument(
@@ -133,7 +134,8 @@ if __name__ == '__main__':
         "--update-user-top-artists",
         dest="update_top_artists",
         help="Whether to update the user top artists section",
-        action='store_true'
+        type=bool,
+        default=False
     )
 
     parser.add_argument(
@@ -156,7 +158,8 @@ if __name__ == '__main__':
         "--update-user-most-played-songs",
         dest="update_most_played",
         help="Whether to update the user most played songs section",
-        action='store_true'
+        type=bool,
+        default=False
     )
 
     parser.add_argument(
