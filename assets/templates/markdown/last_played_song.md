@@ -10,12 +10,13 @@
         <img src="{song_image_url}" alt="Album cover" style="width: 90px; height: 90px;">
       </td>
       <td style="vertical-align: top;">
-        <p style="margin: 0;"><strong>{song_title}</strong></p>
+        <p style="margin: 0; color: black;"><strong>{song_title}</strong></p>
         <p style="margin: 5px 0 0 0; color: grey;">{song_authors}</p>
       </td>
     </tr>
   </table>
 </a>
+
 
 
 
