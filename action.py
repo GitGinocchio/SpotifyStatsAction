@@ -45,7 +45,7 @@ with open('README.md', 'r') as file:
 print(os.listdir('.'))
 
 # Nuovo contenuto da inserire nella sezione
-with open(r".\assets\templates\markdown\last_played_song.md",'r') as file:
+with open(r"assets/templates/markdown/last_played_song.md",'r') as file:
     new_content = file.read()
     new_content = new_content.format(
       	username=sp.me()['display_name'],
