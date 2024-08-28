@@ -42,7 +42,7 @@ with open('README.md', 'r') as file:
 
 #timestamp = datetime.timedelta(hours=2) + datetime.datetime.now(datetime.UTC)
 
-
+print(os.listdir('.'))
 
 # Nuovo contenuto da inserire nella sezione
 with open(r".\assets\templates\markdown\last_played_song.md",'r') as file:
