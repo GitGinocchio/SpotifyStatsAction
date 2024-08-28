@@ -68,8 +68,6 @@ def update_user_top_artists(readme_path : str, args : Namespace):
 def update_user_most_played_songs(readme_path : str, args : Namespace):
     top_songs = spotify.current_user_top_tracks(limit=args.num_most_played_songs)['items']
 
-    print(top_songs)
-
     template = env.get_template(args.most_played_template)
 
     content = template.render(
@@ -182,8 +180,6 @@ if __name__ == '__main__':
 
 
     args = parser.parse_args()
-
-    print(f"Current working directory: {os.getcwd()}")
 
     # Args Validations
     validate_args(args)
