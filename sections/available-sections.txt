@@ -1,5 +1,3 @@
-# spotify-stats-action
-Show your spotify stats inside your README.md
 
 <!-- BEGIN SPOTIFY STATS: LAST PLAYED SONGS -->
 <!-- END SPOTIFY STATS: LAST PLAYED SONGS -->

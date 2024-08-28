@@ -1,4 +1,4 @@
-
+import os
 
 def format_authors(authors: list, include_urls : bool = False) -> str:
     return ', '.join(

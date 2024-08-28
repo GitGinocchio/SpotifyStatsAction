@@ -1,13 +1,11 @@
 from spotipy.oauth2 import SpotifyOAuth
-from utils import *
+from src.utils import *
 import requests
 import spotipy
 import base64
 import datetime
 import os
 import re
-
-os.chdir(os.path.dirname(__file__))
 
 # Sostituisci con le tue credenziali
 CLIENT_ID = os.environ['CLIENT_ID']
@@ -34,15 +32,11 @@ top_artists = sp.current_user_top_artists(limit=10)['items']
 top_tracks = sp.current_user_top_tracks(limit=10)['items']
 recent_tracks = sp.current_user_recently_played(limit=10)['items']
 
-
-
 # Leggi il contenuto del file README.md
 with open('README.md', 'r') as file:
     readme_content = file.read()
 
 #timestamp = datetime.timedelta(hours=2) + datetime.datetime.now(datetime.UTC)
-
-print(os.listdir('.'))
 
 # Nuovo contenuto da inserire nella sezione
 with open(r"assets/templates/markdown/last_played_song.md",'r') as file:
