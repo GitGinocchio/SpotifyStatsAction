@@ -6,7 +6,8 @@ Show your spotify stats inside your README.md
 <table style="border: none; border-radius: 15px; padding: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); max-width: 100%; font-family: Arial, sans-serif;">
   <tr>
     <td colspan="2" style="margin-top: 0px; margin-bottom: 0px">
-      <h4 style="margin: 0; font-size: 14px; color: grey;">Last Ginocchio played song on Spotify</h4>
+      <img src="assets\spotify.png" alt="Spotify icon" style="width: 16px; height: 16px; border-radius: 10px;">
+      <h4 style="margin: 0; font-size: 14px; color: grey;">Last Ginocchio played song</h4>
     </td>
   </tr>
   <tr>
