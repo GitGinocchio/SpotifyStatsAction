@@ -1,8 +1,8 @@
 name: GitHub Spotify Stats
 on:
   schedule:
-    # Runs every day at 12:00
-    - cron: '0 0/2 * * *'
+    # Runs every hour, at 10:00 through 23:00 and 00:00 through 02:00.
+    - cron: '0 10-23,0-2 * * *'
   push:
     branches:
       - main
