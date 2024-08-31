@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273988ede5e1276e758b5f9e577" href="https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27366f8692d457fd8fde0dd7f9e" href="https://open.spotify.com/track/7fEvCGQNiMAJ0CMHTAKDiZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"><strong>8TEEN</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny">Khalid</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7fEvCGQNiMAJ0CMHTAKDiZ"><strong>Driving Down The Boulevard</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv">Peaceful Melody</a>, <a href="https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8">soave lofi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273339f780dfdbc38558ea0761d" href="https://open.spotify.com/track/2iP3unJbxZvRuqyrS0ocZy" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273316ebd5d53165104934030f3" href="https://open.spotify.com/track/7iR5HtJtmm8pmmsx8rVfDd" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2iP3unJbxZvRuqyrS0ocZy"><strong>Heartless (feat. Mustard)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49">Polo G</a>, <a href="https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k">Mustard</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7iR5HtJtmm8pmmsx8rVfDd"><strong>Empty Minds</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5F5aValve5LdJk3f9KBL5u">plutones</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a" href="https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273afb50a06e7fa671f7fb113cf" href="https://open.spotify.com/track/7EPtpv3IKvBJEHECaGwhqe" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"><strong>ALWAYS DO</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J">The Kid LAROI</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7EPtpv3IKvBJEHECaGwhqe"><strong>Handsomania</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6nwwEw3BVQxQOzMvrepW9Q">HUSBAND</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" href="https://open.spotify.com/track/09ZNbemRWaTfNBmZ246SOQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d4d3cbc6d1f65a634c50b10a" href="https://open.spotify.com/track/1GZ49c73egSyqBGHD3TKO6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/09ZNbemRWaTfNBmZ246SOQ"><strong>The Sun - Demo</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1GZ49c73egSyqBGHD3TKO6"><strong>Fly Away</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5gk2hwr8cOTY7GcTP167f5">Autumn Sky</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff" href="https://open.spotify.com/track/4rpzPAbwJboZQw2p9T5T3f" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273878eccb9fe94b6ffd3eb2680" href="https://open.spotify.com/track/7xE8Diw7JdnyhZZ5g41NJ0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4rpzPAbwJboZQw2p9T5T3f"><strong>Lucky Strike</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7xE8Diw7JdnyhZZ5g41NJ0"><strong>yesterday</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt">vlows</a>, <a href="https://open.spotify.com/artist/750kAXfx9h7HNbVwYWzmT1">lumberjack</a></p>
     </td>
   </tr>
   
