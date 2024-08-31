@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735bc558ce727fdf4fd1eb5771" href="https://open.spotify.com/track/4hVAgC3mRItQvInJD0SO5b" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273988ede5e1276e758b5f9e577" href="https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4hVAgC3mRItQvInJD0SO5b"><strong>In Retrospect</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L">Logic</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"><strong>8TEEN</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny">Khalid</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735bc558ce727fdf4fd1eb5771" href="https://open.spotify.com/track/7gOuGhI4JHBkLdXD4arUiJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273339f780dfdbc38558ea0761d" href="https://open.spotify.com/track/2iP3unJbxZvRuqyrS0ocZy" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7gOuGhI4JHBkLdXD4arUiJ"><strong>Innerstellar (feat. Lucy Rose)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L">Logic</a>, <a href="https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl">Lucy Rose</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2iP3unJbxZvRuqyrS0ocZy"><strong>Heartless (feat. Mustard)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49">Polo G</a>, <a href="https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k">Mustard</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f1cfbdcfa1d623bdad22284b" href="https://open.spotify.com/track/1TrjxEcRPHvaLF3saKCSs4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a" href="https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1TrjxEcRPHvaLF3saKCSs4"><strong>Drippin' in Milano</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u">ANNA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"><strong>ALWAYS DO</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J">The Kid LAROI</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5" href="https://open.spotify.com/track/1dUHF4RyMmMTveJ0Rby6Xm" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" href="https://open.spotify.com/track/09ZNbemRWaTfNBmZ246SOQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1dUHF4RyMmMTveJ0Rby6Xm"><strong>Can’t Take A Joke</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/09ZNbemRWaTfNBmZ246SOQ"><strong>The Sun - Demo</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732d31e22b75ab0ab06eb90131" href="https://open.spotify.com/track/4yRmYJfyOM18Eu8Z02JI3j" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff" href="https://open.spotify.com/track/4rpzPAbwJboZQw2p9T5T3f" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4yRmYJfyOM18Eu8Z02JI3j"><strong>Believe - Hardstyle Version</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp">TCM</a>, <a href="https://open.spotify.com/artist/4AXyIxiu2CsF3CaVpM1oLK">Orphius</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4rpzPAbwJboZQw2p9T5T3f"><strong>Lucky Strike</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
     </td>
   </tr>
   
