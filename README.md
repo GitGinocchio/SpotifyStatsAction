@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27366f8692d457fd8fde0dd7f9e" href="https://open.spotify.com/track/7fEvCGQNiMAJ0CMHTAKDiZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ec3c5c9e27f555611c091124" href="https://open.spotify.com/track/352FW8US17KvdxG3bxNuWY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7fEvCGQNiMAJ0CMHTAKDiZ"><strong>Driving Down The Boulevard</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv">Peaceful Melody</a>, <a href="https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8">soave lofi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/352FW8US17KvdxG3bxNuWY"><strong>Cozmic</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5VxCNe0XlFWf2u4FGw6DZW">Mellowfy</a>, <a href="https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8">soave lofi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273316ebd5d53165104934030f3" href="https://open.spotify.com/track/7iR5HtJtmm8pmmsx8rVfDd" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273600cd9e71a8b1345ac09b93f" href="https://open.spotify.com/track/52KtHyTfYALGonZd7ZLREV" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7iR5HtJtmm8pmmsx8rVfDd"><strong>Empty Minds</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5F5aValve5LdJk3f9KBL5u">plutones</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/52KtHyTfYALGonZd7ZLREV"><strong>Salted Caramel Frappuccino</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY">Mister Decaf</a>, <a href="https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8">soave lofi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273afb50a06e7fa671f7fb113cf" href="https://open.spotify.com/track/7EPtpv3IKvBJEHECaGwhqe" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b933f71ee773b97340c9efe1" href="https://open.spotify.com/track/30CgtrfdkkhT2U1zbK4OKn" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7EPtpv3IKvBJEHECaGwhqe"><strong>Handsomania</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6nwwEw3BVQxQOzMvrepW9Q">HUSBAND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/30CgtrfdkkhT2U1zbK4OKn"><strong>Lonewalking</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/62cuL0WEl5MhPlrmkOx6TT">mininova</a>, <a href="https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8">soave lofi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d4d3cbc6d1f65a634c50b10a" href="https://open.spotify.com/track/1GZ49c73egSyqBGHD3TKO6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d9681c4e97934f0323eedb75" href="https://open.spotify.com/track/1agtukwLs3DfncVsF7gBJp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1GZ49c73egSyqBGHD3TKO6"><strong>Fly Away</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5gk2hwr8cOTY7GcTP167f5">Autumn Sky</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1agtukwLs3DfncVsF7gBJp"><strong>Kernkraft 400</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1CwrZttbwK0qOv9N9MfAPp">lavender home</a>, <a href="https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8">soave lofi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273878eccb9fe94b6ffd3eb2680" href="https://open.spotify.com/track/7xE8Diw7JdnyhZZ5g41NJ0" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f3ad15b2b87b6bb017c8354b" href="https://open.spotify.com/track/6BejRSZrHvinbbtnSM9mIW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7xE8Diw7JdnyhZZ5g41NJ0"><strong>yesterday</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt">vlows</a>, <a href="https://open.spotify.com/artist/750kAXfx9h7HNbVwYWzmT1">lumberjack</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6BejRSZrHvinbbtnSM9mIW"><strong>Hushwave</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5VxCNe0XlFWf2u4FGw6DZW">Mellowfy</a>, <a href="https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8">soave lofi</a></p>
     </td>
   </tr>
   
