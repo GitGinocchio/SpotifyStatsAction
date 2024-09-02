@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ed46b10906511b1329ee66ab" href="https://open.spotify.com/track/2GkdBGXdB5rzbSE6JUvftk" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2GkdBGXdB5rzbSE6JUvftk"><strong>PRAISE THE LORD ☥ (con Guè, Noyz Narcos, Tony Boy)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1">MACE</a>, <a href="https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk">Tony Boy</a>, <a href="https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27">Guè</a>, <a href="https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY">Noyz Narcos</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ec3c5c9e27f555611c091124" href="https://open.spotify.com/track/352FW8US17KvdxG3bxNuWY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1agtukwLs3DfncVsF7gBJp"><strong>Kernkraft 400</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1CwrZttbwK0qOv9N9MfAPp">lavender home</a>, <a href="https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8">soave lofi</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f3ad15b2b87b6bb017c8354b" href="https://open.spotify.com/track/6BejRSZrHvinbbtnSM9mIW" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6BejRSZrHvinbbtnSM9mIW"><strong>Hushwave</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5VxCNe0XlFWf2u4FGw6DZW">Mellowfy</a>, <a href="https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8">soave lofi</a></p>
     </td>
   </tr>
   
