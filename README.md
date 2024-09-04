@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460" href="https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD"><strong>This Could Be Us</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D">Rae Sremmurd</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d75523282bf3ba41ea85234f" href="https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS"><strong>On My Own</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx">Darci</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bd6f8ac82dc5fe1028c14f7d" href="https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"><strong>Moth To A Flame (with The Weeknd)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs">Swedish House Mafia</a>, <a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bb4cc06a0334303c3684b776" href="https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa"><strong>Lights - Sped Up Version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ">Ellie Goulding</a>, <a href="https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER">Speed Radio</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" href="https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"><strong>Empire State Of Mind</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB">JAY-Z</a>, <a href="https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa">Alicia Keys</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27318aa5d7e6d484b832cd5d03f" href="https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP"><strong>Right Round</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY">Flo Rida</a>, <a href="https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX">Kesha</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ca10fae7d292c52f7e8b11ca" href="https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"><strong>Gimme More</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4">Britney Spears</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739efc623f9c64c8efb583b186" href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"><strong>Just Can’t Get Enough</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS">Black Eyed Peas</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27312d5ab24a8b636d56d3e39e9" href="https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"><strong>Poetica</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
     </td>
   </tr>
   
