@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27319f32da225d227157329d41d" href="https://open.spotify.com/track/3zWXAQuZ2cgRb2p0xqAORS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734dc927414901257d4f182482" href="https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3zWXAQuZ2cgRb2p0xqAORS"><strong>se ne va</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD">Nayt</a>, <a href="https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN">3D</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a2bd90b275df83e999affafd" href="https://open.spotify.com/track/3HG58pNCGOB5f9qZFZY405" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3HG58pNCGOB5f9qZFZY405"><strong>68</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY"><strong>Phi</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm">Ernia</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735723b46572de89001a0790bf" href="https://open.spotify.com/track/0aY1aFTxzZ9SXHOvUoVC69" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734dc927414901257d4f182482" href="https://open.spotify.com/track/4nvsA575k8HrEjdQ78Ymvi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0aY1aFTxzZ9SXHOvUoVC69"><strong>+++!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu">Diss Gacha</a>, <a href="https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM">Sala</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4nvsA575k8HrEjdQ78Ymvi"><strong>Certi Giorni (feat. Nitro)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm">Ernia</a>, <a href="https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP">Nitro</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e363565e6fa91f0801c8d281" href="https://open.spotify.com/track/1qwx9Yc1MZ865UenbMEW2T" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734dc927414901257d4f182482" href="https://open.spotify.com/track/0KvKUijfGJjBgtWse4ot1Y" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1qwx9Yc1MZ865UenbMEW2T"><strong>Skit - Il Tempo Vola</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC">Fabri Fibra</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0KvKUijfGJjBgtWse4ot1Y"><strong>Lewandowski VI</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm">Ernia</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e363565e6fa91f0801c8d281" href="https://open.spotify.com/track/6F0xxEWmHIiC9Qnij5hVCr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82" href="https://open.spotify.com/track/4RVbK6cV0VqWdpCDcx3hiT" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6F0xxEWmHIiC9Qnij5hVCr"><strong>Fenomeno</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC">Fabri Fibra</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4RVbK6cV0VqWdpCDcx3hiT"><strong>Reborn</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE">KIDS SEE GHOSTS</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273427c80da235cb76fc89b8e27" href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"><strong>Montagem Mysterious Game</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK">LXNGVX</a></p>
     </td>
   </tr>
   
