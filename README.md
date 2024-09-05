@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d7b2aa3834b82b1cbe899a48" href="https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27319f32da225d227157329d41d" href="https://open.spotify.com/track/3zWXAQuZ2cgRb2p0xqAORS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"><strong>On The Floor</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR">Jennifer Lopez</a>, <a href="https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg">Pitbull</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3zWXAQuZ2cgRb2p0xqAORS"><strong>se ne va</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD">Nayt</a>, <a href="https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN">3D</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d7b2aa3834b82b1cbe899a48" href="https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a2bd90b275df83e999affafd" href="https://open.spotify.com/track/3HG58pNCGOB5f9qZFZY405" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"><strong>On The Floor</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR">Jennifer Lopez</a>, <a href="https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg">Pitbull</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3HG58pNCGOB5f9qZFZY405"><strong>68</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm">Ernia</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734ca3fb4517ff722918877460" href="https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735723b46572de89001a0790bf" href="https://open.spotify.com/track/0aY1aFTxzZ9SXHOvUoVC69" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD"><strong>This Could Be Us</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D">Rae Sremmurd</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0aY1aFTxzZ9SXHOvUoVC69"><strong>+++!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu">Diss Gacha</a>, <a href="https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM">Sala</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d75523282bf3ba41ea85234f" href="https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e363565e6fa91f0801c8d281" href="https://open.spotify.com/track/1qwx9Yc1MZ865UenbMEW2T" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS"><strong>On My Own</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx">Darci</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1qwx9Yc1MZ865UenbMEW2T"><strong>Skit - Il Tempo Vola</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC">Fabri Fibra</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bd6f8ac82dc5fe1028c14f7d" href="https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e363565e6fa91f0801c8d281" href="https://open.spotify.com/track/6F0xxEWmHIiC9Qnij5hVCr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"><strong>Moth To A Flame (with The Weeknd)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs">Swedish House Mafia</a>, <a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6F0xxEWmHIiC9Qnij5hVCr"><strong>Fenomeno</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC">Fabri Fibra</a></p>
     </td>
   </tr>
   
