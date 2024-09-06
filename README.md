@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273598721fc8c9dde3f65a73a08" href="https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"><strong>Notion</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt">The Rare Occasions</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2734dc927414901257d4f182482" href="https://open.spotify.com/track/7nxWTXsWF0i3KHUzNZmxoB" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -47,16 +57,6 @@ Show your spotify stats inside your README.md
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1HYfVj2vVlKDGlpMkbzdVW"><strong>Simba</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm">Ernia</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734dc927414901257d4f182482" href="https://open.spotify.com/track/1w2UbFSLcpvhpqilcXmNiY" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1w2UbFSLcpvhpqilcXmNiY"><strong>68</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm">Ernia</a></p>
     </td>
   </tr>
@@ -129,7 +129,7 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb84a0dd74f21e8acce6a9fd49" href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5ebb879fb76928dc28e9ecc7c2f" href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"><strong>Linkin Park</strong></a></p>
