@@ -13,31 +13,21 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/0EimIRiiRd76tqlo9LPLUJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cd36d1eba5c959d17eda6ecd" href="https://open.spotify.com/track/6B22FScIDhTgbwZ4iOasQQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0EimIRiiRd76tqlo9LPLUJ"><strong>iN uNa buBbLe</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb">yungest Moonstar</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6B22FScIDhTgbwZ4iOasQQ"><strong>NGMI</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ">FUCKYOURCLIQUE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b9c4979446c4d39bc08e9503" href="https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bbde6ec81689bd388638cf9d" href="https://open.spotify.com/track/5vBXZGUcMAbgizTjzkG9c1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"><strong>Forever Young</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX">Alphaville</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273540cdd602499d15bb2b58514" href="https://open.spotify.com/track/3VCpLGJQmDUGMveFOy0hsa" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3VCpLGJQmDUGMveFOy0hsa"><strong>STAR MAKER</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3yw4uZPLLaQZW0hIyZCprZ">SAFETY</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5vBXZGUcMAbgizTjzkG9c1"><strong>Ragazza Sola</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv">Annalisa</a></p>
     </td>
   </tr>
   
@@ -53,11 +43,21 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273417f9f3cff9f6d139a092ded" href="https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b9e2109bbe77afec0e7af667" href="https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ"><strong>Per due come noi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl">Olly</a>, <a href="https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f">Angelina Mango</a>, <a href="https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf">JVLI</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC"><strong>STORIE BREVI</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s">Tananai</a>, <a href="https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv">Annalisa</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27396face79e18d6dc76951678d" href="https://open.spotify.com/track/60QN1JrgYM7jcfW8pdQFqT" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/60QN1JrgYM7jcfW8pdQFqT"><strong>Sinceramente</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv">Annalisa</a></p>
     </td>
   </tr>
   
