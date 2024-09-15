@@ -13,31 +13,11 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735c1b33fafbc03f5ddfb9aba9" href="https://open.spotify.com/track/19gnl7xN5xAEwDquLNKl76" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/0NUzLcrkkXeztSVlJYHOug" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/19gnl7xN5xAEwDquLNKl76"><strong>PART OF ME - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f70addf9c06f3272084c51a6" href="https://open.spotify.com/track/6xWUCRDX6rtd88LDTeirxR" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6xWUCRDX6rtd88LDTeirxR"><strong>Paradise - Hardstyle</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Vorbh84xQLnLXl1BvN1cV">HARDSTYLE MAGE</a>, <a href="https://open.spotify.com/artist/1wAGzWoT8APXo4GjNjbd6P">BIOJECT</a>, <a href="https://open.spotify.com/artist/4jzekWRVKO2NRB4srUMPaR">ATA</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f70addf9c06f3272084c51a6" href="https://open.spotify.com/track/6xWUCRDX6rtd88LDTeirxR" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6xWUCRDX6rtd88LDTeirxR"><strong>Paradise - Hardstyle</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Vorbh84xQLnLXl1BvN1cV">HARDSTYLE MAGE</a>, <a href="https://open.spotify.com/artist/1wAGzWoT8APXo4GjNjbd6P">BIOJECT</a>, <a href="https://open.spotify.com/artist/4jzekWRVKO2NRB4srUMPaR">ATA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0NUzLcrkkXeztSVlJYHOug"><strong>gRaZie A Dio</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb">yungest Moonstar</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
     </td>
   </tr>
   
@@ -58,6 +38,26 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6xWUCRDX6rtd88LDTeirxR"><strong>Paradise - Hardstyle</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Vorbh84xQLnLXl1BvN1cV">HARDSTYLE MAGE</a>, <a href="https://open.spotify.com/artist/1wAGzWoT8APXo4GjNjbd6P">BIOJECT</a>, <a href="https://open.spotify.com/artist/4jzekWRVKO2NRB4srUMPaR">ATA</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f70addf9c06f3272084c51a6" href="https://open.spotify.com/track/6xWUCRDX6rtd88LDTeirxR" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6xWUCRDX6rtd88LDTeirxR"><strong>Paradise - Hardstyle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Vorbh84xQLnLXl1BvN1cV">HARDSTYLE MAGE</a>, <a href="https://open.spotify.com/artist/1wAGzWoT8APXo4GjNjbd6P">BIOJECT</a>, <a href="https://open.spotify.com/artist/4jzekWRVKO2NRB4srUMPaR">ATA</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735c1b33fafbc03f5ddfb9aba9" href="https://open.spotify.com/track/19gnl7xN5xAEwDquLNKl76" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/19gnl7xN5xAEwDquLNKl76"><strong>PART OF ME - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
