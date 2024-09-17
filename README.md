@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27322ae5b5ba67f6f218b5f3e34" href="https://open.spotify.com/track/3qtuOAI0YyfoBM1s7Tvm46" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730e6097926fdc728802f930fe" href="https://open.spotify.com/track/5JXWb7DqYJlXiFnJd9Vfgk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3qtuOAI0YyfoBM1s7Tvm46"><strong>La Nuova Stella Di Broadway</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5JXWb7DqYJlXiFnJd9Vfgk"><strong>RENEGADE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t">VALORANT</a>, <a href="https://open.spotify.com/artist/1fSNmkI8lKMFVMU2Y4hpgi">99 God</a>, <a href="https://open.spotify.com/artist/5dBsvQle015D29PAVpUnDr">C103</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" href="https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730fb8e77683561b11b817484e" href="https://open.spotify.com/track/1nRBnmoVz7Hgs8ZQAbTqMK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ"><strong>IN MY REMAINS</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" href="https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ"><strong>IN MY REMAINS</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739d4cb13f84ae3a5fd0a93890" href="https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"><strong>Ridere</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1nRBnmoVz7Hgs8ZQAbTqMK"><strong>Rubami la Notte</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732c8acf6e66607fff1fd23841" href="https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ceaeb9d72a6398f943ca9ad8" href="https://open.spotify.com/track/2djOxwoE66cQDWST9J3QQ5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"><strong>After Dark</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y">Mr.Kitty</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2djOxwoE66cQDWST9J3QQ5"><strong>Italiani a Londra</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn">Il Pagante</a>, <a href="https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5">J-AX</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c5f98cb52cf88bbdcf2ae894" href="https://open.spotify.com/track/65leXqfkdViSssEVN23uYL" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"><strong>Mama's Boy</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs">Dominic Fike</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ab2d601177caa3074c7d4a2b" href="https://open.spotify.com/track/6Jn9qoprkuSfsRW7tTRkOV" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6Jn9qoprkuSfsRW7tTRkOV"><strong>Lake Washington Boulevard</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
