@@ -13,41 +13,41 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734003c3d3298c057996b904e0" href="https://open.spotify.com/track/4Dly73znAkTcezfxozdNez" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ"><strong>2000</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Dly73znAkTcezfxozdNez"><strong>Se alle sei</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1sbaOwJmKCs3yMB2HVohFS">Oremeta</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733ff2e59d8a68cd9aa11c1dcc" href="https://open.spotify.com/track/3K73aQAr1PeJLVJoeooamj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ"><strong>2000</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3K73aQAr1PeJLVJoeooamj"><strong>In questa notte buia</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7I2FPUQRb3kzH2D76o94kI">Patrick De Luca</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273697ef079ee9c3aca95cd6811" href="https://open.spotify.com/track/1ZlT2fggaU2nMVAFglVnxU" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ"><strong>2000</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1ZlT2fggaU2nMVAFglVnxU"><strong>Berlino</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a>, <a href="https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7">EDONiCO</a>, <a href="https://open.spotify.com/artist/2iyOfEVxPZnULEfJzG0EA1">Kleopatra</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/2XpKaB9qSQC1aWZr0ro9Ql" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ"><strong>2000</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2XpKaB9qSQC1aWZr0ro9Ql"><strong>E poi... finalmente... il paradiso</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a>, <a href="https://open.spotify.com/artist/3fVQu1lgiSTCurIcUpJZQ9">Alberto Fragomeni</a></p>
     </td>
   </tr>
   
