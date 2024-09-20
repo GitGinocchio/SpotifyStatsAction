@@ -23,41 +23,41 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273771abd32d4f4fea582171cbd" href="https://open.spotify.com/track/7tsTlt7Kwj2tFvpukBtZd4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7tsTlt7Kwj2tFvpukBtZd4"><strong>IMPORTANTE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ"><strong>2000</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c5f98cb52cf88bbdcf2ae894" href="https://open.spotify.com/track/65leXqfkdViSssEVN23uYL" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"><strong>Mama's Boy</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs">Dominic Fike</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ"><strong>2000</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273685a640a130b7b36c5ffc5ff" href="https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ"><strong>MARYLEAN (feat. Marracash) - prod. Low Kidd</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD">MACHETE</a>, <a href="https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW">Salmo</a>, <a href="https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP">Nitro</a>, <a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ"><strong>2000</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730f588c6bdb28000656d084bf" href="https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"><strong>Sailor Song</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo">Gigi Perez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ"><strong>2000</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
     </td>
   </tr>
   
@@ -90,19 +90,6 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb3b96cd66c6bf065f7b773a33" href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS" alt="Artist image" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"><strong>Pinguini Tattici Nucleari</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">bergamo indie, italian indie pop, italian pop, milan indie</p>
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>69%</strong></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab6761610000e5eb8044505721270eb00050b188" href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -111,6 +98,19 @@ Show your spotify stats inside your README.md
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;">Popularity: <strong>68%</strong></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb3b96cd66c6bf065f7b773a33" href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS" alt="Artist image" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"><strong>Pinguini Tattici Nucleari</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;">bergamo indie, italian indie pop, italian pop, milan indie</p>
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;">Popularity: <strong>69%</strong></p>
     </td>
   </tr>
   
