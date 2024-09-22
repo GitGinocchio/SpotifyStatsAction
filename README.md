@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273771abd32d4f4fea582171cbd" href="https://open.spotify.com/track/4ZttYdDG8nAGgThArkXjiG" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4ZttYdDG8nAGgThArkXjiG"><strong>GLI ALTRI (Giorni Stupidi)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273243b73f0b9fd2500f491f5bf" href="https://open.spotify.com/track/6f7AS760ziuLhtGDzEPGDU" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6f7AS760ziuLhtGDzEPGDU"><strong>Caterina - Aeroplano</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO">883</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/4DwKZTDZNQ3tldSCgjV8ct" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -38,26 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5lWJY6ZvKEcza921CaWL5I"><strong>Se SipPo La LeaN</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb">yungest Moonstar</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27312b860c1df72545a88313518" href="https://open.spotify.com/track/2ixHrwHianfv01Bc7QGD2G" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ixHrwHianfv01Bc7QGD2G"><strong>GHETTO SUPERSTAR (feat. Ghali)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM">Lazza</a>, <a href="https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L">Ghali</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27312b860c1df72545a88313518" href="https://open.spotify.com/track/5IiXZCAsi29TOtY3rbmKOo" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5IiXZCAsi29TOtY3rbmKOo"><strong>-3 (PERDERE IL VOLO) (feat. Marracash)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM">Lazza</a>, <a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
