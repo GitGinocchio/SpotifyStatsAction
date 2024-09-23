@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5" href="https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"><strong>God's Plan</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737a3ac958bb7d53520cd8d798" href="https://open.spotify.com/track/4Og6B1JiYjCp2Fh7IU8OUF" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Og6B1JiYjCp2Fh7IU8OUF"><strong>Costole rotte</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27312b69bf576f5e80291f75161" href="https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -38,26 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"><strong>Rocking A Cardigan in Atlanta</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I">lil Shordie Scott</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7" href="https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"><strong>Somewhere I Belong</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03" href="https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"><strong>Hello (feat. A Boogie Wit da Hoodie)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj">Pop Smoke</a>, <a href="https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I">A Boogie Wit da Hoodie</a></p>
     </td>
   </tr>
   
