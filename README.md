@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273771abd32d4f4fea582171cbd" href="https://open.spotify.com/track/4ZttYdDG8nAGgThArkXjiG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/0NUzLcrkkXeztSVlJYHOug" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4ZttYdDG8nAGgThArkXjiG"><strong>GLI ALTRI (Giorni Stupidi)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273243b73f0b9fd2500f491f5bf" href="https://open.spotify.com/track/6f7AS760ziuLhtGDzEPGDU" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6f7AS760ziuLhtGDzEPGDU"><strong>Caterina - Aeroplano</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO">883</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/4DwKZTDZNQ3tldSCgjV8ct" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4DwKZTDZNQ3tldSCgjV8ct"><strong>netflixXx</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0NUzLcrkkXeztSVlJYHOug"><strong>gRaZie A Dio</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb">yungest Moonstar</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/4JAeMQ1RGyVvAGwM5mVsIS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8" href="https://open.spotify.com/track/7m1cNdKABpKy0aAtsKAIGx" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4JAeMQ1RGyVvAGwM5mVsIS"><strong>SqUad</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb">yungest Moonstar</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7m1cNdKABpKy0aAtsKAIGx"><strong>Saran Pack</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB">Tay-K</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/5lWJY6ZvKEcza921CaWL5I" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738b13da17b2d5f5d85f8bd05f" href="https://open.spotify.com/track/2ouC5Zp9p98n6kAsXarudl" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5lWJY6ZvKEcza921CaWL5I"><strong>Se SipPo La LeaN</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb">yungest Moonstar</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ouC5Zp9p98n6kAsXarudl"><strong>Da Grind (Featuring Apocalypse)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv">Masta Ace</a>, <a href="https://open.spotify.com/artist/0vXwNOvcQeF60KiLkzyRmt">Apocalyspe</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ"><strong>2000</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273affe621b97d857e6954d71bb" href="https://open.spotify.com/track/2EL7PmNeZuFSWPYbnMS0Sn" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2EL7PmNeZuFSWPYbnMS0Sn"><strong>Velvet!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp">EGOVERT</a></p>
     </td>
   </tr>
   
