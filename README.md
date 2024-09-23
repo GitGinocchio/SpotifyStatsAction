@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738552d88ecfb8c7adf709a3a5" href="https://open.spotify.com/track/5pqHtOnyeIhyWIwgXn2Ycq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27312b69bf576f5e80291f75161" href="https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5pqHtOnyeIhyWIwgXn2Ycq"><strong>Congratulations - Piano Version</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Mr0dXg1KM8bmg2tBe2xEe">Kim Bo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"><strong>Apocalypse</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj">Cigarettes After Sex</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c" href="https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27365c08a228466af389fb0920c" href="https://open.spotify.com/track/74fH2e2XNsBt35U0lfhI47" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"><strong>XO Tour Llif3</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz">Lil Uzi Vert</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/74fH2e2XNsBt35U0lfhI47"><strong>La Nuova Stella Di Broadway - Remastered 2019</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739d4cb13f84ae3a5fd0a93890" href="https://open.spotify.com/track/31pSgG2jcAcqhAaDAxmWtq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735855fc79a3170a82e2a582de" href="https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/31pSgG2jcAcqhAaDAxmWtq"><strong>Freddie</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"><strong>Rocking A Cardigan in Atlanta</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I">lil Shordie Scott</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/17cDJE4DUg0yyt5ul8xo2K" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7" href="https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17cDJE4DUg0yyt5ul8xo2K"><strong>GLI ALTRI (Giorni Stupidi)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"><strong>Somewhere I Belong</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733a929daf339e9f58a2d3b75a" href="https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03" href="https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"><strong>Praising You (feat. Fatboy Slim)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr">Rita Ora</a>, <a href="https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW">Fatboy Slim</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"><strong>Hello (feat. A Boogie Wit da Hoodie)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj">Pop Smoke</a>, <a href="https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I">A Boogie Wit da Hoodie</a></p>
     </td>
   </tr>
   
