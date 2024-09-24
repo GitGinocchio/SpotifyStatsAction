@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362c1f3370811c52ae2d26d24" href="https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273495338b4a16d8c98b7452916" href="https://open.spotify.com/track/6oOOI69XbmvAjPHziVMLYS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E"><strong>Ending Song - The Promise of the World - Merry-Go-Round of Life</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx">Chieko Baisho</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6oOOI69XbmvAjPHziVMLYS"><strong>We'll Meet Again</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4XmA8h1RMvaf4pa9eiQdGI">maruwhat</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737e05a226a97cdbdcab2c5a21" href="https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27399db4ee49d361f876e0a7f14" href="https://open.spotify.com/track/1P6TlFb8EVH2nCX3luVpZW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"><strong>La tua canzone</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1P6TlFb8EVH2nCX3luVpZW"><strong>Scooby Doo</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273189716d6620abf7c4ab22696" href="https://open.spotify.com/track/4Js31maTathTS2flQOQr2c" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731c31f8b4fa733c8a2e41e10a" href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Js31maTathTS2flQOQr2c"><strong>Fragole</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv">Achille Lauro</a>, <a href="https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs">Rose Villain</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg"><strong>Ubriaco Di Te</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm">Dargen D'Amico</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737a3ac958bb7d53520cd8d798" href="https://open.spotify.com/track/4Og6B1JiYjCp2Fh7IU8OUF" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e0f0aa947770fe74049dbba3" href="https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Og6B1JiYjCp2Fh7IU8OUF"><strong>Costole rotte</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"><strong>Heaven Is A Place On Earth</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U">Belinda Carlisle</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737e05a226a97cdbdcab2c5a21" href="https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f8c22e6412de45872bd66286" href="https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"><strong>È sempre bello</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ"><strong>Jenny (I Wanna Ruin Our Friendship)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT">Studio Killers</a></p>
     </td>
   </tr>
   
