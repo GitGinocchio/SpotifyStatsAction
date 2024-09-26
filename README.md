@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27344fadeb140014c49e807c468" href="https://open.spotify.com/track/46gSk82duJtX3TTA182ruG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e8def213c3f7244078b2f3b2" href="https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"><strong>This fffire - New Version</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A">Franz Ferdinand</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E"><strong>I Dunno (feat. Dutchavelli & Stormzy)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt">Tion Wayne</a>, <a href="https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY">dutchavelli</a>, <a href="https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd">Stormzy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27344fadeb140014c49e807c468" href="https://open.spotify.com/track/46gSk82duJtX3TTA182ruG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d4a2f9a24620e329d2db7078" href="https://open.spotify.com/track/2X1XxaSRBqdJBcfyothrjT" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"><strong>This fffire - New Version</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A">Franz Ferdinand</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2X1XxaSRBqdJBcfyothrjT"><strong>Fire</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N">Justice</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27344fadeb140014c49e807c468" href="https://open.spotify.com/track/46gSk82duJtX3TTA182ruG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"><strong>This fffire - New Version</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A">Franz Ferdinand</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"><strong>By Myself</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731c31f8b4fa733c8a2e41e10a" href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a1e8b73748ee972a4c22be16" href="https://open.spotify.com/track/0AtMTwBF9dmAd2kjgKXpSu" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg"><strong>Ubriaco Di Te</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm">Dargen D'Amico</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0AtMTwBF9dmAd2kjgKXpSu"><strong>Rainfall (feat. Tiana Major9)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd">Stormzy</a>, <a href="https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9">Tiana Major9</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27375f331f8f5719007b2d4f770" href="https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737b436d31c5ae44b334736619" href="https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"><strong>Where or When</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO">Laufey</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"><strong>Maniac</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB">Michael Sembello</a></p>
     </td>
   </tr>
   
