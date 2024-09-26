@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c17acb501e1ddf8254dde519" href="https://open.spotify.com/track/5ckSsmBD5LARM0VtuuJmbY" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27344fadeb140014c49e807c468" href="https://open.spotify.com/track/46gSk82duJtX3TTA182ruG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ckSsmBD5LARM0VtuuJmbY"><strong>VAI A GIOCARE CON I FIGLI DEI VICINI, I FIGLI DEI VICINI:</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ">FUCKYOURCLIQUE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"><strong>This fffire - New Version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A">Franz Ferdinand</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c17acb501e1ddf8254dde519" href="https://open.spotify.com/track/3GQGzLkjYRIKenQddkT42G" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27344fadeb140014c49e807c468" href="https://open.spotify.com/track/46gSk82duJtX3TTA182ruG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3GQGzLkjYRIKenQddkT42G"><strong>NGMI</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ">FUCKYOURCLIQUE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"><strong>This fffire - New Version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A">Franz Ferdinand</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c17acb501e1ddf8254dde519" href="https://open.spotify.com/track/1tW0X9WTsU1Q01ZjjnkIvN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731c31f8b4fa733c8a2e41e10a" href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1tW0X9WTsU1Q01ZjjnkIvN"><strong>SBORRA 2</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ">FUCKYOURCLIQUE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg"><strong>Ubriaco Di Te</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm">Dargen D'Amico</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734e2755e7a96ec5e062c76aac" href="https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27375f331f8f5719007b2d4f770" href="https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"><strong>Eye of the Tiger</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg">Survivor</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"><strong>Where or When</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO">Laufey</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bd69bbde4aeee723d6d08058" href="https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732f8e03f94d0f06626ee0c40f" href="https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"><strong>Ransom</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo">Lil Tecca</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"><strong>BABYDOLL (Speed)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U">Ari Abdul</a></p>
     </td>
   </tr>
   
