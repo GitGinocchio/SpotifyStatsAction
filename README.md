@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27360cfd3e0a02b36fdf9d2fbac" href="https://open.spotify.com/track/479saVnx8wqgmB57EXFz0c" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c14d6f207634fec419db5f75" href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/479saVnx8wqgmB57EXFz0c"><strong>L'ottava meraviglia del mondo</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv">Mostro</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"><strong>La canzone del sole - Remastered</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734db7811d6af66a8579496e27" href="https://open.spotify.com/track/2SvXqxiG2ntfkEWvuABT7u" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><strong>What's My Age Again?</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP">blink-182</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2SvXqxiG2ntfkEWvuABT7u"><strong>Il mio canto libero</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736c8decf40486fd2cd30172cc" href="https://open.spotify.com/track/7zNwTxHeXHTJ8hUkFMGx1U" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734db7811d6af66a8579496e27" href="https://open.spotify.com/track/2SvXqxiG2ntfkEWvuABT7u" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7zNwTxHeXHTJ8hUkFMGx1U"><strong>Guilty</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2SvXqxiG2ntfkEWvuABT7u"><strong>Il mio canto libero</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732c8acf6e66607fff1fd23841" href="https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734db7811d6af66a8579496e27" href="https://open.spotify.com/track/2SvXqxiG2ntfkEWvuABT7u" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"><strong>After Dark</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y">Mr.Kitty</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2SvXqxiG2ntfkEWvuABT7u"><strong>Il mio canto libero</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27323e2af3e96fa7af0bd297e38" href="https://open.spotify.com/track/056bKm6W5j9QodOftRznUV" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734db7811d6af66a8579496e27" href="https://open.spotify.com/track/2SvXqxiG2ntfkEWvuABT7u" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/056bKm6W5j9QodOftRznUV"><strong>Bourgeoisieses</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea">Conan Gray</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2SvXqxiG2ntfkEWvuABT7u"><strong>Il mio canto libero</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
     </td>
   </tr>
   
