@@ -13,21 +13,31 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735b3cb5aa936655424de11fa2" href="https://open.spotify.com/track/5SGm0Q5Wur9mhpXnbzaPjG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735402672abf7a1b69e5d214a3" href="https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5SGm0Q5Wur9mhpXnbzaPjG"><strong>Tetris</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"><strong>s!r! (feat. Lazza & Sfera Ebbasta)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM">Lazza</a>, <a href="https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz">Sfera Ebbasta</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ab2d601177caa3074c7d4a2b" href="https://open.spotify.com/track/4vseCIz3IuhWMQW9XiBnHC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2" href="https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4vseCIz3IuhWMQW9XiBnHC"><strong>La banalità del mare</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"><strong>Just Dance</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms">Lady Gaga</a>, <a href="https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z">Colby O'Donis</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e0f0aa947770fe74049dbba3" href="https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"><strong>Heaven Is A Place On Earth</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U">Belinda Carlisle</a></p>
     </td>
   </tr>
   
@@ -43,21 +53,11 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c5f98cb52cf88bbdcf2ae894" href="https://open.spotify.com/track/65leXqfkdViSssEVN23uYL" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731a9500ec8fa9c17dce006a5f" href="https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"><strong>Mama's Boy</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs">Dominic Fike</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737811146a7f29756c0bbda111" href="https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"><strong>ITALODISCO</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR">The Kolors</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"><strong>BABY I'M HOME (w/ Kanii & 9lives)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a>, <a href="https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW">Kanii</a>, <a href="https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q">9lives</a></p>
     </td>
   </tr>
   
