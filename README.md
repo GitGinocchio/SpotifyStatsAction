@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68" href="https://open.spotify.com/track/4czJxD6sk2sPx0UJu4UkEn" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4czJxD6sk2sPx0UJu4UkEn"><strong>Hold On</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731c31f8b4fa733c8a2e41e10a" href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg"><strong>Ubriaco Di Te</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm">Dargen D'Amico</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ca2e09fd52e6330146ea9550" href="https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -38,26 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"><strong>Heaven Is A Place On Earth</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U">Belinda Carlisle</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27343294cfa2688055c9d821bf3" href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"><strong>Shut Up and Dance</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic">WALK THE MOON</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273056e90910cbaf5c5b892aeba" href="https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"><strong>Another One Bites The Dust - Remastered 2011</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d">Queen</a></p>
     </td>
   </tr>
   
