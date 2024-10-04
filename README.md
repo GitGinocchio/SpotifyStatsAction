@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c14d6f207634fec419db5f75" href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" href="https://open.spotify.com/track/6ky7V6pofLTDxI6vJ6azZ4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"><strong>La canzone del sole - Remastered</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6ky7V6pofLTDxI6vJ6azZ4"><strong>Must Get Out - Demo</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273988a9f5b85de9e07f0fd1e36" href="https://open.spotify.com/track/5Nwk994TCUW3qRLdpovv1p" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27326d64b6150aa3d9b6b67d857" href="https://open.spotify.com/track/3x4I4nRuZp5NdtGvCPw6Ms" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5Nwk994TCUW3qRLdpovv1p"><strong>ASCEND!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0WcWsi3Dcn8pJg8Y9WCeaa">AXTRAL INDEX</a>, <a href="https://open.spotify.com/artist/7mCut7sn0qwlFDMBGB0E2F">Kirin Kira</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3x4I4nRuZp5NdtGvCPw6Ms"><strong>IV. Sweatpants</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL">Childish Gambino</a>, <a href="https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn">JasonMartin</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/3eeIB9fJEN2TGX85liWhCo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733661bb9255ab380bef12d981" href="https://open.spotify.com/track/4hArX7vFWANuw0gCA1KG5k" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3eeIB9fJEN2TGX85liWhCo"><strong>wocK</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb">yungest Moonstar</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4hArX7vFWANuw0gCA1KG5k"><strong>BODY PARTS - I denti</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/6fRjGxXJm2Jvkn8gbGvDK9" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738cbed24951bdaba9b975e398" href="https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6fRjGxXJm2Jvkn8gbGvDK9"><strong>sMash</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb">yungest Moonstar</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"><strong>Love to Keep Me Warm</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO">Laufey</a>, <a href="https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS">dodie</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/5LxNztVqMVR7FwJdKzeZ55" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273591c3f691cc42a0257eb0665" href="https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5LxNztVqMVR7FwJdKzeZ55"><strong>kiSs</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb">yungest Moonstar</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ"><strong>Gatluak - Bakermat Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr">Kronan</a>, <a href="https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3">Nyaruach</a>, <a href="https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM">Bakermat</a></p>
     </td>
   </tr>
   
