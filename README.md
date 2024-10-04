@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68" href="https://open.spotify.com/track/4czJxD6sk2sPx0UJu4UkEn" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e0eabeb04c59eec41257b99c" href="https://open.spotify.com/track/0jfIQheXtPPOX0PSn2xxdH" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4czJxD6sk2sPx0UJu4UkEn"><strong>Hold On</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0jfIQheXtPPOX0PSn2xxdH"><strong>Ooo La La</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ">Rozei</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731c31f8b4fa733c8a2e41e10a" href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a29186e92ad38b89ae1611ea" href="https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg"><strong>Ubriaco Di Te</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm">Dargen D'Amico</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI"><strong>Fool</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ca2e09fd52e6330146ea9550" href="https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735dcb1e46fea521d78c81e4ee" href="https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv"><strong>Lost</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0"><strong>Albachiara</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65">Vasco Rossi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27323e2af3e96fa7af0bd297e38" href="https://open.spotify.com/track/056bKm6W5j9QodOftRznUV" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af" href="https://open.spotify.com/track/17DmHV1rOZRZht3yszHOlP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/056bKm6W5j9QodOftRznUV"><strong>Bourgeoisieses</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea">Conan Gray</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17DmHV1rOZRZht3yszHOlP"><strong>The Desolation Tango</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W">TV Girl</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e0f0aa947770fe74049dbba3" href="https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" href="https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"><strong>Heaven Is A Place On Earth</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U">Belinda Carlisle</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk"><strong>Everyday</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L">Logic</a>, <a href="https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T">Marshmello</a></p>
     </td>
   </tr>
   
