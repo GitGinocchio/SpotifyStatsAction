@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c14d6f207634fec419db5f75" href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"><strong>La canzone del sole - Remastered</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" href="https://open.spotify.com/track/6ky7V6pofLTDxI6vJ6azZ4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"><strong>Love to Keep Me Warm</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO">Laufey</a>, <a href="https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS">dodie</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273591c3f691cc42a0257eb0665" href="https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ"><strong>Gatluak - Bakermat Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr">Kronan</a>, <a href="https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3">Nyaruach</a>, <a href="https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM">Bakermat</a></p>
     </td>
   </tr>
   
