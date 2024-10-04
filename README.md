@@ -129,14 +129,14 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273243b73f0b9fd2500f491f5bf" href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5ebc7e6bd9e65eab62a53355576" href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO"><strong>883</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">italian adult pop</p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"><strong>Linkin Park</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;">alternative metal, nu metal, post-grunge, rap metal, rock</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>62%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>92%</strong></p>
     </td>
   </tr>
   
@@ -196,11 +196,11 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735365fbb472e50f9d5a5c6828" href="https://open.spotify.com/track/4lUE5XMFjQJIbghJIjbzvl" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c14d6f207634fec419db5f75" href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4lUE5XMFjQJIbghJIjbzvl"><strong>ALIEN FLAME</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/06bDmVGHXfwwfFkRxXSDl0">shometyle</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"><strong>La canzone del sole - Remastered</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
     </td>
   </tr>
   
