@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273243b73f0b9fd2500f491f5bf" href="https://open.spotify.com/track/0gkV0FyCdrJqwyrFW7NsEQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2" href="https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0gkV0FyCdrJqwyrFW7NsEQ"><strong>Come mai</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO">883</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"><strong>Just Dance</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms">Lady Gaga</a>, <a href="https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z">Colby O'Donis</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb" href="https://open.spotify.com/track/48Nh04YgUsE4b5V3y9sIdD" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739f111acfdda6c1a85b892bfa" href="https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/48Nh04YgUsE4b5V3y9sIdD"><strong>Gaetano</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"><strong>CAROLINE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF">ThxSoMch</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c34e3f972965731cabe219ea" href="https://open.spotify.com/track/5dcyltc1ataieXIeTqhH3t" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738f477745ea7ad64811bee16b" href="https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5dcyltc1ataieXIeTqhH3t"><strong>Missili</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN">Frah Quintale</a>, <a href="https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW">Giorgio Poi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"><strong>Coming Home</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB">beabadoobee</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68" href="https://open.spotify.com/track/4czJxD6sk2sPx0UJu4UkEn" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735dcb1e46fea521d78c81e4ee" href="https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4czJxD6sk2sPx0UJu4UkEn"><strong>Hold On</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0"><strong>Albachiara</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65">Vasco Rossi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c14d6f207634fec419db5f75" href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731a9500ec8fa9c17dce006a5f" href="https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"><strong>La canzone del sole - Remastered</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"><strong>BABY I'M HOME (w/ Kanii & 9lives)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a>, <a href="https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW">Kanii</a>, <a href="https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q">9lives</a></p>
     </td>
   </tr>
   
