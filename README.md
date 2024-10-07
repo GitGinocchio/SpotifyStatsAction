@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27332ba22ba4df6a89bb6bfe3cf" href="https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273049adb6b1437a16f8ffefefe" href="https://open.spotify.com/track/5ZSzAggKFjyIL6OLA2xUUg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ"><strong>Stuck In A Dream (feat. Gunna)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk">Lil Mosey</a>, <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ">Gunna</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ZSzAggKFjyIL6OLA2xUUg"><strong>Il gatto e la volpe</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7AWtkwVftjGXkoCIEvI7fW">Edoardo Bennato</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735b3b95fee518e8447b0b6898" href="https://open.spotify.com/track/1wPGKwLV2D5S9QL4vK0r88" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27321df1eeced91a43af0cecd31" href="https://open.spotify.com/track/4iV8nThGfzAGRJtgwa7QmG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1wPGKwLV2D5S9QL4vK0r88"><strong>Una luce alle 03:00</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a>, <a href="https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN">Frah Quintale</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4iV8nThGfzAGRJtgwa7QmG"><strong>Ali sporche</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713" href="https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735402672abf7a1b69e5d214a3" href="https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"><strong>the perfect pair</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB">beabadoobee</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"><strong>s!r! (feat. Lazza & Sfera Ebbasta)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM">Lazza</a>, <a href="https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz">Sfera Ebbasta</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733b261dccc69ea751f68ad8a2" href="https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27389070654f69ee060803403f3" href="https://open.spotify.com/track/2L9bD3V2w3kxTZIgtaMNtA" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW"><strong>Nightmares</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn">Bresh</a>, <a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2L9bD3V2w3kxTZIgtaMNtA"><strong>QUELLI CHE NON PENSANO - Il cervello</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a>, <a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739261f91fa75a5c2791a46b10" href="https://open.spotify.com/track/0Z7IIBvmygaEfcqo8piVcb" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bd69bbde4aeee723d6d08058" href="https://open.spotify.com/track/1ipyiYqvds0wcaFDTW6N4X" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0Z7IIBvmygaEfcqo8piVcb"><strong>let them know they're on your mind</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1ipyiYqvds0wcaFDTW6N4X"><strong>Out Of Luck</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo">Lil Tecca</a></p>
     </td>
   </tr>
   
