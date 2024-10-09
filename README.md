@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273abdde781e79a44868914e661" href="https://open.spotify.com/track/449aAnrkYHyFP3vD8B5Pho" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bc7a69dc59ab4e53d2b8c511" href="https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/449aAnrkYHyFP3vD8B5Pho"><strong>bowie box</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs">Dominic Fike</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr"><strong>Dove Si Balla</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm">Dargen D'Amico</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68" href="https://open.spotify.com/track/5tpHqAvqZ8vbrY6Yatd8xB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" href="https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5tpHqAvqZ8vbrY6Yatd8xB"><strong>Zen</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27385ca00029c70d6b5b8372e96" href="https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"><strong>Cheerleader (Felix Jaehn Remix) - Radio Edit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh">OMI</a>, <a href="https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG">Felix Jaehn</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27399cf928a0bc891cdf194efe6" href="https://open.spotify.com/track/7C46jorYluTB3hjZVosozw" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7C46jorYluTB3hjZVosozw"><strong>MATERIAL LOVE (w/ removeface)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a>, <a href="https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF">removeface</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7" href="https://open.spotify.com/track/00VKR5XH5jid1AgUdFz4bs" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/00VKR5XH5jid1AgUdFz4bs"><strong>Session</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"><strong>Numb</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273243b73f0b9fd2500f491f5bf" href="https://open.spotify.com/track/7F54orEV7IMKtKG5X9Ig9y" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7F54orEV7IMKtKG5X9Ig9y"><strong>Nord sud ovest est</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO">883</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/0WgVvy1KelQxG6KBUukTWI" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0WgVvy1KelQxG6KBUukTWI"><strong>LAUREA AD HONOREM (feat. Calcutta)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a>, <a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68" href="https://open.spotify.com/track/2U5HniU0cZtzL8kJtf15hp" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2U5HniU0cZtzL8kJtf15hp"><strong>Stage Diving</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
