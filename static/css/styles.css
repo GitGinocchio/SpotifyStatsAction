@@ -1,26 +1,40 @@
-body{
+/* Stili generali */
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #212121;
-    color: white;
     font-weight: bold;
 }
 
+/* Stili dell'header */
 header {
     display: flex;
     justify-content: space-between; /* Spazia gli elementi ai lati opposti */
     align-items: center;
     background: #1db954;
     padding: 10px 20px; /* Aggiunge spaziatura interna */
+    margin-bottom: 50px;
+}
+
+.main-content {
+    margin-left: 120px;
+    margin-right: 120px;
+    background-color: #b3b3b3;
+    box-shadow: 0px 0px 20px 8px rgb(0, 0, 0);
+    padding: 20px;
 }
 
 .search-icon {
     background: none;
     border: none;
     cursor: pointer;
-    margin-left: auto; /* Forza l'icona di ricerca a stare sulla destra */
+}
+
+.search-icon img {
+    width: 40px; /* Imposta la larghezza dell'icona di ricerca */
+    height: auto;
 }
 
 .logo {
@@ -33,17 +47,44 @@ header {
     margin-right: 10px; /* Spazio tra logo e titolo del sito */
 }
 
-.logo .site-title{
+.logo .site-title {
     font-size: 20px;
     font-weight: bold;
     color: #312c2c;
 }
 
-
-.user-choosed{
-    margin-top: 65px;
+/* Stili della sezione profilo utente */
+.user-choosed {
     display: flex;
+    gap: 20px;
+}
 
+img.userprofileimage {
+    width: 300px;
+    height: 300px;
+    margin: 30px 0 0 30px;
+}
+
+.user-elements {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.user-stats {
+    display: flex;
+    gap: 5%;
+}
+
+p.username {
+    font-size: 80px;
+    margin: 0; /* Rimuove qualsiasi margine predefinito */
+}
+
+.follow-elements {
+    display: flex;
+    gap: 2vh;
 }
 
 .own-stats {
@@ -51,4 +92,143 @@ header {
     gap: 1%;
     display: flex;
     flex-direction: column;
+}
+
+/* Stile per le tabelle */
+table {
+    width: 100%;
+    border: none;
+    padding: 20px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+}
+
+table h4 {
+    margin: 0;
+    font-size: 12px;
+    color: black;
+    padding-bottom: 10px;
+}
+
+table tr {
+    border-bottom: 1px solid #ddd;
+}
+
+table td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+table img {
+    width: 60px;
+    height: 60px;
+}
+
+table td p {
+    margin: 0;
+    color: black;
+}
+
+table td p:nth-child(2) {
+    margin-top: 5px;
+    color: grey;
+}
+
+table td p.popularity {
+    color: black;
+}
+
+table a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Media Queries per rendere responsive */
+@media (max-width: 1024px) {
+    .main-content {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    
+    p.username {
+        font-size: 60px;
+    }
+
+    img.userprofileimage {
+        width: 250px;
+        height: 250px;
+    }
+}
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px;
+    }
+
+    .logo img {
+        width: 40px;
+    }
+
+    .logo .site-title {
+        font-size: 18px;
+    }
+
+    .main-content {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    img.userprofileimage {
+        width: 200px;
+        height: 200px;
+    }
+
+    p.username {
+        font-size: 50px;
+    }
+
+}
+
+@media (max-width: 480px) {
+    header {
+        padding: 5px 10px;
+    }
+
+    .main-content {
+        margin: 10px;
+    }
+
+    p.username {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    img.userprofileimage {
+        width: 150px;
+        height: 150px;
+        margin: 20px 0;
+    }
+
+    .user-choosed {
+        display: flex;
+        gap: 10px;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    table img {
+        width: 50px;
+        height: 50px;
+    }
+
+    table h4 {
+        font-size: 10px;
+    }
+
+    table td {
+        padding: 5px;
+    }
 }
