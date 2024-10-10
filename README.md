@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27310937fa41a9718c72a59d85b" href="https://open.spotify.com/track/5U5sa5B1sZbRuuktBGtoW6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f439108bcfca568a900ec821" href="https://open.spotify.com/track/5NqOsPI4rA9Bl6LcCftzI2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5U5sa5B1sZbRuuktBGtoW6"><strong>King Size Bed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov">Alec Benjamin</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5NqOsPI4rA9Bl6LcCftzI2"><strong>Magic</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo">Lil Skies</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27310937fa41a9718c72a59d85b" href="https://open.spotify.com/track/7xKg443SqbBCMqab3lxBeE" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273878c548822b6ebab8a381c13" href="https://open.spotify.com/track/6DSPdRmgSJ1JAyh4op9kiS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7xKg443SqbBCMqab3lxBeE"><strong>The Arsonist</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov">Alec Benjamin</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6DSPdRmgSJ1JAyh4op9kiS"><strong>BIG BOY!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp">EGOVERT</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e1f05c994777b79bc5c87547" href="https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" href="https://open.spotify.com/track/186hvCTyrni4KT9nwIQ7zS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg"><strong>Obsessed With You</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r">Central Cee</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/186hvCTyrni4KT9nwIQ7zS"><strong>Superheroes</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fbd3128cc27caae9c0f1c03a" href="https://open.spotify.com/track/3FNy4yzOhHhFBeA5p4ofoq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734ca6d84eb5565c62fbdaa926" href="https://open.spotify.com/track/32o7pukqdSackT2H30shzV" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3FNy4yzOhHhFBeA5p4ofoq"><strong>Young, Wild & Free (feat. Bruno Mars)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG">Snoop Dogg</a>, <a href="https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop">Wiz Khalifa</a>, <a href="https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C">Bruno Mars</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/32o7pukqdSackT2H30shzV"><strong>I've Been Thinking About You</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3rTZTOuaGaIuJeYuZZmVCA">Luca Debonaire</a>, <a href="https://open.spotify.com/artist/0fO6zDXFWBHuV7ZO9m0XCm">Tommy B</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736ad5f6f3a3389a97613fe2f0" href="https://open.spotify.com/track/4x77u0hkfXdTiQD1qaAH8J" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27341e31d6ea1d493dd77933ee5" href="https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4x77u0hkfXdTiQD1qaAH8J"><strong>9 Times Out Of 10 (feat. Lil Baby)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5cBYCQwYq0heqBluY3VY1v">Big Havi</a>, <a href="https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK">Lil Baby</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"><strong>STAY (with Justin Bieber)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J">The Kid LAROI</a>, <a href="https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s">Justin Bieber</a></p>
     </td>
   </tr>
   
