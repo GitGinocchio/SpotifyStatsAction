@@ -13,21 +13,31 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273becac866ad5492a979308f8a" href="https://open.spotify.com/track/3RgpMcg7uRz9b4Sbn1iXec" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27377525b9b034a2702c1bec577" href="https://open.spotify.com/track/5q45fpmnIeg0aen9agRcKN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3RgpMcg7uRz9b4Sbn1iXec"><strong>Spingere</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn">Il Pagante</a>, <a href="https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL">VillaBanks</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5q45fpmnIeg0aen9agRcKN"><strong>Static Body</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK">Bingo Players</a>, <a href="https://open.spotify.com/artist/6qu7S8mXY2eKcqkDEGiGMN">Peyruis</a>, <a href="https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl">Marlene</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e4767f32375095a7d698dbd0" href="https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82" href="https://open.spotify.com/track/4RVbK6cV0VqWdpCDcx3hiT" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs"><strong>NERO GOTICO</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ">CLARA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4RVbK6cV0VqWdpCDcx3hiT"><strong>Reborn</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE">KIDS SEE GHOSTS</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" href="https://open.spotify.com/track/2dyyOwe0KxTZTJjjXDeLmU" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2dyyOwe0KxTZTJjjXDeLmU"><strong>Feelings</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
     </td>
   </tr>
   
@@ -43,21 +53,11 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f439108bcfca568a900ec821" href="https://open.spotify.com/track/5NqOsPI4rA9Bl6LcCftzI2" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27357de8cb9bbbe22a9e71c8af7" href="https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5NqOsPI4rA9Bl6LcCftzI2"><strong>Magic</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo">Lil Skies</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273878c548822b6ebab8a381c13" href="https://open.spotify.com/track/6DSPdRmgSJ1JAyh4op9kiS" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6DSPdRmgSJ1JAyh4op9kiS"><strong>BIG BOY!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp">EGOVERT</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"><strong>Somebody's Watching Me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP">Rockwell</a></p>
     </td>
   </tr>
   
