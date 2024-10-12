@@ -165,8 +165,8 @@ p.username {
 /* Stile per le tabelle */
 table {
     width: 100%;
+    margin-top: 50px;
     border: none;
-    padding: 20px;
     box-shadow: 0px 0px 15px 10px rgba(0, 0, 0, 0.1);
     font-family: Arial, sans-serif;
 }
