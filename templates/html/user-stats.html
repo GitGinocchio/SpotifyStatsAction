@@ -12,15 +12,20 @@
     <header>
         <div class="logo">
             <img src="/static/images/logo.svg" alt="Logo Spotify Stats-Action">
-            <p class="site-title"> Spotify Stats-Action</p>
+            <p class="site-title">Spotify Stats-Action</p>
         </div>
-        <button class="search-icon">
-            <img src="/static/images/lente-d'ingrandimento.png" alt="">
-        </button>
-    </header>
+        <div id="search-wrapper">
+            <button class="search-icon" id="search-button">
+                <img src="/static/images/search-icon.png" alt="Search Icon" id="search-icon-img" class="imagesearchicon">
+            </button>
+            <div id="search-container">
+                <input type="text" id="search-bar" placeholder="Cerca utente...">
+            </div>
+        </div>        
+    </header>    
     <div class="main-content">
         <div class="user-choosed">
-            <img class="userprofileimage" src="/static/images/ildeshlogo (1).png " alt="{userprofileimage}">
+            <img class="userprofileimage" src="/static/images/ildeshlogo (2).png " alt="{userprofileimage}">
             <div class="user-elements">              
                 <p class="username">ildesh</p>
                 <div class="user-stats">
@@ -100,4 +105,8 @@
             </table>
         </div>
     </div>
+    <footer>
+        <p>Made by <a href="https://github.com/ildesh">ildesh</a></p>
+    </footer>
+    <script src="/static/js/user-stats.js"></script>
 </body>
