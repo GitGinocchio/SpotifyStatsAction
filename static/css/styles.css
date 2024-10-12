@@ -24,6 +24,7 @@ header {
 }
 
 .logo {
+    text-decoration: none;
     display: flex;
     align-items: center;
     flex-direction: row;
@@ -109,112 +110,18 @@ div#search-wrapper {
     height: 25px;
 }
 
-
-.main-content {
-    margin-left: 120px;
-    margin-right: 120px;
-    background-color: #b3b3b3;
-    box-shadow: 0px 0px 20px 8px rgb(0, 0, 0);
-    padding: 20px;
-    padding-bottom: 80px; /* Assicura che il contenuto non venga nascosto dal footer */
-}
-
-/* Stili della sezione profilo utente */
-
-
-.user-choosed {
-    display: flex;
-    gap: 20px;
-}
-
-img.userprofileimage {
-    width: 300px;
-    height: 300px;
-    margin: 30px 0 0 30px;
-}
-
-.user-elements {
-    margin-left: 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.user-stats {
-    display: flex;
-    gap: 5%;
-}
-
-p.username {
-    font-size: 80px;
-    margin: 0; /* Rimuove qualsiasi margine predefinito */
-}
-
-.follow-elements {
-    display: flex;
-    gap: 2vh;
-}
-
-.own-stats {
-    margin-top: 35px;
-    gap: 1%;
-    display: flex;
-    flex-direction: column;
-}
-
-/* Stile per le tabelle */
-table {
-    width: 100%;
-    margin-top: 50px;
-    border: none;
-    box-shadow: 0px 0px 15px 10px rgba(0, 0, 0, 0.1);
-    font-family: Arial, sans-serif;
-}
-
-table h4 {
-    margin: 0;
-    color: black;
-    padding-bottom: 10px;
-}
-
-table tr {
-    border-bottom: 1px solid #ddd;
-}
-
-table td {
-    padding: 10px;
-    vertical-align: top;
-}
-
-table img {
-    width: 60px;
-    height: 60px;
-}
-
-table td p {
-    margin: 0;
-    color: black;
-}
-
-table td p:nth-child(2) {
-    margin-top: 5px;
-    color: grey;
-}
-
-table td p.popularity {
-    color: black;
-}
-
-table a {
-    color: blue;
-    text-decoration: none;
-}
+/* Stili del footer */
 
 footer {
     background: #1db954;
     padding: 10px 20px;
-    text-align: right   ;
     margin-top: 50px;
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(55, 0, 255);
 }
 
 /* Media Queries per rendere responsive */
@@ -307,49 +214,4 @@ footer {
     table td {
         padding: 5px;
     }
-}
-
-table h4 {
-    margin: 0;
-    color: black;
-    padding-bottom: 10px;
-}
-
-table tr {
-    border-bottom: 1px solid #ddd;
-}
-
-table td {
-    padding: 10px;
-    vertical-align: top;
-}
-
-table img {
-    width: 60px;
-    height: 60px;
-}
-
-table td p {
-    margin: 0;
-    color: black;
-}
-
-table td p:nth-child(2) {
-    margin-top: 5px;
-    color: grey;
-}
-
-table td p.popularity {
-    color: black;
-}
-
-table a {
-    color: blue;
-    text-decoration: none;
-}
-
-footer {
-    background: #1db954;
-    padding: 10px 20px;
-    text-align: right;
 }
