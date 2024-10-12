@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273774bd5fbef9b805dd2304182" href="https://open.spotify.com/track/2SgePa2hYymXyignwwo8oP" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273540cdd602499d15bb2b58514" href="https://open.spotify.com/track/3VCpLGJQmDUGMveFOy0hsa" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2SgePa2hYymXyignwwo8oP"><strong>LOST ONES</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Zgs72EVDddJE8pa3oGC4L">Daniyel</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3VCpLGJQmDUGMveFOy0hsa"><strong>STAR MAKER</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3yw4uZPLLaQZW0hIyZCprZ">SAFETY</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27301161c81847e31dd1817926a" href="https://open.spotify.com/track/6z7tGTD6yvyloEm6K2H8EX" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f3fb166b5515fb19b070773c" href="https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6z7tGTD6yvyloEm6K2H8EX"><strong>LUNA PIENA (con IRAMA)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a>, <a href="https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK">Irama</a>, <a href="https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy">Shablo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l"><strong>Party Girl</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ">StaySolidRocky</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f9171c2b7bab0956cdfbd1fa" href="https://open.spotify.com/track/0c1CDesbrjlMtupYaTDDIA" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27354a277d652eba4cd35a2e78a" href="https://open.spotify.com/track/2FTxc9WUZcKFQtFrT1oOVd" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0c1CDesbrjlMtupYaTDDIA"><strong>Brianvision</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N">Justice</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f0e9b93cadbeb4d0227a59eb" href="https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"><strong>Dancing In The Flames</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362f323449fcd9d277a542fb5" href="https://open.spotify.com/track/7yLZuVXPe8xiGQptg7JsXj" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7yLZuVXPe8xiGQptg7JsXj"><strong>Aerodynamic Beats / Gabrielle , Forget About The World</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2FTxc9WUZcKFQtFrT1oOVd"><strong>Human After All</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b89f63c32fe6043a5e884ef4" href="https://open.spotify.com/track/15WIkk29b7NqOK2poTRnOU" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/15WIkk29b7NqOK2poTRnOU"><strong>TATUAGGI (feat. ARIETE)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro">PSICOLOGI</a>, <a href="https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8">ARIETE</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3" href="https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"><strong>BUTTERFLY EFFECT</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
     </td>
   </tr>
   
