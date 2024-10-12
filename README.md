@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" href="https://open.spotify.com/track/4bvqIVboftRLtgT8WBOXCI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273774bd5fbef9b805dd2304182" href="https://open.spotify.com/track/2SgePa2hYymXyignwwo8oP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4bvqIVboftRLtgT8WBOXCI"><strong>Take What You Want - Demo</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2SgePa2hYymXyignwwo8oP"><strong>LOST ONES</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Zgs72EVDddJE8pa3oGC4L">Daniyel</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c147f8859677405f07879735" href="https://open.spotify.com/track/1mblCC44D31Yu2o3DhrvbJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27301161c81847e31dd1817926a" href="https://open.spotify.com/track/6z7tGTD6yvyloEm6K2H8EX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1mblCC44D31Yu2o3DhrvbJ"><strong>PAROLE (Sono solo parole) (feat. Noemi, Lazza & Tedua)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq">Drillionaire</a>, <a href="https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA">Noemi</a>, <a href="https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM">Lazza</a>, <a href="https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7">Tedua</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6z7tGTD6yvyloEm6K2H8EX"><strong>LUNA PIENA (con IRAMA)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a>, <a href="https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK">Irama</a>, <a href="https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy">Shablo</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f2a39a7b2f9b4eb6256d3787" href="https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f9171c2b7bab0956cdfbd1fa" href="https://open.spotify.com/track/0c1CDesbrjlMtupYaTDDIA" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"><strong>Sure Thing - Sped Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK">Miguel</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0c1CDesbrjlMtupYaTDDIA"><strong>Brianvision</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N">Justice</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" href="https://open.spotify.com/track/1BMu5TWvalAGpi5jlhFEBb" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f0e9b93cadbeb4d0227a59eb" href="https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1BMu5TWvalAGpi5jlhFEBb"><strong>THE ART OF REALIZATION</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"><strong>Dancing In The Flames</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734a91996f05bcfcdbc2c88e0e" href="https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27362f323449fcd9d277a542fb5" href="https://open.spotify.com/track/7yLZuVXPe8xiGQptg7JsXj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY"><strong>Heart Of Glass</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB">Blondie</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7yLZuVXPe8xiGQptg7JsXj"><strong>Aerodynamic Beats / Gabrielle , Forget About The World</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
     </td>
   </tr>
   
