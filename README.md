@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273540cdd602499d15bb2b58514" href="https://open.spotify.com/track/3VCpLGJQmDUGMveFOy0hsa" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733352e1e152a84b9831be55aa" href="https://open.spotify.com/track/4OwIpDsfJMUmignT5NsJo8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3VCpLGJQmDUGMveFOy0hsa"><strong>STAR MAKER</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3yw4uZPLLaQZW0hIyZCprZ">SAFETY</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4OwIpDsfJMUmignT5NsJo8"><strong>ARCANE!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0yhCc8IfWVMxUSkxGWzdFt">KVRMVD</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f3fb166b5515fb19b070773c" href="https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d7d71b3f4f352edd0f8bb631" href="https://open.spotify.com/track/3J5y9v6vK5ginTnMroJ1Nn" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l"><strong>Party Girl</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ">StaySolidRocky</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3J5y9v6vK5ginTnMroJ1Nn"><strong>METAMORPHOSIS 3</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a>, <a href="https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs">zxcursed</a>, <a href="https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH">Sadfriendd</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27354a277d652eba4cd35a2e78a" href="https://open.spotify.com/track/2FTxc9WUZcKFQtFrT1oOVd" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e5b1ab282d1b4a7e83fbaade" href="https://open.spotify.com/track/7L25DWNGjxoMejVUqq7UVT" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2FTxc9WUZcKFQtFrT1oOVd"><strong>Human After All</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7L25DWNGjxoMejVUqq7UVT"><strong>SNOWSTORM</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6">glexks</a>, <a href="https://open.spotify.com/artist/7mgVgarm5CsA4ykvlNcvhg">SHIZODANCE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b89f63c32fe6043a5e884ef4" href="https://open.spotify.com/track/15WIkk29b7NqOK2poTRnOU" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b852a616ae3a49a1f6b0f16e" href="https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/15WIkk29b7NqOK2poTRnOU"><strong>TATUAGGI (feat. ARIETE)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro">PSICOLOGI</a>, <a href="https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8">ARIETE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"><strong>METAMORPHOSIS</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3" href="https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733352e1e152a84b9831be55aa" href="https://open.spotify.com/track/4OwIpDsfJMUmignT5NsJo8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"><strong>BUTTERFLY EFFECT</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4OwIpDsfJMUmignT5NsJo8"><strong>ARCANE!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0yhCc8IfWVMxUSkxGWzdFt">KVRMVD</a></p>
     </td>
   </tr>
   
