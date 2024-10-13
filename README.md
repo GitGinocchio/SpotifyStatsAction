@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273158ec65f217e08f014bd2ff0" href="https://open.spotify.com/track/0zxUWZsgb9HX4WGYvUGkYF" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0zxUWZsgb9HX4WGYvUGkYF"><strong>Tell Me Why - Original Mix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK">Supermode</a>, <a href="https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43">Axwell</a>, <a href="https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s">Steve Angello</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27322ae5b5ba67f6f218b5f3e34" href="https://open.spotify.com/track/3qtuOAI0YyfoBM1s7Tvm46" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6TCmU4U7Ooqep96bnYx5lH"><strong>Sweet Tooth</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e654bc3bc09b6c1e013f74a3" href="https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"><strong>Succession (Main Title Theme)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni">Nicholas Britell</a></p>
     </td>
   </tr>
   
