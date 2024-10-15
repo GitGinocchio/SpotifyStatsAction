@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27358010f854f0b1052a934500f" href="https://open.spotify.com/track/6ZWsKJdmoYu1oFJbzCmtK9" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730eff3431fcf4af599708eb59" href="https://open.spotify.com/track/340CBuR4SZIlnjjsLOhLPp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6ZWsKJdmoYu1oFJbzCmtK9"><strong>0ffline (feat. bbno$)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz">bbno$</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/340CBuR4SZIlnjjsLOhLPp"><strong>THAT GIRL</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3yw4uZPLLaQZW0hIyZCprZ">SAFETY</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734a18877eb76234a05ea325a8" href="https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27302d6db75812c4835d6f0622d" href="https://open.spotify.com/track/15kAcNYubKWtKaEmCu4iMg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"><strong>golden hour - Fujii Kaze Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK">JVKE</a>, <a href="https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi">Fujii Kaze</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/15kAcNYubKWtKaEmCu4iMg"><strong>Cette vie</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6wBLSFOSNFgdUme2WHGCWv">Eliott</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733f58a663013aac4db66fc5f2" href="https://open.spotify.com/track/5Ow36JobD0k20t9YyJMwyL" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732d74285124457d217d28845f" href="https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5Ow36JobD0k20t9YyJMwyL"><strong>Sthlm Sunset</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT">Ehrling</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"><strong>DICE AND ROLL</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273598721fc8c9dde3f65a73a08" href="https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b746477be227e64ad02c894b" href="https://open.spotify.com/track/5mQTzYTDDob48mOP3U9k7Q" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"><strong>Notion</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt">The Rare Occasions</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5mQTzYTDDob48mOP3U9k7Q"><strong>Tu No</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK">Irama</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27317add53ee7ef16ac10e6f8a9" href="https://open.spotify.com/track/7KVA9XflawdJaRBd1XYkJu" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27311e273d18f9c75649a371076" href="https://open.spotify.com/track/2awDnmL1D9cyIJFVruAQcF" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7KVA9XflawdJaRBd1XYkJu"><strong>Hug All Ur Friends</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2awDnmL1D9cyIJFVruAQcF"><strong>Io non abito al mare</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS">Francesca Michielin</a></p>
     </td>
   </tr>
   
