@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Stats-Action</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link rel="icon" href="/static/images/logo.svg">
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="stylesheet" href="/static/css/index.css">
+</head>
+<body>
+    <header>
+        <a href="/templates/html/index.html" class="logo">
+            <img src="/static/images/logo.svg" alt="Logo Spotify Stats-Action">
+            <p class="site-title">Spotify Stats-Action</p>
+        </a>
+        <div id="search-wrapper">
+            <button class="search-icon" id="search-button">
+                <img src="/static/images/search-icon.png" alt="Search Icon" id="search-icon-img" class="imagesearchicon">
+            </button>
+            <div id="search-container">
+                <input type="text" id="search-bar" placeholder="Cerca utente...">
+            </div>
+        </div>        
+    </header>
+    <div class="total">
+        <div class="home">
+            <h1 class="main-title"> Welcome to Spotify Stats-Action</h1>
+            <div class="main-description">
+                <p>This is a simple web application that allows you to view your Spotify statistics. You can see your top artists, top tracks, and recently played tracks. You can also view your statistics for a specific time range.
+                    <br><br>
+                    Not only can you view your own statistics, but you can also see those of other people. In the search bar located below this text, you can search for users and view their statistics.
+                </p>
+            </div>
+
+            <div class="search-bar-container">
+                <input type="text" id="search-bar-main" placeholder="Cerca utente...">
+                <button id="search-button-main" onclick="searchUser()" class="search-button-main" >Cerca</button>
+                <div id="search-results">
+                    <!-- Search results will be displayed here -->
+                </div>
+            </div>
+        </div>
+        <div class="image-container">
+            <img src="/static/images/Nuovo progetto.png" alt="">
+        </div>
+    </div>
+    <footer>
+        <p>© Website created by <a target="_blank" href="https://github.com/ildesh">ildesh</a>, app developed by <a target="_blank" href="https://github.com/GitGinocchio/">Ginocchio</a></p>
+    </footer>
+    <script src="/static/js/user-stats.js"></script>
+</body>

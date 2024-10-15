@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Stats-Action</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link rel="icon" href="/static/images/logo.svg">
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="stylesheet" href="/static/css/user-stats.css">
+</head>
+<body>
+    <header>
+        <a href="/templates/html/index.html" class="logo">
+            <img src="/static/images/logo.svg" alt="Logo Spotify Stats-Action">
+            <p class="site-title">Spotify Stats-Action</p>
+        </a>
+        <div id="search-wrapper">
+            <button class="search-icon" id="search-button">
+                <img src="/static/images/search-icon.png" alt="Search Icon" id="search-icon-img" class="imagesearchicon">
+            </button>
+            <div id="search-container">
+                <input type="text" id="search-bar" placeholder="Cerca utente...">
+            </div>
+        </div>        
+    </header>    
+    <div class="main-content">
+        <div class="user-choosed">
+            <img class="userprofileimage" src="/static/images/ildeshlogo (2).png " alt="{userprofileimage}">
+            <div class="user-elements">              
+                <p class="username">ildesh</p>
+                <div class="user-stats">
+                    <p class="followers">15 follower(s)</p>
+                    <p class="following">4 followed</p>
+                </div>
+            </div>
+        </div>
+        <div class="own-stats">
+            <table>
+                <tr>
+                    <td colspan="3">
+                        <h4>Last <a href="{{ user_page_url }}">{{ username }}</a> played songs</h4>
+                    </td>
+                </tr>
+                
+                <!-- Begin song rows -->
+                {% for song in recent_songs %}
+                <tr>
+                    <td>
+                        <img src="{{ song['track']['album']['images'][0]['url'] }}" href="{{ song['track']['external_urls']['spotify'] }}" alt="Album cover">
+                    </td>
+                    <td>
+                        <p><a href="{{ song['track']['external_urls']['spotify'] }}"><strong>{{ song['track']['name'] }}</strong></a></p>
+                        <p>{{ format_authors(song['track']['artists'],include_urls=True) }}</p>
+                    </td>
+                </tr>
+                {% endfor %}
+                <!-- End song rows -->
+            </table>
+        
+            <table>
+                <tr>
+                    <td colspan="3">
+                        <h4>Top Played Songs of <a href="{{ user_page_url }}">{{ username }}</a></h4>
+                    </td>
+                </tr>
+        
+                <!-- Begin top songs rows -->
+                {% for song in top_songs %}
+                <tr>
+                    <td>
+                        <img src="{{ song['album']['images'][0]['url'] }}" href="{{ song['external_urls']['spotify'] }}" alt="Album cover">
+                    </td>
+                    <td>
+                        <p><a href="{{ song['external_urls']['spotify'] }}"><strong>{{ song['name'] }}</strong></a></p>
+                        <p>{{ format_authors(song['artists'],include_urls=True) }}</p>
+                    </td>
+                </tr>
+                {% endfor %}
+                <!-- End top songs rows -->
+            </table>
+        
+            <table>
+                <tr>
+                    <td colspan="3">
+                        <h4>Top Artists of <a href="{{ user_page_url }}">{{ username }}</a></h4>
+                    </td>
+                </tr>
+                
+                <!-- Begin artist rows -->
+                {% for artist in top_artists %}
+                <tr>
+                    <td>
+                        <img src="{{ artist['images'][0]['url'] }}" href="{{ artist['external_urls']['spotify'] }}" alt="Artist image">
+                    </td>
+                    <td>
+                        <p><a href="{{ artist['external_urls']['spotify'] }}"><strong>{{ artist['name'] }}</strong></a></p>
+                        <p>{{ artist['genres'] | join(', ') }}</p>
+                    </td>
+                    <td>
+                        <p>Popularity: <strong>{{ artist['popularity'] }}%</strong></p>
+                    </td>
+                </tr>
+                {% endfor %}
+                <!-- End artist rows -->
+            </table>
+        </div>
+    </div>
+    <footer>
+        <p>© Website created by <a target="_blank" href="https://github.com/ildesh">ildesh</a>, app developed by <a target="_blank" href="https://github.com/GitGinocchio/">Ginocchio</a></p>
+
+    </footer>
+    <script src="/static/js/user-stats.js"></script>
+</body>

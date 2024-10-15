@@ -1,0 +1,217 @@
+html, body {
+    height: 100%; /* Assicura che il body occupi almeno l'intera altezza della finestra */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #232222;
+    font-weight: bold;
+}
+
+body {
+    display: flex;
+    flex-direction: column; /* Imposta il body come un contenitore flessibile in colonna */
+}
+
+/* Stili dell'header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #1db954;
+    padding: 10px 20px;
+    margin-bottom: 50px;
+}
+
+.logo {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.logo img {
+    margin-right: 10px; /* Spazio tra logo e titolo del sito */
+}
+
+.logo .site-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #312c2c;
+}
+
+div#search-wrapper {
+    display: flex;
+    align-items: center;
+    position: relative;
+    background: none;
+    border: none;
+    padding: 2px;
+    border-radius: 20px;
+}
+
+.search-icon {
+    background-color: #232222;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    z-index: 10;
+    width: 55px;
+    height: 40px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-icon img {
+    width: 20px;
+    height: 20px;
+    transition: transform 0.5s ease-in, opacity 0.5s ease-out;
+}
+
+#search-container {
+    right: 35%; /* Posizionamento a sinistra della search-icon */
+    position: absolute;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    background: #232222;
+    padding: 7px;
+    width: 240px;
+    opacity: 0;
+    z-index: 1;
+    transition: transform 0.5s ease-in, opacity 0.5s ease-out;
+    transform: translateX(10px); /* Piccolo offset per migliorare l'animazione */
+}
+
+#search-container.show {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+#search-bar {
+    border-radius: 20px;
+    color: white;
+    background: none;
+    border: none;
+    width: 100%;
+    padding: 5px;
+    outline: none;
+}
+
+
+
+#submit-icon, #submit-icon img{
+    margin-right: 15px;
+    background: none;
+    border: none;
+    width: 25px;
+    height: 25px;
+}
+
+/* Stili del footer */
+
+footer {
+    background: #1db954;
+    padding: 10px 20px;
+    margin-top: 50px;
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(55, 0, 255);
+}
+
+/* Media Queries per rendere responsive */
+@media (max-width: 1024px) {
+    .main-content {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
+    p.username {
+        font-size: 60px;
+    }
+
+    img.userprofileimage {
+        width: 250px;
+        height: 250px;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .logo img {
+        width: 40px;
+    }
+
+    .logo .site-title {
+        font-size: 18px;
+    }
+
+    .main-content {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    img.userprofileimage {
+        width: 200px;
+        height: 200px;
+    }
+
+    p.username {
+        font-size: 50px;
+    }
+
+}
+
+@media (max-width: 480px) {
+    header {
+        padding: 5px 10px;
+    }
+
+    .main-content {
+        margin: 10px;
+    }
+
+    p.username {
+        font-size: 40px;
+    }
+
+    .user-stats{
+        display: flex;
+
+    }
+
+    p.followers, p.following{
+        font-size:15px;
+    }
+
+    img.userprofileimage {
+        width: 150px;
+        height: 150px;
+        margin: 20px 0;
+    }
+
+    .user-choosed {
+        display: flex;
+        gap: 10px;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    table img {
+        width: 50px;
+        height: 50px;
+    }
+
+    table h4 {
+        font-size: 10px;
+    }
+
+    table td {
+        padding: 5px;
+    }
+}
