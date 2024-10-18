@@ -13,31 +13,21 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732b636541b78ac5ac237326ed" href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg"><strong>FEAR!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a>, <a href="https://open.spotify.com/artist/1PRbFVisaZiK7iQDHFbARw">MultiPlabell</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273951e11fb93e88345eb84eff1" href="https://open.spotify.com/track/2ox00tcMAjPwq54UpNjrda" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ox00tcMAjPwq54UpNjrda"><strong>Ainsi Bas La Vida Funk</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe">DR MØB</a>, <a href="https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or">ZODIVK</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736a922a01d3fb1c53873b1f9d" href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"><strong>MONTAGEM - PR FUNK</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id">S3BZS</a>, <a href="https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2">Mc Gw</a>, <a href="https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH">Mc Menor Do Alvorada</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c0214c64c422d07ed007ce43" href="https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy"><strong>Flare</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H">Hensonn</a></p>
     </td>
   </tr>
   
@@ -53,11 +43,21 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ecb8455c697c79e12445b4a0" href="https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730204e12ace7f2332a77a364f" href="https://open.spotify.com/track/63dZfbF0v1bN5G447DhlF8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"><strong>NEXT!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/63dZfbF0v1bN5G447DhlF8"><strong>Vois sur ton chemin - DJ Holanda MONTAGEM CORAL Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48">BENNETT</a>, <a href="https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC">DJ Holanda</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f463ab32d3175cfe480dbd8d" href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"><strong>ALORS BRAZIL</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn">NONTHENSE</a></p>
     </td>
   </tr>
   
