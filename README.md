@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736da95a46ac59cc6f3ba0ef0f" href="https://open.spotify.com/track/7u47yoQLxhgFNgaPwESzoD" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7u47yoQLxhgFNgaPwESzoD"><strong>CRYSTAL RIZZ</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti">Rushex</a>, <a href="https://open.spotify.com/artist/5v5CDRfHv4GPphZIS15Akg">Oriux</a>, <a href="https://open.spotify.com/artist/5vGEk1WM4YiFdTDmdpjV5H">THE9THXLIFE</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2737b5fa4ef8d18e4ad5cb806a4" href="https://open.spotify.com/track/1SPeVAMM46Wb1iFKfNa0cX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5mQV4bPEbXrAPCSBy4snEu"><strong>X-SLIDE - Sped Up</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4">2KE</a>, <a href="https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li">808iuli</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273840d0f957bd2f65796959f1f" href="https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"><strong>FRESH</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh">NXVAMANE</a></p>
     </td>
   </tr>
   
