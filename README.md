@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fc8a3e0f0f2016068474bdc9" href="https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737b5fa4ef8d18e4ad5cb806a4" href="https://open.spotify.com/track/1SPeVAMM46Wb1iFKfNa0cX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"><strong>BRODYAGA FUNK</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF">Eternxlkz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1SPeVAMM46Wb1iFKfNa0cX"><strong>Power! (Slowed)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk">MRL</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732b636541b78ac5ac237326ed" href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c3e4a74236f035b8fe42e7f5" href="https://open.spotify.com/track/3rFDM6VzrvkKJGJYHMGj7x" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg"><strong>FEAR!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a>, <a href="https://open.spotify.com/artist/1PRbFVisaZiK7iQDHFbARw">MultiPlabell</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3rFDM6VzrvkKJGJYHMGj7x"><strong>STEREO LOVE (HARDSTYLE)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273951e11fb93e88345eb84eff1" href="https://open.spotify.com/track/2ox00tcMAjPwq54UpNjrda" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730c5b42d3efc8a159ad4c7ee7" href="https://open.spotify.com/track/1NtMNAwcKxDskiXrsBXlx1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ox00tcMAjPwq54UpNjrda"><strong>Ainsi Bas La Vida Funk</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe">DR MØB</a>, <a href="https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or">ZODIVK</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1NtMNAwcKxDskiXrsBXlx1"><strong>AUTOMOTIVO PA PA PAPAI</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0ayuHZiwRQ5jXBaGGSEjBv">DJ RIO</a>, <a href="https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g">0to8</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cac33d56bd98f51c95733df5" href="https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273603dd4c13ce5fd52696d9bfc" href="https://open.spotify.com/track/5mQV4bPEbXrAPCSBy4snEu" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2"><strong>PHONKGASKAR</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti">Rushex</a>, <a href="https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0">Jolixwery</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5mQV4bPEbXrAPCSBy4snEu"><strong>X-SLIDE - Sped Up</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4">2KE</a>, <a href="https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li">808iuli</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730204e12ace7f2332a77a364f" href="https://open.spotify.com/track/63dZfbF0v1bN5G447DhlF8" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273840d0f957bd2f65796959f1f" href="https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/63dZfbF0v1bN5G447DhlF8"><strong>Vois sur ton chemin - DJ Holanda MONTAGEM CORAL Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48">BENNETT</a>, <a href="https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC">DJ Holanda</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"><strong>FRESH</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh">NXVAMANE</a></p>
     </td>
   </tr>
   
@@ -136,7 +136,7 @@ Show your spotify stats inside your README.md
       <p style="margin: 5px 0 0 0; color: grey;">italian adult pop</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>63%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>64%</strong></p>
     </td>
   </tr>
   
