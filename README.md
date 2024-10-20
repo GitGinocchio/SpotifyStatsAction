@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27358010f854f0b1052a934500f" href="https://open.spotify.com/track/6ZWsKJdmoYu1oFJbzCmtK9" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739ce35cbf00126ebdc2e37060" href="https://open.spotify.com/track/07m7hJVsCcolL2kTXp645J" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6ZWsKJdmoYu1oFJbzCmtK9"><strong>0ffline (feat. bbno$)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz">bbno$</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07m7hJVsCcolL2kTXp645J"><strong>EMPTY DREAMS (Slowed + Reverb)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP">CYPARISS</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7" href="https://open.spotify.com/track/3TI7sMXWt5lu89VGCa7q1k" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c0214c64c422d07ed007ce43" href="https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3TI7sMXWt5lu89VGCa7q1k"><strong>ABC (feat. Tony Boy & thasup)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u">ANNA</a>, <a href="https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk">Tony Boy</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy"><strong>Flare</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H">Hensonn</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27352ad16cdbc8cdc365dce13b6" href="https://open.spotify.com/track/627fT2mx6oCwM7KZZAF5N4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736a922a01d3fb1c53873b1f9d" href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/627fT2mx6oCwM7KZZAF5N4"><strong>SKYFALL - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"><strong>MONTAGEM - PR FUNK</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id">S3BZS</a>, <a href="https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2">Mc Gw</a>, <a href="https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH">Mc Menor Do Alvorada</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738009bc75188384c8b65fef4f" href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273951e11fb93e88345eb84eff1" href="https://open.spotify.com/track/2ox00tcMAjPwq54UpNjrda" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"><strong>RAPTURE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ox00tcMAjPwq54UpNjrda"><strong>Ainsi Bas La Vida Funk</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe">DR MØB</a>, <a href="https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or">ZODIVK</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a67b50fb57fe4e45c022fbae" href="https://open.spotify.com/track/6yvAeh6da7dJQcuz6XBfCE" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27339288ad1e22ed6ef186a2b4d" href="https://open.spotify.com/track/4AkOOrrgrM4hBnZOx3QTtp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6yvAeh6da7dJQcuz6XBfCE"><strong>DOFT</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti">Rushex</a>, <a href="https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0">Jolixwery</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4AkOOrrgrM4hBnZOx3QTtp"><strong>METAMORPHOSIS - KUTE Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a>, <a href="https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX">KUTE</a></p>
     </td>
   </tr>
   
