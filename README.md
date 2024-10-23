@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27376ca515b16733e3c5b5879f6" href="https://open.spotify.com/track/0DMN2ygSzclvFt6lxFqpH8" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273351ce9fdd77e6a3c84457a18" href="https://open.spotify.com/track/1wWTkTvMjB3U61RImy3jW7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0DMN2ygSzclvFt6lxFqpH8"><strong>DERNIERE DANSE (HARDSTYLE)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1wWTkTvMjB3U61RImy3jW7"><strong>EVERYTIME WE TOUCH - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fc8a3e0f0f2016068474bdc9" href="https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273395271ad268a59f08f5a8f7e" href="https://open.spotify.com/track/3YSi52JZeUbT0MeUQ1nBkZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"><strong>BRODYAGA FUNK</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF">Eternxlkz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3YSi52JZeUbT0MeUQ1nBkZ"><strong>Prayer in C - Speed</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2UUNqX43sA4dxX698liyey">Ren</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27352ad16cdbc8cdc365dce13b6" href="https://open.spotify.com/track/627fT2mx6oCwM7KZZAF5N4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273951e11fb93e88345eb84eff1" href="https://open.spotify.com/track/2ox00tcMAjPwq54UpNjrda" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/627fT2mx6oCwM7KZZAF5N4"><strong>SKYFALL - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ox00tcMAjPwq54UpNjrda"><strong>Ainsi Bas La Vida Funk</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe">DR MØB</a>, <a href="https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or">ZODIVK</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273427c80da235cb76fc89b8e27" href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27312a7aafea42b7462cdd78baf" href="https://open.spotify.com/track/28pxI78fWhvcOWXpQZhh1f" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"><strong>Montagem Mysterious Game</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK">LXNGVX</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/28pxI78fWhvcOWXpQZhh1f"><strong>GIMME MORE - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a1b5d22934060b18b410347d" href="https://open.spotify.com/track/2R4plFiGqKRvBoTTU0NEe9" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730204e12ace7f2332a77a364f" href="https://open.spotify.com/track/63dZfbF0v1bN5G447DhlF8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2R4plFiGqKRvBoTTU0NEe9"><strong>SINGULARITY</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/29BJsaLNz8nWL6PGgAroLO">MODESTY</a>, <a href="https://open.spotify.com/artist/7kZFYUJAJ1IFjPGIAZLNTh">INFINITE SPXCE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/63dZfbF0v1bN5G447DhlF8"><strong>Vois sur ton chemin - DJ Holanda MONTAGEM CORAL Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48">BENNETT</a>, <a href="https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC">DJ Holanda</a></p>
     </td>
   </tr>
   
