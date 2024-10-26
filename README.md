@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739ed6b04a8fe894a9204630f6" href="https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b7504d3f9ef7d1cef58d00e7" href="https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN"><strong>Meteor Shower</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP"><strong>HYPNOTIC DATA</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273be955a885d12b9e3ad44d122" href="https://open.spotify.com/track/621hMmYrgWG3caSFtbZg2p" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c17df392e8863c69361422c9" href="https://open.spotify.com/track/7CQ2IUALMZScQUbpdiSxdk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/621hMmYrgWG3caSFtbZg2p"><strong>Behind Barz - Bonus</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7CQ2IUALMZScQUbpdiSxdk"><strong>Sober</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL">Childish Gambino</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27386ce0a577481711ca8d5f5b9" href="https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f71abcb4d9ba0fbbc62fe867" href="https://open.spotify.com/track/1L0C3xvOtzHSOSZ5T59n0L" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou"><strong>do i ever cross your mind</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S">sombr</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1L0C3xvOtzHSOSZ5T59n0L"><strong>I'll Try Anything Once ("You Only Live Once" demo) - Heart In a Cage B-Side</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V">The Strokes</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734dbf0e825fa20618ad456505" href="https://open.spotify.com/track/1Y0SesUrQ2MOvToRZ9S63E" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273243b73f0b9fd2500f491f5bf" href="https://open.spotify.com/track/7F54orEV7IMKtKG5X9Ig9y" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Y0SesUrQ2MOvToRZ9S63E"><strong>Parlami (A Hundred Flowers)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ">The Vanished People</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7F54orEV7IMKtKG5X9Ig9y"><strong>Nord sud ovest est</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO">883</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27385ca00029c70d6b5b8372e96" href="https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" href="https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"><strong>Cheerleader (Felix Jaehn Remix) - Radio Edit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh">OMI</a>, <a href="https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG">Felix Jaehn</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"><strong>Rap God</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR">Eminem</a></p>
     </td>
   </tr>
   
