@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bd69bbde4aeee723d6d08058" href="https://open.spotify.com/track/1ipyiYqvds0wcaFDTW6N4X" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f8c22e6412de45872bd66286" href="https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1ipyiYqvds0wcaFDTW6N4X"><strong>Out Of Luck</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo">Lil Tecca</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ"><strong>Jenny (I Wanna Ruin Our Friendship)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT">Studio Killers</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27399cf928a0bc891cdf194efe6" href="https://open.spotify.com/track/7C46jorYluTB3hjZVosozw" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b5ef185d28724c5573c2ac9c" href="https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7C46jorYluTB3hjZVosozw"><strong>MATERIAL LOVE (w/ removeface)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a>, <a href="https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF">removeface</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"><strong>Swimming Pools (Drank)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg">Kendrick Lamar</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273591c3f691cc42a0257eb0665" href="https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732a7922dc3a775970e2eb96dc" href="https://open.spotify.com/track/4OQ1G3dyVx0SPUzBiWCNat" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ"><strong>Gatluak - Bakermat Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr">Kronan</a>, <a href="https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3">Nyaruach</a>, <a href="https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM">Bakermat</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4OQ1G3dyVx0SPUzBiWCNat"><strong>Paracetamolo</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732c8acf6e66607fff1fd23841" href="https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273771abd32d4f4fea582171cbd" href="https://open.spotify.com/track/4ZttYdDG8nAGgThArkXjiG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"><strong>After Dark</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y">Mr.Kitty</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4ZttYdDG8nAGgThArkXjiG"><strong>GLI ALTRI (Giorni Stupidi)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b7504d3f9ef7d1cef58d00e7" href="https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27321df1eeced91a43af0cecd31" href="https://open.spotify.com/track/5QCca9VwJuWmQmbjM4jVlO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP"><strong>HYPNOTIC DATA</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5QCca9VwJuWmQmbjM4jVlO"><strong>Lontana da me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
