@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c147f8859677405f07879735" href="https://open.spotify.com/track/4bJGPVI2hTmIrmz4PUKCeQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68" href="https://open.spotify.com/track/1AQqSrJYbCeRtzO7EApqYX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4bJGPVI2hTmIrmz4PUKCeQ"><strong>BON TON (feat. Lazza, Blanco, Sfera Ebbasta & Michelangelo)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq">Drillionaire</a>, <a href="https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM">Lazza</a>, <a href="https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH">BLANCO</a>, <a href="https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz">Sfera Ebbasta</a>, <a href="https://open.spotify.com/artist/7FmP9Ab0HA5cYF4omCSZ9n">Michelangelo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1AQqSrJYbCeRtzO7EApqYX"><strong>Ricordi</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fbfeb7ded12a79fbd98f99e8" href="https://open.spotify.com/track/7m1cNdKABpKy0aAtsKAIGx" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ced808ef1567eaf901041438" href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7m1cNdKABpKy0aAtsKAIGx"><strong>Saran Pack</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB">Tay-K</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"><strong>Afraid To Feel</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO">LF SYSTEM</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739ed6b04a8fe894a9204630f6" href="https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163" href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN"><strong>Meteor Shower</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"><strong>Why'd You Only Call Me When You're High?</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH">Arctic Monkeys</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27317add53ee7ef16ac10e6f8a9" href="https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"><strong>Boys Will Be Bugs</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f2486b438645e97b523e4f90" href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273988a9f5b85de9e07f0fd1e36" href="https://open.spotify.com/track/5Nwk994TCUW3qRLdpovv1p" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"><strong>Timber</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg">Pitbull</a>, <a href="https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX">Kesha</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733d2dfa42f771cd458b194979" href="https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"><strong>Dark Red</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp">Steve Lacy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5Nwk994TCUW3qRLdpovv1p"><strong>ASCEND!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0WcWsi3Dcn8pJg8Y9WCeaa">AXTRAL INDEX</a>, <a href="https://open.spotify.com/artist/7mCut7sn0qwlFDMBGB0E2F">Kirin Kira</a></p>
     </td>
   </tr>
   
