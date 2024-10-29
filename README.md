@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f8c22e6412de45872bd66286" href="https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522" href="https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ"><strong>Jenny (I Wanna Ruin Our Friendship)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT">Studio Killers</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"><strong>Applause</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms">Lady Gaga</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b5ef185d28724c5573c2ac9c" href="https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268" href="https://open.spotify.com/track/32lItqlMi4LBhb4k0BaSaC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"><strong>Swimming Pools (Drank)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg">Kendrick Lamar</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/32lItqlMi4LBhb4k0BaSaC"><strong>Candy Paint</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732a7922dc3a775970e2eb96dc" href="https://open.spotify.com/track/4OQ1G3dyVx0SPUzBiWCNat" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27343294cfa2688055c9d821bf3" href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4OQ1G3dyVx0SPUzBiWCNat"><strong>Paracetamolo</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"><strong>Shut Up and Dance</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic">WALK THE MOON</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273771abd32d4f4fea582171cbd" href="https://open.spotify.com/track/4ZttYdDG8nAGgThArkXjiG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735b3b95fee518e8447b0b6898" href="https://open.spotify.com/track/1wPGKwLV2D5S9QL4vK0r88" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4ZttYdDG8nAGgThArkXjiG"><strong>GLI ALTRI (Giorni Stupidi)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1wPGKwLV2D5S9QL4vK0r88"><strong>Una luce alle 03:00</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a>, <a href="https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN">Frah Quintale</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27321df1eeced91a43af0cecd31" href="https://open.spotify.com/track/5QCca9VwJuWmQmbjM4jVlO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ab2d601177caa3074c7d4a2b" href="https://open.spotify.com/track/6Jn9qoprkuSfsRW7tTRkOV" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5QCca9VwJuWmQmbjM4jVlO"><strong>Lontana da me</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6Jn9qoprkuSfsRW7tTRkOV"><strong>Lake Washington Boulevard</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
@@ -123,7 +123,7 @@ Show your spotify stats inside your README.md
       <p style="margin: 5px 0 0 0; color: grey;">italian adult pop</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>65%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>66%</strong></p>
     </td>
   </tr>
   
