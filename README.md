@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273427c80da235cb76fc89b8e27" href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305f5045b4ff6cb74fa963f96" href="https://open.spotify.com/track/5vCREmODQpdzOmcNOVsN6B" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"><strong>Montagem Mysterious Game</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK">LXNGVX</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5vCREmODQpdzOmcNOVsN6B"><strong>Roi - Instrumental Slowed</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug">Mckyyy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738009bc75188384c8b65fef4f" href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273309189110aad18d19bfffa7c" href="https://open.spotify.com/track/5SNA0jVrts76w4nMm3cxl7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"><strong>RAPTURE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5SNA0jVrts76w4nMm3cxl7"><strong>Dance Till Your Dead</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2wzro1nMLkaoWx5geebHIp">krush</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fc8a3e0f0f2016068474bdc9" href="https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273951e11fb93e88345eb84eff1" href="https://open.spotify.com/track/2ox00tcMAjPwq54UpNjrda" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"><strong>BRODYAGA FUNK</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF">Eternxlkz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ox00tcMAjPwq54UpNjrda"><strong>Ainsi Bas La Vida Funk</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe">DR MØB</a>, <a href="https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or">ZODIVK</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f463ab32d3175cfe480dbd8d" href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a1b5d22934060b18b410347d" href="https://open.spotify.com/track/2R4plFiGqKRvBoTTU0NEe9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"><strong>ALORS BRAZIL</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn">NONTHENSE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2R4plFiGqKRvBoTTU0NEe9"><strong>SINGULARITY</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/29BJsaLNz8nWL6PGgAroLO">MODESTY</a>, <a href="https://open.spotify.com/artist/7kZFYUJAJ1IFjPGIAZLNTh">INFINITE SPXCE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27352ad16cdbc8cdc365dce13b6" href="https://open.spotify.com/track/627fT2mx6oCwM7KZZAF5N4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273743b6c78774349f8e44039c6" href="https://open.spotify.com/track/28jXWWQFBs8qe5RCACTFN6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/627fT2mx6oCwM7KZZAF5N4"><strong>SKYFALL - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/28jXWWQFBs8qe5RCACTFN6"><strong>After Dark Phonk</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2GMViyAUeRMo2xTPVo7NLv">UNIVXRSE</a></p>
     </td>
   </tr>
   
