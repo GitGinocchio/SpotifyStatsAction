@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730204e12ace7f2332a77a364f" href="https://open.spotify.com/track/63dZfbF0v1bN5G447DhlF8" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f4c98cd5454800f768a738eb" href="https://open.spotify.com/track/1vuSealbBSSHCZgsbUk6Q9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/63dZfbF0v1bN5G447DhlF8"><strong>Vois sur ton chemin - DJ Holanda MONTAGEM CORAL Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48">BENNETT</a>, <a href="https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC">DJ Holanda</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1vuSealbBSSHCZgsbUk6Q9"><strong>COOL KIDS - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273309189110aad18d19bfffa7c" href="https://open.spotify.com/track/5SNA0jVrts76w4nMm3cxl7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273427c80da235cb76fc89b8e27" href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5SNA0jVrts76w4nMm3cxl7"><strong>Dance Till Your Dead</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2wzro1nMLkaoWx5geebHIp">krush</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"><strong>Montagem Mysterious Game</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK">LXNGVX</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273309189110aad18d19bfffa7c" href="https://open.spotify.com/track/5SNA0jVrts76w4nMm3cxl7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f463ab32d3175cfe480dbd8d" href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5SNA0jVrts76w4nMm3cxl7"><strong>Dance Till Your Dead</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2wzro1nMLkaoWx5geebHIp">krush</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"><strong>ALORS BRAZIL</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn">NONTHENSE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738009bc75188384c8b65fef4f" href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27329eb94d57e66610bb278c95d" href="https://open.spotify.com/track/2dSNs47vHBSPnsUwpl39nk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"><strong>RAPTURE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2dSNs47vHBSPnsUwpl39nk"><strong>EVERYTIME WE TOUCH HARDSTYLE (SPED UP)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bbaf9de6c418a0aa6cb7b938" href="https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736a922a01d3fb1c53873b1f9d" href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6"><strong>Goth</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1">Sidewalks and Skeletons</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"><strong>MONTAGEM - PR FUNK</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id">S3BZS</a>, <a href="https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2">Mc Gw</a>, <a href="https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH">Mc Menor Do Alvorada</a></p>
     </td>
   </tr>
   
