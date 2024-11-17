@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b8b7ba6887d51e4e18c0b56e" href="https://open.spotify.com/track/00JZJvHKJAhA4DKyEUnwtA" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730efec68bf11a9f013240aa37" href="https://open.spotify.com/track/5hM2wpPmSkNHqY4mljFxbK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/00JZJvHKJAhA4DKyEUnwtA"><strong>DERNIERE DANSE (HARDSTYLE)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh">Enmity</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5hM2wpPmSkNHqY4mljFxbK"><strong>For Zyzz oi sick cnt m8</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0ULuKmgp0v0uTNLZX9nwdy">51pegasus50</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273174e964b6fdf664e564b4f62" href="https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273abfc6b5f4dc53d7b381246de" href="https://open.spotify.com/track/6qarBkmqPdl7aNGOveCdFu" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO"><strong>Legend</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44">Tevvez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6qarBkmqPdl7aNGOveCdFu"><strong>Everlost - Sped Up Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/27AgO0UITDoK0NDHmmMbeZ">Halo King</a>, <a href="https://open.spotify.com/artist/1ji8ctPESvljpOLLvCbSRP">ANDONIS</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27350c30c35b7dfb01c97a915c7" href="https://open.spotify.com/track/07Do4RYpG2yVLO7iMf95mx" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27383b36ecca9e50e5767d14a66" href="https://open.spotify.com/track/6BS13k3vNk1TbumP3ybugk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07Do4RYpG2yVLO7iMf95mx"><strong>Cool For The Summer - Hardstyle Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/76phiDDiYQVjwNQOt8BO1Z">Akimbo Beats</a>, <a href="https://open.spotify.com/artist/328vtAqFhTFKRnj5Q8ZcCv">Venko</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6BS13k3vNk1TbumP3ybugk"><strong>JACK HANMA X TESTOSTERONE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3a51LQyITHc5dbsSappv97">Supersaiyanlifts</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27340d29674ec401f51b0693cab" href="https://open.spotify.com/track/78noFYN6zsl2xqS7QSZd0b" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f3899b9f28126827eb64acf8" href="https://open.spotify.com/track/2qYuMy1krOC3h5LDGz9re6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/78noFYN6zsl2xqS7QSZd0b"><strong>Warriors Goku Hardstyle</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6Rb96f9TkQqMWLgaqey5tR">Yunyakosva</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2qYuMy1krOC3h5LDGz9re6"><strong>ZYZZ</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/38N83Rb2474KB2e8zsPkpN">Sinan Onu</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735c1b33fafbc03f5ddfb9aba9" href="https://open.spotify.com/track/19gnl7xN5xAEwDquLNKl76" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735ee9264526e938af9e9acfd8" href="https://open.spotify.com/track/125jDDLH6DYotMb65wuHdS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/19gnl7xN5xAEwDquLNKl76"><strong>PART OF ME - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/125jDDLH6DYotMb65wuHdS"><strong>WHAT IS THAT MELODY? Hardstyle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3NbPGB8aCTBF7wyvi538tn">MYSK</a></p>
     </td>
   </tr>
   
