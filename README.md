@@ -13,6 +13,36 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273decbf9beecb3cb749ce3a2e2" href="https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"><strong>Somebody (2024)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG">Gotye</a>, <a href="https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt">FISHER</a>, <a href="https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE">Chris Lake</a>, <a href="https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti">Kimbra</a>, <a href="https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8">Sante Sansone</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738ac5768205ad97df3f4f4c0e" href="https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7"><strong>Somebody That I Used To Know</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG">Gotye</a>, <a href="https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti">Kimbra</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e72715688f633bf309ce1142" href="https://open.spotify.com/track/2EDJkuEd5tvxSAPiXCHACe" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2EDJkuEd5tvxSAPiXCHACe"><strong>Somebody That I Used To Know - 4FRNT Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG">Gotye</a>, <a href="https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti">Kimbra</a>, <a href="https://open.spotify.com/artist/1S8wMSqZTtMPWdwEnqCci0">4FRNT</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273534cdd720a58d221ac4de669" href="https://open.spotify.com/track/6PTxwEyZm0lI4nR970KPsz" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -28,36 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1"><strong>Happier</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T">Marshmello</a>, <a href="https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc">Bastille</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273049adb6b1437a16f8ffefefe" href="https://open.spotify.com/track/5ZSzAggKFjyIL6OLA2xUUg" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ZSzAggKFjyIL6OLA2xUUg"><strong>Il gatto e la volpe</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7AWtkwVftjGXkoCIEvI7fW">Edoardo Bennato</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735402672abf7a1b69e5d214a3" href="https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"><strong>s!r! (feat. Lazza & Sfera Ebbasta)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM">Lazza</a>, <a href="https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz">Sfera Ebbasta</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734db7811d6af66a8579496e27" href="https://open.spotify.com/track/2SvXqxiG2ntfkEWvuABT7u" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2SvXqxiG2ntfkEWvuABT7u"><strong>Il mio canto libero</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
     </td>
   </tr>
   
