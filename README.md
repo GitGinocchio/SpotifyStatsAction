@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273decbf9beecb3cb749ce3a2e2" href="https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736c8decf40486fd2cd30172cc" href="https://open.spotify.com/track/7zNwTxHeXHTJ8hUkFMGx1U" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"><strong>Somebody (2024)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG">Gotye</a>, <a href="https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt">FISHER</a>, <a href="https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE">Chris Lake</a>, <a href="https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti">Kimbra</a>, <a href="https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8">Sante Sansone</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7zNwTxHeXHTJ8hUkFMGx1U"><strong>Guilty</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738ac5768205ad97df3f4f4c0e" href="https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27387f01b35a5806d46277a4316" href="https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7"><strong>Somebody That I Used To Know</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG">Gotye</a>, <a href="https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti">Kimbra</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m"><strong>Le luci della città</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e72715688f633bf309ce1142" href="https://open.spotify.com/track/2EDJkuEd5tvxSAPiXCHACe" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a29186e92ad38b89ae1611ea" href="https://open.spotify.com/track/6GrH3wl9FqtpNazArMvsP0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2EDJkuEd5tvxSAPiXCHACe"><strong>Somebody That I Used To Know - 4FRNT Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG">Gotye</a>, <a href="https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti">Kimbra</a>, <a href="https://open.spotify.com/artist/1S8wMSqZTtMPWdwEnqCci0">4FRNT</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6GrH3wl9FqtpNazArMvsP0"><strong>It's U</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273534cdd720a58d221ac4de669" href="https://open.spotify.com/track/6PTxwEyZm0lI4nR970KPsz" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268" href="https://open.spotify.com/track/32lItqlMi4LBhb4k0BaSaC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6PTxwEyZm0lI4nR970KPsz"><strong>Bagatelle</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/32lItqlMi4LBhb4k0BaSaC"><strong>Candy Paint</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dd0a40eecd4b13e4c59988da" href="https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cb045e684adce8d49ada4045" href="https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1"><strong>Happier</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T">Marshmello</a>, <a href="https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc">Bastille</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv"><strong>What They Want</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS">Russ</a></p>
     </td>
   </tr>
   
