@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ed443f0fff29eee63c9ede20" href="https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273abdde781e79a44868914e661" href="https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"><strong>Deep Down (feat. Never Dull)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W">Alok</a>, <a href="https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA">Ella Eyre</a>, <a href="https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX">Kenny Dope</a>, <a href="https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm">Never Dull</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"><strong>misses</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs">Dominic Fike</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27312b69bf576f5e80291f75161" href="https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" href="https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4"><strong>Sunsetz</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj">Cigarettes After Sex</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"><strong>Love Is A Long Road</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn">Tom Petty</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aa93c622eb3c16e46bceeb88" href="https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas"><strong>Vai!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7">Alfa</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ"><strong>2000</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739f111acfdda6c1a85b892bfa" href="https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" href="https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"><strong>CAROLINE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF">ThxSoMch</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"><strong>Love Is A Long Road</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn">Tom Petty</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" href="https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273685a640a130b7b36c5ffc5ff" href="https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"><strong>Heather</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea">Conan Gray</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ"><strong>MARYLEAN (feat. Marracash) - prod. Low Kidd</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD">MACHETE</a>, <a href="https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW">Salmo</a>, <a href="https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP">Nitro</a>, <a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
