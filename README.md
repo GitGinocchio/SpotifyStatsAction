@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ed443f0fff29eee63c9ede20" href="https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"><strong>Deep Down (feat. Never Dull)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W">Alok</a>, <a href="https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA">Ella Eyre</a>, <a href="https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX">Kenny Dope</a>, <a href="https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm">Never Dull</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27312b69bf576f5e80291f75161" href="https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"><strong>Heather</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea">Conan Gray</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ab2d601177caa3074c7d4a2b" href="https://open.spotify.com/track/4sE5wzpPd4s8kTdtVC18lY" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4sE5wzpPd4s8kTdtVC18lY"><strong>Nonono</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
