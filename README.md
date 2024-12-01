@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27305986974e2b79c7b812f34ec" href="https://open.spotify.com/track/25DyHdcgQMJ2hEMSsrtTVX" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d1c976c907b1a48546709b5b" href="https://open.spotify.com/track/7IERlpRyP1u7CLJI6nbbPr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/25DyHdcgQMJ2hEMSsrtTVX"><strong>Dimmi Che C'è (feat. Tedua)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7">Tedua</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7IERlpRyP1u7CLJI6nbbPr"><strong>S&M - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a47dc777d622879e33141ae2" href="https://open.spotify.com/track/1BDSBZNESscC2J9yBMwHGq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730af4476af141051c728ee8b9" href="https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1BDSBZNESscC2J9yBMwHGq"><strong>All The Things She Said</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO">t.A.T.u.</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn"><strong>golden hour</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK">JVKE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c44013257c466d2e6d34b30d" href="https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737e05a226a97cdbdcab2c5a21" href="https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"><strong>L'universo tranne noi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9">Max Pezzali</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"><strong>La tua canzone</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27302d6db75812c4835d6f0622d" href="https://open.spotify.com/track/15kAcNYubKWtKaEmCu4iMg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" href="https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/15kAcNYubKWtKaEmCu4iMg"><strong>Cette vie</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6wBLSFOSNFgdUme2WHGCWv">Eliott</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"><strong>Empire State Of Mind</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB">JAY-Z</a>, <a href="https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa">Alicia Keys</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f4c5becfd0ee26b048e45a40" href="https://open.spotify.com/track/5iTOzCVnNoNbKk25HAVzTU" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fc5a114c8359c65ff388add0" href="https://open.spotify.com/track/37Qp0xHvR7m7JjceFZLGFm" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5iTOzCVnNoNbKk25HAVzTU"><strong>Nei treni la notte (feat. Frah Quintale)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a>, <a href="https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN">Frah Quintale</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37Qp0xHvR7m7JjceFZLGFm"><strong>In The End</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR">Roman Messer</a></p>
     </td>
   </tr>
   
