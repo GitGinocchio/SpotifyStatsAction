@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273353f1ee67a66ea194c668741" href="https://open.spotify.com/track/37Ub9ZOUgySggjMl1btRwm" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37Ub9ZOUgySggjMl1btRwm"><strong>Safe and Sound - Hardstyle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW">BAKI</a>, <a href="https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM">ZYZZ</a>, <a href="https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH">GYM HARDSTYLE</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273efb4357e681842954cb178a4" href="https://open.spotify.com/track/18xb87vqplkgi6jBI4fxuI" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18xb87vqplkgi6jBI4fxuI"><strong>OUTSIDE HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a>, <a href="https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH">GYM HARDSTYLE</a>, <a href="https://open.spotify.com/artist/1liWeyITxEKtAQkLKzlAVh">HARDSTYLE BRAH</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27305f5045b4ff6cb74fa963f96" href="https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -38,26 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/43brSA8lE3Z0n8smcVoEde"><strong>Let Me Down Slowly - Hardstyle</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Xoz5H1TjoXo6E0HAkSSJy">Chestbrah</a>, <a href="https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM">ZYZZ</a>, <a href="https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW">BAKI</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273399b1dc0d027f8e4c36648cb" href="https://open.spotify.com/track/23vZqJEwX9lKdWxGDpBF7G" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/23vZqJEwX9lKdWxGDpBF7G"><strong>Roi - Sped Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ">skyemane</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ed0d94645ec171a19a05b2b9" href="https://open.spotify.com/track/5ga7nw5xFdLjKWnZmMpoQ8" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ga7nw5xFdLjKWnZmMpoQ8"><strong>POKER FACE HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
