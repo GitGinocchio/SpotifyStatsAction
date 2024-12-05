@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732b636541b78ac5ac237326ed" href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" href="https://open.spotify.com/track/6DUKQUhWqUySYngLXLNwP2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg"><strong>FEAR!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a>, <a href="https://open.spotify.com/artist/1PRbFVisaZiK7iQDHFbARw">MultiPlabell</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6DUKQUhWqUySYngLXLNwP2"><strong>Automatic Stop</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V">The Strokes</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273951e11fb93e88345eb84eff1" href="https://open.spotify.com/track/2ox00tcMAjPwq54UpNjrda" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e34554d0e8f38e2ac0d0a369" href="https://open.spotify.com/track/3ZaNBvzdl0Zhn5sNJbDtOi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ox00tcMAjPwq54UpNjrda"><strong>Ainsi Bas La Vida Funk</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe">DR MØB</a>, <a href="https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or">ZODIVK</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3ZaNBvzdl0Zhn5sNJbDtOi"><strong>Suis-moi</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX">Camille</a>, <a href="https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ">Hans Zimmer</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ecb8455c697c79e12445b4a0" href="https://open.spotify.com/track/0eabuc3yo3J0nUSwjEMDDL" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fc5a114c8359c65ff388add0" href="https://open.spotify.com/track/37Qp0xHvR7m7JjceFZLGFm" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0eabuc3yo3J0nUSwjEMDDL"><strong>NEXT! - Slowed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37Qp0xHvR7m7JjceFZLGFm"><strong>In The End</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR">Roman Messer</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735094c7ddde5b276cf014875d" href="https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49" href="https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"><strong>EMPTY DREAMS</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP">CYPARISS</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP"><strong>One More Hour</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb">Tame Impala</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27329508ebb110a7748dcf5954d" href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738f05338b112b25d40aad90c6" href="https://open.spotify.com/track/1Pfsxuqiq2Shzsxnx6D5I4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"><strong>Anadrol</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg">Yosuf</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Pfsxuqiq2Shzsxnx6D5I4"><strong>Margherita</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
