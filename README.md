@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27354a277d652eba4cd35a2e78a" href="https://open.spotify.com/track/3mJniN9tHOtKru4vhsuiHu" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739f061812c58bc338c8ebf3eb" href="https://open.spotify.com/track/4oLEmzER8PlqV4c4IlQn25" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3mJniN9tHOtKru4vhsuiHu"><strong>Harder, Better, Faster, Stronger</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4oLEmzER8PlqV4c4IlQn25"><strong>Tell Me Why</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg">Braaheim</a>, <a href="https://open.spotify.com/artist/7mXiVh1xuK89jd1QX0JuHS">Now O Later</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731c0aacb7cb42f20914d319f4" href="https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c" href="https://open.spotify.com/track/0Li1OuXXfi7950ilZUFGkF" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv"><strong>Miss The Rage</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax">Trippie Redd</a>, <a href="https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD">Playboi Carti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0Li1OuXXfi7950ilZUFGkF"><strong>Cardigan</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs">Don Toliver</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ee7af6e271d04c728d8a47ba" href="https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27357de8cb9bbbe22a9e71c8af7" href="https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD"><strong>Bando</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u">ANNA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"><strong>Somebody's Watching Me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP">Rockwell</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cd9108d25e677d0b00ec93f8" href="https://open.spotify.com/track/1Poz3LJtGHvP7xounddCXT" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b15479ebbc13f9a8016be6a0" href="https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Poz3LJtGHvP7xounddCXT"><strong>Ballin’</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k">Mustard</a>, <a href="https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB">Roddy Ricch</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"><strong>Like Wooh Wooh</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg">Rnbstylerz</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737069751444167143525e8385" href="https://open.spotify.com/track/3vZhtkZTHAcfvQl3X9XFkA" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" href="https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3vZhtkZTHAcfvQl3X9XFkA"><strong>Mercedes</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ">Rarin</a>, <a href="https://open.spotify.com/artist/3AUIYVmhwrsw8UOPHEv91Z">Tommy Ice</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"><strong>Superman</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR">Eminem</a>, <a href="https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t">Dina Rae</a></p>
     </td>
   </tr>
   
