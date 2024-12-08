@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273349a88d5dbd802e435b486c9" href="https://open.spotify.com/track/23lerLvvPlJqcFB8ZEDkov" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/23lerLvvPlJqcFB8ZEDkov"><strong>No Love (feat. Sleepy Hallow)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv">Fredo Bang</a>, <a href="https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273274b132d85a6cb1caaba1ccf" href="https://open.spotify.com/track/4qR38Jx1iYKdEuE0z3AoA5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6W30ttL2kUQ5jT4CnXPJdG"><strong>X 1 MEX (feat. Dani Faiv)</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU">BLOODY VINYL</a>, <a href="https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w">Slait</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt">MILES</a>, <a href="https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ">Dani Faiv</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e192873696bc47c71dac152d" href="https://open.spotify.com/track/4YByRRffL8s92jXR4rgJuy" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4YByRRffL8s92jXR4rgJuy"><strong>Live Fast Die Young - Live</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW">Salmo</a></p>
     </td>
   </tr>
   
