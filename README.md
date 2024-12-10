@@ -13,6 +13,36 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273654c0a1cb2c30dd8e11c0186" href="https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"><strong>Crazy What Love Can Do</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK">Becky Hill</a>, <a href="https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1">Ella Henderson</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739aff38f63984dd93cd1d750b" href="https://open.spotify.com/track/6TCmU4U7Ooqep96bnYx5lH" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6TCmU4U7Ooqep96bnYx5lH"><strong>Sweet Tooth</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27306bd12cb50a3b5a79e7fd843" href="https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72"><strong>in your arms</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S">sombr</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2735fadc5fb1c4b1eb60798c7bc" href="https://open.spotify.com/track/74CjS2xMK4KLnniXzFB9GI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -28,36 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf"><strong>Shakira!</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER">1nonly</a>, <a href="https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp">EGOVERT</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738f0412555b7e080fac2b825f" href="https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3"><strong>The Thrill</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop">Wiz Khalifa</a>, <a href="https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c">Empire Of The Sun</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27318419d6f5123da0747e04847" href="https://open.spotify.com/track/4RyhgKioN2DEKpF1Fo6iqG" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4RyhgKioN2DEKpF1Fo6iqG"><strong>Breaking Bad (Okay)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a>, <a href="https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm">Sheff G</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/4TrP5TjLKNKDmEaRDXfeQe" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4TrP5TjLKNKDmEaRDXfeQe"><strong>mooNsTaR tReK</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb">yungest Moonstar</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
     </td>
   </tr>
   
