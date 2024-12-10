@@ -13,50 +13,50 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/3A40tu1GCl3iXuRfWyTmIs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/3Khgm6HFzZigZHLADXYdwi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3A40tu1GCl3iXuRfWyTmIs"><strong>Miracle Man</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Khgm6HFzZigZHLADXYdwi"><strong>I Am</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/3wRX11O73Ewv2wigpS8FEm" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" href="https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3wRX11O73Ewv2wigpS8FEm"><strong>When It Rains</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"><strong>Me, Myself & I</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z">G-Eazy</a>, <a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273681603dc51f8f705b005ddd1" href="https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"><strong>I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi">LUDMILLA</a>, <a href="https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq">LIT killah</a>, <a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/29y1cN7e9sTX0gBx4y7OCv" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/29y1cN7e9sTX0gBx4y7OCv"><strong>Born Again</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/4O6jCUU0Un55TZ9FfZWSJh" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/599AMl7zkUryDmru90dqwD" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4O6jCUU0Un55TZ9FfZWSJh"><strong>Heart Wants What It Wants</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/2qrbWN43itLlX3eSdKzXVL" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2qrbWN43itLlX3eSdKzXVL"><strong>I'm Good (Blue)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27361fe6d3a50c0beaa3cfe33e9" href="https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R"><strong>I'm a Mess</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/599AMl7zkUryDmru90dqwD"><strong>Blue Moon</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
     </td>
   </tr>
