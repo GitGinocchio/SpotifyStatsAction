@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7" href="https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/3A40tu1GCl3iXuRfWyTmIs" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"><strong>From the Inside</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3A40tu1GCl3iXuRfWyTmIs"><strong>Miracle Man</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732f48b1047d3ebdc4d6076507" href="https://open.spotify.com/track/3IpwGdmxFEO98uF8rJY22W" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/3wRX11O73Ewv2wigpS8FEm" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3IpwGdmxFEO98uF8rJY22W"><strong>Peace</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1ZbCKyEsrRqlHVirYa6lXf">Oliver Jensen</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3wRX11O73Ewv2wigpS8FEm"><strong>When It Rains</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735b4ab5f566a98ffe5c2725fd" href="https://open.spotify.com/track/3qhvwhJfUBPkEPbBFwLnDN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/4O6jCUU0Un55TZ9FfZWSJh" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3qhvwhJfUBPkEPbBFwLnDN"><strong>Howl's Moving Castle - Merry Go Round Of Life - Main Theme</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw">Geek Music</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4O6jCUU0Un55TZ9FfZWSJh"><strong>Heart Wants What It Wants</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362c1f3370811c52ae2d26d24" href="https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/2qrbWN43itLlX3eSdKzXVL" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3"><strong>You're in Love</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB">Joe Hisaishi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2qrbWN43itLlX3eSdKzXVL"><strong>I'm Good (Blue)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" href="https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27361fe6d3a50c0beaa3cfe33e9" href="https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"><strong>THATS WHAT I WANT</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R"><strong>I'm a Mess</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
     </td>
   </tr>
   
