@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cb045e684adce8d49ada4045" href="https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27343294cfa2688055c9d821bf3" href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv"><strong>What They Want</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS">Russ</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"><strong>Shut Up and Dance</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic">WALK THE MOON</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cb045e684adce8d49ada4045" href="https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738e55edb69ca44a25b52b17bb" href="https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv"><strong>What They Want</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS">Russ</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"><strong>First Class</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ">Jack Harlow</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/3Khgm6HFzZigZHLADXYdwi" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731f7077ae1018b5fbab08dfa8" href="https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Khgm6HFzZigZHLADXYdwi"><strong>I Am</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"><strong>We Are The Champions - Remastered 2011</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d">Queen</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" href="https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" href="https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"><strong>Me, Myself & I</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z">G-Eazy</a>, <a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"><strong>Maps</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273681603dc51f8f705b005ddd1" href="https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735eb4fdcdce583bf9b92334ce" href="https://open.spotify.com/track/1JEsBoCgrdy4Xmu2E6aSj7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"><strong>I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi">LUDMILLA</a>, <a href="https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq">LIT killah</a>, <a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1JEsBoCgrdy4Xmu2E6aSj7"><strong>I Gotta Feeling</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS">Black Eyed Peas</a></p>
     </td>
   </tr>
   
