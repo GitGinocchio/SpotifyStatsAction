@@ -23,6 +23,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cb045e684adce8d49ada4045" href="https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv"><strong>What They Want</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS">Russ</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/3Khgm6HFzZigZHLADXYdwi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"><strong>I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi">LUDMILLA</a>, <a href="https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq">LIT killah</a>, <a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735f559f85414c439427edcc68" href="https://open.spotify.com/track/29y1cN7e9sTX0gBx4y7OCv" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/29y1cN7e9sTX0gBx4y7OCv"><strong>Born Again</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb">Bebe Rexha</a></p>
     </td>
   </tr>
   
