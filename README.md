@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cc08fd1c89e82db9cbb105ce" href="https://open.spotify.com/track/6W30ttL2kUQ5jT4CnXPJdG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730bada20fbcec2571741f290a" href="https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6W30ttL2kUQ5jT4CnXPJdG"><strong>X 1 MEX (feat. Dani Faiv)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU">BLOODY VINYL</a>, <a href="https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w">Slait</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt">MILES</a>, <a href="https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ">Dani Faiv</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"><strong>V-12</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ">Lil Dew'</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb" href="https://open.spotify.com/track/5JAYDuLRkODlVt6dgoalKk" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02" href="https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5JAYDuLRkODlVt6dgoalKk"><strong>Tell Me U Luv Me (with Trippie Redd)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a>, <a href="https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax">Trippie Redd</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF"><strong>Enemies (feat. DaBaby)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a>, <a href="https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk">DaBaby</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733f10a45929710bc521768ea7" href="https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273918045c859b2f5c80ad29188" href="https://open.spotify.com/track/5Tj4faD9lGyMw8ZatUYR6G" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp"><strong>Pensando a lei</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS">Shiva</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5Tj4faD9lGyMw8ZatUYR6G"><strong>Flood My Wrist (feat. Lil Uzi Vert)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I">A Boogie Wit da Hoodie</a>, <a href="https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee">Don Q</a>, <a href="https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz">Lil Uzi Vert</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27393b1e96fad758869d0974162" href="https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273609c6159deccae5151b7dafa" href="https://open.spotify.com/track/1M5s1FGVfoqng78d1REKfO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"><strong>Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k">Mustard</a>, <a href="https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC">NAV</a>, <a href="https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD">Playboi Carti</a>, <a href="https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I">A Boogie Wit da Hoodie</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1M5s1FGVfoqng78d1REKfO"><strong>D.A.N.C.E - Live Version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N">Justice</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9" href="https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736c0177e9b0c53a7587979ca2" href="https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"><strong>Black Skinhead</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"><strong>Hex</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF">80purppp</a></p>
     </td>
   </tr>
   
