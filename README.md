@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" href="https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"><strong>PRIDE.</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg">Kendrick Lamar</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af" href="https://open.spotify.com/track/17DmHV1rOZRZht3yszHOlP" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17DmHV1rOZRZht3yszHOlP"><strong>The Desolation Tango</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W">TV Girl</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27363d5aec8186b37f4404b1d1d" href="https://open.spotify.com/track/5XhXt7kcM4rSvo03faDAjY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -38,26 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/671qmOyhzkza64D9fMhN7k"><strong>Post To Be (feat. Rileyy Lanez)</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR">Lil Tjay</a>, <a href="https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr">Rileyy Lanez</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732f48b1047d3ebdc4d6076507" href="https://open.spotify.com/track/3IpwGdmxFEO98uF8rJY22W" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3IpwGdmxFEO98uF8rJY22W"><strong>Peace</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1ZbCKyEsrRqlHVirYa6lXf">Oliver Jensen</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c01ab1c4b2dceb2cfc89e6fa" href="https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d"><strong>Reality</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7">Lost Frequencies</a>, <a href="https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0">Janieck</a></p>
     </td>
   </tr>
   
@@ -123,7 +123,7 @@ Show your spotify stats inside your README.md
       <p style="margin: 5px 0 0 0; color: grey;">italian hip hop, italian pop, rap napoletano</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>77%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>78%</strong></p>
     </td>
   </tr>
   
