@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d54c7c424d1b095611771530" href="https://open.spotify.com/track/0tXzxt3aJcfKu9L5i7tgfK" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0tXzxt3aJcfKu9L5i7tgfK"><strong>Renegade</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV">Kavinsky</a>, <a href="https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil">Cautious Clay</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2730bada20fbcec2571741f290a" href="https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1M5s1FGVfoqng78d1REKfO"><strong>D.A.N.C.E - Live Version</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N">Justice</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736c0177e9b0c53a7587979ca2" href="https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"><strong>Hex</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF">80purppp</a></p>
     </td>
   </tr>
   
