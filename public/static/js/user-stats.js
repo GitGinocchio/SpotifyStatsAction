@@ -8,11 +8,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function updateSearchIcon() {
         if (searchBar.value.trim() !== "") {
-            searchIconImg.src = "/static/images/send.png"; // Cambia a "send"
+            searchIconImg.src = "/public/static/images/send.png"; // Cambia a "send"
         } else if (isSearchOpen) {
-            searchIconImg.src = "/static/images/close-searchbox.png"; // Torna a "close"
+            searchIconImg.src = "/public/static/images/close-searchbox.png"; // Torna a "close"
         } else {
-            searchIconImg.src = "/static/images/search-icon.png"; // Torna a "search"
+            searchIconImg.src = "/public/static/images/search-icon.png"; // Torna a "search"
         }
     }
 
