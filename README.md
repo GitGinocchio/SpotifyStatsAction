@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738145b51d1cdca483aff64358" href="https://open.spotify.com/track/400lQTCx3wYGgqAIHSZbNA" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736239187793c9e492e687db01" href="https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/400lQTCx3wYGgqAIHSZbNA"><strong>Given Up</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"><strong>Kick It</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273609c6159deccae5151b7dafa" href="https://open.spotify.com/track/06hFt4v4n2LuRb3LsceYAx" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/06hFt4v4n2LuRb3LsceYAx"><strong>DVNO - Live Version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N">Justice</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e88a1b90870837f8f376457a" href="https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"><strong>Jungle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe">Fred again..</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"><strong>One Step Closer</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ae8b07ecdcf7aadefe00264f" href="https://open.spotify.com/track/6uFn47ACjqYkc0jADwEdj1" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bd69bbde4aeee723d6d08058" href="https://open.spotify.com/track/6eSU1exzDvBEXmBRxspeh5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6uFn47ACjqYkc0jADwEdj1"><strong>Pop Out (feat. Lil Tjay)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49">Polo G</a>, <a href="https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR">Lil Tjay</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" href="https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH"><strong>Good Morning</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d338f56a62eabfe658ff5e9d" href="https://open.spotify.com/track/5rK0pyEObO4DBFLy682QvR" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rK0pyEObO4DBFLy682QvR"><strong>Mask Off - Marshmello Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i">Future</a>, <a href="https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T">Marshmello</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7" href="https://open.spotify.com/track/0rPTPahzhGx9LSzI8XX5OM" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0rPTPahzhGx9LSzI8XX5OM"><strong>Figure.09</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6eSU1exzDvBEXmBRxspeh5"><strong>Shots</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo">Lil Tecca</a></p>
     </td>
   </tr>
   
