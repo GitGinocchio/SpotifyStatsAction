@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732a50b3962c4ebda07a4a741c" href="https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C"><strong>Chihiro</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc">Gravagerz</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273ede89d0d41cf16f0ac0dda8c" href="https://open.spotify.com/track/77vhWXnaUETPruBZ58EZrb" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2DAbwcR60AFoZWqdxy19jM"><strong>Rei da Morte - Ultra Slowed</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/50LbWtqqQeduRjJHLuwQed">HIMXN</a>, <a href="https://open.spotify.com/artist/4Dr2r2D1olJ7LBCGfKXZlP">SCXRE</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e4abb0fb75117230282cd98c" href="https://open.spotify.com/track/48pJegL9ryrhgDYdNjNSPz" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/48pJegL9ryrhgDYdNjNSPz"><strong>GLORY - Sped Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm">Ogryzek</a></p>
     </td>
   </tr>
   
