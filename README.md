@@ -13,6 +13,36 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273841e18c8db404401967bb429" href="https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM"><strong>METAMORPHOSIS - Slowed + Reverb</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737874b78be9d8287b581133d9" href="https://open.spotify.com/track/4MFW8fi63GtwUNkLE06qH7" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4MFW8fi63GtwUNkLE06qH7"><strong>SAY IT RIGHT - Hardstyle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW">BAKI</a>, <a href="https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM">ZYZZ</a>, <a href="https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH">GYM HARDSTYLE</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273451c3d84572c129fe11dc9d3" href="https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"><strong>Fluxxwave</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6">Clovis Reyes</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2732dcbd2c02bdaaf7c917faad2" href="https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -28,36 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"><strong>EMPTY DREAMS</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP">CYPARISS</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a67b50fb57fe4e45c022fbae" href="https://open.spotify.com/track/6yvAeh6da7dJQcuz6XBfCE" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6yvAeh6da7dJQcuz6XBfCE"><strong>DOFT</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti">Rushex</a>, <a href="https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0">Jolixwery</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e05cf047b13411aa8be78ead" href="https://open.spotify.com/track/3GN9V9zKBrDAcM36CSEgXU" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3GN9V9zKBrDAcM36CSEgXU"><strong>Nitrogen</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1iQ4LvF29mWmQDUt2TpXDR">Rviden</a>, <a href="https://open.spotify.com/artist/3o4VMzxpAAOidkGBlHDsFs">Pcn 北</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ca1eb8cfcddf6fc9f954de1c" href="https://open.spotify.com/track/4TarjcBSnjXQwJG0AuyQ80" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4TarjcBSnjXQwJG0AuyQ80"><strong>EEYUH! x Fluxxwave (Slowed + Reverb)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6">Clovis Reyes</a>, <a href="https://open.spotify.com/artist/3UrGictkKDBfGKpK2ZiWGX">HR</a>, <a href="https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY">Irokz</a></p>
     </td>
   </tr>
   
