@@ -136,7 +136,7 @@ Show your spotify stats inside your README.md
       <p style="margin: 5px 0 0 0; color: grey;">alternative metal, nu metal, post-grunge, rap metal, rock</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>93%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>92%</strong></p>
     </td>
   </tr>
   
