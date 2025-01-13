@@ -90,19 +90,6 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5ebc29ee5bd25bcb741f9377b05" href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl" alt="Artist image" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl"><strong>SICK LEGEND</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">gym hardstyle</p>
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>66%</strong></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab6761610000e5eb8aa0ff279be0623fce3e6c9d" href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -111,6 +98,19 @@ Show your spotify stats inside your README.md
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;">Popularity: <strong>79%</strong></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab6761610000e5ebc29ee5bd25bcb741f9377b05" href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl" alt="Artist image" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl"><strong>SICK LEGEND</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;">gym hardstyle</p>
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;">Popularity: <strong>66%</strong></p>
     </td>
   </tr>
   
