@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02" href="https://open.spotify.com/track/2C6WXnmZ66tHhHlnvwePiK" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737ac3c98d3e7bb66e5950fee2" href="https://open.spotify.com/track/4j1BrbGVCyVfbOKDH7AUmW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2C6WXnmZ66tHhHlnvwePiK"><strong>Die For Me (feat. Future & Halsey)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a>, <a href="https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2">Halsey</a>, <a href="https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i">Future</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4j1BrbGVCyVfbOKDH7AUmW"><strong>We Fell Apart</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1oAtPfjSyQWY7rERuiYnpl">ANGUISH</a>, <a href="https://open.spotify.com/artist/5apirtCAsDUQ9ERSIyMbHO">AmbVsh</a>, <a href="https://open.spotify.com/artist/58V1mBG998BXT4jR5YvIGt">ily</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273609c6159deccae5151b7dafa" href="https://open.spotify.com/track/08s5fwkijEw8QUGCCxaCbb" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736771a05f34d77e5fc2bde64c" href="https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/08s5fwkijEw8QUGCCxaCbb"><strong>Waters Of Nazareth - Live Version</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N">Justice</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"><strong>HOLIDAY</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268" href="https://open.spotify.com/track/2VdT56BGpdqNHUgOe1j5vc" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273697ef079ee9c3aca95cd6811" href="https://open.spotify.com/track/7J7M4rHQn5c5dbSYdsm8HG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2VdT56BGpdqNHUgOe1j5vc"><strong>Rich & Sad</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7J7M4rHQn5c5dbSYdsm8HG"><strong>Non pensare</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a>, <a href="https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7">EDONiCO</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27390d7f08f5345410e0efff330" href="https://open.spotify.com/track/1syS5FwTeSz4MbJLT9Oxaj" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1syS5FwTeSz4MbJLT9Oxaj"><strong>-3 (PERDERE IL VOLO) (feat. Marracash)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM">Lazza</a>, <a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX"><strong>Occhiaie</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27352ad16cdbc8cdc365dce13b6" href="https://open.spotify.com/track/627fT2mx6oCwM7KZZAF5N4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27355c6cd63145b50a335f39ec8" href="https://open.spotify.com/track/7n377RTKsPkLTbJNWn8Hww" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/627fT2mx6oCwM7KZZAF5N4"><strong>SKYFALL - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7n377RTKsPkLTbJNWn8Hww"><strong>GreyGoose</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
     </td>
   </tr>
   
