@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736a0cc10e59a4d3effe78f943" href="https://open.spotify.com/track/3gmJ7cZPgGLKFZFmkzCEfb" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e93828278c4a8f4323fb7b33" href="https://open.spotify.com/track/0XhdO6hPMLByA0nk8HAiGN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3gmJ7cZPgGLKFZFmkzCEfb"><strong>La legge di Murphy</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf">CIMINI</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0XhdO6hPMLByA0nk8HAiGN"><strong>Ottima Scusa</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC">Willie Peyote</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273566737e323a84c13b37c51b7" href="https://open.spotify.com/track/3qymmynl9HTSIHQZ81g1KH" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX"><strong>Occhiaie</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3qymmynl9HTSIHQZ81g1KH"><strong>Il posto più freddo</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP">I Cani</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e0f0aa947770fe74049dbba3" href="https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f37efe2b64c17f6a01da3783" href="https://open.spotify.com/track/6KFxSSyI4KR3bqflXMCnnu" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"><strong>Heaven Is A Place On Earth</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U">Belinda Carlisle</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6KFxSSyI4KR3bqflXMCnnu"><strong>Manzarek</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6hXgWI0ytDb0PsrYTwNtfd">Canova</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d1d301e737da4324479c6660" href="https://open.spotify.com/track/5G6Gt9RtNaeIE418pd4yre" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733f0309d962daa74d7c076e8e" href="https://open.spotify.com/track/3TEHDzdsULJmhHNCHASed4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5G6Gt9RtNaeIE418pd4yre"><strong>Smithereens</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx">Twenty One Pilots</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3TEHDzdsULJmhHNCHASed4"><strong>L'upupa</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4" href="https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f0fb186f155fb4712e419db3" href="https://open.spotify.com/track/0Hg5ilTxEZkrSjhhnu4om9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"><strong>Lucid Dreams</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0Hg5ilTxEZkrSjhhnu4om9"><strong>Che cosa resta</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA">Giorgieness</a></p>
     </td>
   </tr>
   
