@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738552d88ecfb8c7adf709a3a5" href="https://open.spotify.com/track/5pqHtOnyeIhyWIwgXn2Ycq" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5pqHtOnyeIhyWIwgXn2Ycq"><strong>Congratulations - Piano Version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Mr0dXg1KM8bmg2tBe2xEe">Kim Bo</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273b746477be227e64ad02c894b" href="https://open.spotify.com/track/5mQTzYTDDob48mOP3U9k7Q" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2N3U8uTYhjX2KwGT0pf5x0"><strong>Everyday (feat. Rod Stewart, Miguel & Mark Ronson)</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a>, <a href="https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT">Rod Stewart</a>, <a href="https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK">Miguel</a>, <a href="https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp">Mark Ronson</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ebf1802f3aedc62b8f6339d3" href="https://open.spotify.com/track/1YNcvRZoNJUjR4opG7Qr9o" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1YNcvRZoNJUjR4opG7Qr9o"><strong>Jump the Turnstile</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw">Jordana</a>, <a href="https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W">TV Girl</a></p>
     </td>
   </tr>
   
