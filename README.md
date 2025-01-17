@@ -129,14 +129,14 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5ebc7e6bd9e65eab62a53355576" href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb4ba846e4a963c8558471e3af" href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"><strong>Linkin Park</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">nu metal, rap metal, rock, alternative metal</p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"><strong>INTERWORLD</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;">phonk, drift phonk</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>90%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>66%</strong></p>
     </td>
   </tr>
   
