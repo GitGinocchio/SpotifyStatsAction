@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27336c5ba6a0c7244811ba5139a" href="https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1"><strong>ALICE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh">PEGGY</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2738552d88ecfb8c7adf709a3a5" href="https://open.spotify.com/track/5pqHtOnyeIhyWIwgXn2Ycq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6Jn9qoprkuSfsRW7tTRkOV"><strong>Lake Washington Boulevard</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27381a6a2cafab2e7a4066b5eec" href="https://open.spotify.com/track/2N3U8uTYhjX2KwGT0pf5x0" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2N3U8uTYhjX2KwGT0pf5x0"><strong>Everyday (feat. Rod Stewart, Miguel & Mark Ronson)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a>, <a href="https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT">Rod Stewart</a>, <a href="https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK">Miguel</a>, <a href="https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp">Mark Ronson</a></p>
     </td>
   </tr>
   
