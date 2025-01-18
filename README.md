@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734dd3364b7c6e326056b9914e" href="https://open.spotify.com/track/0WMVBRCXcwTacKLxq0pJox" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c161215b509f14d3331a3341" href="https://open.spotify.com/track/5QWF2T88oa93vL2wChrviS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0WMVBRCXcwTacKLxq0pJox"><strong>Giorni stupidi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BUmFe61H2cYyKVgkwttxj">Rokas</a>, <a href="https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7">EDONiCO</a>, <a href="https://open.spotify.com/artist/5pALJdF7dliaPdFzkw9OIy">Granato</a>, <a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5QWF2T88oa93vL2wChrviS"><strong>Breakin' on a bitch</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/69YOXPkery1zP6lzY0zxwC">Goupil.</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739a60aa596ebddff13dc0e08b" href="https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ddb8d05ab6179d6c41defb52" href="https://open.spotify.com/track/3PSKfTUnf7AkwTjiRj5je7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"><strong>Hate.</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF">ThxSoMch</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3PSKfTUnf7AkwTjiRj5je7"><strong>Money N Choppas</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4IVlMazkvQ2ULfug5Xkrvt">Hymbeats</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b9d15ef46d50144291690cc4" href="https://open.spotify.com/track/5p6pnG0dWaoNugd35URoq1" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273eb3920e4e034a0cdf44f057a" href="https://open.spotify.com/track/0M0Xr1zoB5SwM7zwK6JUxG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5p6pnG0dWaoNugd35URoq1"><strong>Tutte le direzioni</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu">Dutch Nazari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0M0Xr1zoB5SwM7zwK6JUxG"><strong>Portami</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t">Eugenio In Via Di Gioia</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c34e3f972965731cabe219ea" href="https://open.spotify.com/track/5dcyltc1ataieXIeTqhH3t" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e93828278c4a8f4323fb7b33" href="https://open.spotify.com/track/0XhdO6hPMLByA0nk8HAiGN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5dcyltc1ataieXIeTqhH3t"><strong>Missili</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN">Frah Quintale</a>, <a href="https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW">Giorgio Poi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0XhdO6hPMLByA0nk8HAiGN"><strong>Ottima Scusa</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC">Willie Peyote</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739aff38f63984dd93cd1d750b" href="https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738a4281dc0abc2b840e65bcfe" href="https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"><strong>Pyjama Pants</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"><strong>i walk this earth all by myself</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH">EKKSTACY</a></p>
     </td>
   </tr>
   
