@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c14d6f207634fec419db5f75" href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273301febc0d80eb196a0873bd9" href="https://open.spotify.com/track/1KcH2wgxTY8cdVvzQLoRfR" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"><strong>La canzone del sole - Remastered</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1KcH2wgxTY8cdVvzQLoRfR"><strong>Ti amo il venerdì sera</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1JJMLsyBKx4C8PtSlLJQgZ">lemandorle</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/17cDJE4DUg0yyt5ul8xo2K" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fc872e900b5b4d21d99d5c2c" href="https://open.spotify.com/track/2XAUJwY7hk7pC6Cui6hEkt" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17cDJE4DUg0yyt5ul8xo2K"><strong>GLI ALTRI (Giorni Stupidi)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2XAUJwY7hk7pC6Cui6hEkt"><strong>Il Sole Non Aspetta</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1">Colombre</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f0fb186f155fb4712e419db3" href="https://open.spotify.com/track/0Hg5ilTxEZkrSjhhnu4om9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX"><strong>Occhiaie</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0Hg5ilTxEZkrSjhhnu4om9"><strong>Che cosa resta</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA">Giorgieness</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736ee92779c319164d238aa77c" href="https://open.spotify.com/track/4G7sFmR2CxcsZjfk7hAFdV" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b4be1f570931f40abbdec92a" href="https://open.spotify.com/track/5eNBwkUW7ZojK8q0vsH6TD" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4G7sFmR2CxcsZjfk7hAFdV"><strong>Niagara</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F">Izi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5eNBwkUW7ZojK8q0vsH6TD"><strong>L'ADDIO</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us">Coma_Cose</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273de33c9c199cc39dc9eb9f61a" href="https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f37efe2b64c17f6a01da3783" href="https://open.spotify.com/track/6KFxSSyI4KR3bqflXMCnnu" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7"><strong>next to you</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK">JVKE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6KFxSSyI4KR3bqflXMCnnu"><strong>Manzarek</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6hXgWI0ytDb0PsrYTwNtfd">Canova</a></p>
     </td>
   </tr>
   
