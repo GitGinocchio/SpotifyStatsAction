@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273002e0707619e5b2550f82048" href="https://open.spotify.com/track/4rdFefwnMtaqj3wyYalfDU" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f6a1d923d4d72103d2d9e93b" href="https://open.spotify.com/track/3aI2wWEeNmtYDvsAyJahyi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4rdFefwnMtaqj3wyYalfDU"><strong>20143 Milano Navigli</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6Ykc0dSBms4VwFJPQaUVCF">Manfredi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3aI2wWEeNmtYDvsAyJahyi"><strong>Next Exit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4">Vacations</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27343e43cc5bad5dcb157ee3609" href="https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738a4281dc0abc2b840e65bcfe" href="https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"><strong>Oysters In My Pocket</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH">Royel Otis</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"><strong>i walk this earth all by myself</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH">EKKSTACY</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736a0cc10e59a4d3effe78f943" href="https://open.spotify.com/track/3gmJ7cZPgGLKFZFmkzCEfb" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e6065f209e0a01986206bd53" href="https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3gmJ7cZPgGLKFZFmkzCEfb"><strong>La legge di Murphy</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf">CIMINI</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"><strong>Sailor Song</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo">Gigi Perez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27373b0838a8bd8af81bf05cf65" href="https://open.spotify.com/track/4j0Jz4Y3hfo5LkHWhzgPBq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27366641058b34360c76cbaa963" href="https://open.spotify.com/track/7nRuVjmhfYCraHEhfgNv1j" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4j0Jz4Y3hfo5LkHWhzgPBq"><strong>Pianosequenza</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3b8bBMsmGoBd8gYn1pngNc">≈ Belize ≈</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7nRuVjmhfYCraHEhfgNv1j"><strong>Hide Your Kids</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF">ThxSoMch</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732726fa0e66447dc4b20b5ed8" href="https://open.spotify.com/track/3IwadYiQKN7O51JgIH9PBC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e93828278c4a8f4323fb7b33" href="https://open.spotify.com/track/0XhdO6hPMLByA0nk8HAiGN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3IwadYiQKN7O51JgIH9PBC"><strong>no way !</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR">Yot Club</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0XhdO6hPMLByA0nk8HAiGN"><strong>Ottima Scusa</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC">Willie Peyote</a></p>
     </td>
   </tr>
   
@@ -90,7 +90,7 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb8aa0ff279be0623fce3e6c9d" href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb4bfa622806527d4dd894185a" href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"><strong>Marracash</strong></a></p>
