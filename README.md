@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c161215b509f14d3331a3341" href="https://open.spotify.com/track/5QWF2T88oa93vL2wChrviS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/4PKNb8ZNDwsfqShu6iOkms" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5QWF2T88oa93vL2wChrviS"><strong>Breakin' on a bitch</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/69YOXPkery1zP6lzY0zxwC">Goupil.</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4PKNb8ZNDwsfqShu6iOkms"><strong>Anima Gemella</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ddb8d05ab6179d6c41defb52" href="https://open.spotify.com/track/3PSKfTUnf7AkwTjiRj5je7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/06OkRhgraGedUoJHG4LU7k" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3PSKfTUnf7AkwTjiRj5je7"><strong>Money N Choppas</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4IVlMazkvQ2ULfug5Xkrvt">Hymbeats</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/06OkRhgraGedUoJHG4LU7k"><strong>Acqua Brillante</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eb3920e4e034a0cdf44f057a" href="https://open.spotify.com/track/0M0Xr1zoB5SwM7zwK6JUxG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0M0Xr1zoB5SwM7zwK6JUxG"><strong>Portami</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t">Eugenio In Via Di Gioia</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ"><strong>2000</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e93828278c4a8f4323fb7b33" href="https://open.spotify.com/track/0XhdO6hPMLByA0nk8HAiGN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734de4da55422167fcc47fba65" href="https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0XhdO6hPMLByA0nk8HAiGN"><strong>Ottima Scusa</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC">Willie Peyote</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"><strong>Jealous</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB">Eyedress</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738a4281dc0abc2b840e65bcfe" href="https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27373b0838a8bd8af81bf05cf65" href="https://open.spotify.com/track/6JDWZ7FD5Hst2mhUGKZwEK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"><strong>i walk this earth all by myself</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH">EKKSTACY</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6JDWZ7FD5Hst2mhUGKZwEK"><strong>Non aprite quella porta</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3b8bBMsmGoBd8gYn1pngNc">≈ Belize ≈</a>, <a href="https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ">Mecna</a></p>
     </td>
   </tr>
   
