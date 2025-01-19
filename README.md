@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27373b0838a8bd8af81bf05cf65" href="https://open.spotify.com/track/6JDWZ7FD5Hst2mhUGKZwEK" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68" href="https://open.spotify.com/track/4m41QtNl3kRxQXTet1oCyQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6JDWZ7FD5Hst2mhUGKZwEK"><strong>Non aprite quella porta</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3b8bBMsmGoBd8gYn1pngNc">≈ Belize ≈</a>, <a href="https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ">Mecna</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4m41QtNl3kRxQXTet1oCyQ"><strong>Hikikomori</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27357a7e02ba7fb858516106524" href="https://open.spotify.com/track/3tHUvprpEXpEHWLZJ8ZI80" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273483e663be2ab8750598e3919" href="https://open.spotify.com/track/1bsQZS3ttepxAUQCsUkLpg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3tHUvprpEXpEHWLZJ8ZI80"><strong>Quando Sono Con Te</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/237CwiTh0USBnyLOSC3FIW">Ex-Otago</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1bsQZS3ttepxAUQCsUkLpg"><strong>La Nostra Ultima Canzone</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3">Motta</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616" href="https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ab2d601177caa3074c7d4a2b" href="https://open.spotify.com/track/4sE5wzpPd4s8kTdtVC18lY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX"><strong>3 Nights</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs">Dominic Fike</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4sE5wzpPd4s8kTdtVC18lY"><strong>Nonono</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f3879edcb50a3665dd5e81b4" href="https://open.spotify.com/track/07MAvbQx1Ica9Qp3IUQKLJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273301febc0d80eb196a0873bd9" href="https://open.spotify.com/track/1KcH2wgxTY8cdVvzQLoRfR" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07MAvbQx1Ica9Qp3IUQKLJ"><strong>Charlotte</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3E0AdQIPzFjiMFto5NiKuM">L'Officina Della Camomilla</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1KcH2wgxTY8cdVvzQLoRfR"><strong>Ti amo il venerdì sera</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1JJMLsyBKx4C8PtSlLJQgZ">lemandorle</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273566737e323a84c13b37c51b7" href="https://open.spotify.com/track/3qymmynl9HTSIHQZ81g1KH" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f0fb186f155fb4712e419db3" href="https://open.spotify.com/track/0Hg5ilTxEZkrSjhhnu4om9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3qymmynl9HTSIHQZ81g1KH"><strong>Il posto più freddo</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP">I Cani</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0Hg5ilTxEZkrSjhhnu4om9"><strong>Che cosa resta</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA">Giorgieness</a></p>
     </td>
   </tr>
   
