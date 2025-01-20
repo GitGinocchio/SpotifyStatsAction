@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27387f01b35a5806d46277a4316" href="https://open.spotify.com/track/2ZoeyU8BudZBCyFOR8d5kw" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c16d7b73bd1445e941588b73" href="https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ZoeyU8BudZBCyFOR8d5kw"><strong>E yo mamma</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"><strong>Beanie</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH">Chezile</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739a60aa596ebddff13dc0e08b" href="https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"><strong>Hate.</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF">ThxSoMch</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a788765bdda04106bd7b0d29" href="https://open.spotify.com/track/0qOCy2LqvdkMora7eZsJhQ" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0qOCy2LqvdkMora7eZsJhQ"><strong>From the Subway Train</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY">Vansire</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737e05a226a97cdbdcab2c5a21" href="https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"><strong>È sempre bello</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ef5b4691c38707b5e24ebcf3" href="https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273728d239abc30ce14d4e2a909" href="https://open.spotify.com/track/5mA4Cos6BfYdAbstzE1Ood" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC"><strong>Passing Through (Can't the Future Just Wait)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3pvdhTDfKYnjDZ0R41qY3x">Kaden MacKay</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27302bf978e1bf6fc4c2e4a3cee" href="https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y"><strong>RUGGINE ⚮ (con chiello & Coez)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1">MACE</a>, <a href="https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h">chiello</a>, <a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737ac3c98d3e7bb66e5950fee2" href="https://open.spotify.com/track/4j1BrbGVCyVfbOKDH7AUmW" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4j1BrbGVCyVfbOKDH7AUmW"><strong>We Fell Apart</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1oAtPfjSyQWY7rERuiYnpl">ANGUISH</a>, <a href="https://open.spotify.com/artist/5apirtCAsDUQ9ERSIyMbHO">AmbVsh</a>, <a href="https://open.spotify.com/artist/58V1mBG998BXT4jR5YvIGt">ily</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" href="https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk"><strong>Everyday</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L">Logic</a>, <a href="https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T">Marshmello</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5mA4Cos6BfYdAbstzE1Ood"><strong>Nabucodonosor</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP">I Cani</a>, <a href="https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi">Baustelle</a></p>
     </td>
   </tr>
   
