@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/0vrmJ3WdKnbBhtMszRS1Fq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273210484981a7d3ec04f5958b0" href="https://open.spotify.com/track/13wkp4Ph4UNAVPwf9B04l8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0vrmJ3WdKnbBhtMszRS1Fq"><strong>Tazza di te</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/13wkp4Ph4UNAVPwf9B04l8"><strong>VITTIMA</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fa225aa8e8f65e2aebe340eb" href="https://open.spotify.com/track/0oR0Wr9N52K1vbAOuGvMJz" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03" href="https://open.spotify.com/track/42er1na9BHF1ERol51wg8M" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0oR0Wr9N52K1vbAOuGvMJz"><strong>blun7 a swishland</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/42er1na9BHF1ERol51wg8M"><strong>Imperfections (Interlude)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj">Pop Smoke</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fc872e900b5b4d21d99d5c2c" href="https://open.spotify.com/track/2XAUJwY7hk7pC6Cui6hEkt" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273210484981a7d3ec04f5958b0" href="https://open.spotify.com/track/6hBvXhUosokAqnc701pVE1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2XAUJwY7hk7pC6Cui6hEkt"><strong>Il Sole Non Aspetta</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1">Colombre</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6hBvXhUosokAqnc701pVE1"><strong>È FINITA LA PACE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68" href="https://open.spotify.com/track/2U5HniU0cZtzL8kJtf15hp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732312d9f0e02101e41c71ad5f" href="https://open.spotify.com/track/3p8wGCMs65UZZrEyHY9JCG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2U5HniU0cZtzL8kJtf15hp"><strong>Stage Diving</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3p8wGCMs65UZZrEyHY9JCG"><strong>Il Mare Non è Niente di Speciale</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2cyUWxvwNaqPrTooyn6ssd">Cambogia</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737c99edb4ad84adff8f2f157a" href="https://open.spotify.com/track/0viz6QyUJatttRM40GnXsN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27315780e3496c9fec45bdfdbb4" href="https://open.spotify.com/track/1NltEhWH77wzaYiFeg6ZUK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0viz6QyUJatttRM40GnXsN"><strong>Occhi Lucidi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos">Leon Faun</a>, <a href="https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL">Duffy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1NltEhWH77wzaYiFeg6ZUK"><strong>Altrove</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t">Eugenio In Via Di Gioia</a></p>
     </td>
   </tr>
   
