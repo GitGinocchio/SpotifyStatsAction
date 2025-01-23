@@ -13,6 +13,36 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e3701b34e9cab44078dd85df" href="https://open.spotify.com/track/25BDeRoVlxxa5Jrlv8wsAD" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/25BDeRoVlxxa5Jrlv8wsAD"><strong>Club Astronave</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/29IpqxHCIFMvvGOPHIFRWv">Paola Iezzi</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27345ad5ec89259e60996bcd6c8" href="https://open.spotify.com/track/3dzwxkefk58p6aXC3ADRt9" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3dzwxkefk58p6aXC3ADRt9"><strong>Дико, например</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA">PHARAOH</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" href="https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"><strong>the boy is mine</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR">Ariana Grande</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273f3fb166b5515fb19b070773c" href="https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -28,36 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"><strong>Darling, I (feat. Teezo Touchdown)</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF">Tyler, The Creator</a>, <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36">Teezo Touchdown</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273397d02cfe1aab2923f9d1697" href="https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H"><strong>Machu Picchu</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V">The Strokes</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a84dcfaf785b6cbc2ce257f6" href="https://open.spotify.com/track/3RE5QFGj2rkVmX1Hzp1HPb" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3RE5QFGj2rkVmX1Hzp1HPb"><strong>Spooky Season</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/36LAa1XMfd4yEJh3Xpr2XZ">Max Duff</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ab738b25b86bf02f0346c53d" href="https://open.spotify.com/track/63oDfrgZRgZrTJE88GGC5I" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/63oDfrgZRgZrTJE88GGC5I"><strong>Company Pt 2</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs">Don Toliver</a></p>
     </td>
   </tr>
   
