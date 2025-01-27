@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ef2e4d695cb2d76681855b8f" href="https://open.spotify.com/track/3BvheqhKGQgFMSiiJh6ayj" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3BvheqhKGQgFMSiiJh6ayj"><strong>Bleeding Out</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q">Imagine Dragons</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2738ac5768205ad97df3f4f4c0e" href="https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"><strong>La canzone del sole - Remastered</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/0vrmJ3WdKnbBhtMszRS1Fq" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0vrmJ3WdKnbBhtMszRS1Fq"><strong>Tazza di te</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
     </td>
   </tr>
   
