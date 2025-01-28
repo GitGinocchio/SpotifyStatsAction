@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ef2e4d695cb2d76681855b8f" href="https://open.spotify.com/track/3BvheqhKGQgFMSiiJh6ayj" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ced808ef1567eaf901041438" href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3BvheqhKGQgFMSiiJh6ayj"><strong>Bleeding Out</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q">Imagine Dragons</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"><strong>Afraid To Feel</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO">LF SYSTEM</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738ac5768205ad97df3f4f4c0e" href="https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27399cf928a0bc891cdf194efe6" href="https://open.spotify.com/track/7C46jorYluTB3hjZVosozw" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7"><strong>Somebody That I Used To Know</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG">Gotye</a>, <a href="https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti">Kimbra</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7C46jorYluTB3hjZVosozw"><strong>MATERIAL LOVE (w/ removeface)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a>, <a href="https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF">removeface</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735352747d92a79ff650e7e152" href="https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27367ee332af483acd134fd6fd0" href="https://open.spotify.com/track/2IVsRhKrx8hlQBOWy4qebo" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM"><strong>Pretty Boy</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4">Isabel LaRosa</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2IVsRhKrx8hlQBOWy4qebo"><strong>Mr. Loverman</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw">Ricky Montgomery</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27302d6db75812c4835d6f0622d" href="https://open.spotify.com/track/15kAcNYubKWtKaEmCu4iMg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a29186e92ad38b89ae1611ea" href="https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/15kAcNYubKWtKaEmCu4iMg"><strong>Cette vie</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6wBLSFOSNFgdUme2WHGCWv">Eliott</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI"><strong>Fool</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c14d6f207634fec419db5f75" href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ceaeb9d72a6398f943ca9ad8" href="https://open.spotify.com/track/2djOxwoE66cQDWST9J3QQ5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"><strong>La canzone del sole - Remastered</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2djOxwoE66cQDWST9J3QQ5"><strong>Italiani a Londra</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn">Il Pagante</a>, <a href="https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5">J-AX</a></p>
     </td>
   </tr>
   
