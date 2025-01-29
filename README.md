@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273215cac8c30b47bb1bfb9d2d1" href="https://open.spotify.com/track/1jzIJcHCXneHw7ojC6LXiF" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27389070654f69ee060803403f3" href="https://open.spotify.com/track/5eSC7faDYHxnklPjcxZjD6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1jzIJcHCXneHw7ojC6LXiF"><strong>Potato Salad</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF">Tyler, The Creator</a>, <a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5eSC7faDYHxnklPjcxZjD6"><strong>BRAVI A CADERE - I polmoni</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f7410ab075ebae4cc4fcfdd4" href="https://open.spotify.com/track/3Rak9PxrkDU2IGv4XThNQT" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6" href="https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Rak9PxrkDU2IGv4XThNQT"><strong>con me (feat. thasup)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt">MILES</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj"><strong>Smells Like Teen Spirit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh">Nirvana</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737842fd51802451ff61483dcf" href="https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273988a9f5b85de9e07f0fd1e36" href="https://open.spotify.com/track/5Nwk994TCUW3qRLdpovv1p" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"><strong>Lost in the Fire (feat. The Weeknd)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP">Gesaffelstein</a>, <a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5Nwk994TCUW3qRLdpovv1p"><strong>ASCEND!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0WcWsi3Dcn8pJg8Y9WCeaa">AXTRAL INDEX</a>, <a href="https://open.spotify.com/artist/7mCut7sn0qwlFDMBGB0E2F">Kirin Kira</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737e05a226a97cdbdcab2c5a21" href="https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ed443f0fff29eee63c9ede20" href="https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"><strong>La tua canzone</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"><strong>Deep Down (feat. Never Dull)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W">Alok</a>, <a href="https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA">Ella Eyre</a>, <a href="https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX">Kenny Dope</a>, <a href="https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm">Never Dull</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c5d3734476d50ee111cb3ae2" href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dd0a40eecd4b13e4c59988da" href="https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rfkg8TbFWBGqNeWbd3FJZ"><strong>2000</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1"><strong>Happier</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T">Marshmello</a>, <a href="https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc">Bastille</a></p>
     </td>
   </tr>
   
