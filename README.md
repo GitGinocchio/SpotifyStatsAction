@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737fbf93cea6780bfa0399a62c" href="https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b7504d3f9ef7d1cef58d00e7" href="https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX"><strong>Roi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1">Videoclub</a>, <a href="https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0">Adèle Castillon</a>, <a href="https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF">Mattyeux</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP"><strong>HYPNOTIC DATA</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732aab4ea84f431ad7d92fecbb" href="https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b7504d3f9ef7d1cef58d00e7" href="https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"><strong>Ma Meilleure Ennemie (from the series Arcane League of Legends)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR">Stromae</a>, <a href="https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9">Pomme</a>, <a href="https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR">Arcane</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP"><strong>HYPNOTIC DATA</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273210484981a7d3ec04f5958b0" href="https://open.spotify.com/track/0Op5iGBVLyY0G1lDDRfEnf" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" href="https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0Op5iGBVLyY0G1lDDRfEnf"><strong>CRASH</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"><strong>Empire State Of Mind</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB">JAY-Z</a>, <a href="https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa">Alicia Keys</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736771a05f34d77e5fc2bde64c" href="https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37" href="https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"><strong>HOLIDAY</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"><strong>Jimmy Cooks (feat. 21 Savage)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a>, <a href="https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft">21 Savage</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732c33399e119cec9b0fcde564" href="https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273397d02cfe1aab2923f9d1697" href="https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"><strong>Say You, Say Me</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl">Lionel Richie</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H"><strong>Machu Picchu</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V">The Strokes</a></p>
     </td>
   </tr>
   
@@ -77,7 +77,7 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb4bfa622806527d4dd894185a" href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb8aa0ff279be0623fce3e6c9d" href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"><strong>Marracash</strong></a></p>
