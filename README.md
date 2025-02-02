@@ -13,50 +13,50 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f19cbe09aa5a2f2eac4f5417" href="https://open.spotify.com/track/21F52gJo0mQifkLHQMS3Ir" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f19cbe09aa5a2f2eac4f5417" href="https://open.spotify.com/track/27ACSrF3ZcYrmYEA6WxqeG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/21F52gJo0mQifkLHQMS3Ir"><strong>Stammi bene</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/27ACSrF3ZcYrmYEA6WxqeG"><strong>Tutto Qui</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN">Gazzelle</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273492a28f37c847f3d13ba5a71" href="https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f19cbe09aa5a2f2eac4f5417" href="https://open.spotify.com/track/41EkgntHzVw0xL444jxXIU" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4"><strong>Sopra</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/41EkgntHzVw0xL444jxXIU"><strong>Il mio amico si sposa</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN">Gazzelle</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d5bcb4e1baec7e7413d6a2b9" href="https://open.spotify.com/track/6RDCUnAj3V4s37b0BBBXTa" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f19cbe09aa5a2f2eac4f5417" href="https://open.spotify.com/track/6lsJb25EyT1in0xmJXOa3j" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6RDCUnAj3V4s37b0BBBXTa"><strong>Coltellata (feat. thasup)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN">Gazzelle</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f19cbe09aa5a2f2eac4f5417" href="https://open.spotify.com/track/1PiuMuVHlnsPgBPC2yeaWx" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1PiuMuVHlnsPgBPC2yeaWx"><strong>Mezzo secondo</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6lsJb25EyT1in0xmJXOa3j"><strong>Foglie</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN">Gazzelle</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f19cbe09aa5a2f2eac4f5417" href="https://open.spotify.com/track/5p319BfcZtPd7Y8FOGB3yH" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f19cbe09aa5a2f2eac4f5417" href="https://open.spotify.com/track/6yFIi7oSjwcL8lOhz1nW5c" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5p319BfcZtPd7Y8FOGB3yH"><strong>Grattacieli meteoriti gli angeli</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6yFIi7oSjwcL8lOhz1nW5c"><strong>Da capo a 12</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN">Gazzelle</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f19cbe09aa5a2f2eac4f5417" href="https://open.spotify.com/track/4FugQ04nnhzEAVnwcsC0wG" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4FugQ04nnhzEAVnwcsC0wG"><strong>Come il pane</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN">Gazzelle</a></p>
     </td>
   </tr>
