@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739efc623f9c64c8efb583b186" href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273841e18c8db404401967bb429" href="https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"><strong>Just Can’t Get Enough</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS">Black Eyed Peas</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM"><strong>METAMORPHOSIS - Slowed + Reverb</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733d2dfa42f771cd458b194979" href="https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736a922a01d3fb1c53873b1f9d" href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"><strong>Dark Red</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp">Steve Lacy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"><strong>MONTAGEM - PR FUNK</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id">S3BZS</a>, <a href="https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2">Mc Gw</a>, <a href="https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH">Mc Menor Do Alvorada</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273771abd32d4f4fea582171cbd" href="https://open.spotify.com/track/7tsTlt7Kwj2tFvpukBtZd4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ed0d94645ec171a19a05b2b9" href="https://open.spotify.com/track/5ga7nw5xFdLjKWnZmMpoQ8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7tsTlt7Kwj2tFvpukBtZd4"><strong>IMPORTANTE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ga7nw5xFdLjKWnZmMpoQ8"><strong>POKER FACE HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68" href="https://open.spotify.com/track/4ICCU06b8FkQIrMv0XTzlv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e4abb0fb75117230282cd98c" href="https://open.spotify.com/track/48pJegL9ryrhgDYdNjNSPz" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4ICCU06b8FkQIrMv0XTzlv"><strong>Giovani Wannabe</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/48pJegL9ryrhgDYdNjNSPz"><strong>GLORY - Sped Up</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm">Ogryzek</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c17df392e8863c69361422c9" href="https://open.spotify.com/track/7CQ2IUALMZScQUbpdiSxdk" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f463ab32d3175cfe480dbd8d" href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7CQ2IUALMZScQUbpdiSxdk"><strong>Sober</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL">Childish Gambino</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"><strong>ALORS BRAZIL</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn">NONTHENSE</a></p>
     </td>
   </tr>
   
