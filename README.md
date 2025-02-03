@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273427c80da235cb76fc89b8e27" href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27302d6db75812c4835d6f0622d" href="https://open.spotify.com/track/15kAcNYubKWtKaEmCu4iMg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"><strong>Montagem Mysterious Game</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK">LXNGVX</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/15kAcNYubKWtKaEmCu4iMg"><strong>Cette vie</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6wBLSFOSNFgdUme2WHGCWv">Eliott</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735094c7ddde5b276cf014875d" href="https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27355c6cd63145b50a335f39ec8" href="https://open.spotify.com/track/7n377RTKsPkLTbJNWn8Hww" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"><strong>EMPTY DREAMS</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP">CYPARISS</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7n377RTKsPkLTbJNWn8Hww"><strong>GreyGoose</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d1c976c907b1a48546709b5b" href="https://open.spotify.com/track/7IERlpRyP1u7CLJI6nbbPr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4" href="https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7IERlpRyP1u7CLJI6nbbPr"><strong>S&M - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"><strong>Lucid Dreams</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e07c46427e9c11257992aa93" href="https://open.spotify.com/track/2iUrRfq5qzeDJBTZ4f92Jh" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b395acedffa5fa8e7696aea2" href="https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2iUrRfq5qzeDJBTZ4f92Jh"><strong>Meet Me Halfway - Speed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2UUNqX43sA4dxX698liyey">Ren</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7"><strong>No Other Heart</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM">Mac DeMarco</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27329508ebb110a7748dcf5954d" href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bc7a69dc59ab4e53d2b8c511" href="https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"><strong>Anadrol</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg">Yosuf</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr"><strong>Dove Si Balla</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm">Dargen D'Amico</a></p>
     </td>
   </tr>
   
