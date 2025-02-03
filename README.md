@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737c99edb4ad84adff8f2f157a" href="https://open.spotify.com/track/0iLXTfhF58kCYZONVJOWxi" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dfabdcea41553b2671927fc5" href="https://open.spotify.com/track/5xjyCc4doomao4SkrAK29U" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0iLXTfhF58kCYZONVJOWxi"><strong>Gaia</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos">Leon Faun</a>, <a href="https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL">Duffy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5xjyCc4doomao4SkrAK29U"><strong>EEYUH! x Fluxxwave - Slowed + Reverb</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6">Clovis Reyes</a>, <a href="https://open.spotify.com/artist/3UrGictkKDBfGKpK2ZiWGX">HR</a>, <a href="https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY">Irokz</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273212525123d621f67a356ef66" href="https://open.spotify.com/track/4AZXprOONJChrVlv36ZneE" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737f2bc865b522cedbfbc43fed" href="https://open.spotify.com/track/6wKTt2B7XcSjgv3tQdkgVq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4AZXprOONJChrVlv36ZneE"><strong>xiiiiiii</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7">ODECORE</a>, <a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6wKTt2B7XcSjgv3tQdkgVq"><strong>THE HILLS - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27387f01b35a5806d46277a4316" href="https://open.spotify.com/track/7bwLvVHpxOuOtg50aicp7c" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bafe2f488c890826ee114dea" href="https://open.spotify.com/track/7I7mNDqriTh52HfdZHexka" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7bwLvVHpxOuOtg50aicp7c"><strong>Taciturnal</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a>, <a href="https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04">Gemello</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7I7mNDqriTh52HfdZHexka"><strong>SAFE AND SOUND (HARDSTYLE)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27302d6db75812c4835d6f0622d" href="https://open.spotify.com/track/15kAcNYubKWtKaEmCu4iMg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273351ce9fdd77e6a3c84457a18" href="https://open.spotify.com/track/1wWTkTvMjB3U61RImy3jW7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/15kAcNYubKWtKaEmCu4iMg"><strong>Cette vie</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6wBLSFOSNFgdUme2WHGCWv">Eliott</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1wWTkTvMjB3U61RImy3jW7"><strong>EVERYTIME WE TOUCH - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27355c6cd63145b50a335f39ec8" href="https://open.spotify.com/track/7n377RTKsPkLTbJNWn8Hww" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736a31f70030d3de5fd9b843b6" href="https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7n377RTKsPkLTbJNWn8Hww"><strong>GreyGoose</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"><strong>Milkshake 20 - Alex Wann Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM">Kelis</a>, <a href="https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT">Alex Wann</a></p>
     </td>
   </tr>
   
