@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733a78826c5b2c91d7c64200e8" href="https://open.spotify.com/track/4Bihr8csKb1a97N50n04p1" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737c99edb4ad84adff8f2f157a" href="https://open.spotify.com/track/6TTJKILWeUNRT12yfxaXWH" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Bihr8csKb1a97N50n04p1"><strong>Loop - Radio Edit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/49WTsslK1g6frRdr895unr">GLWKMOD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6TTJKILWeUNRT12yfxaXWH"><strong>Ricordi Bui</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos">Leon Faun</a>, <a href="https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL">Duffy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733a78826c5b2c91d7c64200e8" href="https://open.spotify.com/track/4Bihr8csKb1a97N50n04p1" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273abdde781e79a44868914e661" href="https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Bihr8csKb1a97N50n04p1"><strong>Loop - Radio Edit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/49WTsslK1g6frRdr895unr">GLWKMOD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"><strong>misses</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs">Dominic Fike</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362c1f3370811c52ae2d26d24" href="https://open.spotify.com/track/4rtS1H5ksiVFaAtak2Jdmi" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733a929daf339e9f58a2d3b75a" href="https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4rtS1H5ksiVFaAtak2Jdmi"><strong>Heartbeat</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB">Joe Hisaishi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"><strong>Praising You (feat. Fatboy Slim)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr">Rita Ora</a>, <a href="https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW">Fatboy Slim</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27316f48ac1e989d7acc028e9cf" href="https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d987abade8b3c32e14b1b2d8" href="https://open.spotify.com/track/1AP7yzd4qSdKVcupPC827R" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"><strong>Something About You</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB">Eyedress</a>, <a href="https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7">Dent May</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1AP7yzd4qSdKVcupPC827R"><strong>Clear - Shawn Wasabi Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2exudSjTjUksRJhnF5JZYn">Pusher</a>, <a href="https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA">MOTHICA</a>, <a href="https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY">Shawn Wasabi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737eed643453ef7de39d14c749" href="https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731c98b8198862c9b761703c6c" href="https://open.spotify.com/track/76mNr58LT9ASZ5D0ltYQwq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"><strong>WHAT YOU WANT!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9">asteria</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/76mNr58LT9ASZ5D0ltYQwq"><strong>APPLAUSE - Hardstyle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
