@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733a929daf339e9f58a2d3b75a" href="https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" href="https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"><strong>Praising You (feat. Fatboy Slim)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr">Rita Ora</a>, <a href="https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW">Fatboy Slim</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"><strong>THATS WHAT I WANT</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf" href="https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b8cf783da28c05184f51f6ea" href="https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"><strong>La musica non c'è</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"><strong>fall in love with a girl (feat. Beabadoobee)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a>, <a href="https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB">beabadoobee</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" href="https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305f5045b4ff6cb74fa963f96" href="https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"><strong>on the street (with J. Cole)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy">j-hope</a>, <a href="https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5">J. Cole</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg"><strong>Roi - Instrumental</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug">Mckyyy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736239187793c9e492e687db01" href="https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37" href="https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"><strong>Old Town Road (feat. Billy Ray Cyrus) - Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a>, <a href="https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa">Billy Ray Cyrus</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"><strong>Jimmy Cooks (feat. 21 Savage)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a>, <a href="https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft">21 Savage</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27378197b100b89ff863e7917ac" href="https://open.spotify.com/track/4NlRBHQFKKgTJiDWG02fIV" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737c99edb4ad84adff8f2f157a" href="https://open.spotify.com/track/6TTJKILWeUNRT12yfxaXWH" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4NlRBHQFKKgTJiDWG02fIV"><strong>a kind thing to do (feat. Vic Fuentes)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a>, <a href="https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv">Pierce The Veil</a>, <a href="https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx">Vic Fuentes</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6TTJKILWeUNRT12yfxaXWH"><strong>Ricordi Bui</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos">Leon Faun</a>, <a href="https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL">Duffy</a></p>
     </td>
   </tr>
   
