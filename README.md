@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737ed2fc9bbf9214f07a217aae" href="https://open.spotify.com/track/0Hu7MIDZWEiipqaN2UBCet" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b" href="https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0Hu7MIDZWEiipqaN2UBCet"><strong>Heroine</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk">Dimitri Vegas & Like Mike</a>, <a href="https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO">Dimitri Vegas</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"><strong>Numb</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730aa08f8923434aab06e43b37" href="https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738145b51d1cdca483aff64358" href="https://open.spotify.com/track/4Sxx1wd4nnB8ob8Zsujwrs" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"><strong>Thank You (Not So Bad)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk">Dimitri Vegas & Like Mike</a>, <a href="https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>, <a href="https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs">Dido</a>, <a href="https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4">W&W</a>, <a href="https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO">Dimitri Vegas</a>, <a href="https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi">Like Mike</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Sxx1wd4nnB8ob8Zsujwrs"><strong>Shadow of the Day</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733b05a91721adc9f73ba36b91" href="https://open.spotify.com/track/65kEwbMrN2Di3lssI5bvjv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68" href="https://open.spotify.com/track/4ICCU06b8FkQIrMv0XTzlv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/65kEwbMrN2Di3lssI5bvjv"><strong>La notte vola</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3vrdwWVmzTsSJotjp92OPW">Carolina Marquez</a>, <a href="https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A">DJ Matrix</a>, <a href="https://open.spotify.com/artist/4tvFg9qFhq66pEncmIyyaU">Matt Joe</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4ICCU06b8FkQIrMv0XTzlv"><strong>Giovani Wannabe</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273475929e0e013ec3ced646922" href="https://open.spotify.com/track/3THkkvr0o6pb8l83gxFYX4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735b4ab5f566a98ffe5c2725fd" href="https://open.spotify.com/track/3qhvwhJfUBPkEPbBFwLnDN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3THkkvr0o6pb8l83gxFYX4"><strong>Camilla (feat. Mad Fiftyone)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A">DJ Matrix</a>, <a href="https://open.spotify.com/artist/4tvFg9qFhq66pEncmIyyaU">Matt Joe</a>, <a href="https://open.spotify.com/artist/6XXry2KaelWHm47WrZCNz7">Mad Fiftyone</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3qhvwhJfUBPkEPbBFwLnDN"><strong>Howl's Moving Castle - Merry Go Round Of Life - Main Theme</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw">Geek Music</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27378f4c813ac4ce639cc1dc06d" href="https://open.spotify.com/track/6WRgdac59FM82zU45dOQXc" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27362c1f3370811c52ae2d26d24" href="https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6WRgdac59FM82zU45dOQXc"><strong>Just Da Bit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2ZhNwwAIjVKhN9iy4br78h">Jack Mazzoni</a>, <a href="https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A">DJ Matrix</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu"><strong>The Flower Garden</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB">Joe Hisaishi</a></p>
     </td>
   </tr>
   
