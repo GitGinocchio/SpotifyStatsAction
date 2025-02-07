@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27399db4ee49d361f876e0a7f14" href="https://open.spotify.com/track/0IueCAa7AbmICEdmOpByO1" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737ed2fc9bbf9214f07a217aae" href="https://open.spotify.com/track/0Hu7MIDZWEiipqaN2UBCet" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0IueCAa7AbmICEdmOpByO1"><strong>Bohémien</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0Hu7MIDZWEiipqaN2UBCet"><strong>Heroine</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk">Dimitri Vegas & Like Mike</a>, <a href="https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO">Dimitri Vegas</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737e05a226a97cdbdcab2c5a21" href="https://open.spotify.com/track/3oyfNrrR0GHepmHjXyNhBV" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730aa08f8923434aab06e43b37" href="https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3oyfNrrR0GHepmHjXyNhBV"><strong>Catene</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"><strong>Thank You (Not So Bad)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk">Dimitri Vegas & Like Mike</a>, <a href="https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>, <a href="https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs">Dido</a>, <a href="https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4">W&W</a>, <a href="https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO">Dimitri Vegas</a>, <a href="https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi">Like Mike</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f2486b438645e97b523e4f90" href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733b05a91721adc9f73ba36b91" href="https://open.spotify.com/track/65kEwbMrN2Di3lssI5bvjv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"><strong>Timber</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg">Pitbull</a>, <a href="https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX">Kesha</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/65kEwbMrN2Di3lssI5bvjv"><strong>La notte vola</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3vrdwWVmzTsSJotjp92OPW">Carolina Marquez</a>, <a href="https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A">DJ Matrix</a>, <a href="https://open.spotify.com/artist/4tvFg9qFhq66pEncmIyyaU">Matt Joe</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be" href="https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273475929e0e013ec3ced646922" href="https://open.spotify.com/track/3THkkvr0o6pb8l83gxFYX4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"><strong>Billie Jean</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm">Michael Jackson</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3THkkvr0o6pb8l83gxFYX4"><strong>Camilla (feat. Mad Fiftyone)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A">DJ Matrix</a>, <a href="https://open.spotify.com/artist/4tvFg9qFhq66pEncmIyyaU">Matt Joe</a>, <a href="https://open.spotify.com/artist/6XXry2KaelWHm47WrZCNz7">Mad Fiftyone</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27312b69bf576f5e80291f75161" href="https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27378f4c813ac4ce639cc1dc06d" href="https://open.spotify.com/track/6WRgdac59FM82zU45dOQXc" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl"><strong>K.</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj">Cigarettes After Sex</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6WRgdac59FM82zU45dOQXc"><strong>Just Da Bit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2ZhNwwAIjVKhN9iy4br78h">Jack Mazzoni</a>, <a href="https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A">DJ Matrix</a></p>
     </td>
   </tr>
   
