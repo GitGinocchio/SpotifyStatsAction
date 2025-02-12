@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738552d88ecfb8c7adf709a3a5" href="https://open.spotify.com/track/5pqHtOnyeIhyWIwgXn2Ycq" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5pqHtOnyeIhyWIwgXn2Ycq"><strong>Congratulations - Piano Version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Mr0dXg1KM8bmg2tBe2xEe">Kim Bo</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d6839051c4760457e1a60b2a" href="https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"><strong>we fell in love in october</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9">girl in red</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273810603c94c9246379604cf1a" href="https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -38,26 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"><strong>Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF">Eiffel 65</a>, <a href="https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D">Gabry Ponte</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739aff38f63984dd93cd1d750b" href="https://open.spotify.com/track/2XENU2ocnZVqpwF7O71fIi" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2XENU2ocnZVqpwF7O71fIi"><strong>I Miss My Mum</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730d712e0a3f9fa8455fd3416c" href="https://open.spotify.com/track/58BHDp9PmCvxClB3alu3un" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/58BHDp9PmCvxClB3alu3un"><strong>La Mia Queen</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3iYwsCmyIpFw5GLKwL6V77">Babaman</a>, <a href="https://open.spotify.com/artist/2UlrY6lTmU6G1mFrp14aJ1">Mene</a></p>
     </td>
   </tr>
   
