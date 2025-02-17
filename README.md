@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/0vrmJ3WdKnbBhtMszRS1Fq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737c99edb4ad84adff8f2f157a" href="https://open.spotify.com/track/6TTJKILWeUNRT12yfxaXWH" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0vrmJ3WdKnbBhtMszRS1Fq"><strong>Tazza di te</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6TTJKILWeUNRT12yfxaXWH"><strong>Ricordi Bui</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos">Leon Faun</a>, <a href="https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL">Duffy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e839ec97b284acc8b7f53165" href="https://open.spotify.com/track/2D70Rxq21tVlTJwtugZ4CA" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb" href="https://open.spotify.com/track/48Nh04YgUsE4b5V3y9sIdD" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2D70Rxq21tVlTJwtugZ4CA"><strong>BLESS SU BLESS</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk">Mara Sattei</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/48Nh04YgUsE4b5V3y9sIdD"><strong>Gaetano</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bde3c2d2dcbee4dbd46b4e73" href="https://open.spotify.com/track/416MsJxvxSKY96DCmbJIRs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27399db4ee49d361f876e0a7f14" href="https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/416MsJxvxSKY96DCmbJIRs"><strong>The Hanging Tree</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2">James Newton Howard</a>, <a href="https://open.spotify.com/artist/3oCIYpmkFw8KGWwMNPKgXh">Jennifer Lawrence</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"><strong>La storia infinita</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736ccc435f41f4c59702ecfcd6" href="https://open.spotify.com/track/1aIMyZUrzSkRXJgYO0XO3R" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e6065f209e0a01986206bd53" href="https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1aIMyZUrzSkRXJgYO0XO3R"><strong>Ti Fa Stare Bene</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB">Caparezza</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"><strong>Sailor Song</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo">Gigi Perez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9" href="https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68" href="https://open.spotify.com/track/4m41QtNl3kRxQXTet1oCyQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"><strong>There Is a Light That Never Goes Out - 2011 Remaster</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8">The Smiths</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4m41QtNl3kRxQXTet1oCyQ"><strong>Hikikomori</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
