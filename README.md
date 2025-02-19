@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b5a594d0fa0b0c9e1f1ae142" href="https://open.spotify.com/track/7w0BSw2zbz5k2YY7FOAsSm" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27355c6cd63145b50a335f39ec8" href="https://open.spotify.com/track/7n377RTKsPkLTbJNWn8Hww" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7w0BSw2zbz5k2YY7FOAsSm"><strong>Situation</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs">Don Toliver</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7n377RTKsPkLTbJNWn8Hww"><strong>GreyGoose</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27364fa1bda999f4fbd2b7c4bb7" href="https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737c99edb4ad84adff8f2f157a" href="https://open.spotify.com/track/0iLXTfhF58kCYZONVJOWxi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"><strong>This Is How It Feels (with Laufey)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32">d4vd</a>, <a href="https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO">Laufey</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0iLXTfhF58kCYZONVJOWxi"><strong>Gaia</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos">Leon Faun</a>, <a href="https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL">Duffy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27330d583db981bdb67bcd674fa" href="https://open.spotify.com/track/3P48rdupp9trbMA2J2Vsta" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731c98b8198862c9b761703c6c" href="https://open.spotify.com/track/76mNr58LT9ASZ5D0ltYQwq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3P48rdupp9trbMA2J2Vsta"><strong>SUMMERTIME SADNESS - HARDSTYLE</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/76mNr58LT9ASZ5D0ltYQwq"><strong>APPLAUSE - Hardstyle</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c" href="https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734a18877eb76234a05ea325a8" href="https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"><strong>Darling, I (feat. Teezo Touchdown)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF">Tyler, The Creator</a>, <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36">Teezo Touchdown</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"><strong>golden hour - Fujii Kaze Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK">JVKE</a>, <a href="https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi">Fujii Kaze</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730d712e0a3f9fa8455fd3416c" href="https://open.spotify.com/track/58BHDp9PmCvxClB3alu3un" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b6d544387b04e1d1a5f7926c" href="https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/58BHDp9PmCvxClB3alu3un"><strong>La Mia Queen</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3iYwsCmyIpFw5GLKwL6V77">Babaman</a>, <a href="https://open.spotify.com/artist/2UlrY6lTmU6G1mFrp14aJ1">Mene</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ"><strong>I Love It (& Lil Pump)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a>, <a href="https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY">Lil Pump</a></p>
     </td>
   </tr>
   
