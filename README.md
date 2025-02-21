@@ -13,6 +13,36 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27345ad87ec7915af483037fb9e" href="https://open.spotify.com/track/06ZIJIvQVeKmIuhs9ZpNG2" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/06ZIJIvQVeKmIuhs9ZpNG2"><strong>Studiare velocemente</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2VtfTE5EOnvo5BBK67V6cb">Concentrazione Profonda</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27345ad87ec7915af483037fb9e" href="https://open.spotify.com/track/3UWSWn4w3WfeaJVVDLzqUe" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3UWSWn4w3WfeaJVVDLzqUe"><strong>Frequenze per potenziare il cervello</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2VtfTE5EOnvo5BBK67V6cb">Concentrazione Profonda</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27345ad87ec7915af483037fb9e" href="https://open.spotify.com/track/0QxOdrxSjqjtGGBHINnadA" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0QxOdrxSjqjtGGBHINnadA"><strong>Onde alfa per memorizzare</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2VtfTE5EOnvo5BBK67V6cb">Concentrazione Profonda</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27345ad87ec7915af483037fb9e" href="https://open.spotify.com/track/4tIr96tOZx80CtqNg2Rdsh" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -28,36 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"><strong>DICE AND ROLL</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732568b0e0f298917c862a97b7" href="https://open.spotify.com/track/1b3HxoC9lmx34yCAYg074Y" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1b3HxoC9lmx34yCAYg074Y"><strong>The Blue Danube, Op. 314</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM">Johann Strauss II</a>, <a href="https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD">David Parry</a>, <a href="https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA">London Philharmonic Orchestra</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732568b0e0f298917c862a97b7" href="https://open.spotify.com/track/1b3HxoC9lmx34yCAYg074Y" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1b3HxoC9lmx34yCAYg074Y"><strong>The Blue Danube, Op. 314</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM">Johann Strauss II</a>, <a href="https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD">David Parry</a>, <a href="https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA">London Philharmonic Orchestra</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" href="https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"><strong>Snowman</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN">Sia</a></p>
     </td>
   </tr>
   
