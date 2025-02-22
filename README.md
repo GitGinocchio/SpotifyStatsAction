@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273de33c9c199cc39dc9eb9f61a" href="https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e0f0aa947770fe74049dbba3" href="https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7"><strong>next to you</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK">JVKE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"><strong>Heaven Is A Place On Earth</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U">Belinda Carlisle</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27345ad87ec7915af483037fb9e" href="https://open.spotify.com/track/06ZIJIvQVeKmIuhs9ZpNG2" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface" href="https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/06ZIJIvQVeKmIuhs9ZpNG2"><strong>Studiare velocemente</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2VtfTE5EOnvo5BBK67V6cb">Concentrazione Profonda</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp"><strong>505</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH">Arctic Monkeys</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27345ad87ec7915af483037fb9e" href="https://open.spotify.com/track/3UWSWn4w3WfeaJVVDLzqUe" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27362c1f3370811c52ae2d26d24" href="https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3UWSWn4w3WfeaJVVDLzqUe"><strong>Frequenze per potenziare il cervello</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2VtfTE5EOnvo5BBK67V6cb">Concentrazione Profonda</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3"><strong>You're in Love</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB">Joe Hisaishi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27345ad87ec7915af483037fb9e" href="https://open.spotify.com/track/0QxOdrxSjqjtGGBHINnadA" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b395acedffa5fa8e7696aea2" href="https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0QxOdrxSjqjtGGBHINnadA"><strong>Onde alfa per memorizzare</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2VtfTE5EOnvo5BBK67V6cb">Concentrazione Profonda</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7"><strong>No Other Heart</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM">Mac DeMarco</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27345ad87ec7915af483037fb9e" href="https://open.spotify.com/track/4tIr96tOZx80CtqNg2Rdsh" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10" href="https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4tIr96tOZx80CtqNg2Rdsh"><strong>Onde alfa per concentrarsi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2VtfTE5EOnvo5BBK67V6cb">Concentrazione Profonda</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"><strong>My Love Mine All Mine</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK">Mitski</a></p>
     </td>
   </tr>
   
