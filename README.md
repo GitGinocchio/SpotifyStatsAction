@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27375ef1b6e78af23f9980811eb" href="https://open.spotify.com/track/01KwChscJRBSfNDiZbzet5" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/01KwChscJRBSfNDiZbzet5"><strong>New Jeans - Jersey Club - Slowed Down</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4iApnomXD1KyVGCc2eDmlX">Dxrkaii</a>, <a href="https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re">Jiandro</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27376ca515b16733e3c5b5879f6" href="https://open.spotify.com/track/0DMN2ygSzclvFt6lxFqpH8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C"><strong>Chihiro</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc">Gravagerz</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27329508ebb110a7748dcf5954d" href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"><strong>Anadrol</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg">Yosuf</a></p>
     </td>
   </tr>
   
