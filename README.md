@@ -5,7 +5,7 @@ Show your spotify stats inside your README.md
 <table style="border: none; padding: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); max-width: 100%; font-family: Arial, sans-serif;">
   <tr>
     <td colspan="3" style="padding-bottom: 10px;">
-      <h4 style="margin: 0; font-size: 12px; color: black;">Last <a href="https://open.spotify.com/user/giuliotognetto00">Ginocchio</a> played songs</h4>
+      <h4 style="margin: 0; font-size: 12px; color: black;">Last <a href="https://open.spotify.com/user/giuliotognetto00">giuliotognetto00</a> played songs</h4>
     </td>
   </tr>
 
