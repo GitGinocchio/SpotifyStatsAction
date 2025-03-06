@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27312d5ab24a8b636d56d3e39e9" href="https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d7c6ce324175312518a7e0ee" href="https://open.spotify.com/track/2L16IuIQgLL1HupWGN4F4t" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"><strong>Poetica</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2L16IuIQgLL1HupWGN4F4t"><strong>Ora che non ho più te</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732220af8ec33b1074559dc959" href="https://open.spotify.com/track/6A3axRTw93LhvnlQLFmi7S" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ecc4b8f1a5cf247b603d412f" href="https://open.spotify.com/track/7C8kVsBSMYqmu190O2lbS5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6A3axRTw93LhvnlQLFmi7S"><strong>Dicono Di Me</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7C8kVsBSMYqmu190O2lbS5"><strong>Il Solito Sesso</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa">Max Gazzè</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27363d5a6f7b79c5b7d75d2ace9" href="https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e7546ed84b9c6941fe0a1879" href="https://open.spotify.com/track/6mA9cV0ti1IICSv3Wb0rSt" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"><strong>Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF">Eiffel 65</a>, <a href="https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D">Gabry Ponte</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6mA9cV0ti1IICSv3Wb0rSt"><strong>8 miliardi di persone</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN">Frah Quintale</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" href="https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27358c1280be5c0eb6a8cba9809" href="https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ"><strong>IN MY REMAINS</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02"><strong>Tu sei il mattino</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411" href="https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736b1f7d7354646107b39b4b8d" href="https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"><strong>DtMF</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X">Bad Bunny</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8"><strong>Volevo essere un duro</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
     </td>
   </tr>
   
@@ -77,7 +77,7 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb8aa0ff279be0623fce3e6c9d" href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb4bfa622806527d4dd894185a" href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"><strong>Marracash</strong></a></p>
