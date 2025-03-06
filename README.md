@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27360ddc59c8d590a37cf2348f3" href="https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735b3cb5aa936655424de11fa2" href="https://open.spotify.com/track/3VVZQQhjaVyhszJctiwYW6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"><strong>SPIT IN MY FACE!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF">ThxSoMch</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3VVZQQhjaVyhszJctiwYW6"><strong>L'uomo che inventò il fuoco</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bafb574be542ee32d80162b2" href="https://open.spotify.com/track/3mZjaPav4QnFSweMv4ea80" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735d3ecd69fb38c0d661d6837f" href="https://open.spotify.com/track/3maqY8XwtNEzFbMZymWLrD" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3mZjaPav4QnFSweMv4ea80"><strong>Megalovania</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/30ugt8kApHJznD9UIHiFV6">Oscar Santos</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3maqY8XwtNEzFbMZymWLrD"><strong>Habits (feat. PASTEL GHOST)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y">Mr.Kitty</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732d2de21fdba8311699547ebe" href="https://open.spotify.com/track/3BbGm7VB7sooq9mrS45IZa" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aeb14ead136118a987246b63" href="https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3BbGm7VB7sooq9mrS45IZa"><strong>Skins</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq">KREZUS</a>, <a href="https://open.spotify.com/artist/7MwpWn0EgCOiihOx6HVQDs">Surreal_dvd</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"><strong>Tyler Herro</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ">Jack Harlow</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ecb8455c697c79e12445b4a0" href="https://open.spotify.com/track/0eabuc3yo3J0nUSwjEMDDL" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27338142aa25f939346c6a80416" href="https://open.spotify.com/track/053trmldheiFgDGCGgZ4WW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0eabuc3yo3J0nUSwjEMDDL"><strong>NEXT! - Slowed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/053trmldheiFgDGCGgZ4WW"><strong>La Vita Com'è</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa">Max Gazzè</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27387ec0dd3a7bb71aa0612a5ca" href="https://open.spotify.com/track/2S5EpxS6WhQkBlj3WJYXFJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27378197b100b89ff863e7917ac" href="https://open.spotify.com/track/4NlRBHQFKKgTJiDWG02fIV" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2S5EpxS6WhQkBlj3WJYXFJ"><strong>EEYUH!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3UrGictkKDBfGKpK2ZiWGX">HR</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4NlRBHQFKKgTJiDWG02fIV"><strong>a kind thing to do (feat. Vic Fuentes)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a>, <a href="https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv">Pierce The Veil</a>, <a href="https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx">Vic Fuentes</a></p>
     </td>
   </tr>
   
