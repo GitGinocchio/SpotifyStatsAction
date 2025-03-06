@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735b3cb5aa936655424de11fa2" href="https://open.spotify.com/track/3VVZQQhjaVyhszJctiwYW6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386d8a41a5c087adaade87b1e" href="https://open.spotify.com/track/5CfYodVuyULDrRkWlf2C0v" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3VVZQQhjaVyhszJctiwYW6"><strong>L'uomo che inventò il fuoco</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5CfYodVuyULDrRkWlf2C0v"><strong>Divano Nostalgia</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735d3ecd69fb38c0d661d6837f" href="https://open.spotify.com/track/3maqY8XwtNEzFbMZymWLrD" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" href="https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3maqY8XwtNEzFbMZymWLrD"><strong>Habits (feat. PASTEL GHOST)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y">Mr.Kitty</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"><strong>on the street (with J. Cole)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy">j-hope</a>, <a href="https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5">J. Cole</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aeb14ead136118a987246b63" href="https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27364fa1bda999f4fbd2b7c4bb7" href="https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ"><strong>Tyler Herro</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ">Jack Harlow</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"><strong>This Is How It Feels (with Laufey)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32">d4vd</a>, <a href="https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO">Laufey</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27338142aa25f939346c6a80416" href="https://open.spotify.com/track/053trmldheiFgDGCGgZ4WW" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/053trmldheiFgDGCGgZ4WW"><strong>La Vita Com'è</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa">Max Gazzè</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199"><strong>∞ LOVE (feat. Guè)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a>, <a href="https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27">Guè</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27378197b100b89ff863e7917ac" href="https://open.spotify.com/track/4NlRBHQFKKgTJiDWG02fIV" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163" href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4NlRBHQFKKgTJiDWG02fIV"><strong>a kind thing to do (feat. Vic Fuentes)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a>, <a href="https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv">Pierce The Veil</a>, <a href="https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx">Vic Fuentes</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"><strong>Why'd You Only Call Me When You're High?</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH">Arctic Monkeys</a></p>
     </td>
   </tr>
   
