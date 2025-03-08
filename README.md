@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733316884e3878a12d182c2b0b" href="https://open.spotify.com/track/2OYIaP2j9TYH9AmakqUVlb" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" href="https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2OYIaP2j9TYH9AmakqUVlb"><strong>Dolcevita</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"><strong>Flashing Lights</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a>, <a href="https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU">Dwele</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d5bcb4e1baec7e7413d6a2b9" href="https://open.spotify.com/track/7nRFsITVaSHko2Fw2Gcy59" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9" href="https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7nRFsITVaSHko2Fw2Gcy59"><strong>Destri</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN">Gazzelle</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"><strong>There Is a Light That Never Goes Out - 2011 Remaster</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8">The Smiths</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d7c6ce324175312518a7e0ee" href="https://open.spotify.com/track/2L16IuIQgLL1HupWGN4F4t" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27343294cfa2688055c9d821bf3" href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2L16IuIQgLL1HupWGN4F4t"><strong>Ora che non ho più te</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"><strong>Shut Up and Dance</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic">WALK THE MOON</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ecc4b8f1a5cf247b603d412f" href="https://open.spotify.com/track/7C8kVsBSMYqmu190O2lbS5" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736b1f7d7354646107b39b4b8d" href="https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7C8kVsBSMYqmu190O2lbS5"><strong>Il Solito Sesso</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa">Max Gazzè</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8"><strong>Volevo essere un duro</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e7546ed84b9c6941fe0a1879" href="https://open.spotify.com/track/6mA9cV0ti1IICSv3Wb0rSt" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27362c1f3370811c52ae2d26d24" href="https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6mA9cV0ti1IICSv3Wb0rSt"><strong>8 miliardi di persone</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN">Frah Quintale</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3"><strong>You're in Love</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB">Joe Hisaishi</a></p>
     </td>
   </tr>
   
