@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37" href="https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"><strong>Jimmy Cooks (feat. 21 Savage)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a>, <a href="https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft">21 Savage</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37" href="https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"><strong>Jimmy Cooks (feat. 21 Savage)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a>, <a href="https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft">21 Savage</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2734d070fdf58fad8c54c5beb85" href="https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -41,26 +61,6 @@ Show your spotify stats inside your README.md
     </td>
   </tr>
   
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739f2cfcf2a073a18611a9d2f9" href="https://open.spotify.com/track/7lgGPIhMmquq28OmxylP7C" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7lgGPIhMmquq28OmxylP7C"><strong>frida (Interlude)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7">Alfa</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fbc7b839e796d9f057679086" href="https://open.spotify.com/track/6jkEAxBnX2PVchKYH9Y46D" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6jkEAxBnX2PVchKYH9Y46D"><strong>PART OF ME - HARDSTYLE SPED UP</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
-    </td>
-  </tr>
-  
   <!-- End song rows -->
 </table>
 <!-- END SPOTIFY STATS: LAST PLAYED SONGS -->
@@ -77,7 +77,7 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb4bfa622806527d4dd894185a" href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb8aa0ff279be0623fce3e6c9d" href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"><strong>Marracash</strong></a></p>
