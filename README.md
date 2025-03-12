@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738f05338b112b25d40aad90c6" href="https://open.spotify.com/track/1Pfsxuqiq2Shzsxnx6D5I4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27362c1f3370811c52ae2d26d24" href="https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Pfsxuqiq2Shzsxnx6D5I4"><strong>Margherita</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E"><strong>Ending Song - The Promise of the World - Merry-Go-Round of Life</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx">Chieko Baisho</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c" href="https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732c33399e119cec9b0fcde564" href="https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"><strong>St. Chroma (feat. Daniel Caesar)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF">Tyler, The Creator</a>, <a href="https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA">Daniel Caesar</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"><strong>Say You, Say Me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl">Lionel Richie</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738f05338b112b25d40aad90c6" href="https://open.spotify.com/track/6Pnziw2QOsrYVJjvXpZ8fZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733862d62a50dc6b928651bdeb" href="https://open.spotify.com/track/2rgtCOVK2tpfao2VjURn84" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6Pnziw2QOsrYVJjvXpZ8fZ"><strong>Come nelle canzoni</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2rgtCOVK2tpfao2VjURn84"><strong>Lovers on the Sun (feat. Sam Martin)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK">Sam Martin</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc" href="https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97" href="https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE"><strong>Sunsetz</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj">Cigarettes After Sex</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"><strong>I Like You (A Happier Song) (with Doja Cat)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a>, <a href="https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5">Doja Cat</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d69582c74fef6f7fe1767cf9" href="https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27338142aa25f939346c6a80416" href="https://open.spotify.com/track/053trmldheiFgDGCGgZ4WW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx"><strong>that b*tch don't even kno my name...</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF">ThxSoMch</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/053trmldheiFgDGCGgZ4WW"><strong>La Vita Com'è</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa">Max Gazzè</a></p>
     </td>
   </tr>
   
