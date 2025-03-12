@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734d070fdf58fad8c54c5beb85" href="https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"><strong>No One Noticed</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx">The Marías</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273fa225aa8e8f65e2aebe340eb" href="https://open.spotify.com/track/0oR0Wr9N52K1vbAOuGvMJz" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -23,41 +33,31 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e44e304f52a82a3463ce5761" href="https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9" href="https://open.spotify.com/track/3sNVsP50132BTNlImLx70i" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"><strong>Die Young (feat. 347aidan)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a>, <a href="https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw">347aidan</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"><strong>Bound 2</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc" href="https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739f2cfcf2a073a18611a9d2f9" href="https://open.spotify.com/track/7lgGPIhMmquq28OmxylP7C" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ"><strong>K.</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj">Cigarettes After Sex</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7lgGPIhMmquq28OmxylP7C"><strong>frida (Interlude)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7">Alfa</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ce55fd2b670596c28b47b3fe" href="https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbc7b839e796d9f057679086" href="https://open.spotify.com/track/6jkEAxBnX2PVchKYH9Y46D" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l"><strong>Pleasantville</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP">Nitro</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f9d40a1060220cf7729de6f1" href="https://open.spotify.com/track/7ruEmPzNwUgpgiiYnkqR4M" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7ruEmPzNwUgpgiiYnkqR4M"><strong>Prendimi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b">VAEVA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6jkEAxBnX2PVchKYH9Y46D"><strong>PART OF ME - HARDSTYLE SPED UP</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
