@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27321df1eeced91a43af0cecd31" href="https://open.spotify.com/track/5QCca9VwJuWmQmbjM4jVlO" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5QCca9VwJuWmQmbjM4jVlO"><strong>Lontana da me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2733f66b5b49ccea004a5ef0db2" href="https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7"><strong>No Other Heart</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM">Mac DeMarco</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d987abade8b3c32e14b1b2d8" href="https://open.spotify.com/track/1AP7yzd4qSdKVcupPC827R" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1AP7yzd4qSdKVcupPC827R"><strong>Clear - Shawn Wasabi Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2exudSjTjUksRJhnF5JZYn">Pusher</a>, <a href="https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA">MOTHICA</a>, <a href="https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY">Shawn Wasabi</a></p>
     </td>
   </tr>
   
@@ -129,7 +129,7 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb4ba846e4a963c8558471e3af" href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb9f46ffbd5965c01ee7bac758" href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"><strong>INTERWORLD</strong></a></p>
