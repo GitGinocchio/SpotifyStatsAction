@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730fb8e77683561b11b817484e" href="https://open.spotify.com/track/1nRBnmoVz7Hgs8ZQAbTqMK" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1nRBnmoVz7Hgs8ZQAbTqMK"><strong>Rubami la Notte</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf" href="https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"><strong>Notion</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt">The Rare Occasions</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a" href="https://open.spotify.com/track/0c34ovpXiMWWUbKX0IavIH" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0c34ovpXiMWWUbKX0IavIH"><strong>F*CK YOU, GOODBYE (feat. Machine Gun Kelly)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J">The Kid LAROI</a>, <a href="https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX">mgk</a></p>
     </td>
   </tr>
   
