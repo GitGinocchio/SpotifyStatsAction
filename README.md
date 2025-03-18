@@ -69,7 +69,7 @@ Show your spotify stats inside your README.md
 <table style="border: none; padding: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); max-width: 100%; font-family: Arial, sans-serif;">
   <tr>
     <td colspan="3" style="padding-bottom: 10px;">
-      <h4 style="margin: 0; font-size: 12px; color: black;">Top Artists of <a href="https://open.spotify.com/user/giuliotognetto00">giuliotognetto00</a></h4>
+      <h4 style="margin: 0; font-size: 12px; color: black;">Top Artists of <a href="https://open.spotify.com/user/giuliotognetto00">Ginocchio</a></h4>
     </td>
   </tr>
 
@@ -129,7 +129,7 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb4ba846e4a963c8558471e3af" href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb9f46ffbd5965c01ee7bac758" href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"><strong>INTERWORLD</strong></a></p>
