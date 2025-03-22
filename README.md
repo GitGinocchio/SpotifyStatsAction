@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733661bb9255ab380bef12d981" href="https://open.spotify.com/track/4hArX7vFWANuw0gCA1KG5k" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27358c1280be5c0eb6a8cba9809" href="https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4hArX7vFWANuw0gCA1KG5k"><strong>BODY PARTS - I denti</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02"><strong>Tu sei il mattino</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf" href="https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736e17f46446b1cb258822cabe" href="https://open.spotify.com/track/5hG2A5FGSnXFPYMS5cPie7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"><strong>A Sky Full of Stars</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU">Coldplay</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5hG2A5FGSnXFPYMS5cPie7"><strong>Bacio Illimitato</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27355c6cd63145b50a335f39ec8" href="https://open.spotify.com/track/7n377RTKsPkLTbJNWn8Hww" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386f8c13ae8426e671bf916e6" href="https://open.spotify.com/track/4vcZPa0WHh0BFcQdv0l4xc" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7n377RTKsPkLTbJNWn8Hww"><strong>GreyGoose</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4vcZPa0WHh0BFcQdv0l4xc"><strong>Settebello</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193" href="https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736e17f46446b1cb258822cabe" href="https://open.spotify.com/track/4lMRGq6RGPX6ccx8aPAb8W" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"><strong>Feels Like We Only Go Backwards</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb">Tame Impala</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4lMRGq6RGPX6ccx8aPAb8W"><strong>Grattacielo</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eb82410279ee5486798f753e" href="https://open.spotify.com/track/534rmATC0GBzQ2fTDpNa7c" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27358c1280be5c0eb6a8cba9809" href="https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/534rmATC0GBzQ2fTDpNa7c"><strong>Nothing Feels the Way it Should</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/29FwFqbM5JlAydGybJL1HJ">Robopup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02"><strong>Tu sei il mattino</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
     </td>
   </tr>
   
