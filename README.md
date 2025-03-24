@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d987abade8b3c32e14b1b2d8" href="https://open.spotify.com/track/1AP7yzd4qSdKVcupPC827R" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1AP7yzd4qSdKVcupPC827R"><strong>Clear - Shawn Wasabi Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2exudSjTjUksRJhnF5JZYn">Pusher</a>, <a href="https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA">MOTHICA</a>, <a href="https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY">Shawn Wasabi</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27321df1eeced91a43af0cecd31" href="https://open.spotify.com/track/4iV8nThGfzAGRJtgwa7QmG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"><strong>undressed</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S">sombr</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733246d699db3135fef02a11bb" href="https://open.spotify.com/track/4ziyxSRlnkiFnJjXW4hmDQ" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4ziyxSRlnkiFnJjXW4hmDQ"><strong>Quanto Eri Bello</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb">Maria Antonietta</a></p>
     </td>
   </tr>
   
