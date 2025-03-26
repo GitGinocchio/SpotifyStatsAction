@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c17df392e8863c69361422c9" href="https://open.spotify.com/track/7CQ2IUALMZScQUbpdiSxdk" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84" href="https://open.spotify.com/track/2SXG2Vmtn4S1lsbQkuWKBS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7CQ2IUALMZScQUbpdiSxdk"><strong>Sober</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL">Childish Gambino</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2SXG2Vmtn4S1lsbQkuWKBS"><strong>Talk to Strangers</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W">TV Girl</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732f8e03f94d0f06626ee0c40f" href="https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737fbf93cea6780bfa0399a62c" href="https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"><strong>BABYDOLL (Speed)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U">Ari Abdul</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX"><strong>Roi</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1">Videoclub</a>, <a href="https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0">Adèle Castillon</a>, <a href="https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF">Mattyeux</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739b3a4365b0c34f5b5ac2bed9" href="https://open.spotify.com/track/3KVqVpyrgJ5HoPkU8RpGX3" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27362c1f3370811c52ae2d26d24" href="https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3KVqVpyrgJ5HoPkU8RpGX3"><strong>Giorni stupidi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BUmFe61H2cYyKVgkwttxj">Rokas</a>, <a href="https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7">EDONiCO</a>, <a href="https://open.spotify.com/artist/5pALJdF7dliaPdFzkw9OIy">Granato</a>, <a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu"><strong>The Flower Garden</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB">Joe Hisaishi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fa225aa8e8f65e2aebe340eb" href="https://open.spotify.com/track/0oR0Wr9N52K1vbAOuGvMJz" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732a960aa5c84973aa3622f417" href="https://open.spotify.com/track/7s5VQqrjBtrBgZL4pEa46S" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0oR0Wr9N52K1vbAOuGvMJz"><strong>blun7 a swishland</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7s5VQqrjBtrBgZL4pEa46S"><strong>Romantic Lover</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB">Eyedress</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" href="https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97" href="https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"><strong>Paint It, Black</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe">The Rolling Stones</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"><strong>I Like You (A Happier Song) (with Doja Cat)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a>, <a href="https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5">Doja Cat</a></p>
     </td>
   </tr>
   
