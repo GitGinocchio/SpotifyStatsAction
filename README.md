@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7" href="https://open.spotify.com/track/5E02BgqYNN9VzafXrYP6Np" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5E02BgqYNN9VzafXrYP6Np"><strong>Heavenly</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj">Cigarettes After Sex</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27382b1779740b1d1b908289ae7" href="https://open.spotify.com/track/6aZzB0KaKW6C4W6LMT42LT" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b"><strong>Ma quale idea</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6">Pino D'Angiò</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736b1f7d7354646107b39b4b8d" href="https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8"><strong>Volevo essere un duro</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
     </td>
   </tr>
   
