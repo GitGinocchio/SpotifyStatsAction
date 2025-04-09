@@ -13,6 +13,36 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273395271ad268a59f08f5a8f7e" href="https://open.spotify.com/track/3YSi52JZeUbT0MeUQ1nBkZ" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3YSi52JZeUbT0MeUQ1nBkZ"><strong>Prayer in C - Speed</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2UUNqX43sA4dxX698liyey">Ren</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736a922a01d3fb1c53873b1f9d" href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"><strong>MONTAGEM - PR FUNK</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id">S3BZS</a>, <a href="https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2">Mc Gw</a>, <a href="https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH">Mc Menor Do Alvorada</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733532833a1c44c6ae3438eda0" href="https://open.spotify.com/track/43brSA8lE3Z0n8smcVoEde" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/43brSA8lE3Z0n8smcVoEde"><strong>Let Me Down Slowly - Hardstyle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Xoz5H1TjoXo6E0HAkSSJy">Chestbrah</a>, <a href="https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM">ZYZZ</a>, <a href="https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW">BAKI</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2730204e12ace7f2332a77a364f" href="https://open.spotify.com/track/63dZfbF0v1bN5G447DhlF8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -28,36 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1wWTkTvMjB3U61RImy3jW7"><strong>EVERYTIME WE TOUCH - HARDSTYLE</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273202a8cf632f69ab3b8370864" href="https://open.spotify.com/track/2SkTXgDVJfHMWw1z6ek47f" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2SkTXgDVJfHMWw1z6ek47f"><strong>Radioactive - Hardstyle</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn">Vaskan</a>, <a href="https://open.spotify.com/artist/0Vorbh84xQLnLXl1BvN1cV">HARDSTYLE MAGE</a>, <a href="https://open.spotify.com/artist/06p17yB3xXhP6nlrpEXm4g">ZYZZ MUSIC</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737f2bc865b522cedbfbc43fed" href="https://open.spotify.com/track/6wKTt2B7XcSjgv3tQdkgVq" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6wKTt2B7XcSjgv3tQdkgVq"><strong>THE HILLS - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27339288ad1e22ed6ef186a2b4d" href="https://open.spotify.com/track/4AkOOrrgrM4hBnZOx3QTtp" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4AkOOrrgrM4hBnZOx3QTtp"><strong>METAMORPHOSIS - KUTE Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a>, <a href="https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX">KUTE</a></p>
     </td>
   </tr>
   
