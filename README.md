@@ -5,7 +5,7 @@ Show your spotify stats inside your README.md
 <table style="border: none; padding: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); max-width: 100%; font-family: Arial, sans-serif;">
   <tr>
     <td colspan="3" style="padding-bottom: 10px;">
-      <h4 style="margin: 0; font-size: 12px; color: black;">Last <a href="https://open.spotify.com/user/giuliotognetto00">giuliotognetto00</a> played songs</h4>
+      <h4 style="margin: 0; font-size: 12px; color: black;">Last <a href="https://open.spotify.com/user/giuliotognetto00">Ginocchio</a> played songs</h4>
     </td>
   </tr>
 
@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273243b73f0b9fd2500f491f5bf" href="https://open.spotify.com/track/6f7AS760ziuLhtGDzEPGDU" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27332ba22ba4df6a89bb6bfe3cf" href="https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6f7AS760ziuLhtGDzEPGDU"><strong>Caterina - Aeroplano</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO">883</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ"><strong>Stuck In A Dream (feat. Gunna)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk">Lil Mosey</a>, <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ">Gunna</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273726d48d93d02e1271774f023" href="https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c6ff1eb10bf2303890b098c2" href="https://open.spotify.com/track/6MqfmFz44fMqxxWPmNXShS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"><strong>Mockingbird</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR">Eminem</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6MqfmFz44fMqxxWPmNXShS"><strong>Fuorionda</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268" href="https://open.spotify.com/track/32lItqlMi4LBhb4k0BaSaC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b52a2b8f0bc54ff42b468875" href="https://open.spotify.com/track/6qLO9SRN7yRHIMkbNVVwBD" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/32lItqlMi4LBhb4k0BaSaC"><strong>Candy Paint</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6qLO9SRN7yRHIMkbNVVwBD"><strong>I love you baby</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a>, <a href="https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx">Sixpm</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e839ec97b284acc8b7f53165" href="https://open.spotify.com/track/2D70Rxq21tVlTJwtugZ4CA" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cad8789bb4e3de4e81ece093" href="https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2D70Rxq21tVlTJwtugZ4CA"><strong>BLESS SU BLESS</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk">Mara Sattei</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b"><strong>Ma quale idea</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6">Pino D'Angiò</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61" href="https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" href="https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"><strong>São Paulo (feat. Anitta)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a>, <a href="https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb">Anitta</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"><strong>THATS WHAT I WANT</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a></p>
     </td>
   </tr>
   
@@ -69,7 +69,7 @@ Show your spotify stats inside your README.md
 <table style="border: none; padding: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); max-width: 100%; font-family: Arial, sans-serif;">
   <tr>
     <td colspan="3" style="padding-bottom: 10px;">
-      <h4 style="margin: 0; font-size: 12px; color: black;">Top Artists of <a href="https://open.spotify.com/user/giuliotognetto00">giuliotognetto00</a></h4>
+      <h4 style="margin: 0; font-size: 12px; color: black;">Top Artists of <a href="https://open.spotify.com/user/giuliotognetto00">Ginocchio</a></h4>
     </td>
   </tr>
 
@@ -129,7 +129,7 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb4ba846e4a963c8558471e3af" href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb9f46ffbd5965c01ee7bac758" href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"><strong>INTERWORLD</strong></a></p>
@@ -148,7 +148,7 @@ Show your spotify stats inside your README.md
 <table style="border: none; padding: 20px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); max-width: 100%; font-family: Arial, sans-serif;">
   <tr>
     <td colspan="3" style="padding-bottom: 10px;">
-      <h4 style="margin: 0; font-size: 12px; color: black;">Top Played Songs of <a href="https://open.spotify.com/user/giuliotognetto00">giuliotognetto00</a></h4>
+      <h4 style="margin: 0; font-size: 12px; color: black;">Top Played Songs of <a href="https://open.spotify.com/user/giuliotognetto00">Ginocchio</a></h4>
     </td>
   </tr>
 
