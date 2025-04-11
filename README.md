@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf" href="https://open.spotify.com/track/2ovEk26S9eFIQJ8l7koWR9" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" href="https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ovEk26S9eFIQJ8l7koWR9"><strong>Le luci della città</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"><strong>Snowman</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN">Sia</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7" href="https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734de4da55422167fcc47fba65" href="https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"><strong>Somewhere I Belong</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"><strong>Jealous</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB">Eyedress</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27313e94987a8b5fa5b0161babc" href="https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b395acedffa5fa8e7696aea2" href="https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC"><strong>Passing Through (Can't the Future Just Wait)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3pvdhTDfKYnjDZ0R41qY3x">Kaden MacKay</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7"><strong>No Other Heart</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM">Mac DeMarco</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fb848919ffd4e10089812a23" href="https://open.spotify.com/track/6DhRYmgbtdXQlJ638xaHGt" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737323eb189f5bac984decde64" href="https://open.spotify.com/track/52zN0jK8YYfaPlVAEXVfCP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6DhRYmgbtdXQlJ638xaHGt"><strong>Sabato</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/52zN0jK8YYfaPlVAEXVfCP"><strong>Bella signora</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr">Gianni Morandi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362c1f3370811c52ae2d26d24" href="https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733b261dccc69ea751f68ad8a2" href="https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E"><strong>Ending Song - The Promise of the World - Merry-Go-Round of Life</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx">Chieko Baisho</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW"><strong>Nightmares</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn">Bresh</a>, <a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
