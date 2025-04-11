@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bbf0146981704a073405b6c2" href="https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" href="https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"><strong>Dream On</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH">Aerosmith</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" href="https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"><strong>Snowman</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"><strong>Unstoppable</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN">Sia</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734de4da55422167fcc47fba65" href="https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27343294cfa2688055c9d821bf3" href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"><strong>Jealous</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB">Eyedress</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"><strong>Shut Up and Dance</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic">WALK THE MOON</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b395acedffa5fa8e7696aea2" href="https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f71abcb4d9ba0fbbc62fe867" href="https://open.spotify.com/track/1L0C3xvOtzHSOSZ5T59n0L" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7"><strong>No Other Heart</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM">Mac DeMarco</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1L0C3xvOtzHSOSZ5T59n0L"><strong>I'll Try Anything Once ("You Only Live Once" demo) - Heart In a Cage B-Side</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V">The Strokes</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737323eb189f5bac984decde64" href="https://open.spotify.com/track/52zN0jK8YYfaPlVAEXVfCP" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fb848919ffd4e10089812a23" href="https://open.spotify.com/track/6nfeow8q4RsNsLYWZSbiSv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/52zN0jK8YYfaPlVAEXVfCP"><strong>Bella signora</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr">Gianni Morandi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6nfeow8q4RsNsLYWZSbiSv"><strong>Ragazza Magica</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e839ec97b284acc8b7f53165" href="https://open.spotify.com/track/6wCmW3Bv3A2zT9pjnvuATf" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6wCmW3Bv3A2zT9pjnvuATf"><strong>SO CHE CI SEI</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk">Mara Sattei</a></p>
     </td>
   </tr>
   
