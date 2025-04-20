@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27304523b9b5e53502efafb7471" href="https://open.spotify.com/track/3qWLYGfwSRXa9xlITX1tpK" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6" href="https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3qWLYGfwSRXa9xlITX1tpK"><strong>Sour</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG">Kaeyra</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"><strong>Red Wine Supernova</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN">Chappell Roan</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27391e93c59bacfe819db9601eb" href="https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ea5787f9283b51703588761c" href="https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"><strong>Head & Heart (feat. MNEK)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp">Joel Corry</a>, <a href="https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G">MNEK</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"><strong>Body Talk</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw">Ofenbach</a>, <a href="https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx">SVEA</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737eeb115b73e2e6abc3c66d59" href="https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ec96e006b8bdfc582610ec13" href="https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7"><strong>Nice to Meet You</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q">Imagine Dragons</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"><strong>I Ain't Worried</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ">OneRepublic</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273003f81b1f4246362638e682d" href="https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cc5c3658a758db5e4edf248e" href="https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"><strong>Dog Days Are Over</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG">Florence + The Machine</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"><strong>Endless Summer</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN">Alan Walker</a>, <a href="https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw">Zak Abel</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bd5d937814595eeb925ab03f" href="https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7" href="https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK"><strong>Childlike Things</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH">FKA twigs</a>, <a href="https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2">North West</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"><strong>My Head & My Heart</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F">Ava Max</a></p>
     </td>
   </tr>
   
