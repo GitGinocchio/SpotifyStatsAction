@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27336385e0fad3c87e8e8f19071" href="https://open.spotify.com/track/2r5BsQ93MzyPILYaottKrG" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2r5BsQ93MzyPILYaottKrG"><strong>PASSO BEM SOLTO</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah">ATLXS</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733186ac15ceeb6702777ce370" href="https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp"><strong>Alright (feat. KIDDO)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo">Alle Farben</a>, <a href="https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i">KIDDO</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731fcd19d56ad06561b76c1665" href="https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"><strong>Heartbreak Anthem (with David Guetta & Little Mix)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu">Galantis</a>, <a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp">Little Mix</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733ef0781922e2dfb0679237ca" href="https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"><strong>Girls Like Us</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS">Zoe Wees</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6" href="https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"><strong>Red Wine Supernova</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN">Chappell Roan</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ea5787f9283b51703588761c" href="https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"><strong>Body Talk</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw">Ofenbach</a>, <a href="https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx">SVEA</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ec96e006b8bdfc582610ec13" href="https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"><strong>I Ain't Worried</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ">OneRepublic</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cc5c3658a758db5e4edf248e" href="https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"><strong>Endless Summer</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN">Alan Walker</a>, <a href="https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw">Zak Abel</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7" href="https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"><strong>My Head & My Heart</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F">Ava Max</a></p>
     </td>
   </tr>
   
