@@ -90,14 +90,14 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb465195e7c93a95c530acdfe4" href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5ebdf17e6585404841088292a25" href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi"><strong>POSEIDON</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">hardstyle</p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"><strong>Lucio Corsi</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;">italian singer-songwriter, singer-songwriter</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>55%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>67%</strong></p>
     </td>
   </tr>
   
@@ -116,14 +116,14 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5ebdf17e6585404841088292a25" href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb465195e7c93a95c530acdfe4" href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"><strong>Lucio Corsi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">italian singer-songwriter, singer-songwriter</p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi"><strong>POSEIDON</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;">hardstyle</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>67%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>55%</strong></p>
     </td>
   </tr>
   
@@ -186,11 +186,11 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ecb8455c697c79e12445b4a0" href="https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cc08fd1c89e82db9cbb105ce" href="https://open.spotify.com/track/6W30ttL2kUQ5jT4CnXPJdG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"><strong>NEXT!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6W30ttL2kUQ5jT4CnXPJdG"><strong>X 1 MEX (feat. Dani Faiv)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU">BLOODY VINYL</a>, <a href="https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w">Slait</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt">MILES</a>, <a href="https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ">Dani Faiv</a></p>
     </td>
   </tr>
   
