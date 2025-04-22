@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736e1cf6b94700dc22d67c8741" href="https://open.spotify.com/track/1CzuYdi2mZ6X0nDLlXIyPE" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273063ddc5f2e28b848393d48dd" href="https://open.spotify.com/track/03t9vXytLI8cgcnQljmw2M" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1CzuYdi2mZ6X0nDLlXIyPE"><strong>I Kissed A Girl</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0qeQAOjEYyeV2opWZdRcU9">2Hounds</a>, <a href="https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC">PET3RPUNX</a>, <a href="https://open.spotify.com/artist/4PWjpdBUTvwJ5iO1p8dHqC">TECHNO KING</a>, <a href="https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ">Milan Gavris</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/03t9vXytLI8cgcnQljmw2M"><strong>wheres the old me?</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5kQHsD2Du8pX3ECsgfdG7v">hxrtly</a>, <a href="https://open.spotify.com/artist/5CvQyNGcIdOFo2i5AM4gSs">SVARDSTAL</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27324a6f0894707caba1568c019" href="https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27336385e0fad3c87e8e8f19071" href="https://open.spotify.com/track/2r5BsQ93MzyPILYaottKrG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"><strong>Kids</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu">Old Jim</a>, <a href="https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV">Zombic</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2r5BsQ93MzyPILYaottKrG"><strong>PASSO BEM SOLTO</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah">ATLXS</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736c4aad362e179166098b3023" href="https://open.spotify.com/track/4u1DhaPiawdG1UpQXZAff1" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27329508ebb110a7748dcf5954d" href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4u1DhaPiawdG1UpQXZAff1"><strong>Timeless (Phonk)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/538YHEukGawcsd20j66mMh">Dan Korshunov</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"><strong>Anadrol</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg">Yosuf</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736c4aad362e179166098b3023" href="https://open.spotify.com/track/4u1DhaPiawdG1UpQXZAff1" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e05cf047b13411aa8be78ead" href="https://open.spotify.com/track/3GN9V9zKBrDAcM36CSEgXU" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4u1DhaPiawdG1UpQXZAff1"><strong>Timeless (Phonk)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/538YHEukGawcsd20j66mMh">Dan Korshunov</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3GN9V9zKBrDAcM36CSEgXU"><strong>Nitrogen</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1iQ4LvF29mWmQDUt2TpXDR">Rviden</a>, <a href="https://open.spotify.com/artist/3o4VMzxpAAOidkGBlHDsFs">Pcn 北</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27314ee8f75f35785651bb7b3b2" href="https://open.spotify.com/track/0L4HEvCrHOY8ff4BOnlBhO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27341ea5d59d752b358caeef11e" href="https://open.spotify.com/track/5ZQNkUAp5Ji9uuz55gZX8V" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0L4HEvCrHOY8ff4BOnlBhO"><strong>Jump (JumpStyle TikTok)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6M4QfNzj433rXVijCYpKoB">Aiden Music</a>, <a href="https://open.spotify.com/artist/2AvhhkpjIFKbIEBvtW6u7A">DJ Twisty</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ZQNkUAp5Ji9uuz55gZX8V"><strong>On The Floor (Hardstyle)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS">crypvolk</a></p>
     </td>
   </tr>
   
