@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736c4aad362e179166098b3023" href="https://open.spotify.com/track/4u1DhaPiawdG1UpQXZAff1" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4u1DhaPiawdG1UpQXZAff1"><strong>Timeless (Phonk)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/538YHEukGawcsd20j66mMh">Dan Korshunov</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27314ee8f75f35785651bb7b3b2" href="https://open.spotify.com/track/0L4HEvCrHOY8ff4BOnlBhO" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0L4HEvCrHOY8ff4BOnlBhO"><strong>Jump (JumpStyle TikTok)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6M4QfNzj433rXVijCYpKoB">Aiden Music</a>, <a href="https://open.spotify.com/artist/2AvhhkpjIFKbIEBvtW6u7A">DJ Twisty</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2732312d9f0e02101e41c71ad5f" href="https://open.spotify.com/track/3p8wGCMs65UZZrEyHY9JCG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -38,26 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"><strong>Cheerleader (Felix Jaehn Remix) - Radio Edit</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh">OMI</a>, <a href="https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG">Felix Jaehn</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732c8acf6e66607fff1fd23841" href="https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"><strong>After Dark</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y">Mr.Kitty</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c6ff1eb10bf2303890b098c2" href="https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr"><strong>Un mondo a parte</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
     </td>
   </tr>
   
