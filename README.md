@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735094c7ddde5b276cf014875d" href="https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732c33399e119cec9b0fcde564" href="https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"><strong>EMPTY DREAMS</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP">CYPARISS</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"><strong>Say You, Say Me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl">Lionel Richie</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fc8a3e0f0f2016068474bdc9" href="https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273654c0a1cb2c30dd8e11c0186" href="https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"><strong>BRODYAGA FUNK</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF">Eternxlkz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"><strong>Crazy What Love Can Do</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK">Becky Hill</a>, <a href="https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1">Ella Henderson</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273427c80da235cb76fc89b8e27" href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c6ff1eb10bf2303890b098c2" href="https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"><strong>Montagem Mysterious Game</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK">LXNGVX</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr"><strong>Un mondo a parte</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c0214c64c422d07ed007ce43" href="https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d2787bdf05be41a0dc9e09ab" href="https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy"><strong>Flare</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H">Hensonn</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR"><strong>MONTAGEM TOMADA - Slowed</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y">MXZI</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273841e18c8db404401967bb429" href="https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736692ed2c27a90830c00a9032" href="https://open.spotify.com/track/06KEMb8epziEMkjowgPA1k" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM"><strong>METAMORPHOSIS - Slowed + Reverb</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/06KEMb8epziEMkjowgPA1k"><strong>Bounce - Nightcore Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2zgkC2iqDlq3FcI2B7ChnD">Manian</a>, <a href="https://open.spotify.com/artist/082zRlftZ3m400Bu6Q2s2Q">Tune Up!</a></p>
     </td>
   </tr>
   
