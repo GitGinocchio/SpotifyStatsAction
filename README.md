@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7" href="https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68" href="https://open.spotify.com/track/4ICCU06b8FkQIrMv0XTzlv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"><strong>Somewhere I Belong</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4ICCU06b8FkQIrMv0XTzlv"><strong>Giovani Wannabe</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27305f5045b4ff6cb74fa963f96" href="https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732aab4ea84f431ad7d92fecbb" href="https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg"><strong>Roi - Instrumental</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug">Mckyyy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"><strong>Ma Meilleure Ennemie (from the series Arcane League of Legends)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR">Stromae</a>, <a href="https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9">Pomme</a>, <a href="https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR">Arcane</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273212525123d621f67a356ef66" href="https://open.spotify.com/track/4AZXprOONJChrVlv36ZneE" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738596df2f2646ab9aba464c30" href="https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4AZXprOONJChrVlv36ZneE"><strong>xiiiiiii</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7">ODECORE</a>, <a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734"><strong>Young, Wild & Free (feat. Bruno Mars)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG">Snoop Dogg</a>, <a href="https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop">Wiz Khalifa</a>, <a href="https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C">Bruno Mars</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fb848919ffd4e10089812a23" href="https://open.spotify.com/track/6DhRYmgbtdXQlJ638xaHGt" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736182cfe2e2a090d125c81dc0" href="https://open.spotify.com/track/0wps7rop5iHwBo0rQZ2g9A" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6DhRYmgbtdXQlJ638xaHGt"><strong>Sabato</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0wps7rop5iHwBo0rQZ2g9A"><strong>Bonfire</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL">Childish Gambino</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273554e64faf84b54a2eb166f8b" href="https://open.spotify.com/track/1hd0N4PbiheOgLhoHmVDTI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1hd0N4PbiheOgLhoHmVDTI"><strong>RUN!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t">VALORANT</a>, <a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a>, <a href="https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F">Lay Bankz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199"><strong>∞ LOVE (feat. Guè)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a>, <a href="https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27">Guè</a></p>
     </td>
   </tr>
   
@@ -97,7 +97,7 @@ Show your spotify stats inside your README.md
       <p style="margin: 5px 0 0 0; color: grey;">italian singer-songwriter, singer-songwriter</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>67%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>66%</strong></p>
     </td>
   </tr>
   
