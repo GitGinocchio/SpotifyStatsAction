@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273243b73f0b9fd2500f491f5bf" href="https://open.spotify.com/track/7F54orEV7IMKtKG5X9Ig9y" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aa93c622eb3c16e46bceeb88" href="https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7F54orEV7IMKtKG5X9Ig9y"><strong>Nord sud ovest est</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO">883</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas"><strong>Vai!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7">Alfa</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737842fd51802451ff61483dcf" href="https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ab2d601177caa3074c7d4a2b" href="https://open.spotify.com/track/4sE5wzpPd4s8kTdtVC18lY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"><strong>Lost in the Fire (feat. The Weeknd)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP">Gesaffelstein</a>, <a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4sE5wzpPd4s8kTdtVC18lY"><strong>Nonono</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" href="https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739ed6b04a8fe894a9204630f6" href="https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"><strong>Starboy</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a>, <a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"><strong>Devil Town</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c" href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27317add53ee7ef16ac10e6f8a9" href="https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"><strong>Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF">Tyler, The Creator</a>, <a href="https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>, <a href="https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>, <a href="https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865">Lil Wayne</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"><strong>Boys Will Be Bugs</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a84dcfaf785b6cbc2ce257f6" href="https://open.spotify.com/track/3RE5QFGj2rkVmX1Hzp1HPb" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273399b1dc0d027f8e4c36648cb" href="https://open.spotify.com/track/23vZqJEwX9lKdWxGDpBF7G" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3RE5QFGj2rkVmX1Hzp1HPb"><strong>Spooky Season</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/36LAa1XMfd4yEJh3Xpr2XZ">Max Duff</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/23vZqJEwX9lKdWxGDpBF7G"><strong>Roi - Sped Up</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ">skyemane</a></p>
     </td>
   </tr>
   
