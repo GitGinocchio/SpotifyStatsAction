@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273841e18c8db404401967bb429" href="https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273243b73f0b9fd2500f491f5bf" href="https://open.spotify.com/track/7F54orEV7IMKtKG5X9Ig9y" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM"><strong>METAMORPHOSIS - Slowed + Reverb</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7F54orEV7IMKtKG5X9Ig9y"><strong>Nord sud ovest est</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO">883</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a67b50fb57fe4e45c022fbae" href="https://open.spotify.com/track/6yvAeh6da7dJQcuz6XBfCE" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737842fd51802451ff61483dcf" href="https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6yvAeh6da7dJQcuz6XBfCE"><strong>DOFT</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti">Rushex</a>, <a href="https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0">Jolixwery</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"><strong>Lost in the Fire (feat. The Weeknd)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP">Gesaffelstein</a>, <a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736a922a01d3fb1c53873b1f9d" href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" href="https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"><strong>MONTAGEM - PR FUNK</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id">S3BZS</a>, <a href="https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2">Mc Gw</a>, <a href="https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH">Mc Menor Do Alvorada</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"><strong>Starboy</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a>, <a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cac33d56bd98f51c95733df5" href="https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c" href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2"><strong>PHONKGASKAR</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti">Rushex</a>, <a href="https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0">Jolixwery</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"><strong>Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF">Tyler, The Creator</a>, <a href="https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>, <a href="https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>, <a href="https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865">Lil Wayne</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ecb8455c697c79e12445b4a0" href="https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a84dcfaf785b6cbc2ce257f6" href="https://open.spotify.com/track/3RE5QFGj2rkVmX1Hzp1HPb" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"><strong>NEXT!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3RE5QFGj2rkVmX1Hzp1HPb"><strong>Spooky Season</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/36LAa1XMfd4yEJh3Xpr2XZ">Max Duff</a></p>
     </td>
   </tr>
   
