@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739a60aa596ebddff13dc0e08b" href="https://open.spotify.com/track/4S7y7SiS4tPdvoiemgV8vG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736692ed2c27a90830c00a9032" href="https://open.spotify.com/track/06KEMb8epziEMkjowgPA1k" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4S7y7SiS4tPdvoiemgV8vG"><strong>Keep It Tucked</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF">ThxSoMch</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/06KEMb8epziEMkjowgPA1k"><strong>Bounce - Nightcore Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2zgkC2iqDlq3FcI2B7ChnD">Manian</a>, <a href="https://open.spotify.com/artist/082zRlftZ3m400Bu6Q2s2Q">Tune Up!</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bbaf9de6c418a0aa6cb7b938" href="https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57" href="https://open.spotify.com/track/5A0M6B0RBSXSNWv0wcppZ9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6"><strong>Goth</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1">Sidewalks and Skeletons</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5A0M6B0RBSXSNWv0wcppZ9"><strong>I DON'T LOVE YOU ANYMORE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF">Tyler, The Creator</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736a922a01d3fb1c53873b1f9d" href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ed443f0fff29eee63c9ede20" href="https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"><strong>MONTAGEM - PR FUNK</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id">S3BZS</a>, <a href="https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2">Mc Gw</a>, <a href="https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH">Mc Menor Do Alvorada</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"><strong>Deep Down (feat. Never Dull)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W">Alok</a>, <a href="https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA">Ella Eyre</a>, <a href="https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX">Kenny Dope</a>, <a href="https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm">Never Dull</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736a31f70030d3de5fd9b843b6" href="https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736239187793c9e492e687db01" href="https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"><strong>Milkshake 20 - Alex Wann Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM">Kelis</a>, <a href="https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT">Alex Wann</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"><strong>Old Town Road (feat. Billy Ray Cyrus) - Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a>, <a href="https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa">Billy Ray Cyrus</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737fa903eb06f5731aadecf9d8" href="https://open.spotify.com/track/4SUOSCkpHgcW7jTo5eWOMd" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ef8601480405c3eeb7351780" href="https://open.spotify.com/track/0No2QwwffZCcZBZjG7Q73b" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4SUOSCkpHgcW7jTo5eWOMd"><strong>Don't Be so Shy - Slowed + Reverb</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0nBm7sxo9DqEk7RLyaxFWO">13Aurora</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0No2QwwffZCcZBZjG7Q73b"><strong>Okay Okay</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6">Pino D'Angiò</a></p>
     </td>
   </tr>
   
