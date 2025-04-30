@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733532833a1c44c6ae3438eda0" href="https://open.spotify.com/track/43brSA8lE3Z0n8smcVoEde" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c5f98cb52cf88bbdcf2ae894" href="https://open.spotify.com/track/65leXqfkdViSssEVN23uYL" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/43brSA8lE3Z0n8smcVoEde"><strong>Let Me Down Slowly - Hardstyle</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Xoz5H1TjoXo6E0HAkSSJy">Chestbrah</a>, <a href="https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM">ZYZZ</a>, <a href="https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW">BAKI</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"><strong>Mama's Boy</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs">Dominic Fike</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737874b78be9d8287b581133d9" href="https://open.spotify.com/track/4MFW8fi63GtwUNkLE06qH7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" href="https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4MFW8fi63GtwUNkLE06qH7"><strong>SAY IT RIGHT - Hardstyle</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW">BAKI</a>, <a href="https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM">ZYZZ</a>, <a href="https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH">GYM HARDSTYLE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/00KfIFi2TpAaQGPbRbFbKJ"><strong>IN MY REMAINS</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273395271ad268a59f08f5a8f7e" href="https://open.spotify.com/track/3YSi52JZeUbT0MeUQ1nBkZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739dc572babb6e4f8d58d8e79e" href="https://open.spotify.com/track/4irGBwTW4EfsdiK05Vjm2N" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3YSi52JZeUbT0MeUQ1nBkZ"><strong>Prayer in C - Speed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2UUNqX43sA4dxX698liyey">Ren</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4irGBwTW4EfsdiK05Vjm2N"><strong>G come giungla</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz">Ligabue</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eb82410279ee5486798f753e" href="https://open.spotify.com/track/534rmATC0GBzQ2fTDpNa7c" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737e69f0cf9685328522e66e14" href="https://open.spotify.com/track/7zrpoAJte9o12TzawqgdD0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/534rmATC0GBzQ2fTDpNa7c"><strong>Nothing Feels the Way it Should</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/29FwFqbM5JlAydGybJL1HJ">Robopup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7zrpoAJte9o12TzawqgdD0"><strong>Con Te Partirò</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo">Andrea Bocelli</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27329508ebb110a7748dcf5954d" href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9" href="https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"><strong>Anadrol</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg">Yosuf</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"><strong>There Is a Light That Never Goes Out - 2011 Remaster</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8">The Smiths</a></p>
     </td>
   </tr>
   
