@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c1a13482a9b0001d7b8ee49d" href="https://open.spotify.com/track/1VzXas8Qbqp9Jhuoc8RntR" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1VzXas8Qbqp9Jhuoc8RntR"><strong>Blu</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7wDKzQPAyGqjGdL3PSSHLI">Postino</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27301161c81847e31dd1817926a" href="https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"><strong>10 RAGAZZE (con ERNIA)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a>, <a href="https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm">Ernia</a>, <a href="https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1">MACE</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc" href="https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -38,26 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3"><strong>Ginseng Strip 2002</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3">Yung Lean</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522" href="https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"><strong>Applause</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms">Lady Gaga</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7" href="https://open.spotify.com/track/5E02BgqYNN9VzafXrYP6Np" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5E02BgqYNN9VzafXrYP6Np"><strong>Heavenly</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj">Cigarettes After Sex</a></p>
     </td>
   </tr>
   
