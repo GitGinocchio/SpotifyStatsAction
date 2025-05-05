@@ -13,11 +13,21 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c996ed7fd30317b2a4e67184" href="https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733f0309d962daa74d7c076e8e" href="https://open.spotify.com/track/3TEHDzdsULJmhHNCHASed4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"><strong>Forget You</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb">FAST BOY</a>, <a href="https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ">Topic</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3TEHDzdsULJmhHNCHASed4"><strong>L'upupa</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732568b0e0f298917c862a97b7" href="https://open.spotify.com/track/1b3HxoC9lmx34yCAYg074Y" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1b3HxoC9lmx34yCAYg074Y"><strong>The Blue Danube, Op. 314</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM">Johann Strauss II</a>, <a href="https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD">David Parry</a>, <a href="https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA">London Philharmonic Orchestra</a></p>
     </td>
   </tr>
   
@@ -33,31 +43,21 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b5251db8904634da5bec269f" href="https://open.spotify.com/track/2xpD1wAwxj0wYbTGovkXUr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c996ed7fd30317b2a4e67184" href="https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2xpD1wAwxj0wYbTGovkXUr"><strong>L'unica Cosa Che Vuoi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6">Boomdabash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"><strong>Forget You</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb">FAST BOY</a>, <a href="https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ">Topic</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273726d48d93d02e1271774f023" href="https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ef8601480405c3eeb7351780" href="https://open.spotify.com/track/0No2QwwffZCcZBZjG7Q73b" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"><strong>Mockingbird</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR">Eminem</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730bada20fbcec2571741f290a" href="https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"><strong>V-12</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ">Lil Dew'</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0No2QwwffZCcZBZjG7Q73b"><strong>Okay Okay</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6">Pino D'Angiò</a></p>
     </td>
   </tr>
   
