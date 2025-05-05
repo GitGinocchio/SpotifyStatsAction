@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738cbed24951bdaba9b975e398" href="https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27373fe0aea9b52244546dd7b39" href="https://open.spotify.com/track/7hSqDio508Z7R2hZ7klFrv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"><strong>Love to Keep Me Warm</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO">Laufey</a>, <a href="https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS">dodie</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7hSqDio508Z7R2hZ7klFrv"><strong>Dopamine (feat. EYLR)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4">Purple Disco Machine</a>, <a href="https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV">EYLR</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b" href="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"><strong>Way down We Go</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc">KALEO</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"><strong>CRAZY LOVE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731203532c75f5ebbb11f79e5c" href="https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ef8601480405c3eeb7351780" href="https://open.spotify.com/track/0No2QwwffZCcZBZjG7Q73b" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC"><strong>Passing Through (Can't the Future Just Wait)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3pvdhTDfKYnjDZ0R41qY3x">Kaden MacKay</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0No2QwwffZCcZBZjG7Q73b"><strong>Okay Okay</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6">Pino D'Angiò</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fbc7b839e796d9f057679086" href="https://open.spotify.com/track/6jkEAxBnX2PVchKYH9Y46D" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736771a05f34d77e5fc2bde64c" href="https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6jkEAxBnX2PVchKYH9Y46D"><strong>PART OF ME - HARDSTYLE SPED UP</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"><strong>HOLIDAY</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b7504d3f9ef7d1cef58d00e7" href="https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c6ff1eb10bf2303890b098c2" href="https://open.spotify.com/track/6MqfmFz44fMqxxWPmNXShS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP"><strong>HYPNOTIC DATA</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6MqfmFz44fMqxxWPmNXShS"><strong>Fuorionda</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
     </td>
   </tr>
   
