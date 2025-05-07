@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736f5e1588afb23d4150cedf15" href="https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27399db4ee49d361f876e0a7f14" href="https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h"><strong>Heartbroken (feat. Jessie Murph & Polo G)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX">Diplo</a>, <a href="https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7">Jessie Murph</a>, <a href="https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49">Polo G</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"><strong>Pastello Bianco</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273397d02cfe1aab2923f9d1697" href="https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737323eb189f5bac984decde64" href="https://open.spotify.com/track/52zN0jK8YYfaPlVAEXVfCP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H"><strong>Machu Picchu</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V">The Strokes</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/52zN0jK8YYfaPlVAEXVfCP"><strong>Bella signora</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr">Gianni Morandi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" href="https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305986974e2b79c7b812f34ec" href="https://open.spotify.com/track/25DyHdcgQMJ2hEMSsrtTVX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"><strong>When I Was Your Man</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C">Bruno Mars</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/25DyHdcgQMJ2hEMSsrtTVX"><strong>Dimmi Che C'è (feat. Tedua)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7">Tedua</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a216c088f47c2f9462365678" href="https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" href="https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz"><strong>Mal di te</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"><strong>Unstoppable</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN">Sia</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730e6097926fdc728802f930fe" href="https://open.spotify.com/track/5JXWb7DqYJlXiFnJd9Vfgk" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739d4cb13f84ae3a5fd0a93890" href="https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5JXWb7DqYJlXiFnJd9Vfgk"><strong>RENEGADE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t">VALORANT</a>, <a href="https://open.spotify.com/artist/1fSNmkI8lKMFVMU2Y4hpgi">99 God</a>, <a href="https://open.spotify.com/artist/5dBsvQle015D29PAVpUnDr">C-Low</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"><strong>Ridere</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
