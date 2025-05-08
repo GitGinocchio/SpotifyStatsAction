@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27357a7e02ba7fb858516106524" href="https://open.spotify.com/track/3tHUvprpEXpEHWLZJ8ZI80" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ef8601480405c3eeb7351780" href="https://open.spotify.com/track/0No2QwwffZCcZBZjG7Q73b" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3tHUvprpEXpEHWLZJ8ZI80"><strong>Quando Sono Con Te</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/237CwiTh0USBnyLOSC3FIW">Ex-Otago</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0No2QwwffZCcZBZjG7Q73b"><strong>Okay Okay</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6">Pino D'Angiò</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27357a7e02ba7fb858516106524" href="https://open.spotify.com/track/3tHUvprpEXpEHWLZJ8ZI80" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730e6097926fdc728802f930fe" href="https://open.spotify.com/track/5JXWb7DqYJlXiFnJd9Vfgk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3tHUvprpEXpEHWLZJ8ZI80"><strong>Quando Sono Con Te</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/237CwiTh0USBnyLOSC3FIW">Ex-Otago</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5JXWb7DqYJlXiFnJd9Vfgk"><strong>RENEGADE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t">VALORANT</a>, <a href="https://open.spotify.com/artist/1fSNmkI8lKMFVMU2Y4hpgi">99 God</a>, <a href="https://open.spotify.com/artist/5dBsvQle015D29PAVpUnDr">C-Low</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731a9500ec8fa9c17dce006a5f" href="https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e34554d0e8f38e2ac0d0a369" href="https://open.spotify.com/track/3ZaNBvzdl0Zhn5sNJbDtOi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"><strong>BABY I'M HOME (w/ Kanii & 9lives)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a>, <a href="https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW">Kanii</a>, <a href="https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q">9lives</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3ZaNBvzdl0Zhn5sNJbDtOi"><strong>Suis-moi</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX">Camille</a>, <a href="https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ">Hans Zimmer</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd" href="https://open.spotify.com/track/53mChDyESfwn9Dz8poHRf6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cc08fd1c89e82db9cbb105ce" href="https://open.spotify.com/track/6oNJqGeekJO8rADd2Mktvi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/53mChDyESfwn9Dz8poHRf6"><strong>Taking What's Not Yours</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W">TV Girl</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6oNJqGeekJO8rADd2Mktvi"><strong>ALTALENE (feat. Mara Sattei & Coez)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU">BLOODY VINYL</a>, <a href="https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w">Slait</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk">Mara Sattei</a>, <a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27305b7bc9606350ceafe5c3109" href="https://open.spotify.com/track/20NAnSJvlDYkHflC39cTMc" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b395acedffa5fa8e7696aea2" href="https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/20NAnSJvlDYkHflC39cTMc"><strong>ASCEND!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0WcWsi3Dcn8pJg8Y9WCeaa">AXTRAL INDEX</a>, <a href="https://open.spotify.com/artist/7mCut7sn0qwlFDMBGB0E2F">Kirin Kira</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7"><strong>No Other Heart</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM">Mac DeMarco</a></p>
     </td>
   </tr>
   
@@ -90,7 +90,7 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb5d0ec442a7f7e9a11c160024" href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5ebdf17e6585404841088292a25" href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"><strong>Lucio Corsi</strong></a></p>
