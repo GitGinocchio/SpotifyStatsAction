@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737e69f0cf9685328522e66e14" href="https://open.spotify.com/track/7zrpoAJte9o12TzawqgdD0" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27314ee8f75f35785651bb7b3b2" href="https://open.spotify.com/track/0L4HEvCrHOY8ff4BOnlBhO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7zrpoAJte9o12TzawqgdD0"><strong>Con Te Partirò</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo">Andrea Bocelli</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0L4HEvCrHOY8ff4BOnlBhO"><strong>Jump (JumpStyle TikTok)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6M4QfNzj433rXVijCYpKoB">Aiden Music</a>, <a href="https://open.spotify.com/artist/2AvhhkpjIFKbIEBvtW6u7A">DJ Twisty</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a47dc777d622879e33141ae2" href="https://open.spotify.com/track/1BDSBZNESscC2J9yBMwHGq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736c4aad362e179166098b3023" href="https://open.spotify.com/track/4u1DhaPiawdG1UpQXZAff1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1BDSBZNESscC2J9yBMwHGq"><strong>All The Things She Said</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO">t.A.T.u.</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4u1DhaPiawdG1UpQXZAff1"><strong>Timeless (Phonk)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/538YHEukGawcsd20j66mMh">Dan Korshunov</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736239187793c9e492e687db01" href="https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d2787bdf05be41a0dc9e09ab" href="https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"><strong>Old Town Road (feat. Billy Ray Cyrus) - Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a>, <a href="https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa">Billy Ray Cyrus</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR"><strong>MONTAGEM TOMADA - Slowed</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y">MXZI</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface" href="https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739fa97bd8e5926a4d45031497" href="https://open.spotify.com/track/4bNqSJ92afDvDZiYgpckVf" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp"><strong>505</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH">Arctic Monkeys</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4bNqSJ92afDvDZiYgpckVf"><strong>Don't Be so Shy - Filatov & Karas Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw">Imany</a>, <a href="https://open.spotify.com/artist/5NW2uPFatEKjZQ5gpWD8HO">Filatov & Karas</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739eb043880047bb4b62eb47e3" href="https://open.spotify.com/track/3oNh5izwTuQrpDwAI216QC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737fa903eb06f5731aadecf9d8" href="https://open.spotify.com/track/4SUOSCkpHgcW7jTo5eWOMd" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3oNh5izwTuQrpDwAI216QC"><strong>Selfie in HD</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3BVrBQOg6F6UtsnsF5E1A7">Lilly Meraviglia</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4SUOSCkpHgcW7jTo5eWOMd"><strong>Don't Be so Shy - Slowed + Reverb</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0nBm7sxo9DqEk7RLyaxFWO">13Aurora</a></p>
     </td>
   </tr>
   
