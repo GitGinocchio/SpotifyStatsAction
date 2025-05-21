@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be" href="https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><strong>What's My Age Again?</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP">blink-182</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"><strong>Beat It</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm">Michael Jackson</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27360ddc59c8d590a37cf2348f3" href="https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" href="https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"><strong>SPIT IN MY FACE!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF">ThxSoMch</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"><strong>Love Is A Long Road</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn">Tom Petty</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27382572d4e40cdfbe5b9da30ca" href="https://open.spotify.com/track/1tAJeXVHrIZDkZu3oOnIQ4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733f1e905180ece3242514c927" href="https://open.spotify.com/track/50SlDRnQ3hqXleFQTSTgid" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1tAJeXVHrIZDkZu3oOnIQ4"><strong>Lost My Mind</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2c2ekMthLByoJhFMLLl2Ch">CRASH RARRI</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/50SlDRnQ3hqXleFQTSTgid"><strong>Baciami Ancora - Radio Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737801dd18b44e258fe6f2f636" href="https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/7m76yzvfcKlJxKTZE56IvW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd"><strong>INSUPERABILE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7m76yzvfcKlJxKTZE56IvW"><strong>Camilla</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fa225aa8e8f65e2aebe340eb" href="https://open.spotify.com/track/0oR0Wr9N52K1vbAOuGvMJz" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273592124b134716cc5896c6422" href="https://open.spotify.com/track/2KWhl75cqqKWEqTIHv1Zsd" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0oR0Wr9N52K1vbAOuGvMJz"><strong>blun7 a swishland</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2KWhl75cqqKWEqTIHv1Zsd"><strong>Hot Together</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N">The Pointer Sisters</a></p>
     </td>
   </tr>
   
@@ -97,7 +97,7 @@ Show your spotify stats inside your README.md
       <p style="margin: 5px 0 0 0; color: grey;">italian singer-songwriter, singer-songwriter</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>65%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>66%</strong></p>
     </td>
   </tr>
   
