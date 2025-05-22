@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" href="https://open.spotify.com/track/6DUKQUhWqUySYngLXLNwP2" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273056e90910cbaf5c5b892aeba" href="https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6DUKQUhWqUySYngLXLNwP2"><strong>Automatic Stop</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V">The Strokes</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"><strong>Another One Bites The Dust - Remastered 2011</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d">Queen</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be" href="https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273faa6560290393ee2057a6581" href="https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"><strong>Beat It</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm">Michael Jackson</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"><strong>Cupid's Chokehold / Breakfast in America</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli">Gym Class Heroes</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" href="https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738fbee639aeab14f94d7561da" href="https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"><strong>Love Is A Long Road</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn">Tom Petty</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"><strong>Alien Blues</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6">Vundabar</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733f1e905180ece3242514c927" href="https://open.spotify.com/track/50SlDRnQ3hqXleFQTSTgid" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27399db4ee49d361f876e0a7f14" href="https://open.spotify.com/track/1P6TlFb8EVH2nCX3luVpZW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/50SlDRnQ3hqXleFQTSTgid"><strong>Baciami Ancora - Radio Edit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1P6TlFb8EVH2nCX3luVpZW"><strong>Scooby Doo</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/7m76yzvfcKlJxKTZE56IvW" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf" href="https://open.spotify.com/track/2ki3wfhypRITdKm6VEv0A0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7m76yzvfcKlJxKTZE56IvW"><strong>Camilla</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ki3wfhypRITdKm6VEv0A0"><strong>E yo mamma</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
