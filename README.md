@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f2486b438645e97b523e4f90" href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e0f0aa947770fe74049dbba3" href="https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"><strong>Timber</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg">Pitbull</a>, <a href="https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX">Kesha</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"><strong>Heaven Is A Place On Earth</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U">Belinda Carlisle</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268" href="https://open.spotify.com/track/32lItqlMi4LBhb4k0BaSaC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d" href="https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/32lItqlMi4LBhb4k0BaSaC"><strong>Candy Paint</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"><strong>Walking On A Dream</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c">Empire Of The Sun</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27306bd12cb50a3b5a79e7fd843" href="https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72"><strong>in your arms</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S">sombr</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41" href="https://open.spotify.com/track/4SYUUlkScpNR1QvPscXf8t" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4SYUUlkScpNR1QvPscXf8t"><strong>Too Young</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" href="https://open.spotify.com/track/6DUKQUhWqUySYngLXLNwP2" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737e05a226a97cdbdcab2c5a21" href="https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6DUKQUhWqUySYngLXLNwP2"><strong>Automatic Stop</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V">The Strokes</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522" href="https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"><strong>Applause</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms">Lady Gaga</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" href="https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"><strong>Flashing Lights</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a>, <a href="https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU">Dwele</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"><strong>È sempre bello</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
