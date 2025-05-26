@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" href="https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c6ff1eb10bf2303890b098c2" href="https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"><strong>on the street (with J. Cole)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy">j-hope</a>, <a href="https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5">J. Cole</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr"><strong>Un mondo a parte</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a29186e92ad38b89ae1611ea" href="https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc" href="https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI"><strong>Fool</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE"><strong>Sunsetz</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj">Cigarettes After Sex</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738e956c4154ba8b2f7be13443" href="https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b52a2b8f0bc54ff42b468875" href="https://open.spotify.com/track/6qLO9SRN7yRHIMkbNVVwBD" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"><strong>Shame</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W">TV Girl</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6qLO9SRN7yRHIMkbNVVwBD"><strong>I love you baby</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a>, <a href="https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx">Sixpm</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736f5e1588afb23d4150cedf15" href="https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27389070654f69ee060803403f3" href="https://open.spotify.com/track/5eSC7faDYHxnklPjcxZjD6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h"><strong>Heartbroken (feat. Jessie Murph & Polo G)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX">Diplo</a>, <a href="https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7">Jessie Murph</a>, <a href="https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49">Polo G</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5eSC7faDYHxnklPjcxZjD6"><strong>BRAVI A CADERE - I polmoni</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f9d40a1060220cf7729de6f1" href="https://open.spotify.com/track/7ruEmPzNwUgpgiiYnkqR4M" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7ruEmPzNwUgpgiiYnkqR4M"><strong>Prendimi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b">VAEVA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199"><strong>∞ LOVE (feat. Guè)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a>, <a href="https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27">Guè</a></p>
     </td>
   </tr>
   
