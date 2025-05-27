@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737f38634ff6a170d724e6ac42" href="https://open.spotify.com/track/2Rrb87P16AmsW77weeASBA" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Rrb87P16AmsW77weeASBA"><strong>The Setup - GTA V Finale Version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2kwaccOo07oL6joEC5Kc2X">Favored Nations</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273b52a2b8f0bc54ff42b468875" href="https://open.spotify.com/track/6qLO9SRN7yRHIMkbNVVwBD" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ"><strong>Jenny (I Wanna Ruin Our Friendship)</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT">Studio Killers</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41" href="https://open.spotify.com/track/4SYUUlkScpNR1QvPscXf8t" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4SYUUlkScpNR1QvPscXf8t"><strong>Too Young</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a></p>
     </td>
   </tr>
   
