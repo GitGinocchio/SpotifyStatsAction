@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732c33399e119cec9b0fcde564" href="https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27357a7e02ba7fb858516106524" href="https://open.spotify.com/track/3tHUvprpEXpEHWLZJ8ZI80" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"><strong>Say You, Say Me</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl">Lionel Richie</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3tHUvprpEXpEHWLZJ8ZI80"><strong>Quando Sono Con Te</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/237CwiTh0USBnyLOSC3FIW">Ex-Otago</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737323eb189f5bac984decde64" href="https://open.spotify.com/track/52zN0jK8YYfaPlVAEXVfCP" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d78158ed630c7b2d09282c35" href="https://open.spotify.com/track/53uRmYY1yOtme8h215KzOm" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/52zN0jK8YYfaPlVAEXVfCP"><strong>Bella signora</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr">Gianni Morandi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/53uRmYY1yOtme8h215KzOm"><strong>Puoi (feat. Pinguini Tattici Nucleari)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3">Fulminacci</a>, <a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739efc623f9c64c8efb583b186" href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273654c0a1cb2c30dd8e11c0186" href="https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"><strong>Just Can’t Get Enough</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS">Black Eyed Peas</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"><strong>Crazy What Love Can Do</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK">Becky Hill</a>, <a href="https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1">Ella Henderson</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27382b1779740b1d1b908289ae7" href="https://open.spotify.com/track/6aZzB0KaKW6C4W6LMT42LT" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730e6097926fdc728802f930fe" href="https://open.spotify.com/track/5JXWb7DqYJlXiFnJd9Vfgk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6aZzB0KaKW6C4W6LMT42LT"><strong>Dentista Croazia</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5JXWb7DqYJlXiFnJd9Vfgk"><strong>RENEGADE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t">VALORANT</a>, <a href="https://open.spotify.com/artist/1fSNmkI8lKMFVMU2Y4hpgi">99 God</a>, <a href="https://open.spotify.com/artist/5dBsvQle015D29PAVpUnDr">C-Low</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27301161c81847e31dd1817926a" href="https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9" href="https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"><strong>10 RAGAZZE (con ERNIA)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a>, <a href="https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm">Ernia</a>, <a href="https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1">MACE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"><strong>There Is a Light That Never Goes Out - 2011 Remaster</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8">The Smiths</a></p>
     </td>
   </tr>
   
