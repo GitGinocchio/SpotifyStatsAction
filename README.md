@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731d89551d5ad95a9151918b8e" href="https://open.spotify.com/track/7u8ArJTjbZa1C7qj2ESBop" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273241509810e35738fa8ba224e" href="https://open.spotify.com/track/0vUhEAJIaTGqBJfDsOZoNt" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7u8ArJTjbZa1C7qj2ESBop"><strong>Bacio Illimitato</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0vUhEAJIaTGqBJfDsOZoNt"><strong>Pensare Male (con Elodie)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR">The Kolors</a>, <a href="https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY">Elodie</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27385c06ab493ddfbd4da41536c" href="https://open.spotify.com/track/4S07NeGpokOjGyHc8mrGzY" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4S07NeGpokOjGyHc8mrGzY"><strong>Fuorionda</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"><strong>Take on Me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE">a-ha</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f33cdb67bac39e2a96ee07fa" href="https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cbd839903eba92f87001cff2" href="https://open.spotify.com/track/794ar7KVlKFr1lljnLT9q5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"><strong>A Te</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/794ar7KVlKFr1lljnLT9q5"><strong>Don't Fall In Love With A Dreamer</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4">Kenny Rogers</a>, <a href="https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE">Kim Carnes</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733f1e905180ece3242514c927" href="https://open.spotify.com/track/50SlDRnQ3hqXleFQTSTgid" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738ccc17f29764d812062204a8" href="https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/50SlDRnQ3hqXleFQTSTgid"><strong>Baciami Ancora - Radio Edit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"><strong>Bette Davis Eyes</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE">Kim Carnes</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27385c06ab493ddfbd4da41536c" href="https://open.spotify.com/track/1feP5zBuIOG0IXSTzsfyPh" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d7d1c841048a5776dd5405c4" href="https://open.spotify.com/track/5i12eplaUT5pPE5iC6B2FZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1feP5zBuIOG0IXSTzsfyPh"><strong>Un mondo a parte</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5i12eplaUT5pPE5iC6B2FZ"><strong>Bam Bam Twist (feat. Gow Tribe, Frenetik&Orang3)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv">Achille Lauro</a>, <a href="https://open.spotify.com/artist/2dAKW1tsAariQ0Ta2gqp8N">Gow Tribe</a>, <a href="https://open.spotify.com/artist/2lkP8239tkwRjg5N7d2D0w">Frenetik&Orang3</a></p>
     </td>
   </tr>
   
