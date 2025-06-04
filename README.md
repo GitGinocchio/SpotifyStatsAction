@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273241509810e35738fa8ba224e" href="https://open.spotify.com/track/0vUhEAJIaTGqBJfDsOZoNt" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175" href="https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0vUhEAJIaTGqBJfDsOZoNt"><strong>Pensare Male (con Elodie)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR">The Kolors</a>, <a href="https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY">Elodie</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"><strong>All That She Wants</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm">Ace of Base</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731310670cbb82f06474372cfd" href="https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"><strong>Take on Me</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE">a-ha</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"><strong>Self Control</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e">Laura Branigan</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cbd839903eba92f87001cff2" href="https://open.spotify.com/track/794ar7KVlKFr1lljnLT9q5" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c" href="https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/794ar7KVlKFr1lljnLT9q5"><strong>Don't Fall In Love With A Dreamer</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4">Kenny Rogers</a>, <a href="https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE">Kim Carnes</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"><strong>Call Me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB">Blondie</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738ccc17f29764d812062204a8" href="https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27349c982dae436bac27c336f45" href="https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"><strong>Bette Davis Eyes</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE">Kim Carnes</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"><strong>Tainted Love</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc">Soft Cell</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d7d1c841048a5776dd5405c4" href="https://open.spotify.com/track/5i12eplaUT5pPE5iC6B2FZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e98d08fbea1a2f03229abc20" href="https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5i12eplaUT5pPE5iC6B2FZ"><strong>Bam Bam Twist (feat. Gow Tribe, Frenetik&Orang3)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv">Achille Lauro</a>, <a href="https://open.spotify.com/artist/2dAKW1tsAariQ0Ta2gqp8N">Gow Tribe</a>, <a href="https://open.spotify.com/artist/2lkP8239tkwRjg5N7d2D0w">Frenetik&Orang3</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"><strong>A Kind Of Magic - Remastered 2011</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d">Queen</a></p>
     </td>
   </tr>
   
