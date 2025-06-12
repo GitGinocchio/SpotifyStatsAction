@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733a929daf339e9f58a2d3b75a" href="https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"><strong>Praising You (feat. Fatboy Slim)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr">Rita Ora</a>, <a href="https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW">Fatboy Slim</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273726d48d93d02e1271774f023" href="https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3w3mw90AdEgRuUwdsYZ780"><strong>L'upupa</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734a18877eb76234a05ea325a8" href="https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"><strong>golden hour - Fujii Kaze Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK">JVKE</a>, <a href="https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi">Fujii Kaze</a></p>
     </td>
   </tr>
   
