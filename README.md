@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf" href="https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"><strong>La musica non c'è</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ce44013f908efc456d79ca84" href="https://open.spotify.com/track/76hhfwZpMKGO3phNusrquG" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/76hhfwZpMKGO3phNusrquG"><strong>Every Breaking Wave</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ">U2</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273acffaed1a44430667c933519" href="https://open.spotify.com/track/0X1q9dp4z8MYFYaUDm2unn" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0X1q9dp4z8MYFYaUDm2unn"><strong>Solo 3 min</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7">Negramaro</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737801dd18b44e258fe6f2f636" href="https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd"><strong>INSUPERABILE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2732557d7b4bf9ca1c289f40e97" href="https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"><strong>Pretty Little Baby</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q">Connie Francis</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733d2dfa42f771cd458b194979" href="https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"><strong>Dark Red</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp">Steve Lacy</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c646c7e3234fec58ffe0d415" href="https://open.spotify.com/track/7yJZlPui7PYh2L9UXmtQWc" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7yJZlPui7PYh2L9UXmtQWc"><strong>Oroscopo (feat. Takagi & Ketra) - Ghost track</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a>, <a href="https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx">Takagi & Ketra</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731c29562d6e8c1f55bb1311d5" href="https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo"><strong>Redbone</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL">Childish Gambino</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d1d301e737da4324479c6660" href="https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD"><strong>My Blood</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx">Twenty One Pilots</a></p>
     </td>
   </tr>
   
@@ -90,7 +90,7 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb5d0ec442a7f7e9a11c160024" href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5ebdf17e6585404841088292a25" href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"><strong>Lucio Corsi</strong></a></p>
