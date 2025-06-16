@@ -84,7 +84,7 @@ Show your spotify stats inside your README.md
       <p style="margin: 5px 0 0 0; color: grey;">italian trap</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>75%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>76%</strong></p>
     </td>
   </tr>
   
