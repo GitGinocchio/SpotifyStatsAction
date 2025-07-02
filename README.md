@@ -23,6 +23,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273598721fc8c9dde3f65a73a08" href="https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"><strong>Notion</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt">The Rare Occasions</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf" href="https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -51,16 +61,6 @@ Show your spotify stats inside your README.md
     </td>
   </tr>
   
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737801dd18b44e258fe6f2f636" href="https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd"><strong>INSUPERABILE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a></p>
-    </td>
-  </tr>
-  
   <!-- End song rows -->
 </table>
 <!-- END SPOTIFY STATS: LAST PLAYED SONGS -->
@@ -77,7 +77,7 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb5d0ec442a7f7e9a11c160024" href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5ebdf17e6585404841088292a25" href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"><strong>Lucio Corsi</strong></a></p>
