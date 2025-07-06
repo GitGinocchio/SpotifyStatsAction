@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691" href="https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"><strong>Daddy Cool</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb">Boney M.</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273598721fc8c9dde3f65a73a08" href="https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/76hhfwZpMKGO3phNusrquG"><strong>Every Breaking Wave</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ">U2</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273acffaed1a44430667c933519" href="https://open.spotify.com/track/0X1q9dp4z8MYFYaUDm2unn" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0X1q9dp4z8MYFYaUDm2unn"><strong>Solo 3 min</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7">Negramaro</a></p>
     </td>
   </tr>
   
