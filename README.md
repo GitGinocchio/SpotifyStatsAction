@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3" href="https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"><strong>Strangers</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2">Kenya Grace</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3" href="https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"><strong>Strangers</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2">Kenya Grace</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" href="https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -38,26 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou"><strong>do i ever cross your mind</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S">sombr</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738f05338b112b25d40aad90c6" href="https://open.spotify.com/track/5bvsNn7f4m0MTCuUQkMZGY" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5bvsNn7f4m0MTCuUQkMZGY"><strong>Occhi rossi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27316f48ac1e989d7acc028e9cf" href="https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"><strong>Something About You</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB">Eyedress</a>, <a href="https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7">Dent May</a></p>
     </td>
   </tr>
   
