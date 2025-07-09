@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737801dd18b44e258fe6f2f636" href="https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" href="https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd"><strong>INSUPERABILE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"><strong>Flashing Lights</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a>, <a href="https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU">Dwele</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730fb8e77683561b11b817484e" href="https://open.spotify.com/track/1nRBnmoVz7Hgs8ZQAbTqMK" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737c99edb4ad84adff8f2f157a" href="https://open.spotify.com/track/0iLXTfhF58kCYZONVJOWxi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1nRBnmoVz7Hgs8ZQAbTqMK"><strong>Rubami la Notte</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0iLXTfhF58kCYZONVJOWxi"><strong>Gaia</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos">Leon Faun</a>, <a href="https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL">Duffy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27360cfd3e0a02b36fdf9d2fbac" href="https://open.spotify.com/track/479saVnx8wqgmB57EXFz0c" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386ce0a577481711ca8d5f5b9" href="https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/479saVnx8wqgmB57EXFz0c"><strong>L'ottava meraviglia del mondo</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv">Mostro</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou"><strong>do i ever cross your mind</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S">sombr</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e34554d0e8f38e2ac0d0a369" href="https://open.spotify.com/track/3ZaNBvzdl0Zhn5sNJbDtOi" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738f05338b112b25d40aad90c6" href="https://open.spotify.com/track/5bvsNn7f4m0MTCuUQkMZGY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3ZaNBvzdl0Zhn5sNJbDtOi"><strong>Suis-moi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX">Camille</a>, <a href="https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ">Hans Zimmer</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5bvsNn7f4m0MTCuUQkMZGY"><strong>Occhi rossi</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731b949d6d6c3629c08c412b08" href="https://open.spotify.com/track/42OFACP2yHeaVkNfbASQ1r" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27316f48ac1e989d7acc028e9cf" href="https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/42OFACP2yHeaVkNfbASQ1r"><strong>sumwrongwithme</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5pQOWLCBYEfx6sWa7dc4lV">Rascalrecords</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"><strong>Something About You</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB">Eyedress</a>, <a href="https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7">Dent May</a></p>
     </td>
   </tr>
   
