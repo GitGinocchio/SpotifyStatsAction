@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27305f13846a6404611120be8c8" href="https://open.spotify.com/track/4LpWQ7pNWbIN86JLpQdXFM" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bc5665902cfbbb15af08e5c4" href="https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4LpWQ7pNWbIN86JLpQdXFM"><strong>Non dire no</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"><strong>Sailor Song</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo">Gigi Perez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733661bb9255ab380bef12d981" href="https://open.spotify.com/track/4hArX7vFWANuw0gCA1KG5k" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738cbed24951bdaba9b975e398" href="https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4hArX7vFWANuw0gCA1KG5k"><strong>BODY PARTS - I denti</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"><strong>Love to Keep Me Warm</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO">Laufey</a>, <a href="https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS">dodie</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c646c7e3234fec58ffe0d415" href="https://open.spotify.com/track/7yJZlPui7PYh2L9UXmtQWc" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736f5e1588afb23d4150cedf15" href="https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7yJZlPui7PYh2L9UXmtQWc"><strong>Oroscopo (feat. Takagi & Ketra) - Ghost track</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a>, <a href="https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx">Takagi & Ketra</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h"><strong>Heartbroken (feat. Jessie Murph & Polo G)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX">Diplo</a>, <a href="https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7">Jessie Murph</a>, <a href="https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49">Polo G</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273227edcd51b6622cdcbe9f43c" href="https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a" href="https://open.spotify.com/track/0c34ovpXiMWWUbKX0IavIH" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"><strong>My Ordinary Life</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF">The Living Tombstone</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0c34ovpXiMWWUbKX0IavIH"><strong>F*CK YOU, GOODBYE (feat. Machine Gun Kelly)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J">The Kid LAROI</a>, <a href="https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX">mgk</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737f38634ff6a170d724e6ac42" href="https://open.spotify.com/track/2Rrb87P16AmsW77weeASBA" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733f1e905180ece3242514c927" href="https://open.spotify.com/track/50SlDRnQ3hqXleFQTSTgid" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Rrb87P16AmsW77weeASBA"><strong>The Setup - GTA V Finale Version</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2kwaccOo07oL6joEC5Kc2X">Favored Nations</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/50SlDRnQ3hqXleFQTSTgid"><strong>Baciami Ancora - Radio Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
     </td>
   </tr>
   
