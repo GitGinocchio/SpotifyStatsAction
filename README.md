@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bc5665902cfbbb15af08e5c4" href="https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533" href="https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"><strong>Sailor Song</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo">Gigi Perez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"><strong>Rap God</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR">Eminem</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738cbed24951bdaba9b975e398" href="https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27353b77f680b85d0402bd144c5" href="https://open.spotify.com/track/1PKlNTjZXqmPJ6R1y3POKf" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"><strong>Love to Keep Me Warm</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO">Laufey</a>, <a href="https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS">dodie</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1PKlNTjZXqmPJ6R1y3POKf"><strong>Due Girasoli</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736f5e1588afb23d4150cedf15" href="https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731c31f8b4fa733c8a2e41e10a" href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h"><strong>Heartbroken (feat. Jessie Murph & Polo G)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX">Diplo</a>, <a href="https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7">Jessie Murph</a>, <a href="https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49">Polo G</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg"><strong>Ubriaco Di Te</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm">Dargen D'Amico</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a" href="https://open.spotify.com/track/0c34ovpXiMWWUbKX0IavIH" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273591c3f691cc42a0257eb0665" href="https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0c34ovpXiMWWUbKX0IavIH"><strong>F*CK YOU, GOODBYE (feat. Machine Gun Kelly)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J">The Kid LAROI</a>, <a href="https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX">mgk</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ"><strong>Gatluak - Bakermat Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr">Kronan</a>, <a href="https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3">Nyaruach</a>, <a href="https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM">Bakermat</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733f1e905180ece3242514c927" href="https://open.spotify.com/track/50SlDRnQ3hqXleFQTSTgid" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ebf1802f3aedc62b8f6339d3" href="https://open.spotify.com/track/1YNcvRZoNJUjR4opG7Qr9o" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/50SlDRnQ3hqXleFQTSTgid"><strong>Baciami Ancora - Radio Edit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1YNcvRZoNJUjR4opG7Qr9o"><strong>Jump the Turnstile</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw">Jordana</a>, <a href="https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W">TV Girl</a></p>
     </td>
   </tr>
   
@@ -129,7 +129,7 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb84f1202871531a5afcd31cdc" href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb8044505721270eb00050b188" href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"><strong>Coez</strong></a></p>
