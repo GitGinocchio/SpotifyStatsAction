@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27399db4ee49d361f876e0a7f14" href="https://open.spotify.com/track/1P6TlFb8EVH2nCX3luVpZW" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ceaeb9d72a6398f943ca9ad8" href="https://open.spotify.com/track/2djOxwoE66cQDWST9J3QQ5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1P6TlFb8EVH2nCX3luVpZW"><strong>Scooby Doo</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2djOxwoE66cQDWST9J3QQ5"><strong>Italiani a Londra</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn">Il Pagante</a>, <a href="https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5">J-AX</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f8c22e6412de45872bd66286" href="https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27364f71083789a20353e05b1eb" href="https://open.spotify.com/track/0sz1wmBpB9gKh9zFV9YMFe" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ"><strong>Jenny (I Wanna Ruin Our Friendship)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT">Studio Killers</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0sz1wmBpB9gKh9zFV9YMFe"><strong>Crush</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj">Cigarettes After Sex</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733b5b32620d35fe0725d59371" href="https://open.spotify.com/track/2DnyKpPcFpC460wLJeGzOs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273050fb0462ca05299ffbb65ad" href="https://open.spotify.com/track/4hbNWDDwu4o4zMwKz26TmY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2DnyKpPcFpC460wLJeGzOs"><strong>23 Island</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d">JayDaYoungan</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4hbNWDDwu4o4zMwKz26TmY"><strong>Ask Me Why (Evacuation)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB">Joe Hisaishi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27386ce0a577481711ca8d5f5b9" href="https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732c33399e119cec9b0fcde564" href="https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou"><strong>do i ever cross your mind</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S">sombr</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"><strong>Say You, Say Me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl">Lionel Richie</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb" href="https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273affe621b97d857e6954d71bb" href="https://open.spotify.com/track/2EL7PmNeZuFSWPYbnMS0Sn" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"><strong>Kids</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE">MGMT</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2EL7PmNeZuFSWPYbnMS0Sn"><strong>Velvet!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp">EGOVERT</a></p>
     </td>
   </tr>
   
