@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735a11303b900d06348d84337f" href="https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"><strong>Take Me to the Beach (feat. Ado)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q">Imagine Dragons</a>, <a href="https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl">Ado</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27317add53ee7ef16ac10e6f8a9" href="https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"><strong>Juliet</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27330d583db981bdb67bcd674fa" href="https://open.spotify.com/track/3P48rdupp9trbMA2J2Vsta" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -38,26 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1AP7yzd4qSdKVcupPC827R"><strong>Clear - Shawn Wasabi Remix</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2exudSjTjUksRJhnF5JZYn">Pusher</a>, <a href="https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA">MOTHICA</a>, <a href="https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY">Shawn Wasabi</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ab2d601177caa3074c7d4a2b" href="https://open.spotify.com/track/6Jn9qoprkuSfsRW7tTRkOV" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6Jn9qoprkuSfsRW7tTRkOV"><strong>Lake Washington Boulevard</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736e2cd4b6c10cbcf5dbf2e8ad" href="https://open.spotify.com/track/5Iv4HuT9pKPi5WuE2ii3vs" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5Iv4HuT9pKPi5WuE2ii3vs"><strong>Fireworks (feat. Moss Kena & The Knocks)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4">Purple Disco Machine</a>, <a href="https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv">Moss Kena</a>, <a href="https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC">The Knocks</a></p>
     </td>
   </tr>
   
