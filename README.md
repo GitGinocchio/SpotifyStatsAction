@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735a11303b900d06348d84337f" href="https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf" href="https://open.spotify.com/track/1P8PfcF26rxKD7PrY1gwj5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"><strong>Take Me to the Beach (feat. Ado)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q">Imagine Dragons</a>, <a href="https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl">Ado</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1P8PfcF26rxKD7PrY1gwj5"><strong>Taciturnal</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a>, <a href="https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04">Gemello</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27317add53ee7ef16ac10e6f8a9" href="https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273212525123d621f67a356ef66" href="https://open.spotify.com/track/4AZXprOONJChrVlv36ZneE" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"><strong>Juliet</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4AZXprOONJChrVlv36ZneE"><strong>xiiiiiii</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7">ODECORE</a>, <a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27330d583db981bdb67bcd674fa" href="https://open.spotify.com/track/3P48rdupp9trbMA2J2Vsta" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27389070654f69ee060803403f3" href="https://open.spotify.com/track/5eSC7faDYHxnklPjcxZjD6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3P48rdupp9trbMA2J2Vsta"><strong>SUMMERTIME SADNESS - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5eSC7faDYHxnklPjcxZjD6"><strong>BRAVI A CADERE - I polmoni</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731c31f8b4fa733c8a2e41e10a" href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199"><strong>∞ LOVE (feat. Guè)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a>, <a href="https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27">Guè</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3iGqBoksc6W4NZyb2cxlHg"><strong>Ubriaco Di Te</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm">Dargen D'Amico</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d987abade8b3c32e14b1b2d8" href="https://open.spotify.com/track/1AP7yzd4qSdKVcupPC827R" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736239187793c9e492e687db01" href="https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1AP7yzd4qSdKVcupPC827R"><strong>Clear - Shawn Wasabi Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2exudSjTjUksRJhnF5JZYn">Pusher</a>, <a href="https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA">MOTHICA</a>, <a href="https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY">Shawn Wasabi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"><strong>Old Town Road (feat. Billy Ray Cyrus) - Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a>, <a href="https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa">Billy Ray Cyrus</a></p>
     </td>
   </tr>
   
