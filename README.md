@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b9d9cb2c469fee6ed2586523" href="https://open.spotify.com/track/2RI69fPdOCYqfUm4K3i9DC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738e956c4154ba8b2f7be13443" href="https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2RI69fPdOCYqfUm4K3i9DC"><strong>Be Alone</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF">The Living Tombstone</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"><strong>Shame</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W">TV Girl</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d78158ed630c7b2d09282c35" href="https://open.spotify.com/track/53uRmYY1yOtme8h215KzOm" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734d070fdf58fad8c54c5beb85" href="https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/53uRmYY1yOtme8h215KzOm"><strong>Puoi (feat. Pinguini Tattici Nucleari)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3">Fulminacci</a>, <a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"><strong>No One Noticed</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx">The Marías</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273210484981a7d3ec04f5958b0" href="https://open.spotify.com/track/13wkp4Ph4UNAVPwf9B04l8" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f65d720a5d70dbb93e96d528" href="https://open.spotify.com/track/4dtP86vkhzwNXCFpCtizce" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/13wkp4Ph4UNAVPwf9B04l8"><strong>VITTIMA</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4dtP86vkhzwNXCFpCtizce"><strong>Secret Door</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH">Arctic Monkeys</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273654c0a1cb2c30dd8e11c0186" href="https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f7410ab075ebae4cc4fcfdd4" href="https://open.spotify.com/track/3Rak9PxrkDU2IGv4XThNQT" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"><strong>Crazy What Love Can Do</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK">Becky Hill</a>, <a href="https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1">Ella Henderson</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Rak9PxrkDU2IGv4XThNQT"><strong>con me (feat. thasup)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt">MILES</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e44e304f52a82a3463ce5761" href="https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735b3b95fee518e8447b0b6898" href="https://open.spotify.com/track/1wPGKwLV2D5S9QL4vK0r88" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"><strong>Die Young (feat. 347aidan)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a>, <a href="https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw">347aidan</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1wPGKwLV2D5S9QL4vK0r88"><strong>Una luce alle 03:00</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a>, <a href="https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN">Frah Quintale</a></p>
     </td>
   </tr>
   
