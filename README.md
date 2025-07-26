@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cf5ac7eebe6012be77eda7d4" href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273554e64faf84b54a2eb166f8b" href="https://open.spotify.com/track/1hd0N4PbiheOgLhoHmVDTI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr"><strong>AUTOMOTIVO TOMA CAVUCADA (Slowed)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS">DJ RICK 013</a>, <a href="https://open.spotify.com/artist/3wAFY8OyUmqiaPnGbfBSqD">DJ NK3</a>, <a href="https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz">MC LyC4N</a>, <a href="https://open.spotify.com/artist/2b2lQ2CxSaXiBMfOImucD1">MC RESTRITO ORIGINAL</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1hd0N4PbiheOgLhoHmVDTI"><strong>RUN!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t">VALORANT</a>, <a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a>, <a href="https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F">Lay Bankz</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cf5ac7eebe6012be77eda7d4" href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730d712e0a3f9fa8455fd3416c" href="https://open.spotify.com/track/58BHDp9PmCvxClB3alu3un" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr"><strong>AUTOMOTIVO TOMA CAVUCADA (Slowed)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS">DJ RICK 013</a>, <a href="https://open.spotify.com/artist/3wAFY8OyUmqiaPnGbfBSqD">DJ NK3</a>, <a href="https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz">MC LyC4N</a>, <a href="https://open.spotify.com/artist/2b2lQ2CxSaXiBMfOImucD1">MC RESTRITO ORIGINAL</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/58BHDp9PmCvxClB3alu3un"><strong>La Mia Queen</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3iYwsCmyIpFw5GLKwL6V77">Babaman</a>, <a href="https://open.spotify.com/artist/2UlrY6lTmU6G1mFrp14aJ1">Mene</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cf5ac7eebe6012be77eda7d4" href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27358c1280be5c0eb6a8cba9809" href="https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr"><strong>AUTOMOTIVO TOMA CAVUCADA (Slowed)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS">DJ RICK 013</a>, <a href="https://open.spotify.com/artist/3wAFY8OyUmqiaPnGbfBSqD">DJ NK3</a>, <a href="https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz">MC LyC4N</a>, <a href="https://open.spotify.com/artist/2b2lQ2CxSaXiBMfOImucD1">MC RESTRITO ORIGINAL</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02"><strong>Tu sei il mattino</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cf5ac7eebe6012be77eda7d4" href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273858888bdb62d382739b07e89" href="https://open.spotify.com/track/20MwAekzD46VMJP0JmjmhS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr"><strong>AUTOMOTIVO TOMA CAVUCADA (Slowed)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS">DJ RICK 013</a>, <a href="https://open.spotify.com/artist/3wAFY8OyUmqiaPnGbfBSqD">DJ NK3</a>, <a href="https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz">MC LyC4N</a>, <a href="https://open.spotify.com/artist/2b2lQ2CxSaXiBMfOImucD1">MC RESTRITO ORIGINAL</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/20MwAekzD46VMJP0JmjmhS"><strong>Con un deca</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO">883</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cf5ac7eebe6012be77eda7d4" href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733a78826c5b2c91d7c64200e8" href="https://open.spotify.com/track/4Bihr8csKb1a97N50n04p1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr"><strong>AUTOMOTIVO TOMA CAVUCADA (Slowed)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS">DJ RICK 013</a>, <a href="https://open.spotify.com/artist/3wAFY8OyUmqiaPnGbfBSqD">DJ NK3</a>, <a href="https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz">MC LyC4N</a>, <a href="https://open.spotify.com/artist/2b2lQ2CxSaXiBMfOImucD1">MC RESTRITO ORIGINAL</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Bihr8csKb1a97N50n04p1"><strong>Loop - Radio Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/49WTsslK1g6frRdr895unr">GLWKMOD</a></p>
     </td>
   </tr>
   
