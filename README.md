@@ -81,7 +81,7 @@ Show your spotify stats inside your README.md
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"><strong>Lucio Corsi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">italian singer-songwriter</p>
+      <p style="margin: 5px 0 0 0; color: grey;">italian singer-songwriter, singer-songwriter</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;">Popularity: <strong>61%</strong></p>
