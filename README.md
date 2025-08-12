@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739b3a4365b0c34f5b5ac2bed9" href="https://open.spotify.com/track/3KVqVpyrgJ5HoPkU8RpGX3" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735855fc79a3170a82e2a582de" href="https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3KVqVpyrgJ5HoPkU8RpGX3"><strong>Giorni stupidi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BUmFe61H2cYyKVgkwttxj">Rokas</a>, <a href="https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7">EDONiCO</a>, <a href="https://open.spotify.com/artist/5pALJdF7dliaPdFzkw9OIy">Granato</a>, <a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"><strong>Rocking A Cardigan in Atlanta</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I">lil Shordie Scott</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736e17f46446b1cb258822cabe" href="https://open.spotify.com/track/5hG2A5FGSnXFPYMS5cPie7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b84b0516d901f95461bb5165" href="https://open.spotify.com/track/0uAkm1iQLrzweZ4U1iXy6w" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5hG2A5FGSnXFPYMS5cPie7"><strong>Bacio Illimitato</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0uAkm1iQLrzweZ4U1iXy6w"><strong>Alfred’s Theme</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR">Eminem</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/2QZjGDOZrZ3qsQzN8xsy97" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273faa6560290393ee2057a6581" href="https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2QZjGDOZrZ3qsQzN8xsy97"><strong>Tottigol</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"><strong>Cupid's Chokehold / Breakfast in America</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli">Gym Class Heroes</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d29a003b6e8d4c1c47bd4da4" href="https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273591c3f691cc42a0257eb0665" href="https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"><strong>Azizam</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V">Ed Sheeran</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ"><strong>Gatluak - Bakermat Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr">Kronan</a>, <a href="https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3">Nyaruach</a>, <a href="https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM">Bakermat</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a937b9f4293cd65b4136fadc" href="https://open.spotify.com/track/3aAUAuKKXURCCOfUvQMuxz" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d78158ed630c7b2d09282c35" href="https://open.spotify.com/track/53uRmYY1yOtme8h215KzOm" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3aAUAuKKXURCCOfUvQMuxz"><strong>From The Start</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5PMd3btcxWedE9DHdy2zbl">neal</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/53uRmYY1yOtme8h215KzOm"><strong>Puoi (feat. Pinguini Tattici Nucleari)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3">Fulminacci</a>, <a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
