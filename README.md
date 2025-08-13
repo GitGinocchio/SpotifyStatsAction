@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b7504d3f9ef7d1cef58d00e7" href="https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27321b2b485aef32bcc96c1875c" href="https://open.spotify.com/track/4NvXTrOSsVlCw0bFe3lKY9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP"><strong>HYPNOTIC DATA</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4NvXTrOSsVlCw0bFe3lKY9"><strong>IV. Sweatpants</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL">Childish Gambino</a>, <a href="https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn">JasonMartin</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27385c06ab493ddfbd4da41536c" href="https://open.spotify.com/track/4S07NeGpokOjGyHc8mrGzY" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738552d88ecfb8c7adf709a3a5" href="https://open.spotify.com/track/5pqHtOnyeIhyWIwgXn2Ycq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4S07NeGpokOjGyHc8mrGzY"><strong>Fuorionda</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5pqHtOnyeIhyWIwgXn2Ycq"><strong>Congratulations - Piano Version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Mr0dXg1KM8bmg2tBe2xEe">Kim Bo</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735855fc79a3170a82e2a582de" href="https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27321df1eeced91a43af0cecd31" href="https://open.spotify.com/track/2KOs6a1uwD9Jir91BjZCoJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"><strong>Rocking A Cardigan in Atlanta</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I">lil Shordie Scott</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2KOs6a1uwD9Jir91BjZCoJ"><strong>Siamo morti insieme</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b84b0516d901f95461bb5165" href="https://open.spotify.com/track/0uAkm1iQLrzweZ4U1iXy6w" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf" href="https://open.spotify.com/track/4cIkZCQyh6tYQDDr8D8GpB" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0uAkm1iQLrzweZ4U1iXy6w"><strong>Alfred’s Theme</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR">Eminem</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4cIkZCQyh6tYQDDr8D8GpB"><strong>Faccio un casino</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273faa6560290393ee2057a6581" href="https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738fbee639aeab14f94d7561da" href="https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"><strong>Cupid's Chokehold / Breakfast in America</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli">Gym Class Heroes</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"><strong>Alien Blues</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6">Vundabar</a></p>
     </td>
   </tr>
   
