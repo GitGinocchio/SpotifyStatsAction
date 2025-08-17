@@ -13,11 +13,11 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739645c8d3ee5c7b0e4c1fefb5" href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273210484981a7d3ec04f5958b0" href="https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF"><strong>Bottiglie Vuote (feat. Max Pezzali)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a>, <a href="https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9">Max Pezzali</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp"><strong>LEI</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
@@ -43,11 +43,11 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273210484981a7d3ec04f5958b0" href="https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739645c8d3ee5c7b0e4c1fefb5" href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp"><strong>LEI</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF"><strong>Bottiglie Vuote (feat. Max Pezzali)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a>, <a href="https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9">Max Pezzali</a></p>
     </td>
   </tr>
   
