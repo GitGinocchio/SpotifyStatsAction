@@ -13,41 +13,41 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f1f4cba7357b0fea9f8b5732" href="https://open.spotify.com/track/07HwIm3HjuDhAHq3x6mC4T" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07HwIm3HjuDhAHq3x6mC4T"><strong>Così come mi viene</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR">Francesco Gabbani</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f1f4cba7357b0fea9f8b5732" href="https://open.spotify.com/track/3fbwo3003OZitzByA6ppPP" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3fbwo3003OZitzByA6ppPP"><strong>Viva la vita</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR">Francesco Gabbani</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27315780e3496c9fec45bdfdbb4" href="https://open.spotify.com/track/1NltEhWH77wzaYiFeg6ZUK" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1NltEhWH77wzaYiFeg6ZUK"><strong>Altrove</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t">Eugenio In Via Di Gioia</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273210484981a7d3ec04f5958b0" href="https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp"><strong>LEI</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739645c8d3ee5c7b0e4c1fefb5" href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF"><strong>Bottiglie Vuote (feat. Max Pezzali)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a>, <a href="https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9">Max Pezzali</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273210484981a7d3ec04f5958b0" href="https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp"><strong>LEI</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739645c8d3ee5c7b0e4c1fefb5" href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF"><strong>Bottiglie Vuote (feat. Max Pezzali)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a>, <a href="https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9">Max Pezzali</a></p>
     </td>
   </tr>
   
