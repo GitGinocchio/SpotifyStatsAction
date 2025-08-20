@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273654c0a1cb2c30dd8e11c0186" href="https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305f13846a6404611120be8c8" href="https://open.spotify.com/track/4LpWQ7pNWbIN86JLpQdXFM" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"><strong>Crazy What Love Can Do</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK">Becky Hill</a>, <a href="https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1">Ella Henderson</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4LpWQ7pNWbIN86JLpQdXFM"><strong>Non dire no</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27301161c81847e31dd1817926a" href="https://open.spotify.com/track/4HpqJZ9YSAaVsmfNGAyl9w" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731c98b8198862c9b761703c6c" href="https://open.spotify.com/track/76mNr58LT9ASZ5D0ltYQwq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4HpqJZ9YSAaVsmfNGAyl9w"><strong>PARTIRE DA TE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/76mNr58LT9ASZ5D0ltYQwq"><strong>APPLAUSE - Hardstyle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736182cfe2e2a090d125c81dc0" href="https://open.spotify.com/track/7gEdleVWw2RrImYlvXImch" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c" href="https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7gEdleVWw2RrImYlvXImch"><strong>Outside</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL">Childish Gambino</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"><strong>Darling, I (feat. Teezo Touchdown)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF">Tyler, The Creator</a>, <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36">Teezo Touchdown</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa" href="https://open.spotify.com/track/36FgNo5lmrUUSrDqXJLsrz" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27358c1280be5c0eb6a8cba9809" href="https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/36FgNo5lmrUUSrDqXJLsrz"><strong>Coming Home</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB">beabadoobee</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02"><strong>Tu sei il mattino</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273554e64faf84b54a2eb166f8b" href="https://open.spotify.com/track/1hd0N4PbiheOgLhoHmVDTI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27389070654f69ee060803403f3" href="https://open.spotify.com/track/5eSC7faDYHxnklPjcxZjD6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1hd0N4PbiheOgLhoHmVDTI"><strong>RUN!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t">VALORANT</a>, <a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a>, <a href="https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F">Lay Bankz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5eSC7faDYHxnklPjcxZjD6"><strong>BRAVI A CADERE - I polmoni</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
