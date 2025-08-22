@@ -13,6 +13,36 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738acaa7da2fb43a4038d962c6" href="https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a"><strong>2minuti</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dd4912edb4982f53a381b98e" href="https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"><strong>Illegal</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t">PinkPantheress</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ab2d601177caa3074c7d4a2b" href="https://open.spotify.com/track/66tVtoFKxaV62FBk5ihSPM" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/66tVtoFKxaV62FBk5ihSPM"><strong>Antartide</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/6lCm0HzQ9oouDQr1t9N40u" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -27,36 +57,6 @@ Show your spotify stats inside your README.md
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1UzYtxJtgI1CObFKiE8UOu"><strong>born for loving you - live</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/7nXqcmN8anhDpDBCvzBmBZ" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7nXqcmN8anhDpDBCvzBmBZ"><strong>- lady midnight, I'll tape you back together -</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/2Ff3Z0rizK1b2UGueqA7c2" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Ff3Z0rizK1b2UGueqA7c2"><strong>vampire empire - live</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/2Ff3Z0rizK1b2UGueqA7c2" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Ff3Z0rizK1b2UGueqA7c2"><strong>vampire empire - live</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
     </td>
   </tr>
