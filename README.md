@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273de33c9c199cc39dc9eb9f61a" href="https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/5TCaQZT9yOUsoA6EpjhVRd" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7"><strong>next to you</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK">JVKE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5TCaQZT9yOUsoA6EpjhVRd"><strong>- door & how are you? -</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27306bd12cb50a3b5a79e7fd843" href="https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/364v3bYOWxLMl0kljKUBSx" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72"><strong>in your arms</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S">sombr</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/364v3bYOWxLMl0kljKUBSx"><strong>hello, i love you & blue lightning</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb" href="https://open.spotify.com/track/18NBoQ9SyURVcsPW6sP8tv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273292a05030d5c662e897196b4" href="https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18NBoQ9SyURVcsPW6sP8tv"><strong>Frosinone</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu"><strong>Sadness As A Gift</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dd4912edb4982f53a381b98e" href="https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ab009ce861613653b14451b9" href="https://open.spotify.com/track/4GHHloVSspowQJMBsJ6r37" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"><strong>Illegal</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t">PinkPantheress</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4GHHloVSspowQJMBsJ6r37"><strong>two reverse</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735ae8c639d8e9c6c2a02989a2" href="https://open.spotify.com/track/3K7xQ82lPHf9QKNTn2bfAe" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ab009ce861613653b14451b9" href="https://open.spotify.com/track/0jpEKGcoyt7oNpgI9S9cbA" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3K7xQ82lPHf9QKNTn2bfAe"><strong>Catene</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0jpEKGcoyt7oNpgI9S9cbA"><strong>my angel</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
     </td>
   </tr>
   
@@ -84,7 +84,7 @@ Show your spotify stats inside your README.md
       <p style="margin: 5px 0 0 0; color: grey;">italian singer-songwriter, singer-songwriter</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>61%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>60%</strong></p>
     </td>
   </tr>
   
