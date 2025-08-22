@@ -13,50 +13,50 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/6noISXsio1oGfSqMpfKDGZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/6lCm0HzQ9oouDQr1t9N40u" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6noISXsio1oGfSqMpfKDGZ"><strong>heavy focus - live</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6lCm0HzQ9oouDQr1t9N40u"><strong>I will always love you - live</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/31ZqHgJ5jLGshml33jk4tT" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/1UzYtxJtgI1CObFKiE8UOu" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/31ZqHgJ5jLGshml33jk4tT"><strong>- brief message for adrianne -</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1UzYtxJtgI1CObFKiE8UOu"><strong>born for loving you - live</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/7tR3N0yG18IhOHV4A8dYAh" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/7nXqcmN8anhDpDBCvzBmBZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7tR3N0yG18IhOHV4A8dYAh"><strong>i do love you - live</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7nXqcmN8anhDpDBCvzBmBZ"><strong>- lady midnight, I'll tape you back together -</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/1aEzCGKm7UKGAkCvxZY9Z4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/2Ff3Z0rizK1b2UGueqA7c2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1aEzCGKm7UKGAkCvxZY9Z4"><strong>- now westlin winds -</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Ff3Z0rizK1b2UGueqA7c2"><strong>vampire empire - live</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731e08ca407b4d7275e7da6320" href="https://open.spotify.com/track/2Ff3Z0rizK1b2UGueqA7c2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm"><strong>indiana & sneezing</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Ff3Z0rizK1b2UGueqA7c2"><strong>vampire empire - live</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY">Adrianne Lenker</a></p>
     </td>
   </tr>
