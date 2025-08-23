@@ -90,6 +90,19 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb5a7d5278cf9deda53119028c" href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY" alt="Artist image" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"><strong>Adrianne Lenker</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"></p>
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;">Popularity: <strong>76%</strong></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab6761610000e5eb1f2f4174343f1ced109a7ced" href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -124,19 +137,6 @@ Show your spotify stats inside your README.md
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;">Popularity: <strong>39%</strong></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb5a7d5278cf9deda53119028c" href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY" alt="Artist image" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"><strong>Adrianne Lenker</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"></p>
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>76%</strong></p>
     </td>
   </tr>
   
