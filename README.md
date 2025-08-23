@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" href="https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c1a13482a9b0001d7b8ee49d" href="https://open.spotify.com/track/1VzXas8Qbqp9Jhuoc8RntR" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk"><strong>Everyday</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L">Logic</a>, <a href="https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T">Marshmello</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1VzXas8Qbqp9Jhuoc8RntR"><strong>Blu</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7wDKzQPAyGqjGdL3PSSHLI">Postino</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/0WgVvy1KelQxG6KBUukTWI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0WgVvy1KelQxG6KBUukTWI"><strong>LAUREA AD HONOREM (feat. Calcutta)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a>, <a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"><strong>Stressed Out</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx">Twenty One Pilots</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737811146a7f29756c0bbda111" href="https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27302bf978e1bf6fc4c2e4a3cee" href="https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"><strong>ITALODISCO</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR">The Kolors</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y"><strong>RUGGINE ⚮ (con chiello & Coez)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1">MACE</a>, <a href="https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h">chiello</a>, <a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af" href="https://open.spotify.com/track/4NUhcsz9E1LrBe8nXLZqzp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/6dppIGqwwskBPiNxFgoXQN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4NUhcsz9E1LrBe8nXLZqzp"><strong>It Almost Worked</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W">TV Girl</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6dppIGqwwskBPiNxFgoXQN"><strong>Potter / Pedalò</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb" href="https://open.spotify.com/track/18NBoQ9SyURVcsPW6sP8tv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273534cdd720a58d221ac4de669" href="https://open.spotify.com/track/6PTxwEyZm0lI4nR970KPsz" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18NBoQ9SyURVcsPW6sP8tv"><strong>Frosinone</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6PTxwEyZm0lI4nR970KPsz"><strong>Bagatelle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
