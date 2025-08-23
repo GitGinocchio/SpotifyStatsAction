@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616" href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ceaeb9d72a6398f943ca9ad8" href="https://open.spotify.com/track/2djOxwoE66cQDWST9J3QQ5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"><strong>Babydoll</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs">Dominic Fike</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2djOxwoE66cQDWST9J3QQ5"><strong>Italiani a Londra</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn">Il Pagante</a>, <a href="https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5">J-AX</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2" href="https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c14d6f207634fec419db5f75" href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"><strong>Just Dance</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms">Lady Gaga</a>, <a href="https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z">Colby O'Donis</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"><strong>La canzone del sole - Remastered</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273417a4fb97e924007c25cdf99" href="https://open.spotify.com/track/7LSBkEm5LQSkhe6yqqqBPs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be" href="https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7LSBkEm5LQSkhe6yqqqBPs"><strong>Buon Viaggio (Share The Love)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"><strong>Beat It</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm">Michael Jackson</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f9d40a1060220cf7729de6f1" href="https://open.spotify.com/track/7ruEmPzNwUgpgiiYnkqR4M" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"><strong>CRAZY LOVE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7ruEmPzNwUgpgiiYnkqR4M"><strong>Prendimi</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b">VAEVA</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/2QZjGDOZrZ3qsQzN8xsy97" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738fbee639aeab14f94d7561da" href="https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2QZjGDOZrZ3qsQzN8xsy97"><strong>Tottigol</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"><strong>Alien Blues</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6">Vundabar</a></p>
     </td>
   </tr>
   
