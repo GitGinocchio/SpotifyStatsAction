@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c14d6f207634fec419db5f75" href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27354fce70766a60131518e50a7" href="https://open.spotify.com/track/3dfQHA2aB7Eojax9qDA9Kx" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"><strong>La canzone del sole - Remastered</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G">Lucio Battisti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3dfQHA2aB7Eojax9qDA9Kx"><strong>NEVER GET USED TO THIS (with JVKE)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ">Forrest Frank</a>, <a href="https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK">JVKE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c1a13482a9b0001d7b8ee49d" href="https://open.spotify.com/track/1VzXas8Qbqp9Jhuoc8RntR" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" href="https://open.spotify.com/track/1gAaRSN57UYVRI4eWRyAvP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1VzXas8Qbqp9Jhuoc8RntR"><strong>Blu</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7wDKzQPAyGqjGdL3PSSHLI">Postino</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1gAaRSN57UYVRI4eWRyAvP"><strong>Pushing Me Away</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163" href="https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"><strong>Stressed Out</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx">Twenty One Pilots</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"><strong>Do I Wanna Know?</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH">Arctic Monkeys</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27302bf978e1bf6fc4c2e4a3cee" href="https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b52a2b8f0bc54ff42b468875" href="https://open.spotify.com/track/6qLO9SRN7yRHIMkbNVVwBD" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y"><strong>RUGGINE ⚮ (con chiello & Coez)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1">MACE</a>, <a href="https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h">chiello</a>, <a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6qLO9SRN7yRHIMkbNVVwBD"><strong>I love you baby</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a>, <a href="https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx">Sixpm</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/6dppIGqwwskBPiNxFgoXQN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f1f4cba7357b0fea9f8b5732" href="https://open.spotify.com/track/07HwIm3HjuDhAHq3x6mC4T" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6dppIGqwwskBPiNxFgoXQN"><strong>Potter / Pedalò</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07HwIm3HjuDhAHq3x6mC4T"><strong>Così come mi viene</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR">Francesco Gabbani</a></p>
     </td>
   </tr>
   
