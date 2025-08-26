@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27342207d39fc8f0c7d1dbf874e" href="https://open.spotify.com/track/2mtB0iVIn7gmy1jvKXUHRN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d1c976c907b1a48546709b5b" href="https://open.spotify.com/track/7IERlpRyP1u7CLJI6nbbPr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2mtB0iVIn7gmy1jvKXUHRN"><strong>Vai Me Bota - Slowed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq">KREZUS</a>, <a href="https://open.spotify.com/artist/6xnXWvVPKAOt7SY2bg38r7">Mc Lysa</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7IERlpRyP1u7CLJI6nbbPr"><strong>S&M - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c707a158b3edce8076e719be" href="https://open.spotify.com/track/0tbfHEnclBgFV5O5SYgfSK" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27322cd4c4fdfcee0691b5080c1" href="https://open.spotify.com/track/7uSGU4SrX7NyaqGTueSZf0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0tbfHEnclBgFV5O5SYgfSK"><strong>Nevada - Sped Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT">Vicetone</a>, <a href="https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa">Cozi Zuehlsdorff</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7uSGU4SrX7NyaqGTueSZf0"><strong>Death Is No More (Slowed)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF">BLESSED MANE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e147333a1cf9b3fa59af7176" href="https://open.spotify.com/track/4jyf9APpFuxCGOIIftl50r" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733e5aa35de4eab383d0aa876f" href="https://open.spotify.com/track/7oEpESpS2mKA7AGLmd1al9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4jyf9APpFuxCGOIIftl50r"><strong>Butterfly</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6IyYgY2zvSvbTWiBZzekA1">DXRK VENDE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7oEpESpS2mKA7AGLmd1al9"><strong>EEYUH! (Irokz Remix)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3UrGictkKDBfGKpK2ZiWGX">HR</a>, <a href="https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY">Irokz</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273399b1dc0d027f8e4c36648cb" href="https://open.spotify.com/track/23vZqJEwX9lKdWxGDpBF7G" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732dcbd2c02bdaaf7c917faad2" href="https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/23vZqJEwX9lKdWxGDpBF7G"><strong>Roi - Sped Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ">skyemane</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q"><strong>The Nights - Hardstyle Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn">Thymo</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273621cf840fd3549bfd47eca9d" href="https://open.spotify.com/track/5XuCHa19u2xLeGa8MJHAwu" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e72715688f633bf309ce1142" href="https://open.spotify.com/track/2EDJkuEd5tvxSAPiXCHACe" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XuCHa19u2xLeGa8MJHAwu"><strong>Fluxxwave</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6">Clovis Reyes</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2EDJkuEd5tvxSAPiXCHACe"><strong>Somebody That I Used To Know - 4FRNT Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG">Gotye</a>, <a href="https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti">Kimbra</a>, <a href="https://open.spotify.com/artist/1S8wMSqZTtMPWdwEnqCci0">4FRNT</a></p>
     </td>
   </tr>
   
