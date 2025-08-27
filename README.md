@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732a50b3962c4ebda07a4a741c" href="https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273427c80da235cb76fc89b8e27" href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C"><strong>Chihiro</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc">Gravagerz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"><strong>Montagem Mysterious Game</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK">LXNGVX</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e147333a1cf9b3fa59af7176" href="https://open.spotify.com/track/4jyf9APpFuxCGOIIftl50r" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305f5045b4ff6cb74fa963f96" href="https://open.spotify.com/track/5vCREmODQpdzOmcNOVsN6B" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4jyf9APpFuxCGOIIftl50r"><strong>Butterfly</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6IyYgY2zvSvbTWiBZzekA1">DXRK VENDE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5vCREmODQpdzOmcNOVsN6B"><strong>Roi - Instrumental Slowed</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug">Mckyyy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273841e18c8db404401967bb429" href="https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739fa97bd8e5926a4d45031497" href="https://open.spotify.com/track/4bNqSJ92afDvDZiYgpckVf" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM"><strong>METAMORPHOSIS - Slowed + Reverb</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4bNqSJ92afDvDZiYgpckVf"><strong>Don't Be so Shy - Filatov & Karas Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw">Imany</a>, <a href="https://open.spotify.com/artist/5NW2uPFatEKjZQ5gpWD8HO">Filatov & Karas</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d1c976c907b1a48546709b5b" href="https://open.spotify.com/track/7IERlpRyP1u7CLJI6nbbPr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27341ea5d59d752b358caeef11e" href="https://open.spotify.com/track/5ZQNkUAp5Ji9uuz55gZX8V" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7IERlpRyP1u7CLJI6nbbPr"><strong>S&M - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ZQNkUAp5Ji9uuz55gZX8V"><strong>On The Floor (Hardstyle)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS">crypvolk</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cf5ac7eebe6012be77eda7d4" href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273063ddc5f2e28b848393d48dd" href="https://open.spotify.com/track/03t9vXytLI8cgcnQljmw2M" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr"><strong>AUTOMOTIVO TOMA CAVUCADA (Slowed)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS">DJ RICK 013</a>, <a href="https://open.spotify.com/artist/3wAFY8OyUmqiaPnGbfBSqD">DJ NK3</a>, <a href="https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz">MC LyC4N</a>, <a href="https://open.spotify.com/artist/2b2lQ2CxSaXiBMfOImucD1">MC RESTRITO ORIGINAL</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/03t9vXytLI8cgcnQljmw2M"><strong>wheres the old me?</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5kQHsD2Du8pX3ECsgfdG7v">hxrtly</a>, <a href="https://open.spotify.com/artist/5CvQyNGcIdOFo2i5AM4gSs">SVARDSTAL</a></p>
     </td>
   </tr>
   
