@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738009bc75188384c8b65fef4f" href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f463ab32d3175cfe480dbd8d" href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"><strong>RAPTURE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"><strong>ALORS BRAZIL</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn">NONTHENSE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dbe9a93e019d04a6c7b1eb0a" href="https://open.spotify.com/track/4PQMjek5EHQxgM7fAcbjL4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737fa903eb06f5731aadecf9d8" href="https://open.spotify.com/track/4SUOSCkpHgcW7jTo5eWOMd" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4PQMjek5EHQxgM7fAcbjL4"><strong>better off alone</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1TbimYcYQrcJEfeVNTV2Ab">k0$h</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4SUOSCkpHgcW7jTo5eWOMd"><strong>Don't Be so Shy - Slowed + Reverb</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0nBm7sxo9DqEk7RLyaxFWO">13Aurora</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733c98ecacf8207b427ab23aa1" href="https://open.spotify.com/track/2ppEOWsoHsdN5TfiJ6QAtW" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735094c7ddde5b276cf014875d" href="https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ppEOWsoHsdN5TfiJ6QAtW"><strong>cigarette burns</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Fu7HwkDJZ4NFpmefid5TA">moonvampire</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"><strong>EMPTY DREAMS</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP">CYPARISS</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dfabdcea41553b2671927fc5" href="https://open.spotify.com/track/5xjyCc4doomao4SkrAK29U" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737f2bc865b522cedbfbc43fed" href="https://open.spotify.com/track/6wKTt2B7XcSjgv3tQdkgVq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5xjyCc4doomao4SkrAK29U"><strong>EEYUH! x Fluxxwave - Slowed + Reverb</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6">Clovis Reyes</a>, <a href="https://open.spotify.com/artist/3UrGictkKDBfGKpK2ZiWGX">HR</a>, <a href="https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY">Irokz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6wKTt2B7XcSjgv3tQdkgVq"><strong>THE HILLS - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27338f8b756ea13eda8e6cfd0f6" href="https://open.spotify.com/track/1AhGUbxpTSQ6VJ0tr8XVW3" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27378d7b2cdc315b9b33b4afd4a" href="https://open.spotify.com/track/2SkTXgDVJfHMWw1z6ek47f" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1AhGUbxpTSQ6VJ0tr8XVW3"><strong>Animal</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/29FwFqbM5JlAydGybJL1HJ">Robopup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2SkTXgDVJfHMWw1z6ek47f"><strong>Radioactive</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn">Vaskan</a>, <a href="https://open.spotify.com/artist/0Vorbh84xQLnLXl1BvN1cV">HARDSTYLE MAGE</a>, <a href="https://open.spotify.com/artist/06p17yB3xXhP6nlrpEXm4g">ZYZZ MUSIC</a></p>
     </td>
   </tr>
   
