@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bf60464bd744ce4f86a8797a" href="https://open.spotify.com/track/7xCNNGCjueh2oU9k31Cesu" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7xCNNGCjueh2oU9k31Cesu"><strong>If You Care</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc">akiaura</a>, <a href="https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw">LONOWN</a>, <a href="https://open.spotify.com/artist/3amYqoSxw1ZApFDTQye9ss">DJ Pointless</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27305f5045b4ff6cb74fa963f96" href="https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4jyf9APpFuxCGOIIftl50r"><strong>Butterfly</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6IyYgY2zvSvbTWiBZzekA1">DXRK VENDE</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d9f8717b07430fb9e48d5960" href="https://open.spotify.com/track/1rzXMehi59zCgIW38Txd6O" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1rzXMehi59zCgIW38Txd6O"><strong>Better Off Alone - Slowed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug">Mckyyy</a></p>
     </td>
   </tr>
   
