@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4" href="https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX"><strong>Armed And Dangerous</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84" href="https://open.spotify.com/track/2SXG2Vmtn4S1lsbQkuWKBS" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2SXG2Vmtn4S1lsbQkuWKBS"><strong>Talk to Strangers</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W">TV Girl</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e0eabeb04c59eec41257b99c" href="https://open.spotify.com/track/0jfIQheXtPPOX0PSn2xxdH" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0jfIQheXtPPOX0PSn2xxdH"><strong>Ooo La La</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ">Rozei</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" href="https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"><strong>on the street (with J. Cole)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy">j-hope</a>, <a href="https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5">J. Cole</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273afe473a4a47a4e69ab174069" href="https://open.spotify.com/track/0R5vO904RzxDJ30yZaspQD" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0R5vO904RzxDJ30yZaspQD"><strong>Magnolia</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO">Laufey</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273704a5231b9aa3cdf16de4a58" href="https://open.spotify.com/track/6yBrNu2P7S2vRDzLDNzLIK" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6yBrNu2P7S2vRDzLDNzLIK"><strong>C’era il temporale</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b">VAEVA</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a0934c15232680a3afc9da6e" href="https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM"><strong>her</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK">JVKE</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362c1f3370811c52ae2d26d24" href="https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu"><strong>The Flower Garden</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB">Joe Hisaishi</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX"><strong>Occhiaie</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
     </td>
   </tr>
   
