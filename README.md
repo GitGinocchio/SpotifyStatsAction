@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27385e12291b6d130bdd1703b74" href="https://open.spotify.com/track/7ABDQo17i4mAI6GMl1Hfmy" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734b3656b847d344d9ad53be34" href="https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7ABDQo17i4mAI6GMl1Hfmy"><strong>LEVA LEVA</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK">LXNGVX</a>, <a href="https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe">DJ FKU</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b"><strong>SUICIDE YEAR</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx">WEEDMANE</a>, <a href="https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO">Suicideyear</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e5a489fc9657ea491f26627f" href="https://open.spotify.com/track/4YWbwRSRQFbqRhxqf4XWYO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b442345328808094f4c9728c" href="https://open.spotify.com/track/0dUtSKRijru3o7cMH8QipN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4YWbwRSRQFbqRhxqf4XWYO"><strong>FORCE!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF">Eternxlkz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0dUtSKRijru3o7cMH8QipN"><strong>Silence</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4hlDspeXlZGfwMUaWRFClN">5admin</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27397a6d68d73f20cd1391bb383" href="https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fd88cb3db90401571d4e0bc9" href="https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs"><strong>SO TIRED</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB">NUEKI</a>, <a href="https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4">TOLCHONOV</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ"><strong>IN THE CLUB</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2kH0ycFAZXMJzpNems0mVK">Mishashi Sensei</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273427c80da235cb76fc89b8e27" href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cb32d9ff4aaa359d1f94d855" href="https://open.spotify.com/track/0rRJNSrFPmOPZJRmdQbciH" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"><strong>Montagem Mysterious Game</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK">LXNGVX</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0rRJNSrFPmOPZJRmdQbciH"><strong>End of the World</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC">FORGOTTENAGE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f8c9987765cd590630b7f760" href="https://open.spotify.com/track/718AP4uqhwCBRF22y54Fcm" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27339403b33addbba0a0eee4658" href="https://open.spotify.com/track/0BfsBGWWesSZnEwiwu9Nw3" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/718AP4uqhwCBRF22y54Fcm"><strong>DEIXA ROLAR - SLOWED + REVERB</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF">Eternxlkz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0BfsBGWWesSZnEwiwu9Nw3"><strong>A Little Story</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5">DVRST</a></p>
     </td>
   </tr>
   
