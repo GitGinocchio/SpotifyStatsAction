@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739ce35cbf00126ebdc2e37060" href="https://open.spotify.com/track/07m7hJVsCcolL2kTXp645J" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730d585acdd9506eef4b9644c2" href="https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07m7hJVsCcolL2kTXp645J"><strong>EMPTY DREAMS (Slowed + Reverb)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP">CYPARISS</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov"><strong>AVANGARD</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw">LONOWN</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27342a71cca827a8d0abda07e49" href="https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61" href="https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"><strong>Memory Reboot</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI">VØJ</a>, <a href="https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7">Narvent</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"><strong>São Paulo (feat. Anitta)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a>, <a href="https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb">Anitta</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27342a71cca827a8d0abda07e49" href="https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e147333a1cf9b3fa59af7176" href="https://open.spotify.com/track/4jyf9APpFuxCGOIIftl50r" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"><strong>Memory Reboot</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI">VØJ</a>, <a href="https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7">Narvent</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4jyf9APpFuxCGOIIftl50r"><strong>Butterfly</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6IyYgY2zvSvbTWiBZzekA1">DXRK VENDE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736c4aad362e179166098b3023" href="https://open.spotify.com/track/4u1DhaPiawdG1UpQXZAff1" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c393a1f9d9694f9db6ddcaa0" href="https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4u1DhaPiawdG1UpQXZAff1"><strong>Timeless (Phonk)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/538YHEukGawcsd20j66mMh">Dan Korshunov</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"><strong>Sleepwalker</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc">akiaura</a>, <a href="https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw">LONOWN</a>, <a href="https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53">STM</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27305f5045b4ff6cb74fa963f96" href="https://open.spotify.com/track/5vCREmODQpdzOmcNOVsN6B" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738d023622e6fc2d402511c1b3" href="https://open.spotify.com/track/12F6v5AkECfl8chiuKAxCk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5vCREmODQpdzOmcNOVsN6B"><strong>Roi - Instrumental Slowed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug">Mckyyy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/12F6v5AkECfl8chiuKAxCk"><strong>MEET ME HALFWAY - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a></p>
     </td>
   </tr>
   
