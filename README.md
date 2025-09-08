@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e67611dbbf69a90d0b6cb738" href="https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a67b50fb57fe4e45c022fbae" href="https://open.spotify.com/track/6yvAeh6da7dJQcuz6XBfCE" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"><strong>i like the way you kiss me</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2">Artemas</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6yvAeh6da7dJQcuz6XBfCE"><strong>DOFT</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti">Rushex</a>, <a href="https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0">Jolixwery</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27387ec0dd3a7bb71aa0612a5ca" href="https://open.spotify.com/track/2S5EpxS6WhQkBlj3WJYXFJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738009bc75188384c8b65fef4f" href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2S5EpxS6WhQkBlj3WJYXFJ"><strong>EEYUH!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3UrGictkKDBfGKpK2ZiWGX">HR</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"><strong>RAPTURE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732b636541b78ac5ac237326ed" href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736c4aad362e179166098b3023" href="https://open.spotify.com/track/4u1DhaPiawdG1UpQXZAff1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg"><strong>FEAR!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a>, <a href="https://open.spotify.com/artist/1PRbFVisaZiK7iQDHFbARw">MultiPlabell</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4u1DhaPiawdG1UpQXZAff1"><strong>Timeless (Phonk)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/538YHEukGawcsd20j66mMh">Dan Korshunov</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273743b6c78774349f8e44039c6" href="https://open.spotify.com/track/28jXWWQFBs8qe5RCACTFN6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273427c80da235cb76fc89b8e27" href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/28jXWWQFBs8qe5RCACTFN6"><strong>After Dark Phonk</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2GMViyAUeRMo2xTPVo7NLv">UNIVXRSE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"><strong>Montagem Mysterious Game</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK">LXNGVX</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273562ebcdaf05bbf3b128c76a1" href="https://open.spotify.com/track/3QQjwMmvdWOzRpdvaQ0EkL" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ec364b32e2bc89bdbcfe2c40" href="https://open.spotify.com/track/5vVbVs5MKHnC9I8RVN6nNN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3QQjwMmvdWOzRpdvaQ0EkL"><strong>Vai Me Bota</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq">KREZUS</a>, <a href="https://open.spotify.com/artist/6xnXWvVPKAOt7SY2bg38r7">Mc Lysa</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5vVbVs5MKHnC9I8RVN6nNN"><strong>Vois Sur Ton Chemin</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6fL5VGL0vinKQ5HOviw6iX">deprezz</a></p>
     </td>
   </tr>
   
