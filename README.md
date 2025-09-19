@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273771abd32d4f4fea582171cbd" href="https://open.spotify.com/track/7tsTlt7Kwj2tFvpukBtZd4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d69582c74fef6f7fe1767cf9" href="https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7tsTlt7Kwj2tFvpukBtZd4"><strong>IMPORTANTE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx"><strong>that b*tch don't even kno my name...</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF">ThxSoMch</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27311e273d18f9c75649a371076" href="https://open.spotify.com/track/2awDnmL1D9cyIJFVruAQcF" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d850d10b72e8ccd5658ab77d" href="https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2awDnmL1D9cyIJFVruAQcF"><strong>Io non abito al mare</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS">Francesca Michielin</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64"><strong>Romantico Ma Muori</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733b261dccc69ea751f68ad8a2" href="https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736e17f46446b1cb258822cabe" href="https://open.spotify.com/track/5hG2A5FGSnXFPYMS5cPie7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW"><strong>Nightmares</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn">Bresh</a>, <a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5hG2A5FGSnXFPYMS5cPie7"><strong>Bacio Illimitato</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27375f331f8f5719007b2d4f770" href="https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" href="https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"><strong>Where or When</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO">Laufey</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk"><strong>Everyday</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L">Logic</a>, <a href="https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T">Marshmello</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738d4c90b2ad8522ea07ebda75" href="https://open.spotify.com/track/563Zhnk0v3WwVR0EsYlMNn" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27386f8c13ae8426e671bf916e6" href="https://open.spotify.com/track/4vcZPa0WHh0BFcQdv0l4xc" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/563Zhnk0v3WwVR0EsYlMNn"><strong>Apri tutte le porte</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr">Gianni Morandi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4vcZPa0WHh0BFcQdv0l4xc"><strong>Settebello</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
     </td>
   </tr>
   
