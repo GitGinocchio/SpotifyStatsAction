@@ -176,21 +176,21 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273592124b134716cc5896c6422" href="https://open.spotify.com/track/2KWhl75cqqKWEqTIHv1Zsd" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2KWhl75cqqKWEqTIHv1Zsd"><strong>Hot Together</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N">The Pointer Sisters</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273f8c9987765cd590630b7f760" href="https://open.spotify.com/track/33v2IZOj9mFdeKkNKUNsZg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/33v2IZOj9mFdeKkNKUNsZg"><strong>DEIXA ROLAR</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF">Eternxlkz</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273592124b134716cc5896c6422" href="https://open.spotify.com/track/2KWhl75cqqKWEqTIHv1Zsd" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2KWhl75cqqKWEqTIHv1Zsd"><strong>Hot Together</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N">The Pointer Sisters</a></p>
     </td>
   </tr>
   
