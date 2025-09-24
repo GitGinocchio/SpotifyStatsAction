@@ -13,50 +13,50 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dd4912edb4982f53a381b98e" href="https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735c3551e095019b883d676899" href="https://open.spotify.com/track/10ubMWpjt26hA9oCqIMnqx" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"><strong>Illegal</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t">PinkPantheress</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/10ubMWpjt26hA9oCqIMnqx"><strong>LIGHTS</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TKwur6G4Q6z57u2ePEvuX">HARDSTYLE CVNT</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb" href="https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e05cf047b13411aa8be78ead" href="https://open.spotify.com/track/3GN9V9zKBrDAcM36CSEgXU" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q"><strong>Cosa mi manchi a fare</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3GN9V9zKBrDAcM36CSEgXU"><strong>Nitrogen</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1iQ4LvF29mWmQDUt2TpXDR">Rviden</a>, <a href="https://open.spotify.com/artist/3o4VMzxpAAOidkGBlHDsFs">Pcn 北</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d1d301e737da4324479c6660" href="https://open.spotify.com/track/5G6Gt9RtNaeIE418pd4yre" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731164d485c1327d039b38ff9f" href="https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5G6Gt9RtNaeIE418pd4yre"><strong>Smithereens</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx">Twenty One Pilots</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"><strong>MONTAGEM COMA</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS">ANDROMEDA</a>, <a href="https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we">elysian.</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735fadc5fb1c4b1eb60798c7bc" href="https://open.spotify.com/track/74CjS2xMK4KLnniXzFB9GI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27343294cfa2688055c9d821bf3" href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/74CjS2xMK4KLnniXzFB9GI"><strong>Gli anni (96)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO">883</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"><strong>Shut Up and Dance</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic">WALK THE MOON</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ab2d601177caa3074c7d4a2b" href="https://open.spotify.com/track/6Jn9qoprkuSfsRW7tTRkOV" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273df8e97d294e5f3d8ec777f68" href="https://open.spotify.com/track/4m41QtNl3kRxQXTet1oCyQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6Jn9qoprkuSfsRW7tTRkOV"><strong>Lake Washington Boulevard</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4m41QtNl3kRxQXTet1oCyQ"><strong>Hikikomori</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
