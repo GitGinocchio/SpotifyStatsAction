@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/17cDJE4DUg0yyt5ul8xo2K" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273063ddc5f2e28b848393d48dd" href="https://open.spotify.com/track/03t9vXytLI8cgcnQljmw2M" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17cDJE4DUg0yyt5ul8xo2K"><strong>GLI ALTRI (Giorni Stupidi)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/03t9vXytLI8cgcnQljmw2M"><strong>wheres the old me?</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5kQHsD2Du8pX3ECsgfdG7v">hxrtly</a>, <a href="https://open.spotify.com/artist/5CvQyNGcIdOFo2i5AM4gSs">SVARDSTAL</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fedf554b2bb8ea9c6dc356b9" href="https://open.spotify.com/track/0JiJbbKU6RTYJXMBI34UzM" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732dcbd2c02bdaaf7c917faad2" href="https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0JiJbbKU6RTYJXMBI34UzM"><strong>Islanda</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q"><strong>The Nights - Hardstyle Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn">Thymo</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738009bc75188384c8b65fef4f" href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fdf96dd4babc744ac8e79dcd" href="https://open.spotify.com/track/4JgRo2cQU4jl4mxGk8gjyg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"><strong>RAPTURE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4JgRo2cQU4jl4mxGk8gjyg"><strong>hex - krushfunk version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0vpc365IuiA7Ex5sPRADYy">kxttn</a>, <a href="https://open.spotify.com/artist/4HHaOYzrEpSCPSipWPuVBd">the ANTI social club</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273743b6c78774349f8e44039c6" href="https://open.spotify.com/track/28jXWWQFBs8qe5RCACTFN6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273399b1dc0d027f8e4c36648cb" href="https://open.spotify.com/track/23vZqJEwX9lKdWxGDpBF7G" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/28jXWWQFBs8qe5RCACTFN6"><strong>After Dark Phonk</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2GMViyAUeRMo2xTPVo7NLv">UNIVXRSE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/23vZqJEwX9lKdWxGDpBF7G"><strong>Roi - Sped Up</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ">skyemane</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732b636541b78ac5ac237326ed" href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273efb4357e681842954cb178a4" href="https://open.spotify.com/track/18xb87vqplkgi6jBI4fxuI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg"><strong>FEAR!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a>, <a href="https://open.spotify.com/artist/1PRbFVisaZiK7iQDHFbARw">MultiPlabell</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18xb87vqplkgi6jBI4fxuI"><strong>OUTSIDE HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a>, <a href="https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH">GYM HARDSTYLE</a>, <a href="https://open.spotify.com/artist/1liWeyITxEKtAQkLKzlAVh">HARDSTYLE BRAH</a></p>
     </td>
   </tr>
   
