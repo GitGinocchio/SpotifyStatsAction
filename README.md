@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e9e9ec5c08a0bd129e210a09" href="https://open.spotify.com/track/4SUK8OvKge0hbApQ4YswiV" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27342a71cca827a8d0abda07e49" href="https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4SUK8OvKge0hbApQ4YswiV"><strong>DIE YOUNG (HARDSTYLE REMIX) - REMAKE COVER</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1MToCKholpDbeLDwDYtkyb">ZYZZ HARDSTYLE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"><strong>Memory Reboot</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI">VØJ</a>, <a href="https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7">Narvent</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d1c976c907b1a48546709b5b" href="https://open.spotify.com/track/7IERlpRyP1u7CLJI6nbbPr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737f2bc865b522cedbfbc43fed" href="https://open.spotify.com/track/6wKTt2B7XcSjgv3tQdkgVq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7IERlpRyP1u7CLJI6nbbPr"><strong>S&M - HARDSTYLE</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6wKTt2B7XcSjgv3tQdkgVq"><strong>THE HILLS - HARDSTYLE</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735094c7ddde5b276cf014875d" href="https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731d93ddc540c76c8ff34a6498" href="https://open.spotify.com/track/5cjRF0yXxYvqzmJfUbq9AW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"><strong>EMPTY DREAMS</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP">CYPARISS</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5cjRF0yXxYvqzmJfUbq9AW"><strong>Sleepwalker - Slowed</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc">akiaura</a>, <a href="https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw">LONOWN</a>, <a href="https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53">STM</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735c3551e095019b883d676899" href="https://open.spotify.com/track/10ubMWpjt26hA9oCqIMnqx" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e70283d7d0ca22de6ff4862c" href="https://open.spotify.com/track/1kmSd5kmmv6pCSCvYBnNbl" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/10ubMWpjt26hA9oCqIMnqx"><strong>LIGHTS</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TKwur6G4Q6z57u2ePEvuX">HARDSTYLE CVNT</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1kmSd5kmmv6pCSCvYBnNbl"><strong>AL NACER!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB">Sayfalse</a>, <a href="https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj">Nulteex</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738fad3088008adec12c6a5a8e" href="https://open.spotify.com/track/11Z22I6gaBcuKQPpONijxG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cf5ac7eebe6012be77eda7d4" href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/11Z22I6gaBcuKQPpONijxG"><strong>Safe And Sound</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn">Vaskan</a>, <a href="https://open.spotify.com/artist/0Vorbh84xQLnLXl1BvN1cV">HARDSTYLE MAGE</a>, <a href="https://open.spotify.com/artist/06p17yB3xXhP6nlrpEXm4g">ZYZZ MUSIC</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr"><strong>AUTOMOTIVO TOMA CAVUCADA (Slowed)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS">DJ RICK 013</a>, <a href="https://open.spotify.com/artist/3wAFY8OyUmqiaPnGbfBSqD">DJ NK3</a>, <a href="https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz">MC LyC4N</a>, <a href="https://open.spotify.com/artist/2b2lQ2CxSaXiBMfOImucD1">MC RESTRITO ORIGINAL</a></p>
     </td>
   </tr>
   
