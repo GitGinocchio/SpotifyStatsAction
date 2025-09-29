@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bf60464bd744ce4f86a8797a" href="https://open.spotify.com/track/5txB5jK1twwIOUWtrz8jcT" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732fc0e4bdd55b6223024e9458" href="https://open.spotify.com/track/5uas5uI8m0qzk6soKcCvTZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5txB5jK1twwIOUWtrz8jcT"><strong>pussypodium</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc">akiaura</a>, <a href="https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw">LONOWN</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5uas5uI8m0qzk6soKcCvTZ"><strong>Assumptions - Sped Up Version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV">sped up nightcore</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733e5aa35de4eab383d0aa876f" href="https://open.spotify.com/track/7oEpESpS2mKA7AGLmd1al9" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27341ea5d59d752b358caeef11e" href="https://open.spotify.com/track/5ZQNkUAp5Ji9uuz55gZX8V" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7oEpESpS2mKA7AGLmd1al9"><strong>EEYUH! (Irokz Remix)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3UrGictkKDBfGKpK2ZiWGX">HR</a>, <a href="https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY">Irokz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ZQNkUAp5Ji9uuz55gZX8V"><strong>On The Floor (Hardstyle)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS">crypvolk</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27336385e0fad3c87e8e8f19071" href="https://open.spotify.com/track/2r5BsQ93MzyPILYaottKrG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273eaa3b1520d16b0b5ddaf81c5" href="https://open.spotify.com/track/5F7Tywb6G47ooULUmLv9au" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2r5BsQ93MzyPILYaottKrG"><strong>PASSO BEM SOLTO</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah">ATLXS</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5F7Tywb6G47ooULUmLv9au"><strong>take it from the starz</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6Bx9gM8VBh0Jw8GVCWZ6gY">Roman Nasenmensch</a>, <a href="https://open.spotify.com/artist/3jhFLnyMdTENttqTTe7jHX">domi4wave</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27353ab70a27d58af286ce9eb91" href="https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273399b1dc0d027f8e4c36648cb" href="https://open.spotify.com/track/23vZqJEwX9lKdWxGDpBF7G" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ"><strong>Black Out Days (Stay Away)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km">Ian Asher</a>, <a href="https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH">Phantogram</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/23vZqJEwX9lKdWxGDpBF7G"><strong>Roi - Sped Up</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ">skyemane</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d2787bdf05be41a0dc9e09ab" href="https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735c3551e095019b883d676899" href="https://open.spotify.com/track/10ubMWpjt26hA9oCqIMnqx" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2HJQm4T3Pk2zvxoFhlnGjR"><strong>MONTAGEM TOMADA - Slowed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y">MXZI</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/10ubMWpjt26hA9oCqIMnqx"><strong>LIGHTS</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TKwur6G4Q6z57u2ePEvuX">HARDSTYLE CVNT</a></p>
     </td>
   </tr>
   
