@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731164d485c1327d039b38ff9f" href="https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27304802a3a9e155e4eaed25520" href="https://open.spotify.com/track/3MAZtTCExJSWBcO5c3KkFz" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"><strong>MONTAGEM COMA</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS">ANDROMEDA</a>, <a href="https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we">elysian.</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3MAZtTCExJSWBcO5c3KkFz"><strong>RENEGADE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t">VALORANT</a>, <a href="https://open.spotify.com/artist/1fSNmkI8lKMFVMU2Y4hpgi">99 God</a>, <a href="https://open.spotify.com/artist/1TpV2s0ImwPFIhtz7NESTS">C103</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dfabdcea41553b2671927fc5" href="https://open.spotify.com/track/5xjyCc4doomao4SkrAK29U" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305986974e2b79c7b812f34ec" href="https://open.spotify.com/track/25DyHdcgQMJ2hEMSsrtTVX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5xjyCc4doomao4SkrAK29U"><strong>EEYUH! x Fluxxwave - Slowed + Reverb</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6">Clovis Reyes</a>, <a href="https://open.spotify.com/artist/3UrGictkKDBfGKpK2ZiWGX">HR</a>, <a href="https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY">Irokz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/25DyHdcgQMJ2hEMSsrtTVX"><strong>Dimmi Che C'è (feat. Tedua)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7">Tedua</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273621cf840fd3549bfd47eca9d" href="https://open.spotify.com/track/5XuCHa19u2xLeGa8MJHAwu" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af" href="https://open.spotify.com/track/4NUhcsz9E1LrBe8nXLZqzp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XuCHa19u2xLeGa8MJHAwu"><strong>Fluxxwave</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6">Clovis Reyes</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4NUhcsz9E1LrBe8nXLZqzp"><strong>It Almost Worked</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W">TV Girl</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27314ee8f75f35785651bb7b3b2" href="https://open.spotify.com/track/0L4HEvCrHOY8ff4BOnlBhO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736c8decf40486fd2cd30172cc" href="https://open.spotify.com/track/7zNwTxHeXHTJ8hUkFMGx1U" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0L4HEvCrHOY8ff4BOnlBhO"><strong>Jump (JumpStyle TikTok)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6M4QfNzj433rXVijCYpKoB">Aiden Music</a>, <a href="https://open.spotify.com/artist/2AvhhkpjIFKbIEBvtW6u7A">DJ Twisty</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7zNwTxHeXHTJ8hUkFMGx1U"><strong>Guilty</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738354db28fe9784b207821213" href="https://open.spotify.com/track/1EPi3TSB6vGbGQ4IHVpxco" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27385c06ab493ddfbd4da41536c" href="https://open.spotify.com/track/4S07NeGpokOjGyHc8mrGzY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1EPi3TSB6vGbGQ4IHVpxco"><strong>AVANGARD - Slowed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw">LONOWN</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4S07NeGpokOjGyHc8mrGzY"><strong>Fuorionda</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
     </td>
   </tr>
   
