@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713" href="https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"><strong>the perfect pair</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB">beabadoobee</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273780a8609d3adfe119da97aac" href="https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4rtS1H5ksiVFaAtak2Jdmi"><strong>Heartbeat</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB">Joe Hisaishi</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f1f4cba7357b0fea9f8b5732" href="https://open.spotify.com/track/07HwIm3HjuDhAHq3x6mC4T" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07HwIm3HjuDhAHq3x6mC4T"><strong>Così come mi viene</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR">Francesco Gabbani</a></p>
     </td>
   </tr>
   
