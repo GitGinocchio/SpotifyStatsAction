@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713" href="https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273655945be7e9c9786be115f05" href="https://open.spotify.com/track/2M0zC7lJWKCL3316jIXYH1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"><strong>the perfect pair</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB">beabadoobee</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2M0zC7lJWKCL3316jIXYH1"><strong>archangel</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B">DJ Anemia</a>, <a href="https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl">crier</a>, <a href="https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk">sixnite</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273780a8609d3adfe119da97aac" href="https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273eb82410279ee5486798f753e" href="https://open.spotify.com/track/534rmATC0GBzQ2fTDpNa7c" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC"><strong>Brivido</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27">Guè</a>, <a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/534rmATC0GBzQ2fTDpNa7c"><strong>Nothing Feels the Way it Should</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/29FwFqbM5JlAydGybJL1HJ">Robopup</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273542c034964ebe1acfeecf90e" href="https://open.spotify.com/track/0M6Rh4nTaxVJefzV9IAVFq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c0214c64c422d07ed007ce43" href="https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0M6Rh4nTaxVJefzV9IAVFq"><strong>Meravigliosa (feat. Stadio)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27">Guè</a>, <a href="https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA">Stadio</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy"><strong>Flare</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H">Hensonn</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27355d1a3f1c3006f756eae1f2e" href="https://open.spotify.com/track/1fi6WJYdiFQ7gEtAtJ8NH6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e67611dbbf69a90d0b6cb738" href="https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1fi6WJYdiFQ7gEtAtJ8NH6"><strong>Cosa Faremo Da Grandi?</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"><strong>i like the way you kiss me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2">Artemas</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362c1f3370811c52ae2d26d24" href="https://open.spotify.com/track/4rtS1H5ksiVFaAtak2Jdmi" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736a31f70030d3de5fd9b843b6" href="https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4rtS1H5ksiVFaAtak2Jdmi"><strong>Heartbeat</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB">Joe Hisaishi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"><strong>Milkshake 20 - Alex Wann Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM">Kelis</a>, <a href="https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT">Alex Wann</a></p>
     </td>
   </tr>
   
