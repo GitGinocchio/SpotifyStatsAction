@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27397a6d68d73f20cd1391bb383" href="https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27375a7d2c3da232adfd6a7ff72" href="https://open.spotify.com/track/5BTZSG989vO5PR8El2kMqW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs"><strong>SO TIRED</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB">NUEKI</a>, <a href="https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4">TOLCHONOV</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732dcbd2c02bdaaf7c917faad2" href="https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q"><strong>The Nights - Hardstyle Edit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn">Thymo</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273621cf840fd3549bfd47eca9d" href="https://open.spotify.com/track/5XuCHa19u2xLeGa8MJHAwu" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XuCHa19u2xLeGa8MJHAwu"><strong>Fluxxwave</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6">Clovis Reyes</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eaa3b1520d16b0b5ddaf81c5" href="https://open.spotify.com/track/5F7Tywb6G47ooULUmLv9au" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5F7Tywb6G47ooULUmLv9au"><strong>take it from the starz</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5BTZSG989vO5PR8El2kMqW"><strong>take it from the starz - Slowed & reverb</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6Bx9gM8VBh0Jw8GVCWZ6gY">Roman Nasenmensch</a>, <a href="https://open.spotify.com/artist/3jhFLnyMdTENttqTTe7jHX">domi4wave</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27329508ebb110a7748dcf5954d" href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736692ed2c27a90830c00a9032" href="https://open.spotify.com/track/06KEMb8epziEMkjowgPA1k" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"><strong>Anadrol</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg">Yosuf</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/06KEMb8epziEMkjowgPA1k"><strong>Bounce - Nightcore Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2zgkC2iqDlq3FcI2B7ChnD">Manian</a>, <a href="https://open.spotify.com/artist/082zRlftZ3m400Bu6Q2s2Q">Tune Up!</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739ce35cbf00126ebdc2e37060" href="https://open.spotify.com/track/07m7hJVsCcolL2kTXp645J" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07m7hJVsCcolL2kTXp645J"><strong>EMPTY DREAMS (Slowed + Reverb)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP">CYPARISS</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273395271ad268a59f08f5a8f7e" href="https://open.spotify.com/track/3YSi52JZeUbT0MeUQ1nBkZ" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3YSi52JZeUbT0MeUQ1nBkZ"><strong>Prayer in C - Speed</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2UUNqX43sA4dxX698liyey">Ren</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cac33d56bd98f51c95733df5" href="https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2"><strong>PHONKGASKAR</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti">Rushex</a>, <a href="https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0">Jolixwery</a></p>
     </td>
   </tr>
   
