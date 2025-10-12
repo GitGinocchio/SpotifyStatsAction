@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f463ab32d3175cfe480dbd8d" href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cf5ac7eebe6012be77eda7d4" href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"><strong>ALORS BRAZIL</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn">NONTHENSE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6pl3JSlK25BgYnsz4ufGwr"><strong>AUTOMOTIVO TOMA CAVUCADA (Slowed)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS">DJ RICK 013</a>, <a href="https://open.spotify.com/artist/3wAFY8OyUmqiaPnGbfBSqD">DJ NK3</a>, <a href="https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz">MC LyC4N</a>, <a href="https://open.spotify.com/artist/2b2lQ2CxSaXiBMfOImucD1">MC RESTRITO ORIGINAL</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27336385e0fad3c87e8e8f19071" href="https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732d2de21fdba8311699547ebe" href="https://open.spotify.com/track/3BbGm7VB7sooq9mrS45IZa" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"><strong>PASSO BEM SOLTO - Slowed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah">ATLXS</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3BbGm7VB7sooq9mrS45IZa"><strong>Skins</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq">KREZUS</a>, <a href="https://open.spotify.com/artist/7MwpWn0EgCOiihOx6HVQDs">Surreal_dvd</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b21b175823da8ac8cf34dac3" href="https://open.spotify.com/track/5jRR9de75gD6zCzoRZkyKB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731164d485c1327d039b38ff9f" href="https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5jRR9de75gD6zCzoRZkyKB"><strong>INSONAMIA</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AOzeroMxe112GJoFnCcyG">Ronald Figo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"><strong>MONTAGEM COMA</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS">ANDROMEDA</a>, <a href="https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we">elysian.</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c0214c64c422d07ed007ce43" href="https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27339288ad1e22ed6ef186a2b4d" href="https://open.spotify.com/track/4AkOOrrgrM4hBnZOx3QTtp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy"><strong>Flare</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H">Hensonn</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4AkOOrrgrM4hBnZOx3QTtp"><strong>METAMORPHOSIS - KUTE Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a>, <a href="https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX">KUTE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bf60464bd744ce4f86a8797a" href="https://open.spotify.com/track/5txB5jK1twwIOUWtrz8jcT" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27353ab70a27d58af286ce9eb91" href="https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5txB5jK1twwIOUWtrz8jcT"><strong>pussypodium</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc">akiaura</a>, <a href="https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw">LONOWN</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ"><strong>Black Out Days (Stay Away)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km">Ian Asher</a>, <a href="https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH">Phantogram</a></p>
     </td>
   </tr>
   
