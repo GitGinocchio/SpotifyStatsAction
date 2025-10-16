@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a9a9e0ad30fc1d084c657a4f" href="https://open.spotify.com/track/2XR36ZVE1XhRu945ywGq5q" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297" href="https://open.spotify.com/track/5nYWAhIvBvfedN7G80MoTW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2XR36ZVE1XhRu945ywGq5q"><strong>Solitudine</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5DOIMn0GH5uVbYL1ssg8Q5">Oh Baro</a>, <a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297" href="https://open.spotify.com/track/18a9vAH3tlbLKSBeYECoXo" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18a9vAH3tlbLKSBeYECoXo"><strong>Il vento del nord</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5nYWAhIvBvfedN7G80MoTW"><strong>CALMA 22</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297" href="https://open.spotify.com/track/18a9vAH3tlbLKSBeYECoXo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297" href="https://open.spotify.com/track/1yK2bqhW2pNQRbZqlAPBjW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18a9vAH3tlbLKSBeYECoXo"><strong>Il vento del nord</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1yK2bqhW2pNQRbZqlAPBjW"><strong>Tocchiamoci</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731c98b8198862c9b761703c6c" href="https://open.spotify.com/track/76mNr58LT9ASZ5D0ltYQwq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730ac5e39ab8bb31acf50a1437" href="https://open.spotify.com/track/5ce6bOYRFPVo4HRX4OeHH2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/76mNr58LT9ASZ5D0ltYQwq"><strong>APPLAUSE - Hardstyle</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ce6bOYRFPVo4HRX4OeHH2"><strong>Capita alle volte (feat. Brus DMC)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a>, <a href="https://open.spotify.com/artist/1pSe1RTZOYT97eyayoiAPY">Brus DMC</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb" href="https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297" href="https://open.spotify.com/track/23wLarTlAIPBQjzak9iPQj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q"><strong>Cosa mi manchi a fare</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/23wLarTlAIPBQjzak9iPQj"><strong>Preda</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297" href="https://open.spotify.com/track/0jUgmVgzHKjROtOvpCg8ii" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0jUgmVgzHKjROtOvpCg8ii"><strong>Resti da sola</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a></p>
     </td>
   </tr>
   
