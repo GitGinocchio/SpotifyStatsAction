@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297" href="https://open.spotify.com/track/5nYWAhIvBvfedN7G80MoTW" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27385502324cc500e621e165d78" href="https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5nYWAhIvBvfedN7G80MoTW"><strong>CALMA 22</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR"><strong>When The Devil Speaks…</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF">ThxSoMch</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297" href="https://open.spotify.com/track/1yK2bqhW2pNQRbZqlAPBjW" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737c99edb4ad84adff8f2f157a" href="https://open.spotify.com/track/0iLXTfhF58kCYZONVJOWxi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1yK2bqhW2pNQRbZqlAPBjW"><strong>Tocchiamoci</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0iLXTfhF58kCYZONVJOWxi"><strong>Gaia</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos">Leon Faun</a>, <a href="https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL">Duffy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730ac5e39ab8bb31acf50a1437" href="https://open.spotify.com/track/5ce6bOYRFPVo4HRX4OeHH2" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f1f4cba7357b0fea9f8b5732" href="https://open.spotify.com/track/3fbwo3003OZitzByA6ppPP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ce6bOYRFPVo4HRX4OeHH2"><strong>Capita alle volte (feat. Brus DMC)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a>, <a href="https://open.spotify.com/artist/1pSe1RTZOYT97eyayoiAPY">Brus DMC</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3fbwo3003OZitzByA6ppPP"><strong>Viva la vita</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR">Francesco Gabbani</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297" href="https://open.spotify.com/track/23wLarTlAIPBQjzak9iPQj" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273542c034964ebe1acfeecf90e" href="https://open.spotify.com/track/0M6Rh4nTaxVJefzV9IAVFq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/23wLarTlAIPBQjzak9iPQj"><strong>Preda</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0M6Rh4nTaxVJefzV9IAVFq"><strong>Meravigliosa (feat. Stadio)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27">Guè</a>, <a href="https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA">Stadio</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297" href="https://open.spotify.com/track/0jUgmVgzHKjROtOvpCg8ii" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d6839051c4760457e1a60b2a" href="https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0jUgmVgzHKjROtOvpCg8ii"><strong>Resti da sola</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"><strong>we fell in love in october</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9">girl in red</a></p>
     </td>
   </tr>
   
