@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737fa903eb06f5731aadecf9d8" href="https://open.spotify.com/track/4SUOSCkpHgcW7jTo5eWOMd" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736fc734b5ae124def28a6a68c" href="https://open.spotify.com/track/5L7h1PCOF5lrX3e3v8sJAx" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4SUOSCkpHgcW7jTo5eWOMd"><strong>Don't Be so Shy - Slowed + Reverb</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0nBm7sxo9DqEk7RLyaxFWO">13Aurora</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5L7h1PCOF5lrX3e3v8sJAx"><strong>TIRED OF PROBLEMS</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB">NUEKI</a>, <a href="https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4">TOLCHONOV</a>, <a href="https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks">glichery</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eaa3b1520d16b0b5ddaf81c5" href="https://open.spotify.com/track/5F7Tywb6G47ooULUmLv9au" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a1b5d22934060b18b410347d" href="https://open.spotify.com/track/2R4plFiGqKRvBoTTU0NEe9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5F7Tywb6G47ooULUmLv9au"><strong>take it from the starz</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6Bx9gM8VBh0Jw8GVCWZ6gY">Roman Nasenmensch</a>, <a href="https://open.spotify.com/artist/3jhFLnyMdTENttqTTe7jHX">domi4wave</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2R4plFiGqKRvBoTTU0NEe9"><strong>SINGULARITY</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/29BJsaLNz8nWL6PGgAroLO">MODESTY</a>, <a href="https://open.spotify.com/artist/7kZFYUJAJ1IFjPGIAZLNTh">INFINITE SPXCE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e05cf047b13411aa8be78ead" href="https://open.spotify.com/track/3GN9V9zKBrDAcM36CSEgXU" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733532833a1c44c6ae3438eda0" href="https://open.spotify.com/track/43brSA8lE3Z0n8smcVoEde" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3GN9V9zKBrDAcM36CSEgXU"><strong>Nitrogen</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1iQ4LvF29mWmQDUt2TpXDR">Rviden</a>, <a href="https://open.spotify.com/artist/3o4VMzxpAAOidkGBlHDsFs">Pcn 北</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/43brSA8lE3Z0n8smcVoEde"><strong>Let Me Down Slowly - Hardstyle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Xoz5H1TjoXo6E0HAkSSJy">Chestbrah</a>, <a href="https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM">ZYZZ</a>, <a href="https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW">BAKI</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f8c9987765cd590630b7f760" href="https://open.spotify.com/track/718AP4uqhwCBRF22y54Fcm" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738009bc75188384c8b65fef4f" href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/718AP4uqhwCBRF22y54Fcm"><strong>DEIXA ROLAR - SLOWED + REVERB</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF">Eternxlkz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"><strong>RAPTURE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27376ca515b16733e3c5b5879f6" href="https://open.spotify.com/track/0DMN2ygSzclvFt6lxFqpH8" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273353f1ee67a66ea194c668741" href="https://open.spotify.com/track/37Ub9ZOUgySggjMl1btRwm" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0DMN2ygSzclvFt6lxFqpH8"><strong>DERNIERE DANSE (HARDSTYLE)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37Ub9ZOUgySggjMl1btRwm"><strong>Safe and Sound - Hardstyle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW">BAKI</a>, <a href="https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM">ZYZZ</a>, <a href="https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH">GYM HARDSTYLE</a></p>
     </td>
   </tr>
   
