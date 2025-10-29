@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734af62b470b781cdc46c3cf29" href="https://open.spotify.com/track/3vUMN9hezWjBac9UE8xkVd" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27352ad16cdbc8cdc365dce13b6" href="https://open.spotify.com/track/627fT2mx6oCwM7KZZAF5N4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3vUMN9hezWjBac9UE8xkVd"><strong>2000</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL">vowl.</a>, <a href="https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA">Sace</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/627fT2mx6oCwM7KZZAF5N4"><strong>SKYFALL - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273351ce9fdd77e6a3c84457a18" href="https://open.spotify.com/track/1wWTkTvMjB3U61RImy3jW7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273841e18c8db404401967bb429" href="https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1wWTkTvMjB3U61RImy3jW7"><strong>EVERYTIME WE TOUCH - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM"><strong>METAMORPHOSIS - Slowed + Reverb</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN">INTERWORLD</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731164d485c1327d039b38ff9f" href="https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730024384ea98504aa36bf9c1c" href="https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"><strong>MONTAGEM COMA</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS">ANDROMEDA</a>, <a href="https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we">elysian.</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov"><strong>AVANGARD</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw">LONOWN</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273562ebcdaf05bbf3b128c76a1" href="https://open.spotify.com/track/3QQjwMmvdWOzRpdvaQ0EkL" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ecb8455c697c79e12445b4a0" href="https://open.spotify.com/track/0eabuc3yo3J0nUSwjEMDDL" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3QQjwMmvdWOzRpdvaQ0EkL"><strong>Vai Me Bota</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq">KREZUS</a>, <a href="https://open.spotify.com/artist/6xnXWvVPKAOt7SY2bg38r7">Mc Lysa</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0eabuc3yo3J0nUSwjEMDDL"><strong>NEXT! - Slowed</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27342a71cca827a8d0abda07e49" href="https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d0495d03671b5d9a365db8f5" href="https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"><strong>Memory Reboot</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI">VØJ</a>, <a href="https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7">Narvent</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"><strong>PELIGROSA</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy">FloyyMenor</a></p>
     </td>
   </tr>
   
