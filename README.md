@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273485dc3ad7f2a8037e4d1018e" href="https://open.spotify.com/track/3w3mw90AdEgRuUwdsYZ780" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e7546ed84b9c6941fe0a1879" href="https://open.spotify.com/track/6NAbLPUknE9nKxQJeFGFKa" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3w3mw90AdEgRuUwdsYZ780"><strong>L'upupa</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6NAbLPUknE9nKxQJeFGFKa"><strong>Nei treni la notte</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN">Frah Quintale</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735fadc5fb1c4b1eb60798c7bc" href="https://open.spotify.com/track/74CjS2xMK4KLnniXzFB9GI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e13705caddb773392690c83f" href="https://open.spotify.com/track/4qyjogIagZOoEwlfJniEgM" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/74CjS2xMK4KLnniXzFB9GI"><strong>Gli anni (96)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO">883</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4qyjogIagZOoEwlfJniEgM"><strong>Till the Curtain Call</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ">The Vanished People</a>, <a href="https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf">Lotus Juice</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273542c034964ebe1acfeecf90e" href="https://open.spotify.com/track/2iCVUhdByNBLrn7qJ15uub" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738f05338b112b25d40aad90c6" href="https://open.spotify.com/track/56eHnJrTZRWy6qKWy1iIVO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2iCVUhdByNBLrn7qJ15uub"><strong>Da 0 a 100 (feat. Shiva)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27">Guè</a>, <a href="https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS">Shiva</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/56eHnJrTZRWy6qKWy1iIVO"><strong>Essere liberi</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27334933308ad8af9d87cd504dc" href="https://open.spotify.com/track/1CAksvEO6oRHd9bBKWAfuY" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27322ae5b5ba67f6f218b5f3e34" href="https://open.spotify.com/track/3qtuOAI0YyfoBM1s7Tvm46" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1CAksvEO6oRHd9bBKWAfuY"><strong>One Last Time</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR">Ariana Grande</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3qtuOAI0YyfoBM1s7Tvm46"><strong>La Nuova Stella Di Broadway</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be" href="https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273056e90910cbaf5c5b892aeba" href="https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"><strong>Billie Jean</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm">Michael Jackson</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"><strong>Another One Bites The Dust - Remastered 2011</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d">Queen</a></p>
     </td>
   </tr>
   
