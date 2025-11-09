@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732be6414a93a671be9f9db1c1" href="https://open.spotify.com/track/0wBEhigJC6Zts0uwTQbFJh" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730204e12ace7f2332a77a364f" href="https://open.spotify.com/track/63dZfbF0v1bN5G447DhlF8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0wBEhigJC6Zts0uwTQbFJh"><strong>MEMORIZING</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4DFb3uFxOl0R1mZBmUPGvi">DJ DELACROIX</a>, <a href="https://open.spotify.com/artist/4uuwY98I54DdbA453Lfy98">OXXED</a>, <a href="https://open.spotify.com/artist/0IAcJn2oWYg8TOXzoU3jJU">Wintherduud</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/63dZfbF0v1bN5G447DhlF8"><strong>Vois sur ton chemin - DJ Holanda MONTAGEM CORAL Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48">BENNETT</a>, <a href="https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC">DJ Holanda</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ce55fd2b670596c28b47b3fe" href="https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27352ad16cdbc8cdc365dce13b6" href="https://open.spotify.com/track/627fT2mx6oCwM7KZZAF5N4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l"><strong>Pleasantville</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP">Nitro</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/627fT2mx6oCwM7KZZAF5N4"><strong>SKYFALL - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d78158ed630c7b2d09282c35" href="https://open.spotify.com/track/53uRmYY1yOtme8h215KzOm" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bbaf9de6c418a0aa6cb7b938" href="https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/53uRmYY1yOtme8h215KzOm"><strong>Puoi (feat. Pinguini Tattici Nucleari)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3">Fulminacci</a>, <a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6"><strong>Goth</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1">Sidewalks and Skeletons</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730102924a57d952089d6a5199" href="https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27376ca515b16733e3c5b5879f6" href="https://open.spotify.com/track/0DMN2ygSzclvFt6lxFqpH8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea"><strong>Viva La Vida</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU">Coldplay</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0DMN2ygSzclvFt6lxFqpH8"><strong>DERNIERE DANSE (HARDSTYLE)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e7546ed84b9c6941fe0a1879" href="https://open.spotify.com/track/6NAbLPUknE9nKxQJeFGFKa" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273049f40f8c2c9abd384ce1a8b" href="https://open.spotify.com/track/3WiDsY2lVuIhlUOcOYrgM4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6NAbLPUknE9nKxQJeFGFKa"><strong>Nei treni la notte</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN">Frah Quintale</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3WiDsY2lVuIhlUOcOYrgM4"><strong>Ainsi Bas La Vida Funk</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe">DR MØB</a>, <a href="https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or">ZODIVK</a></p>
     </td>
   </tr>
   
