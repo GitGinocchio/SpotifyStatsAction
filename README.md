@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b7f145c8b1b85b9a88b92852" href="https://open.spotify.com/track/15s4FfBxklJ0sZLLuBao3F" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273353f1ee67a66ea194c668741" href="https://open.spotify.com/track/37Ub9ZOUgySggjMl1btRwm" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/15s4FfBxklJ0sZLLuBao3F"><strong>00:00 - Super Sped Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XfFJ8FwvkEZx7IM3hHCUj">LAGXNA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37Ub9ZOUgySggjMl1btRwm"><strong>Safe and Sound - Hardstyle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW">BAKI</a>, <a href="https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM">ZYZZ</a>, <a href="https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH">GYM HARDSTYLE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b7f145c8b1b85b9a88b92852" href="https://open.spotify.com/track/7kUVcSUB1cbhkbdgK8aT5R" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273acc3db1c8848f4c4f77e0bbd" href="https://open.spotify.com/track/5txB5jK1twwIOUWtrz8jcT" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7kUVcSUB1cbhkbdgK8aT5R"><strong>00:00 - Sped Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XfFJ8FwvkEZx7IM3hHCUj">LAGXNA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5txB5jK1twwIOUWtrz8jcT"><strong>pussypodium</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc">akiaura</a>, <a href="https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw">LONOWN</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b7f145c8b1b85b9a88b92852" href="https://open.spotify.com/track/0n9DGyZG1nYeq1NFhzSyR2" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273725fb68cbcb95fd81eb59657" href="https://open.spotify.com/track/12I7LPsa9zK4FJqQcHj5Cb" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0n9DGyZG1nYeq1NFhzSyR2"><strong>00:00 - Slowed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XfFJ8FwvkEZx7IM3hHCUj">LAGXNA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/12I7LPsa9zK4FJqQcHj5Cb"><strong>Memories</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7LnxkP0AcgHvS1yX6xtFbR">descent</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b7f145c8b1b85b9a88b92852" href="https://open.spotify.com/track/3EuAilyY7kYpL0QlC9iubA" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273562ebcdaf05bbf3b128c76a1" href="https://open.spotify.com/track/3QQjwMmvdWOzRpdvaQ0EkL" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3EuAilyY7kYpL0QlC9iubA"><strong>00:00</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XfFJ8FwvkEZx7IM3hHCUj">LAGXNA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3QQjwMmvdWOzRpdvaQ0EkL"><strong>Vai Me Bota</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq">KREZUS</a>, <a href="https://open.spotify.com/artist/6xnXWvVPKAOt7SY2bg38r7">Mc Lysa</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b7f145c8b1b85b9a88b92852" href="https://open.spotify.com/track/15s4FfBxklJ0sZLLuBao3F" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273049f40f8c2c9abd384ce1a8b" href="https://open.spotify.com/track/3WiDsY2lVuIhlUOcOYrgM4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/15s4FfBxklJ0sZLLuBao3F"><strong>00:00 - Super Sped Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XfFJ8FwvkEZx7IM3hHCUj">LAGXNA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3WiDsY2lVuIhlUOcOYrgM4"><strong>Ainsi Bas La Vida Funk</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe">DR MØB</a>, <a href="https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or">ZODIVK</a></p>
     </td>
   </tr>
   
