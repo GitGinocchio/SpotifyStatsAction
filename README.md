@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27330d583db981bdb67bcd674fa" href="https://open.spotify.com/track/3P48rdupp9trbMA2J2Vsta" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737801dd18b44e258fe6f2f636" href="https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3P48rdupp9trbMA2J2Vsta"><strong>SUMMERTIME SADNESS - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd"><strong>INSUPERABILE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc" href="https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e5ff1941799cd30cb2aa072b" href="https://open.spotify.com/track/0NLm9bQG7ikL5k9x9TtYT7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE"><strong>Sunsetz</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj">Cigarettes After Sex</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0NLm9bQG7ikL5k9x9TtYT7"><strong>Here With Me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32">d4vd</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ab2d601177caa3074c7d4a2b" href="https://open.spotify.com/track/4sE5wzpPd4s8kTdtVC18lY" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ef8601480405c3eeb7351780" href="https://open.spotify.com/track/0No2QwwffZCcZBZjG7Q73b" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4sE5wzpPd4s8kTdtVC18lY"><strong>Nonono</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0No2QwwffZCcZBZjG7Q73b"><strong>Okay Okay</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6">Pino D'Angiò</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ab2d601177caa3074c7d4a2b" href="https://open.spotify.com/track/4sE5wzpPd4s8kTdtVC18lY" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f33cdb67bac39e2a96ee07fa" href="https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4sE5wzpPd4s8kTdtVC18lY"><strong>Nonono</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"><strong>A Te</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ab9a848cbe34764dccaefcd3" href="https://open.spotify.com/track/2pEJjOaIpVvp1gC0N40ehs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735ae8c639d8e9c6c2a02989a2" href="https://open.spotify.com/track/4Wcrw9554hxM1Gk8Pl4Cyi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2pEJjOaIpVvp1gC0N40ehs"><strong>The Rhythm of the Night</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS">Sean Finn</a>, <a href="https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl">Corona</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Wcrw9554hxM1Gk8Pl4Cyi"><strong>È sempre bello</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
