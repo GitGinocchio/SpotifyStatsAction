@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bcb970f7474fb04eac10a481" href="https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a3e6c82b3ac285c1fe1978e2" href="https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk"><strong>BUBBLE (feat. thasup & Salmo)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx">Takagi & Ketra</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW">Salmo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"><strong>The Wanderer</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W">Dion</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c" href="https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61" href="https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"><strong>Godzilla (feat. Juice WRLD)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR">Eminem</a>, <a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"><strong>São Paulo (feat. Anitta)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a>, <a href="https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb">Anitta</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273216a271725a34eba54dd0b55" href="https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732c8acf6e66607fff1fd23841" href="https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"><strong>Turn Me On (feat. Vula)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1">Riton</a>, <a href="https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p">Oliver Heldens</a>, <a href="https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz">Vula</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"><strong>After Dark</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y">Mr.Kitty</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738f05338b112b25d40aad90c6" href="https://open.spotify.com/track/6Pnziw2QOsrYVJjvXpZ8fZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ffd3f00fc718dda0ef50d237" href="https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6Pnziw2QOsrYVJjvXpZ8fZ"><strong>Come nelle canzoni</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"><strong>Heads Will Roll - A-Trak Remix Radio Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2">Yeah Yeah Yeahs</a>, <a href="https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt">A-Trak</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb" href="https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b7f145c8b1b85b9a88b92852" href="https://open.spotify.com/track/7kUVcSUB1cbhkbdgK8aT5R" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"><strong>Come & Go (with Marshmello)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a>, <a href="https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T">Marshmello</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7kUVcSUB1cbhkbdgK8aT5R"><strong>00:00 - Sped Up</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XfFJ8FwvkEZx7IM3hHCUj">LAGXNA</a></p>
     </td>
   </tr>
   
