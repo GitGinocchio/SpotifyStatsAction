@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e60b56aa1e58fe76240a101b" href="https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff" href="https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"><strong>Tell Em</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx">Cochise</a>, <a href="https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO">$NOT</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A"><strong>Payphone</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a>, <a href="https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop">Wiz Khalifa</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27393928350c0301d3edffbb92c" href="https://open.spotify.com/track/2WaA5bVXcIqqpz9j0gd7qK" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5" href="https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2WaA5bVXcIqqpz9j0gd7qK"><strong>Resurrection - Axwell's Recut Radio Version</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9">Michael Calfan</a>, <a href="https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43">Axwell</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"><strong>Nice For What</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bfcb8d00cee4f8257a6b7fe1" href="https://open.spotify.com/track/1AqemxWsT0iGg5Lvkm16Bt" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273562ebcdaf05bbf3b128c76a1" href="https://open.spotify.com/track/3QQjwMmvdWOzRpdvaQ0EkL" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1AqemxWsT0iGg5Lvkm16Bt"><strong>Fukk Sleep (feat. FKA twigs)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a>, <a href="https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH">FKA twigs</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3QQjwMmvdWOzRpdvaQ0EkL"><strong>Vai Me Bota</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq">KREZUS</a>, <a href="https://open.spotify.com/artist/6xnXWvVPKAOt7SY2bg38r7">Mc Lysa</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736e5689a9d09ac1fc2cba2ab0" href="https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d1d301e737da4324479c6660" href="https://open.spotify.com/track/2uBhGx3m5iJrtsql8Qk00j" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"><strong>September</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg">Earth, Wind & Fire</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2uBhGx3m5iJrtsql8Qk00j"><strong>Levitate</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx">Twenty One Pilots</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733cbcde22ebdda8ca8f67a27a" href="https://open.spotify.com/track/7zkDwLSnljcgkVSYwWZUSk" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e17488262818129ccb96879d" href="https://open.spotify.com/track/4sjiIpEv617LDXaidKioOI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7zkDwLSnljcgkVSYwWZUSk"><strong>Fake Friends</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/373qQK4FNqki5oT709oWSG">LG Pope</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4sjiIpEv617LDXaidKioOI"><strong>223's (feat. 9lokknine)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg">YNW Melly</a>, <a href="https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm">9lokknine</a></p>
     </td>
   </tr>
   
