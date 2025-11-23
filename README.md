@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273210484981a7d3ec04f5958b0" href="https://open.spotify.com/track/13wkp4Ph4UNAVPwf9B04l8" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/13wkp4Ph4UNAVPwf9B04l8"><strong>VITTIMA</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730115013b009a364262e89081" href="https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM"><strong>OneShot</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5XD3dFUaYtaiBRrs7UbakO">msht</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2737fa903eb06f5731aadecf9d8" href="https://open.spotify.com/track/4SUOSCkpHgcW7jTo5eWOMd" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -38,26 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0ZYOD9MHcg51Z0ZJ4axhb5"><strong>archangel - Slowed</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B">DJ Anemia</a>, <a href="https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl">crier</a>, <a href="https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk">sixnite</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b7f145c8b1b85b9a88b92852" href="https://open.spotify.com/track/3EuAilyY7kYpL0QlC9iubA" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3EuAilyY7kYpL0QlC9iubA"><strong>00:00</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XfFJ8FwvkEZx7IM3hHCUj">LAGXNA</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27375a7d2c3da232adfd6a7ff72" href="https://open.spotify.com/track/5BTZSG989vO5PR8El2kMqW" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5BTZSG989vO5PR8El2kMqW"><strong>take it from the starz - Slowed & reverb</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6Bx9gM8VBh0Jw8GVCWZ6gY">Roman Nasenmensch</a>, <a href="https://open.spotify.com/artist/3jhFLnyMdTENttqTTe7jHX">domi4wave</a></p>
     </td>
   </tr>
   
