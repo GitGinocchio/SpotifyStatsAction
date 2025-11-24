@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c7ed51b9dc1014285cae2ae2" href="https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"><strong>Scatman (ski-ba-bop-ba-dop-bop)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX">Scatman John</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735be5f807f6f0549e198a44b4" href="https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"><strong>Radio Ga Ga - Remastered 2011</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d">Queen</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733ccff8fb65cba71f73b722bb" href="https://open.spotify.com/track/2uLHdI518y8KiWQSoFFj2V" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2uLHdI518y8KiWQSoFFj2V"><strong>With or Without</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4KkhQ5lNxMhFBDHMsN79Zp">Luka Ferraro</a>, <a href="https://open.spotify.com/artist/2Yqa3tYVOnjamiyFVMrWaL">Álvaro Rubio</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739c6ee81163060d7883de2dda" href="https://open.spotify.com/track/0UWGKR6b4nJCvK7Q1yjgjh" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0UWGKR6b4nJCvK7Q1yjgjh"><strong>Makes Me Wonder</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273048720225cecc2f638987a39" href="https://open.spotify.com/track/0axBgt9y0GvMCLuRl2xBKG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0axBgt9y0GvMCLuRl2xBKG"><strong>1400 / 999 Freestyle (feat. Juice WRLD)</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax">Trippie Redd</a>, <a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733" href="https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC"><strong>Legend</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739b3a4365b0c34f5b5ac2bed9" href="https://open.spotify.com/track/3KVqVpyrgJ5HoPkU8RpGX3" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3KVqVpyrgJ5HoPkU8RpGX3"><strong>Giorni stupidi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BUmFe61H2cYyKVgkwttxj">Rokas</a>, <a href="https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7">EDONiCO</a>, <a href="https://open.spotify.com/artist/5pALJdF7dliaPdFzkw9OIy">Granato</a>, <a href="https://open.spotify.com/artist/3JmaR2HIU0f2H2X0hh4yBS">Baci Ovunque</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cad8789bb4e3de4e81ece093" href="https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b"><strong>Ma quale idea</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6">Pino D'Angiò</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732fcfb0aad37ad5cb4d5c6a74" href="https://open.spotify.com/track/5IfoBzoixewbULHm5mHLJZ" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5IfoBzoixewbULHm5mHLJZ"><strong>Acqua e sapone</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA">Stadio</a></p>
     </td>
   </tr>
   
