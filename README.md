@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27301161c81847e31dd1817926a" href="https://open.spotify.com/track/6z7tGTD6yvyloEm6K2H8EX" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b9f222241d1493710870d9a1" href="https://open.spotify.com/track/7snnTlaWaN39nfN1PhUaT8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6z7tGTD6yvyloEm6K2H8EX"><strong>LUNA PIENA (con IRAMA)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a>, <a href="https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK">Irama</a>, <a href="https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy">Shablo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7snnTlaWaN39nfN1PhUaT8"><strong>Se Voce Nao Quer Passa a Vez</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW">Mc Delux</a>, <a href="https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx">DJ Guih Da ZO</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735094c7ddde5b276cf014875d" href="https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX"><strong>Occhiaie</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"><strong>EMPTY DREAMS</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP">CYPARISS</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d3ce97395ff522b0d70c1094" href="https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27382db43e5091301205076d6ab" href="https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"><strong>Riptide</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT">Vance Joy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"><strong>Work from Home (feat. Ty Dolla $ign)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt">Fifth Harmony</a>, <a href="https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq">Ty Dolla $ign</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273530f41ffd5a9bf22943d1be8" href="https://open.spotify.com/track/6xlgLRzZNTaeYmiwpB8HMi" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732ed719bad67261c7bf090c70" href="https://open.spotify.com/track/37M8nuFfSrlKfTR0AAp7gK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6xlgLRzZNTaeYmiwpB8HMi"><strong>Sexy Bitch (feat. Akon) - Extended</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/7AnQGuknGCDEvr1t4n6Ink">Aliaune "Akon" Thiam</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37M8nuFfSrlKfTR0AAp7gK"><strong>Television Rules the Nation</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27334758ae19aeac7c1b4ecb785" href="https://open.spotify.com/track/2BfpauGLjSrXfsplJLMli7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/0WgVvy1KelQxG6KBUukTWI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2BfpauGLjSrXfsplJLMli7"><strong>Love Me</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk">Calboy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0WgVvy1KelQxG6KBUukTWI"><strong>LAUREA AD HONOREM (feat. Calcutta)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a>, <a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
     </td>
   </tr>
   
