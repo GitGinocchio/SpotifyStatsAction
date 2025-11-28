@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273db953460d6de87c6d6788cb5" href="https://open.spotify.com/track/3BLRBTDYZI6zPWGZA7ZvGT" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27301161c81847e31dd1817926a" href="https://open.spotify.com/track/6z7tGTD6yvyloEm6K2H8EX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3BLRBTDYZI6zPWGZA7ZvGT"><strong>Bust Down Cartier</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk">Lil Mosey</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6z7tGTD6yvyloEm6K2H8EX"><strong>LUNA PIENA (con IRAMA)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a>, <a href="https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK">Irama</a>, <a href="https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy">Shablo</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27354a277d652eba4cd35a2e78a" href="https://open.spotify.com/track/4yjlWacI4vXSwtE7Kq7rUH" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4yjlWacI4vXSwtE7Kq7rUH"><strong>Technologic - Radio Edit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX"><strong>Occhiaie</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730ed4a498dd481d17a2343047" href="https://open.spotify.com/track/0BuN4Bylq4NRy9q6yXPZdV" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d3ce97395ff522b0d70c1094" href="https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0BuN4Bylq4NRy9q6yXPZdV"><strong>ALL MY FELLAS - Sped Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0nBm7sxo9DqEk7RLyaxFWO">13Aurora</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"><strong>Riptide</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT">Vance Joy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273246260bb0377c16e8d7ffde1" href="https://open.spotify.com/track/4zrwPfq5ENLzjq41Txs2HR" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273530f41ffd5a9bf22943d1be8" href="https://open.spotify.com/track/6xlgLRzZNTaeYmiwpB8HMi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4zrwPfq5ENLzjq41Txs2HR"><strong>Want Her</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k">Mustard</a>, <a href="https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5">Quavo</a>, <a href="https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY">YG</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6xlgLRzZNTaeYmiwpB8HMi"><strong>Sexy Bitch (feat. Akon) - Extended</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai">David Guetta</a>, <a href="https://open.spotify.com/artist/7AnQGuknGCDEvr1t4n6Ink">Aliaune "Akon" Thiam</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362f323449fcd9d277a542fb5" href="https://open.spotify.com/track/4HXLNFrhPgsgz3dZSE103c" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27334758ae19aeac7c1b4ecb785" href="https://open.spotify.com/track/2BfpauGLjSrXfsplJLMli7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4HXLNFrhPgsgz3dZSE103c"><strong>Around The World / Harder Better Faster Stronger</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2BfpauGLjSrXfsplJLMli7"><strong>Love Me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk">Calboy</a></p>
     </td>
   </tr>
   
