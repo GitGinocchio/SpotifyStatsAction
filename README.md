@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d0495d03671b5d9a365db8f5" href="https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32" href="https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"><strong>PELIGROSA</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy">FloyyMenor</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"><strong>SICKO MODE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273049f40f8c2c9abd384ce1a8b" href="https://open.spotify.com/track/3WiDsY2lVuIhlUOcOYrgM4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27373debb36ac6edd90c7f4c6a8" href="https://open.spotify.com/track/5vZnCc3RX3LjL6HqUeZ7WI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3WiDsY2lVuIhlUOcOYrgM4"><strong>Ainsi Bas La Vida Funk</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe">DR MØB</a>, <a href="https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or">ZODIVK</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5vZnCc3RX3LjL6HqUeZ7WI"><strong>Viola</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ">StaySolidRocky</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273935cb2dc7b7875fd015fd3c0" href="https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27304cd9a1664fb4539a55643fe" href="https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T"><strong>MEMORIES!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw">347aidan</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"><strong>STAR WALKIN' (League of Legends Worlds Anthem)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194" href="https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273562ebcdaf05bbf3b128c76a1" href="https://open.spotify.com/track/3QQjwMmvdWOzRpdvaQ0EkL" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i"><strong>Shoota (feat. Lil Uzi Vert)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD">Playboi Carti</a>, <a href="https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz">Lil Uzi Vert</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3QQjwMmvdWOzRpdvaQ0EkL"><strong>Vai Me Bota</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq">KREZUS</a>, <a href="https://open.spotify.com/artist/6xnXWvVPKAOt7SY2bg38r7">Mc Lysa</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d1d301e737da4324479c6660" href="https://open.spotify.com/track/1CDVadnneswMxi6gBqJTtC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a5c7151899ae5da4f4382d54" href="https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1CDVadnneswMxi6gBqJTtC"><strong>Legend</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx">Twenty One Pilots</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6"><strong>Swervin (feat. 6ix9ine)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I">A Boogie Wit da Hoodie</a>, <a href="https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf">6ix9ine</a></p>
     </td>
   </tr>
   
