@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" href="https://open.spotify.com/track/1dYw8HTRJnFpeEeMtXj99a" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732be6414a93a671be9f9db1c1" href="https://open.spotify.com/track/0wBEhigJC6Zts0uwTQbFJh" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1dYw8HTRJnFpeEeMtXj99a"><strong>ROADS UNTRAVELED</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0wBEhigJC6Zts0uwTQbFJh"><strong>MEMORIZING</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4DFb3uFxOl0R1mZBmUPGvi">DJ DELACROIX</a>, <a href="https://open.spotify.com/artist/4uuwY98I54DdbA453Lfy98">OXXED</a>, <a href="https://open.spotify.com/artist/0IAcJn2oWYg8TOXzoU3jJU">Wintherduud</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273af392ffbec5214cf394d77cc" href="https://open.spotify.com/track/6zEthnyBtXMlXcxAvINpqA" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f1f9663ee41739a61d46343a" href="https://open.spotify.com/track/6iSgJHz6m1XOszvVuBVnqs" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6zEthnyBtXMlXcxAvINpqA"><strong>Caught Up (feat. Khalid)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk">Majid Jordan</a>, <a href="https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny">Khalid</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6iSgJHz6m1XOszvVuBVnqs"><strong>Low Key (Bonus)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735af0305457ff290e06dcc4c2" href="https://open.spotify.com/track/7pfTDBYbiNqQxOUOMww9tO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732f362ec65a3b674cdebd19e1" href="https://open.spotify.com/track/63HrhoJeSnrEYjPMDQHCOv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7pfTDBYbiNqQxOUOMww9tO"><strong>Nuf Said</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR">Lil Tjay</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/63HrhoJeSnrEYjPMDQHCOv"><strong>c!ao (feat. Rondodasosa)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3">Rondodasosa</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cc08fd1c89e82db9cbb105ce" href="https://open.spotify.com/track/6oNJqGeekJO8rADd2Mktvi" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732ffc2c580b6595a3e675a730" href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6oNJqGeekJO8rADd2Mktvi"><strong>ALTALENE (feat. Mara Sattei & Coez)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU">BLOODY VINYL</a>, <a href="https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w">Slait</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk">Mara Sattei</a>, <a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"><strong>Timber</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg">Pitbull</a>, <a href="https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX">Kesha</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732d2de21fdba8311699547ebe" href="https://open.spotify.com/track/3BbGm7VB7sooq9mrS45IZa" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a84dcfaf785b6cbc2ce257f6" href="https://open.spotify.com/track/1vignHvuWXSm52OYKZKth5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3BbGm7VB7sooq9mrS45IZa"><strong>Skins</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq">KREZUS</a>, <a href="https://open.spotify.com/artist/7MwpWn0EgCOiihOx6HVQDs">Surreal_dvd</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1vignHvuWXSm52OYKZKth5"><strong>Demon Time</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/36LAa1XMfd4yEJh3Xpr2XZ">Max Duff</a></p>
     </td>
   </tr>
   
