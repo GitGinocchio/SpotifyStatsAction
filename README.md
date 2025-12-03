@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f9d40a1060220cf7729de6f1" href="https://open.spotify.com/track/7ruEmPzNwUgpgiiYnkqR4M" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735365fbb472e50f9d5a5c6828" href="https://open.spotify.com/track/4lUE5XMFjQJIbghJIjbzvl" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7ruEmPzNwUgpgiiYnkqR4M"><strong>Prendimi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b">VAEVA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4lUE5XMFjQJIbghJIjbzvl"><strong>ALIEN FLAME</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/06bDmVGHXfwwfFkRxXSDl0">shometyle</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732be6414a93a671be9f9db1c1" href="https://open.spotify.com/track/0wBEhigJC6Zts0uwTQbFJh" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a216c088f47c2f9462365678" href="https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0wBEhigJC6Zts0uwTQbFJh"><strong>MEMORIZING</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4DFb3uFxOl0R1mZBmUPGvi">DJ DELACROIX</a>, <a href="https://open.spotify.com/artist/4uuwY98I54DdbA453Lfy98">OXXED</a>, <a href="https://open.spotify.com/artist/0IAcJn2oWYg8TOXzoU3jJU">Wintherduud</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz"><strong>Mal di te</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f1f9663ee41739a61d46343a" href="https://open.spotify.com/track/6iSgJHz6m1XOszvVuBVnqs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305f13846a6404611120be8c8" href="https://open.spotify.com/track/4LpWQ7pNWbIN86JLpQdXFM" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6iSgJHz6m1XOszvVuBVnqs"><strong>Low Key (Bonus)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4LpWQ7pNWbIN86JLpQdXFM"><strong>Non dire no</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732f362ec65a3b674cdebd19e1" href="https://open.spotify.com/track/63HrhoJeSnrEYjPMDQHCOv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737874b78be9d8287b581133d9" href="https://open.spotify.com/track/4MFW8fi63GtwUNkLE06qH7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/63HrhoJeSnrEYjPMDQHCOv"><strong>c!ao (feat. Rondodasosa)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3">Rondodasosa</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4MFW8fi63GtwUNkLE06qH7"><strong>SAY IT RIGHT - Hardstyle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW">BAKI</a>, <a href="https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM">ZYZZ</a>, <a href="https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH">GYM HARDSTYLE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732ffc2c580b6595a3e675a730" href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cad8789bb4e3de4e81ece093" href="https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"><strong>Timber</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg">Pitbull</a>, <a href="https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX">Kesha</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b"><strong>Ma quale idea</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6">Pino D'Angiò</a></p>
     </td>
   </tr>
   
