@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b9d9cb2c469fee6ed2586523" href="https://open.spotify.com/track/4atdgp9zlKObNl97QpPHqP" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735880f9b11a2e6289f9db78d5" href="https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4atdgp9zlKObNl97QpPHqP"><strong>I Walk Ahead Of You</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF">The Living Tombstone</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp"><strong>Paraocchi</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH">BLANCO</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362f323449fcd9d277a542fb5" href="https://open.spotify.com/track/7er2aKrNym1X5mEwfQfASM" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736aafb01504b69173c877bdca" href="https://open.spotify.com/track/22nyEAEM29tcBRhukR089b" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7er2aKrNym1X5mEwfQfASM"><strong>One More Time / Aerodynamic</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/22nyEAEM29tcBRhukR089b"><strong>Icon</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT">Jaden</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e17488262818129ccb96879d" href="https://open.spotify.com/track/4sjiIpEv617LDXaidKioOI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27338142aa25f939346c6a80416" href="https://open.spotify.com/track/053trmldheiFgDGCGgZ4WW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4sjiIpEv617LDXaidKioOI"><strong>223's (feat. 9lokknine)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg">YNW Melly</a>, <a href="https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm">9lokknine</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/053trmldheiFgDGCGgZ4WW"><strong>La Vita Com'è</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa">Max Gazzè</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738752a7355996e64709247c53" href="https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f1a378f8bcaa4be358f02ca2" href="https://open.spotify.com/track/7sQWQ8axVS9sC500ZcqWjl" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"><strong>goosebumps</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7sQWQ8axVS9sC500ZcqWjl"><strong>Points of Authority - Demo</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21" href="https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d9f4a97d4fdcf16d09266ba7" href="https://open.spotify.com/track/4KppkflX7I3vJQk7urOJaS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY"><strong>CORALINE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr">Måneskin</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4KppkflX7I3vJQk7urOJaS"><strong>Skechers (feat. Tyga) - Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3O5HD95HTEPgoPFOjAb7yV">DripReport</a>, <a href="https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp">Tyga</a></p>
     </td>
   </tr>
   
