@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32" href="https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739efc623f9c64c8efb583b186" href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl"><strong>SKELETONS</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"><strong>Just Can’t Get Enough</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS">Black Eyed Peas</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ef2e4d695cb2d76681855b8f" href="https://open.spotify.com/track/05p7wWoGLZIhU0xqWnc9rJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ba4193251c87eef1f9a9afde" href="https://open.spotify.com/track/3OXUD0lu9acI8fJ128ahux" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/05p7wWoGLZIhU0xqWnc9rJ"><strong>On Top Of The World</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q">Imagine Dragons</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3OXUD0lu9acI8fJ128ahux"><strong>Assurdo</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC">Tredici Pietro</a>, <a href="https://open.spotify.com/artist/1sHljqzdPCaYRcFrkHW8if">Mr. Monkey</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d1d301e737da4324479c6660" href="https://open.spotify.com/track/7I3skNaQdvZSS7zXY2VHId" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273542c034964ebe1acfeecf90e" href="https://open.spotify.com/track/2iCVUhdByNBLrn7qJ15uub" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7I3skNaQdvZSS7zXY2VHId"><strong>The Hype</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx">Twenty One Pilots</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2iCVUhdByNBLrn7qJ15uub"><strong>Da 0 a 100 (feat. Shiva)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27">Guè</a>, <a href="https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS">Shiva</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f9d40a1060220cf7729de6f1" href="https://open.spotify.com/track/7ruEmPzNwUgpgiiYnkqR4M" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273542c034964ebe1acfeecf90e" href="https://open.spotify.com/track/2iCVUhdByNBLrn7qJ15uub" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7ruEmPzNwUgpgiiYnkqR4M"><strong>Prendimi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b">VAEVA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2iCVUhdByNBLrn7qJ15uub"><strong>Da 0 a 100 (feat. Shiva)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27">Guè</a>, <a href="https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS">Shiva</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2" href="https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733f97d4244eff5852477d9ee0" href="https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"><strong>Just Dance</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms">Lady Gaga</a>, <a href="https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z">Colby O'Donis</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"><strong>Hot N Cold</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X">Katy Perry</a></p>
     </td>
   </tr>
   
