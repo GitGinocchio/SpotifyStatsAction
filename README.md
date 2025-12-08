@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273878c548822b6ebab8a381c13" href="https://open.spotify.com/track/6DSPdRmgSJ1JAyh4op9kiS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273881de5c93d75eee36d9cee69" href="https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6DSPdRmgSJ1JAyh4op9kiS"><strong>BIG BOY!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp">EGOVERT</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b"><strong>Overseas</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y">D-Block Europe</a>, <a href="https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r">Central Cee</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739cfe80c0c05ce104f7bab18e" href="https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27312d5ab24a8b636d56d3e39e9" href="https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"><strong>Don't You Worry Child - Radio Edit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs">Swedish House Mafia</a>, <a href="https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq">John Martin</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"><strong>Poetica</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736f3e9696889a2425338e0836" href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27304802a3a9e155e4eaed25520" href="https://open.spotify.com/track/2ZZoBU3S2aNYSaU1dAtgcJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp"><strong>Chill Bill (feat. J. Davi$ & Spooks)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2">Rob $tone</a>, <a href="https://open.spotify.com/artist/1rs3y69kDwkIdGJcOYngQt">J. Davi$</a>, <a href="https://open.spotify.com/artist/36Tn5h23ysORlLKc42UXfe">J Spooks</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ZZoBU3S2aNYSaU1dAtgcJ"><strong>Ticking Away</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t">VALORANT</a>, <a href="https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45">Grabbitz</a>, <a href="https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz">bbno$</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273602ca5b83fe44b68074a74b2" href="https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738145b51d1cdca483aff64358" href="https://open.spotify.com/track/0KipVgZ87uuiO0sMPkMr7z" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF"><strong>Summertime Magic</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL">Childish Gambino</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0KipVgZ87uuiO0sMPkMr7z"><strong>Faint - Live from Third Encore Studio, North Hollywood, CA, 3/14/2007</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fb848919ffd4e10089812a23" href="https://open.spotify.com/track/6DhRYmgbtdXQlJ638xaHGt" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739f93d1c32d39d12312d25a68" href="https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6DhRYmgbtdXQlJ638xaHGt"><strong>Sabato</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi">Jovanotti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"><strong>Clap Your Hands</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d">Kungs</a></p>
     </td>
   </tr>
   
