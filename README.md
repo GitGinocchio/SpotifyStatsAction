@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a" href="https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf" href="https://open.spotify.com/track/2ovEk26S9eFIQJ8l7koWR9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"><strong>GO (feat. Juice WRLD)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J">The Kid LAROI</a>, <a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ovEk26S9eFIQJ8l7koWR9"><strong>Le luci della città</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27312a7aafea42b7462cdd78baf" href="https://open.spotify.com/track/28pxI78fWhvcOWXpQZhh1f" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" href="https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/28pxI78fWhvcOWXpQZhh1f"><strong>GIMME MORE - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe"><strong>Homecoming</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a>, <a href="https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2">Chris Martin</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a64752f7639c1220d56ea129" href="https://open.spotify.com/track/5WD6J4mbmuTR8GzF9PKc95" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c" href="https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5WD6J4mbmuTR8GzF9PKc95"><strong>No Option</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0">Internet Money</a>, <a href="https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe">Kevin Gates</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"><strong>No Idea</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs">Don Toliver</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273339f780dfdbc38558ea0761d" href="https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb" href="https://open.spotify.com/track/1YM6c2sxbf2Jacl9IFgn4I" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz"><strong>Flex (feat. Juice WRLD)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49">Polo G</a>, <a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1YM6c2sxbf2Jacl9IFgn4I"><strong>Titanic</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" href="https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f1f9663ee41739a61d46343a" href="https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"><strong>Superman</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR">Eminem</a>, <a href="https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t">Dina Rae</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"><strong>2055</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a></p>
     </td>
   </tr>
   
