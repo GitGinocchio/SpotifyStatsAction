@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f12fd4a3ed8e87bbb0e4f218" href="https://open.spotify.com/track/3awnZSyvKdi7rBLttHk36K" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3awnZSyvKdi7rBLttHk36K"><strong>IDWK</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw">347aidan</a>, <a href="https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC">Kenny Beats</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27389070654f69ee060803403f3" href="https://open.spotify.com/track/6mP8EUaw6JbuYMJkQew3Ny" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4IDvGmvRpD4ZNLznahVHp5"><strong>Way Up</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7AYX1Kh0eAmvVFJpbuNhOf">YG Rob</a>, <a href="https://open.spotify.com/artist/2WCZf5WfnIcRQnyb0rVJw6">7 FN</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731f74480c2297fe08d015a3a6" href="https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX"><strong>Roi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1">Videoclub</a>, <a href="https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0">Adèle Castillon</a>, <a href="https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF">Mattyeux</a></p>
     </td>
   </tr>
   
