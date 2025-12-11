@@ -13,6 +13,36 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732bb3ac98fb41c25995ea206a" href="https://open.spotify.com/track/2cMiDQKmcpafCRLAkUWYJk" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2cMiDQKmcpafCRLAkUWYJk"><strong>Bette Davis Eyes</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6D5GQzBNf2sGaCAJF4IaAp">Disco Fever</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e87cca753cf7cee75a3c5c34" href="https://open.spotify.com/track/3SIt4kCvIgB34kwX4p2QMl" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3SIt4kCvIgB34kwX4p2QMl"><strong>Nel cuore della notte</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fa2741071b31bb94cb4232ae" href="https://open.spotify.com/track/0b6UoVjUzFyZNpHI0aAhKt" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0b6UoVjUzFyZNpHI0aAhKt"><strong>Celebrate (feat. Travis Scott & Post Malone)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP">DJ Khaled</a>, <a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a>, <a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273f12fd4a3ed8e87bbb0e4f218" href="https://open.spotify.com/track/3awnZSyvKdi7rBLttHk36K" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -28,36 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6mP8EUaw6JbuYMJkQew3Ny"><strong>APPARTENGO - Il sangue</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a>, <a href="https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq">Massimo Pericolo</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27389070654f69ee060803403f3" href="https://open.spotify.com/track/2L9bD3V2w3kxTZIgtaMNtA" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2L9bD3V2w3kxTZIgtaMNtA"><strong>QUELLI CHE NON PENSANO - Il cervello</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a>, <a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27389283baf10a269d44bf8cf9d" href="https://open.spotify.com/track/2WYL6etkzaNnQUxvQ7KyYC" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2WYL6etkzaNnQUxvQ7KyYC"><strong>Fede</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27394472b5df1f26a21b389a1c8" href="https://open.spotify.com/track/4IDvGmvRpD4ZNLznahVHp5" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4IDvGmvRpD4ZNLznahVHp5"><strong>Way Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7AYX1Kh0eAmvVFJpbuNhOf">YG Rob</a>, <a href="https://open.spotify.com/artist/2WCZf5WfnIcRQnyb0rVJw6">7 FN</a></p>
     </td>
   </tr>
   
