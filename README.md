@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27389283baf10a269d44bf8cf9d" href="https://open.spotify.com/track/4czJxD6sk2sPx0UJu4UkEn" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5" href="https://open.spotify.com/track/3qN5qMTKyEEmiTZD38BNTT" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4czJxD6sk2sPx0UJu4UkEn"><strong>Hold On</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3qN5qMTKyEEmiTZD38BNTT"><strong>I'm Upset</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b64fc7036d0fccef26f9f7e8" href="https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738145b51d1cdca483aff64358" href="https://open.spotify.com/track/3oTmh37Y8fDiljWQmvarYo" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq"><strong>Wake Up in the Sky</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo">Gucci Mane</a>, <a href="https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C">Bruno Mars</a>, <a href="https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7">Kodak Black</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3oTmh37Y8fDiljWQmvarYo"><strong>What I've Done - Live from Third Encore Studio, North Hollywood, CA, 3/14/2007</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27318419d6f5123da0747e04847" href="https://open.spotify.com/track/4RyhgKioN2DEKpF1Fo6iqG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273deae7d931928fc1543e70203" href="https://open.spotify.com/track/33GjvFhe7CEj40gVDOwT1J" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4RyhgKioN2DEKpF1Fo6iqG"><strong>Breaking Bad (Okay)</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/33GjvFhe7CEj40gVDOwT1J"><strong>Whiskey (feat. A$AP Rocky)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a>, <a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a5002e8af5089baebb3b7d5a" href="https://open.spotify.com/track/3m49rgJQUz5GU07RWjf5SH" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3m49rgJQUz5GU07RWjf5SH"><strong>Molly</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a>, <a href="https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm">Sheff G</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27337e0363fa7449b0fca965284" href="https://open.spotify.com/track/5HNh8yFshtfPBjia8qax5W" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27389283baf10a269d44bf8cf9d" href="https://open.spotify.com/track/4czJxD6sk2sPx0UJu4UkEn" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5HNh8yFshtfPBjia8qax5W"><strong>MEMORIZING 2</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4DFb3uFxOl0R1mZBmUPGvi">DJ DELACROIX</a>, <a href="https://open.spotify.com/artist/4uuwY98I54DdbA453Lfy98">OXXED</a>, <a href="https://open.spotify.com/artist/3OaHCFKRFT4r8o1x6SdgPT">!NFNX</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297" href="https://open.spotify.com/track/18a9vAH3tlbLKSBeYECoXo" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18a9vAH3tlbLKSBeYECoXo"><strong>Il vento del nord</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4czJxD6sk2sPx0UJu4UkEn"><strong>Hold On</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
