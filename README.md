@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f23aee9d3be9fcbca1bc6352" href="https://open.spotify.com/track/1MJErNPIQUoEMu4YUUmecm" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd" href="https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1MJErNPIQUoEMu4YUUmecm"><strong>Neon Guts (feat. Pharrell Williams)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz">Lil Uzi Vert</a>, <a href="https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8">Pharrell Williams</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"><strong>Praise God</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273243b73f0b9fd2500f491f5bf" href="https://open.spotify.com/track/7F54orEV7IMKtKG5X9Ig9y" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a84dcfaf785b6cbc2ce257f6" href="https://open.spotify.com/track/0OrmUDKqcDcTIlPpS5Dt1B" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7F54orEV7IMKtKG5X9Ig9y"><strong>Nord sud ovest est</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO">883</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0OrmUDKqcDcTIlPpS5Dt1B"><strong>R-101</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/36LAa1XMfd4yEJh3Xpr2XZ">Max Duff</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737801dd18b44e258fe6f2f636" href="https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fbd3128cc27caae9c0f1c03a" href="https://open.spotify.com/track/3FNy4yzOhHhFBeA5p4ofoq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd"><strong>INSUPERABILE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3FNy4yzOhHhFBeA5p4ofoq"><strong>Young, Wild & Free (feat. Bruno Mars)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG">Snoop Dogg</a>, <a href="https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop">Wiz Khalifa</a>, <a href="https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C">Bruno Mars</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" href="https://open.spotify.com/track/6b9NzxGrLgueouFOAr5Jw3" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27394c0a1fd729e61f0f8216b51" href="https://open.spotify.com/track/3gU7Pr1I4plN6QSxF6jFh3" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6b9NzxGrLgueouFOAr5Jw3"><strong>Sweetest Goodbye</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3gU7Pr1I4plN6QSxF6jFh3"><strong>Lemonade - Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0">Internet Money</a>, <a href="https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs">Don Toliver</a>, <a href="https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB">Roddy Ricch</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" href="https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27332ba22ba4df6a89bb6bfe3cf" href="https://open.spotify.com/track/3oFeq8brHTvOe0FPgEBFl2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"><strong>PRIDE.</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg">Kendrick Lamar</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3oFeq8brHTvOe0FPgEBFl2"><strong>So Fast</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk">Lil Mosey</a></p>
     </td>
   </tr>
   
