@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd" href="https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32" href="https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"><strong>Praise God</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"><strong>SICKO MODE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a84dcfaf785b6cbc2ce257f6" href="https://open.spotify.com/track/0OrmUDKqcDcTIlPpS5Dt1B" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0OrmUDKqcDcTIlPpS5Dt1B"><strong>R-101</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/36LAa1XMfd4yEJh3Xpr2XZ">Max Duff</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll"><strong>With You</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fbd3128cc27caae9c0f1c03a" href="https://open.spotify.com/track/3FNy4yzOhHhFBeA5p4ofoq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737b436d31c5ae44b334736619" href="https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3FNy4yzOhHhFBeA5p4ofoq"><strong>Young, Wild & Free (feat. Bruno Mars)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG">Snoop Dogg</a>, <a href="https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop">Wiz Khalifa</a>, <a href="https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C">Bruno Mars</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"><strong>Maniac</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB">Michael Sembello</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27394c0a1fd729e61f0f8216b51" href="https://open.spotify.com/track/3gU7Pr1I4plN6QSxF6jFh3" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27301161c81847e31dd1817926a" href="https://open.spotify.com/track/4HpqJZ9YSAaVsmfNGAyl9w" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3gU7Pr1I4plN6QSxF6jFh3"><strong>Lemonade - Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0">Internet Money</a>, <a href="https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs">Don Toliver</a>, <a href="https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB">Roddy Ricch</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4HpqJZ9YSAaVsmfNGAyl9w"><strong>PARTIRE DA TE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27332ba22ba4df6a89bb6bfe3cf" href="https://open.spotify.com/track/3oFeq8brHTvOe0FPgEBFl2" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739409a944b39e3ff4454b31bc" href="https://open.spotify.com/track/4Uw4g8YcKtAnoyWKWFNSF2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3oFeq8brHTvOe0FPgEBFl2"><strong>So Fast</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk">Lil Mosey</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Uw4g8YcKtAnoyWKWFNSF2"><strong>Step On Up</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF">The Living Tombstone</a>, <a href="https://open.spotify.com/artist/411VUMJLq5DVLoU7OaBwk7">McGwire</a></p>
     </td>
   </tr>
   
