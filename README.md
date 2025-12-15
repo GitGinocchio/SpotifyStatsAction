@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27393b1e96fad758869d0974162" href="https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"><strong>Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k">Mustard</a>, <a href="https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC">NAV</a>, <a href="https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD">Playboi Carti</a>, <a href="https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I">A Boogie Wit da Hoodie</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2737e98a30f3a9af0fb35771ae1" href="https://open.spotify.com/track/267nfLfaSSDa9ivHncHynh" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7mVV2Rb9IpbsklRP9Mfz11"><strong>Numeri</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX">MadMan</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730eff3431fcf4af599708eb59" href="https://open.spotify.com/track/340CBuR4SZIlnjjsLOhLPp" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/340CBuR4SZIlnjjsLOhLPp"><strong>THAT GIRL</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3yw4uZPLLaQZW0hIyZCprZ">SAFETY</a></p>
     </td>
   </tr>
   
