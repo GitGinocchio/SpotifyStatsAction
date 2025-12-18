@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735b4ab5f566a98ffe5c2725fd" href="https://open.spotify.com/track/3qhvwhJfUBPkEPbBFwLnDN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27367be35c0755253560e6ab6e4" href="https://open.spotify.com/track/7K7iBR3rCpmBn4TFmhjnQ9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3qhvwhJfUBPkEPbBFwLnDN"><strong>Howl's Moving Castle - Merry Go Round Of Life - Main Theme</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw">Geek Music</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7K7iBR3rCpmBn4TFmhjnQ9"><strong>Comprami</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7y7fXMf0viI4KxjcPQaNSR">Viola Valentino</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" href="https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732295c05467c086704fb7988f" href="https://open.spotify.com/track/2t97mRWIIO6ZOYFPkLnbBV" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"><strong>Locked out of Heaven</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C">Bruno Mars</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2t97mRWIIO6ZOYFPkLnbBV"><strong>porco dio</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/32paBfRlbE0IuNH66NSDnt">notMartex</a>, <a href="https://open.spotify.com/artist/6jvH14zloTp5ZoXG7lP6Dq">azzu</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273177fdba989a7a7c4be034bae" href="https://open.spotify.com/track/6WGvIhK54ajmod6oLgQ8oJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27306ce4ef254e23de949ef233a" href="https://open.spotify.com/track/1fC0uGs48Sb7GLioUe0tN4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6WGvIhK54ajmod6oLgQ8oJ"><strong>I See You</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/657VANLTRgTFElFKbqzhXs">Jutty Ranx</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1fC0uGs48Sb7GLioUe0tN4"><strong>Wellerman</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0mFdUcqo7TnJNeWxzqqJax">Sea Shanty</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d9f4a97d4fdcf16d09266ba7" href="https://open.spotify.com/track/4KppkflX7I3vJQk7urOJaS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e524693aba8849958b1f7e39" href="https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4KppkflX7I3vJQk7urOJaS"><strong>Skechers (feat. Tyga) - Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3O5HD95HTEPgoPFOjAb7yV">DripReport</a>, <a href="https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp">Tyga</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy"><strong>Est-ce que tu m'aimes ? - Pilule bleue</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK">GIMS</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733f9411d2efab3d2c2ab61ece" href="https://open.spotify.com/track/3tdjTdCCgKtwacsICCtPZZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a73bb6afa8cb999aafb3c150" href="https://open.spotify.com/track/45dGKmN6jw7PgK6Dw2rEp2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3tdjTdCCgKtwacsICCtPZZ"><strong>Costa Rica (feat. The Kid LAROI) - Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN">Bankrol Hayden</a>, <a href="https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J">The Kid LAROI</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/45dGKmN6jw7PgK6Dw2rEp2"><strong>Real Gone</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD">Sheryl Crow</a></p>
     </td>
   </tr>
   
