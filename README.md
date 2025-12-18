@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fe3cf32b1320e8ded39d8c74" href="https://open.spotify.com/track/0osPX8TruIebOhKuG6GK8C" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273685a640a130b7b36c5ffc5ff" href="https://open.spotify.com/track/2gUn6S1SuuXK0BvypPKnir" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0osPX8TruIebOhKuG6GK8C"><strong>On My Level (feat. Too $hort)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop">Wiz Khalifa</a>, <a href="https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v">Too $hort</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2gUn6S1SuuXK0BvypPKnir"><strong>NO WAY (feat. Nitro) - prod. Low Kidd</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD">MACHETE</a>, <a href="https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7">Tedua</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP">Nitro</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d0bbfea6226b5c3707de92ed" href="https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736239187793c9e492e687db01" href="https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"><strong>Say So</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5">Doja Cat</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r"><strong>Panini</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27364d12dfc8fdcf81b48cb6f9c" href="https://open.spotify.com/track/4P49mTJd4pNR7Zs2YKQzUG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27309641cc11bfab19e890bbf58" href="https://open.spotify.com/track/05nbZ1xxVNwUTcGwLbp7CN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4P49mTJd4pNR7Zs2YKQzUG"><strong>Axel F - Hardstyle Version</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp">TCM</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/05nbZ1xxVNwUTcGwLbp7CN"><strong>Myself</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC">NAV</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733f97d4244eff5852477d9ee0" href="https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27333b70c9854948595e85d8a85" href="https://open.spotify.com/track/0S1Xn7AERdYI53ehgk43BC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"><strong>Hot N Cold</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X">Katy Perry</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0S1Xn7AERdYI53ehgk43BC"><strong>New Americana</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd">BRAN</a>, <a href="https://open.spotify.com/artist/1aAW5k56ulsXw0ZEm6PpOS">Bromage</a>, <a href="https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq">HALUNA</a>, <a href="https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF">Meric Again</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27367be35c0755253560e6ab6e4" href="https://open.spotify.com/track/7K7iBR3rCpmBn4TFmhjnQ9" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c91af97a6375df2dd6a252ef" href="https://open.spotify.com/track/5h8G7vVyBnvGlVGZwZfSrY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7K7iBR3rCpmBn4TFmhjnQ9"><strong>Comprami</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7y7fXMf0viI4KxjcPQaNSR">Viola Valentino</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5h8G7vVyBnvGlVGZwZfSrY"><strong>Amaro</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
