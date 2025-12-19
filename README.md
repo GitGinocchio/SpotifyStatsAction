@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273121d5f92cf90576907dfb1e5" href="https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"><strong>Pumped Up Kicks</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc">Foster The People</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273685a640a130b7b36c5ffc5ff" href="https://open.spotify.com/track/2gUn6S1SuuXK0BvypPKnir" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0S1Xn7AERdYI53ehgk43BC"><strong>New Americana</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd">BRAN</a>, <a href="https://open.spotify.com/artist/1aAW5k56ulsXw0ZEm6PpOS">Bromage</a>, <a href="https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq">HALUNA</a>, <a href="https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF">Meric Again</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c91af97a6375df2dd6a252ef" href="https://open.spotify.com/track/5h8G7vVyBnvGlVGZwZfSrY" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5h8G7vVyBnvGlVGZwZfSrY"><strong>Amaro</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
