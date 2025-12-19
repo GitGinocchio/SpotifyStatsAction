@@ -94,7 +94,7 @@ Show your spotify stats inside your README.md
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"><strong>Pinguini Tattici Nucleari</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"></p>
+      <p style="margin: 5px 0 0 0; color: grey;">concerto</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;">Popularity: <strong>69%</strong></p>
@@ -120,7 +120,7 @@ Show your spotify stats inside your README.md
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"><strong>Coez</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">indie</p>
+      <p style="margin: 5px 0 0 0; color: grey;">concerto, indie</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;">Popularity: <strong>69%</strong></p>
