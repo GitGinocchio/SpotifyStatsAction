@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738323143296ff7b2801e32789" href="https://open.spotify.com/track/09TlxralXOGX35LUutvw7I" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734ae8ff731c49965bf2083405" href="https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/09TlxralXOGX35LUutvw7I"><strong>End of Line</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT"><strong>Dernière danse</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB">Indila</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736aafb01504b69173c877bdca" href="https://open.spotify.com/track/3lz2JgAt4cyr04qDlBgTOv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a5dcf4b4f2f09965643851d8" href="https://open.spotify.com/track/59AziPyNm2kHqyd9lH9cSr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3lz2JgAt4cyr04qDlBgTOv"><strong>Watch Me</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT">Jaden</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/59AziPyNm2kHqyd9lH9cSr"><strong>Sick and Tired (feat. Machine Gun Kelly & Travis Barker)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS">iann dior</a>, <a href="https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX">mgk</a>, <a href="https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX">Travis Barker</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731dc7483a9fcfce54822a2f19" href="https://open.spotify.com/track/3rfhI32Il2hVRKDkuGeeen" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731c0aacb7cb42f20914d319f4" href="https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3rfhI32Il2hVRKDkuGeeen"><strong>Hey Baby (Drop It to the Floor) (feat. T-Pain)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg">Pitbull</a>, <a href="https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy">T-Pain</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv"><strong>Miss The Rage</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax">Trippie Redd</a>, <a href="https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD">Playboi Carti</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369" href="https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27329508ebb110a7748dcf5954d" href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"><strong>What You Know Bout Love</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj">Pop Smoke</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"><strong>Anadrol</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg">Yosuf</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738a01c7b77a34378a62f46402" href="https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297" href="https://open.spotify.com/track/18a9vAH3tlbLKSBeYECoXo" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"><strong>Life Is Good (feat. Drake)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i">Future</a>, <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18a9vAH3tlbLKSBeYECoXo"><strong>Il vento del nord</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a></p>
     </td>
   </tr>
   
