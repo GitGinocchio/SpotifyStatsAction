@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27367eab79381b5a7bb19fc1df9" href="https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268" href="https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"><strong>Belly Dancer</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj">Imanbek</a>, <a href="https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R">BYOR</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"><strong>rockstar (feat. 21 Savage)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a>, <a href="https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft">21 Savage</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e07c46427e9c11257992aa93" href="https://open.spotify.com/track/2iUrRfq5qzeDJBTZ4f92Jh" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c91af97a6375df2dd6a252ef" href="https://open.spotify.com/track/5h8G7vVyBnvGlVGZwZfSrY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2iUrRfq5qzeDJBTZ4f92Jh"><strong>Meet Me Halfway - Speed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2UUNqX43sA4dxX698liyey">Ren</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5h8G7vVyBnvGlVGZwZfSrY"><strong>Amaro</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730f5bddb58455041268379408" href="https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb" href="https://open.spotify.com/track/7pbg3ABlAZv2NiIdKbBBFm" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv"><strong>Too Faded</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2">Rob $tone</a>, <a href="https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A">P-Lo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7pbg3ABlAZv2NiIdKbBBFm"><strong>Up Up And Away</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b6d544387b04e1d1a5f7926c" href="https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f2a39a7b2f9b4eb6256d3787" href="https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ"><strong>I Love It (& Lil Pump)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a>, <a href="https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY">Lil Pump</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"><strong>Sure Thing - Sped Up</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK">Miguel</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5" href="https://open.spotify.com/track/44Du2IM1bGY7dicmLfXbUs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f27e4bdc58ebe249a6b90da0" href="https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/44Du2IM1bGY7dicmLfXbUs"><strong>Final Fantasy</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ"><strong>SCOOP (feat. Doja Cat)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a>, <a href="https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5">Doja Cat</a></p>
     </td>
   </tr>
   
