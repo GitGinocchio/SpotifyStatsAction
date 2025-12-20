@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273acf731f1fad6dea3f361ec39" href="https://open.spotify.com/track/7fLOFRCRe1c4kyoLJkNW1w" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738323143296ff7b2801e32789" href="https://open.spotify.com/track/09TlxralXOGX35LUutvw7I" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7fLOFRCRe1c4kyoLJkNW1w"><strong>Roundtable Rival</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM">Lindsey Stirling</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/09TlxralXOGX35LUutvw7I"><strong>End of Line</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a73bb6afa8cb999aafb3c150" href="https://open.spotify.com/track/45dGKmN6jw7PgK6Dw2rEp2" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736aafb01504b69173c877bdca" href="https://open.spotify.com/track/3lz2JgAt4cyr04qDlBgTOv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/45dGKmN6jw7PgK6Dw2rEp2"><strong>Real Gone</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD">Sheryl Crow</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3lz2JgAt4cyr04qDlBgTOv"><strong>Watch Me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT">Jaden</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ed17a14e09145f2986a42726" href="https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731dc7483a9fcfce54822a2f19" href="https://open.spotify.com/track/3rfhI32Il2hVRKDkuGeeen" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY"><strong>Light It Up (feat. Nyla & Fuse ODG) [Remix]</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp">Major Lazer</a>, <a href="https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy">Nyla</a>, <a href="https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ">Fuse ODG</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3rfhI32Il2hVRKDkuGeeen"><strong>Hey Baby (Drop It to the Floor) (feat. T-Pain)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg">Pitbull</a>, <a href="https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy">T-Pain</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739585ff55fff75c5c07a619cb" href="https://open.spotify.com/track/2iDDJNcHX7ydErDGG93TLg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369" href="https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2iDDJNcHX7ydErDGG93TLg"><strong>Get Back In My Life</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"><strong>What You Know Bout Love</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj">Pop Smoke</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27393bd3705124672a86fb7182f" href="https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738a01c7b77a34378a62f46402" href="https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"><strong>Rover (feat. DTG)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s">S1mba</a>, <a href="https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg">DTG</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"><strong>Life Is Good (feat. Drake)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i">Future</a>, <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
     </td>
   </tr>
   
