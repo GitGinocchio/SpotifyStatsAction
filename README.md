@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734ae8ff731c49965bf2083405" href="https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f261e22711110f80ee1a8135" href="https://open.spotify.com/track/5HDDa5IOS3a1q1ow30MUl7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT"><strong>Dernière danse</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB">Indila</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5HDDa5IOS3a1q1ow30MUl7"><strong>No Lie - Sped Up</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1B8zOGPrso6pUoDayTPrxF">DJ KridUNG</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a5dcf4b4f2f09965643851d8" href="https://open.spotify.com/track/59AziPyNm2kHqyd9lH9cSr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732be6414a93a671be9f9db1c1" href="https://open.spotify.com/track/4Gy0fEEzVKIrLZ4cjqgume" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/59AziPyNm2kHqyd9lH9cSr"><strong>Sick and Tired (feat. Machine Gun Kelly & Travis Barker)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS">iann dior</a>, <a href="https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX">mgk</a>, <a href="https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX">Travis Barker</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Gy0fEEzVKIrLZ4cjqgume"><strong>MEMORIZING - SPED UP</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4DFb3uFxOl0R1mZBmUPGvi">DJ DELACROIX</a>, <a href="https://open.spotify.com/artist/4uuwY98I54DdbA453Lfy98">OXXED</a>, <a href="https://open.spotify.com/artist/0IAcJn2oWYg8TOXzoU3jJU">Wintherduud</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731c0aacb7cb42f20914d319f4" href="https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273820c0ed614ed30340ba38f28" href="https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv"><strong>Miss The Rage</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax">Trippie Redd</a>, <a href="https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD">Playboi Carti</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"><strong>Superclassico</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm">Ernia</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27329508ebb110a7748dcf5954d" href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" href="https://open.spotify.com/track/6ky7V6pofLTDxI6vJ6azZ4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6EXi0RWDxqvxDEHFbqR7XB"><strong>Anadrol</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg">Yosuf</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6ky7V6pofLTDxI6vJ6azZ4"><strong>Must Get Out - Demo</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297" href="https://open.spotify.com/track/18a9vAH3tlbLKSBeYECoXo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f" href="https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18a9vAH3tlbLKSBeYECoXo"><strong>Il vento del nord</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"><strong>Another Love</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX">Tom Odell</a></p>
     </td>
   </tr>
   
