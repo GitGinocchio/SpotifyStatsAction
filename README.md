@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f261e22711110f80ee1a8135" href="https://open.spotify.com/track/5HDDa5IOS3a1q1ow30MUl7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273743b6c78774349f8e44039c6" href="https://open.spotify.com/track/28jXWWQFBs8qe5RCACTFN6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5HDDa5IOS3a1q1ow30MUl7"><strong>No Lie - Sped Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1B8zOGPrso6pUoDayTPrxF">DJ KridUNG</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/28jXWWQFBs8qe5RCACTFN6"><strong>After Dark Phonk</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2GMViyAUeRMo2xTPVo7NLv">UNIVXRSE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732be6414a93a671be9f9db1c1" href="https://open.spotify.com/track/4Gy0fEEzVKIrLZ4cjqgume" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273678cd9d3b0655cadd0368c0a" href="https://open.spotify.com/track/20Q0qLW27rm9Pq2pO1bwzK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Gy0fEEzVKIrLZ4cjqgume"><strong>MEMORIZING - SPED UP</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4DFb3uFxOl0R1mZBmUPGvi">DJ DELACROIX</a>, <a href="https://open.spotify.com/artist/4uuwY98I54DdbA453Lfy98">OXXED</a>, <a href="https://open.spotify.com/artist/0IAcJn2oWYg8TOXzoU3jJU">Wintherduud</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/20Q0qLW27rm9Pq2pO1bwzK"><strong>Won't Stop Rocking</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ">R3HAB</a>, <a href="https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy">Headhunterz</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273820c0ed614ed30340ba38f28" href="https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732b636541b78ac5ac237326ed" href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"><strong>Superclassico</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm">Ernia</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg"><strong>FEAR!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a>, <a href="https://open.spotify.com/artist/1PRbFVisaZiK7iQDHFbARw">MultiPlabell</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" href="https://open.spotify.com/track/6ky7V6pofLTDxI6vJ6azZ4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b340b496cb7c38d727ff40be" href="https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6ky7V6pofLTDxI6vJ6azZ4"><strong>Must Get Out - Demo</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"><strong>Roses - Imanbek Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ">SAINt JHN</a>, <a href="https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj">Imanbek</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f" href="https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731f74480c2297fe08d015a3a6" href="https://open.spotify.com/track/2qRMnItMLesizxbPqIwcSm" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"><strong>Another Love</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX">Tom Odell</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2qRMnItMLesizxbPqIwcSm"><strong>Mai</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1">Videoclub</a></p>
     </td>
   </tr>
   
