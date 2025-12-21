@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fc7ce3acfa2e8c2479bcf621" href="https://open.spotify.com/track/780be5fB7823aHG06mwTat" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5" href="https://open.spotify.com/track/1Tnw0ItH1Macok8gblnPPd" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/780be5fB7823aHG06mwTat"><strong>Baianá</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM">Bakermat</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Tnw0ItH1Macok8gblnPPd"><strong>Is There More</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733ba7fde5c0aa853273aba269" href="https://open.spotify.com/track/4CoAPaFaOz8e9o8MhpjWBp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730cb0b554ab60bdae9819e50e" href="https://open.spotify.com/track/1vy5rv1YEyaNolsRzVh6xz" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4CoAPaFaOz8e9o8MhpjWBp"><strong>Luv Em All</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1vy5rv1YEyaNolsRzVh6xz"><strong>vabbè ciao</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7">Alfa</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273be154ef3955b325136108f95" href="https://open.spotify.com/track/5M3SYjElWjKlD3jgONFw4w" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a" href="https://open.spotify.com/track/1gAaRSN57UYVRI4eWRyAvP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5M3SYjElWjKlD3jgONFw4w"><strong>SUI MURI</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro">PSICOLOGI</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1gAaRSN57UYVRI4eWRyAvP"><strong>Pushing Me Away</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27303789dffddef5e9a917fde8a" href="https://open.spotify.com/track/4EJI2XGViSQp6WscLKgYDD" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27304cd9a1664fb4539a55643fe" href="https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4EJI2XGViSQp6WscLKgYDD"><strong>Pretty Baby</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF">Redondo</a>, <a href="https://open.spotify.com/artist/4QgLZ8nDYxhOWOAYYypKd9">Rockefeller</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"><strong>STAR WALKIN' (League of Legends Worlds Anthem)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731c0bcf8b536295438d26c70d" href="https://open.spotify.com/track/5Q6OXP4UlS1stbtGfBLZ9I" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739c783e96159db6857816809e" href="https://open.spotify.com/track/0gNRzHp1GsQRQXz7EQa4Ox" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5Q6OXP4UlS1stbtGfBLZ9I"><strong>Valentine</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N">Justice</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0gNRzHp1GsQRQXz7EQa4Ox"><strong>What Is Love - Club Mix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma">Haddaway</a></p>
     </td>
   </tr>
   
