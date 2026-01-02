@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27336385e0fad3c87e8e8f19071" href="https://open.spotify.com/track/2r5BsQ93MzyPILYaottKrG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d69582c74fef6f7fe1767cf9" href="https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2r5BsQ93MzyPILYaottKrG"><strong>PASSO BEM SOLTO</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah">ATLXS</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx"><strong>that b*tch don't even kno my name...</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF">ThxSoMch</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738fad3088008adec12c6a5a8e" href="https://open.spotify.com/track/11Z22I6gaBcuKQPpONijxG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737c99edb4ad84adff8f2f157a" href="https://open.spotify.com/track/0iLXTfhF58kCYZONVJOWxi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/11Z22I6gaBcuKQPpONijxG"><strong>Safe And Sound</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn">Vaskan</a>, <a href="https://open.spotify.com/artist/0Vorbh84xQLnLXl1BvN1cV">HARDSTYLE MAGE</a>, <a href="https://open.spotify.com/artist/06p17yB3xXhP6nlrpEXm4g">ZYZZ MUSIC</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0iLXTfhF58kCYZONVJOWxi"><strong>Gaia</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos">Leon Faun</a>, <a href="https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL">Duffy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27329eb94d57e66610bb278c95d" href="https://open.spotify.com/track/2dSNs47vHBSPnsUwpl39nk" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21" href="https://open.spotify.com/track/2l7V3AuTxGuswKjGovaSEv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2dSNs47vHBSPnsUwpl39nk"><strong>EVERYTIME WE TOUCH HARDSTYLE (SPED UP)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2l7V3AuTxGuswKjGovaSEv"><strong>LA PAURA DEL BUIO</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr">Måneskin</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f463ab32d3175cfe480dbd8d" href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305f13846a6404611120be8c8" href="https://open.spotify.com/track/4WwoOVG3xwCo6B14pCckm9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"><strong>ALORS BRAZIL</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn">NONTHENSE</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4WwoOVG3xwCo6B14pCckm9"><strong>Roma di notte</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a>, <a href="https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc">Franco126</a>, <a href="https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc">Tommaso Paradiso</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e70283d7d0ca22de6ff4862c" href="https://open.spotify.com/track/1kmSd5kmmv6pCSCvYBnNbl" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733a929daf339e9f58a2d3b75a" href="https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1kmSd5kmmv6pCSCvYBnNbl"><strong>AL NACER!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB">Sayfalse</a>, <a href="https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj">Nulteex</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"><strong>Praising You - feat. Fatboy Slim</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr">Rita Ora</a>, <a href="https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW">Fatboy Slim</a></p>
     </td>
   </tr>
   
