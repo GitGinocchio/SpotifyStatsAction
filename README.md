@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f9d40a1060220cf7729de6f1" href="https://open.spotify.com/track/7ruEmPzNwUgpgiiYnkqR4M" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e74946cb37c5ba58eada2462" href="https://open.spotify.com/track/3i3J8guWgbyfe5oJSTkdzC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7ruEmPzNwUgpgiiYnkqR4M"><strong>Prendimi</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b">VAEVA</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3i3J8guWgbyfe5oJSTkdzC"><strong>IT'S GOING DOWN</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ">The Vanished People</a>, <a href="https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol">WaMi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f8c22e6412de45872bd66286" href="https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273279b5d107c55af02c6c4d711" href="https://open.spotify.com/track/5BZlwePMT2J54TWq7Eaks7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ"><strong>Jenny (I Wanna Ruin Our Friendship)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT">Studio Killers</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5BZlwePMT2J54TWq7Eaks7"><strong>¡MAS CRAZY!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh">Valentino Khan</a>, <a href="https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR">Deorro</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27312d5ab24a8b636d56d3e39e9" href="https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27373debb36ac6edd90c7f4c6a8" href="https://open.spotify.com/track/5vZnCc3RX3LjL6HqUeZ7WI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"><strong>Poetica</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5vZnCc3RX3LjL6HqUeZ7WI"><strong>Viola</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ">StaySolidRocky</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b9c4979446c4d39bc08e9503" href="https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733d6fa293f49903ed38fbe0de" href="https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"><strong>Forever Young</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX">Alphaville</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"><strong>Bad Girls</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU">M.I.A.</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a91a5b301baac1f46e6f30eb" href="https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cad8789bb4e3de4e81ece093" href="https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"><strong>I Really Want to Stay at Your House</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq">Rosa Walton</a>, <a href="https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc">Hallie Coggins</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b"><strong>Ma quale idea</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6">Pino D'Angiò</a></p>
     </td>
   </tr>
   
