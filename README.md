@@ -196,11 +196,11 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c646c7e3234fec58ffe0d415" href="https://open.spotify.com/track/7yJZlPui7PYh2L9UXmtQWc" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d373870c9704e1c7f4444eb3" href="https://open.spotify.com/track/32BYnwOGutLN0QZTtqP562" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7yJZlPui7PYh2L9UXmtQWc"><strong>Oroscopo (feat. Takagi & Ketra) - Ghost track</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a>, <a href="https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx">Takagi & Ketra</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/32BYnwOGutLN0QZTtqP562"><strong>PELIGROSA - Slowed + Reverb</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0B93TRuu9Ew2TJHsYH23C9">kathyxoxo</a></p>
     </td>
   </tr>
   
