@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c6d348e2dec6b0b302e9e101" href="https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f8c22e6412de45872bd66286" href="https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a"><strong>2minuti</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ"><strong>Jenny (I Wanna Ruin Our Friendship)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT">Studio Killers</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738e956c4154ba8b2f7be13443" href="https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27312d5ab24a8b636d56d3e39e9" href="https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"><strong>Shame</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W">TV Girl</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"><strong>Poetica</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T">Cesare Cremonini</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" href="https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b9c4979446c4d39bc08e9503" href="https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"><strong>Locked out of Heaven</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C">Bruno Mars</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"><strong>Forever Young</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX">Alphaville</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734a18877eb76234a05ea325a8" href="https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a91a5b301baac1f46e6f30eb" href="https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"><strong>golden hour - Fujii Kaze Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK">JVKE</a>, <a href="https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi">Fujii Kaze</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"><strong>I Really Want to Stay at Your House</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq">Rosa Walton</a>, <a href="https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc">Hallie Coggins</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738f68f6e65c1cfd36bb21561c" href="https://open.spotify.com/track/4tyjNEHKos3lZPYAfTiMKH" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fc90ca8eacb04d33187bbf33" href="https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4tyjNEHKos3lZPYAfTiMKH"><strong>Silver Lining</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO">Laufey</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY"><strong>Too Faded Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2">Rob $tone</a>, <a href="https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG">Snoop Dogg</a>, <a href="https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A">P-Lo</a></p>
     </td>
   </tr>
   
