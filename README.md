@@ -13,6 +13,36 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff" href="https://open.spotify.com/track/2Nut5wxGFEwdbjuEe32syQ" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Nut5wxGFEwdbjuEe32syQ"><strong>Wipe Your Eyes</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273abc5193decc1a2984a93f31e" href="https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"><strong>Upside Down</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl">Diana Ross</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273abc5193decc1a2984a93f31e" href="https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"><strong>Upside Down</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl">Diana Ross</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273d0008ca23cd2e0b7f2dce88f" href="https://open.spotify.com/track/2Tk5B1h58lJRsrivGg1jaE" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -28,36 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Kc8MeW8prVwHEREYM3wCG"><strong>her (feat. Annika Wells)</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK">JVKE</a>, <a href="https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ">Annika Wells</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e74946cb37c5ba58eada2462" href="https://open.spotify.com/track/3i3J8guWgbyfe5oJSTkdzC" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3i3J8guWgbyfe5oJSTkdzC"><strong>IT'S GOING DOWN</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ">The Vanished People</a>, <a href="https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol">WaMi</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273279b5d107c55af02c6c4d711" href="https://open.spotify.com/track/5BZlwePMT2J54TWq7Eaks7" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5BZlwePMT2J54TWq7Eaks7"><strong>¡MAS CRAZY!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh">Valentino Khan</a>, <a href="https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR">Deorro</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27373debb36ac6edd90c7f4c6a8" href="https://open.spotify.com/track/5vZnCc3RX3LjL6HqUeZ7WI" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5vZnCc3RX3LjL6HqUeZ7WI"><strong>Viola</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ">StaySolidRocky</a></p>
     </td>
   </tr>
   
