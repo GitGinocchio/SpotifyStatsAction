@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff" href="https://open.spotify.com/track/2Nut5wxGFEwdbjuEe32syQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731c08bca073e89ae32c68ffaa" href="https://open.spotify.com/track/7D1Dq1oEmlKNJltvzTL0wN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Nut5wxGFEwdbjuEe32syQ"><strong>Wipe Your Eyes</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7D1Dq1oEmlKNJltvzTL0wN"><strong>Roadgame</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV">Kavinsky</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273abc5193decc1a2984a93f31e" href="https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a19cee952b6dae128d68f116" href="https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"><strong>Upside Down</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl">Diana Ross</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"><strong>Take Me Home, Country Roads</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w">John Denver</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273abc5193decc1a2984a93f31e" href="https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268" href="https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"><strong>Upside Down</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl">Diana Ross</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C"><strong>Psycho (feat. Ty Dolla $ign)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a>, <a href="https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq">Ty Dolla $ign</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d0008ca23cd2e0b7f2dce88f" href="https://open.spotify.com/track/2Tk5B1h58lJRsrivGg1jaE" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41" href="https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Tk5B1h58lJRsrivGg1jaE"><strong>Vamos a la Playa</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF">Loona</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"><strong>I Fall Apart</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731d18320593e1d980c45684c1" href="https://open.spotify.com/track/2Kc8MeW8prVwHEREYM3wCG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27344791e2a2c62c4934c1948f1" href="https://open.spotify.com/track/5qP0q4hWYEvAUpv81Cjuso" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Kc8MeW8prVwHEREYM3wCG"><strong>her (feat. Annika Wells)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK">JVKE</a>, <a href="https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ">Annika Wells</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5qP0q4hWYEvAUpv81Cjuso"><strong>Reckless</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e">Xavier Weeks</a></p>
     </td>
   </tr>
   
