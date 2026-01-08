@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732be6414a93a671be9f9db1c1" href="https://open.spotify.com/track/0zJ1XFRhxxIyS6OVmI3r1x" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0zJ1XFRhxxIyS6OVmI3r1x"><strong>MEMORIZING - SLOWED</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4DFb3uFxOl0R1mZBmUPGvi">DJ DELACROIX</a>, <a href="https://open.spotify.com/artist/4uuwY98I54DdbA453Lfy98">OXXED</a>, <a href="https://open.spotify.com/artist/0IAcJn2oWYg8TOXzoU3jJU">Wintherduud</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2737c8358048711825270d2920e" href="https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6iSgJHz6m1XOszvVuBVnqs"><strong>Low Key (Bonus)</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730f47d89f02cd58a168b8193e" href="https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8"><strong>Suicidal</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg">YNW Melly</a></p>
     </td>
   </tr>
   
