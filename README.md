@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27332ba22ba4df6a89bb6bfe3cf" href="https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cbd56c3a8faf8cf8c8bea0df" href="https://open.spotify.com/track/1ZEOIhSn6BKErV59bIgn76" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ"><strong>Stuck In A Dream (feat. Gunna)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk">Lil Mosey</a>, <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ">Gunna</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1ZEOIhSn6BKErV59bIgn76"><strong>California Dreamin'</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN">The Mamas & The Papas</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262" href="https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738d023622e6fc2d402511c1b3" href="https://open.spotify.com/track/12F6v5AkECfl8chiuKAxCk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"><strong>Little Talks</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz">Of Monsters and Men</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/12F6v5AkECfl8chiuKAxCk"><strong>MEET ME HALFWAY - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ceaeb9d72a6398f943ca9ad8" href="https://open.spotify.com/track/3wCB56oq3DwkzglS3G65EL" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32" href="https://open.spotify.com/track/58TaFP5j5i9swOf584yon2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3wCB56oq3DwkzglS3G65EL"><strong>Portofino</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn">Il Pagante</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/58TaFP5j5i9swOf584yon2"><strong>HOUSTONFORNICATION</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d0495d03671b5d9a365db8f5" href="https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ed0d94645ec171a19a05b2b9" href="https://open.spotify.com/track/5ga7nw5xFdLjKWnZmMpoQ8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"><strong>PELIGROSA</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy">FloyyMenor</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ga7nw5xFdLjKWnZmMpoQ8"><strong>POKER FACE HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf" href="https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27355d1a3f1c3006f756eae1f2e" href="https://open.spotify.com/track/1fi6WJYdiFQ7gEtAtJ8NH6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"><strong>A Sky Full of Stars</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU">Coldplay</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1fi6WJYdiFQ7gEtAtJ8NH6"><strong>Cosa Faremo Da Grandi?</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx">Lucio Corsi</a></p>
     </td>
   </tr>
   
