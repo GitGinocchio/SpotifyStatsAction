@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" href="https://open.spotify.com/track/0ecxQl1Uij06vO9S7htIVI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735a0fca95bfacb33ca3580a29" href="https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0ecxQl1Uij06vO9S7htIVI"><strong>The Sun - Alternate Mix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"><strong>Sacrifice</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b">Elton John</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27348b42643807469dea4eea00e" href="https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d" href="https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ"><strong>Show Me Your Back</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2">FindMyName</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"><strong>Is There Someone Else?</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735d283816a23e9ac7511f1519" href="https://open.spotify.com/track/373gDROnujxNTFa1FojYIl" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27354a277d652eba4cd35a2e78a" href="https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"><strong>Lost</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t"><strong>Mothership Reconnection (feat. Parliament/Funkadelic) - (Daft Punk Remix)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe">Scott Grooves</a>, <a href="https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH">Parliament</a>, <a href="https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru">Funkadelic</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e7546ed84b9c6941fe0a1879" href="https://open.spotify.com/track/6NAbLPUknE9nKxQJeFGFKa" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"><strong>SexyBack (feat. Timbaland)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7">Justin Timberlake</a>, <a href="https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ">Timbaland</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6NAbLPUknE9nKxQJeFGFKa"><strong>Nei treni la notte</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN">Frah Quintale</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c58e22815048f8dfb1aa8bd0" href="https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27330f8e0f777376780c4077507" href="https://open.spotify.com/track/4Y2glvLjQGOb4dXnwm1hQf" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"><strong>Miracle (with Ellie Goulding)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY">Calvin Harris</a>, <a href="https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ">Ellie Goulding</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Y2glvLjQGOb4dXnwm1hQf"><strong>Witchcraft</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B">Pendulum</a></p>
     </td>
   </tr>
   
