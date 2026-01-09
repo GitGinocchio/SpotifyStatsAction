@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27352efb1da4d3db7b90557ad5b" href="https://open.spotify.com/track/4gtZjfZN7FBrF562pv0K4f" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736f3451faa271fbe470685f34" href="https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4gtZjfZN7FBrF562pv0K4f"><strong>JETSKI</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0">Internet Money</a>, <a href="https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo">Lil Tecca</a>, <a href="https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk">Lil Mosey</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"><strong>Raise Your Glass</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR">P!nk</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362f323449fcd9d277a542fb5" href="https://open.spotify.com/track/7er2aKrNym1X5mEwfQfASM" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739585ff55fff75c5c07a619cb" href="https://open.spotify.com/track/2iDDJNcHX7ydErDGG93TLg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7er2aKrNym1X5mEwfQfASM"><strong>One More Time / Aerodynamic</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2iDDJNcHX7ydErDGG93TLg"><strong>Get Back In My Life</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27345ac58a98431138df3f0300b" href="https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733a78826c5b2c91d7c64200e8" href="https://open.spotify.com/track/4Bihr8csKb1a97N50n04p1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"><strong>summer depression</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9">girl in red</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Bihr8csKb1a97N50n04p1"><strong>Loop - Radio Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/49WTsslK1g6frRdr895unr">GLWKMOD</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27345ac58a98431138df3f0300b" href="https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"><strong>summer depression</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9">girl in red</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"><strong>All The Small Things</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP">blink-182</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735327653f3d3215a4e3fae684" href="https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c44013257c466d2e6d34b30d" href="https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7"><strong>Alors On Danse - DubDogz Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR">Stromae</a>, <a href="https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1">Dubdogz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"><strong>L'universo tranne noi</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9">Max Pezzali</a></p>
     </td>
   </tr>
   
