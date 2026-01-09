@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732be6414a93a671be9f9db1c1" href="https://open.spotify.com/track/0zJ1XFRhxxIyS6OVmI3r1x" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735327653f3d3215a4e3fae684" href="https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0zJ1XFRhxxIyS6OVmI3r1x"><strong>MEMORIZING - SLOWED</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4DFb3uFxOl0R1mZBmUPGvi">DJ DELACROIX</a>, <a href="https://open.spotify.com/artist/4uuwY98I54DdbA453Lfy98">OXXED</a>, <a href="https://open.spotify.com/artist/0IAcJn2oWYg8TOXzoU3jJU">Wintherduud</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7"><strong>Alors On Danse - DubDogz Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR">Stromae</a>, <a href="https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1">Dubdogz</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737c8358048711825270d2920e" href="https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014" href="https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"><strong>Push Up - Main Edit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5">Creeds</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"><strong>Darling, I (feat. Teezo Touchdown)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF">Tyler, The Creator</a>, <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36">Teezo Touchdown</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b8cf783da28c05184f51f6ea" href="https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37" href="https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"><strong>fall in love with a girl (feat. Beabadoobee)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a>, <a href="https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB">beabadoobee</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"><strong>Jimmy Cooks (feat. 21 Savage)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a>, <a href="https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft">21 Savage</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273351ce9fdd77e6a3c84457a18" href="https://open.spotify.com/track/1wWTkTvMjB3U61RImy3jW7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27388d71aadd009fe1a83df88f2" href="https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1wWTkTvMjB3U61RImy3jW7"><strong>EVERYTIME WE TOUCH - HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"><strong>(It Goes Like) Nanana - Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN">Peggy Gou</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f1f9663ee41739a61d46343a" href="https://open.spotify.com/track/6iSgJHz6m1XOszvVuBVnqs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27398675c261e8d86b5c3b0fcfd" href="https://open.spotify.com/track/74ruhOVvor6O8R91cyrzK0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6iSgJHz6m1XOszvVuBVnqs"><strong>Low Key (Bonus)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/74ruhOVvor6O8R91cyrzK0"><strong>2055 (feat. Coi Leray)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a>, <a href="https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s">Coi Leray</a></p>
     </td>
   </tr>
   
