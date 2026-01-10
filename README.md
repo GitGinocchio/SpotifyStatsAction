@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" href="https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"><strong>BURN IT DOWN</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"><strong>PRIDE.</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg">Kendrick Lamar</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731a9500ec8fa9c17dce006a5f" href="https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27357a7e02ba7fb858516106524" href="https://open.spotify.com/track/3tHUvprpEXpEHWLZJ8ZI80" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"><strong>BABY I'M HOME (w/ Kanii & 9lives)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc">Odetari</a>, <a href="https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW">Kanii</a>, <a href="https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q">9lives</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3tHUvprpEXpEHWLZJ8ZI80"><strong>Quando Sono Con Te</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/237CwiTh0USBnyLOSC3FIW">Ex-Otago</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735ddb04e5544b5bc4ea1b4be6" href="https://open.spotify.com/track/3js3i9hDnqzh2qPJxxQh0b" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738efd0b0127b0f0e917331319" href="https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3js3i9hDnqzh2qPJxxQh0b"><strong>Yankee Candle</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp">Vegas Jones</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR"><strong>Latest Trends</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy">A1 x J1</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737f4a3c39aee79eea1dfb5252" href="https://open.spotify.com/track/4l0CzhzfGxQBPTbknrq427" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735b051a6621e38571b3ab45e1" href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4l0CzhzfGxQBPTbknrq427"><strong>perfume</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S">sombr</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF"><strong>Bottiglie Vuote (feat. Max Pezzali)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a>, <a href="https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9">Max Pezzali</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95" href="https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f27e4bdc58ebe249a6b90da0" href="https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL"><strong>Swang</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D">Rae Sremmurd</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"><strong>THATS WHAT I WANT</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a></p>
     </td>
   </tr>
   
@@ -123,7 +123,7 @@ Show your spotify stats inside your README.md
       <p style="margin: 5px 0 0 0; color: grey;">hardstyle</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>62%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>63%</strong></p>
     </td>
   </tr>
   
