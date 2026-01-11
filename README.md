@@ -13,6 +13,36 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af" href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"><strong>The Days - NOTION Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK">Chrystal</a>, <a href="https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM">NOTION</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305f13846a6404611120be8c8" href="https://open.spotify.com/track/4LpWQ7pNWbIN86JLpQdXFM" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4LpWQ7pNWbIN86JLpQdXFM"><strong>Non dire no</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af" href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"><strong>The Days - NOTION Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK">Chrystal</a>, <a href="https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM">NOTION</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273049f40f8c2c9abd384ce1a8b" href="https://open.spotify.com/track/3WiDsY2lVuIhlUOcOYrgM4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -28,36 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0tbfHEnclBgFV5O5SYgfSK"><strong>Nevada - Sped Up</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT">Vicetone</a>, <a href="https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa">Cozi Zuehlsdorff</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738690763be2640c36b0cfba6d" href="https://open.spotify.com/track/5Jdob8VuV2VzvOx1IUn5jm" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5Jdob8VuV2VzvOx1IUn5jm"><strong>Opps</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d">JayDaYoungan</a>, <a href="https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI">Yungeen Ace</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27331a68f8f83b4ee02a247e76f" href="https://open.spotify.com/track/0a37012AbGWnhl0m3sMe8d" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0a37012AbGWnhl0m3sMe8d"><strong>Classy</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7EUoayuA45Swh5j4TYxrYd">Barlas & Mert</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273efb4357e681842954cb178a4" href="https://open.spotify.com/track/18xb87vqplkgi6jBI4fxuI" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18xb87vqplkgi6jBI4fxuI"><strong>OUTSIDE HARDSTYLE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a>, <a href="https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH">GYM HARDSTYLE</a>, <a href="https://open.spotify.com/artist/1liWeyITxEKtAQkLKzlAVh">HARDSTYLE BRAH</a></p>
     </td>
   </tr>
   
