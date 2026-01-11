@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c4adc981dc6656e52c916088" href="https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735af0305457ff290e06dcc4c2" href="https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"><strong>Lemonade (feat. NAV)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0">Internet Money</a>, <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ">Gunna</a>, <a href="https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs">Don Toliver</a>, <a href="https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC">NAV</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"><strong>Run It Up (feat. Offset & Moneybagg Yo)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR">Lil Tjay</a>, <a href="https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW">Offset</a>, <a href="https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f">Moneybagg Yo</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738c4fcffc07dd98ad89c0f383" href="https://open.spotify.com/track/2K70ZV0Ls65Kkj0WUEfHlz" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273abc5193decc1a2984a93f31e" href="https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2K70ZV0Ls65Kkj0WUEfHlz"><strong>Kerosene</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO">Crystal Castles</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"><strong>Upside Down</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl">Diana Ross</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739c40b3a3043a8f24403048a6" href="https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735757c396a2b4d847e2e95425" href="https://open.spotify.com/track/6aNrWBzYwHJJSKAepvmqXz" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK"><strong>nuts</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3">Lil Peep</a>, <a href="https://open.spotify.com/artist/080kPbQFzomkrfHW8U4XkZ">rainy bear</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6aNrWBzYwHJJSKAepvmqXz"><strong>STACCIN UP</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1oWGd65mQ43qogAn2pFQhM">YSB Eli</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf" href="https://open.spotify.com/track/1P8PfcF26rxKD7PrY1gwj5" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f1f9663ee41739a61d46343a" href="https://open.spotify.com/track/0TYq1cxJXPGGjO0bYHDH2L" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1P8PfcF26rxKD7PrY1gwj5"><strong>Taciturnal</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a>, <a href="https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04">Gemello</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0TYq1cxJXPGGjO0bYHDH2L"><strong>Basketball Dreams (Intro)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730c7c9c4975944c528ba8cbb7" href="https://open.spotify.com/track/6xEmcpIMkX1KMddS3zK7k6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fd88cb3db90401571d4e0bc9" href="https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6xEmcpIMkX1KMddS3zK7k6"><strong>Body On Mine</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w">YSN Fab</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ"><strong>IN THE CLUB</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2kH0ycFAZXMJzpNems0mVK">Mishashi Sensei</a></p>
     </td>
   </tr>
   
