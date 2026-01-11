@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a76616abf60ce17491e95891" href="https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c4adc981dc6656e52c916088" href="https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST"><strong>Hate Bein' Sober</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P">Chief Keef</a>, <a href="https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh">50 Cent</a>, <a href="https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop">Wiz Khalifa</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"><strong>Lemonade (feat. NAV)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0">Internet Money</a>, <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ">Gunna</a>, <a href="https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs">Don Toliver</a>, <a href="https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC">NAV</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" href="https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738c4fcffc07dd98ad89c0f383" href="https://open.spotify.com/track/2K70ZV0Ls65Kkj0WUEfHlz" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"><strong>Flashing Lights</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a>, <a href="https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU">Dwele</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2K70ZV0Ls65Kkj0WUEfHlz"><strong>Kerosene</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO">Crystal Castles</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b" href="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739c40b3a3043a8f24403048a6" href="https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"><strong>Way down We Go</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc">KALEO</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK"><strong>nuts</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3">Lil Peep</a>, <a href="https://open.spotify.com/artist/080kPbQFzomkrfHW8U4XkZ">rainy bear</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f" href="https://open.spotify.com/track/5H4mXWKcicuLKDn4Jy0sK7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf" href="https://open.spotify.com/track/1P8PfcF26rxKD7PrY1gwj5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5H4mXWKcicuLKDn4Jy0sK7"><strong>Time Flies</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1P8PfcF26rxKD7PrY1gwj5"><strong>Taciturnal</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a>, <a href="https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04">Gemello</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27305b473c6da97e374248a1bd5" href="https://open.spotify.com/track/6lruHh1jF7ezgbLv72xYmf" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730c7c9c4975944c528ba8cbb7" href="https://open.spotify.com/track/6xEmcpIMkX1KMddS3zK7k6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6lruHh1jF7ezgbLv72xYmf"><strong>FML</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs">Arizona Zervas</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6xEmcpIMkX1KMddS3zK7k6"><strong>Body On Mine</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w">YSN Fab</a></p>
     </td>
   </tr>
   
