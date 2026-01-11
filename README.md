@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a76616abf60ce17491e95891" href="https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST"><strong>Hate Bein' Sober</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P">Chief Keef</a>, <a href="https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh">50 Cent</a>, <a href="https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop">Wiz Khalifa</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" href="https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"><strong>Flashing Lights</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a>, <a href="https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU">Dwele</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b" href="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -38,26 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6lruHh1jF7ezgbLv72xYmf"><strong>FML</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs">Arizona Zervas</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d" href="https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK"><strong>Fantasy</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl">Bazzi</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c73fbc3c168eeb3b31d3e0bc" href="https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1"><strong>Pieces</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys">AVAION</a></p>
     </td>
   </tr>
   
