@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af" href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b" href="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"><strong>The Days - NOTION Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK">Chrystal</a>, <a href="https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM">NOTION</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"><strong>Way down We Go</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc">KALEO</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27305f13846a6404611120be8c8" href="https://open.spotify.com/track/4LpWQ7pNWbIN86JLpQdXFM" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f" href="https://open.spotify.com/track/5H4mXWKcicuLKDn4Jy0sK7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4LpWQ7pNWbIN86JLpQdXFM"><strong>Non dire no</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5H4mXWKcicuLKDn4Jy0sK7"><strong>Time Flies</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af" href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305b473c6da97e374248a1bd5" href="https://open.spotify.com/track/6lruHh1jF7ezgbLv72xYmf" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"><strong>The Days - NOTION Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK">Chrystal</a>, <a href="https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM">NOTION</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6lruHh1jF7ezgbLv72xYmf"><strong>FML</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs">Arizona Zervas</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273049f40f8c2c9abd384ce1a8b" href="https://open.spotify.com/track/3WiDsY2lVuIhlUOcOYrgM4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d" href="https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3WiDsY2lVuIhlUOcOYrgM4"><strong>Ainsi Bas La Vida Funk</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe">DR MØB</a>, <a href="https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or">ZODIVK</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1i36kkhmhBxf4lYJscg5zK"><strong>Fantasy</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl">Bazzi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c707a158b3edce8076e719be" href="https://open.spotify.com/track/0tbfHEnclBgFV5O5SYgfSK" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c73fbc3c168eeb3b31d3e0bc" href="https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0tbfHEnclBgFV5O5SYgfSK"><strong>Nevada - Sped Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT">Vicetone</a>, <a href="https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa">Cozi Zuehlsdorff</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1"><strong>Pieces</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys">AVAION</a></p>
     </td>
   </tr>
   
