@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739aff38f63984dd93cd1d750b" href="https://open.spotify.com/track/2XENU2ocnZVqpwF7O71fIi" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2XENU2ocnZVqpwF7O71fIi"><strong>I Miss My Mum</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2734c37dfa67d879071132bb447" href="https://open.spotify.com/track/39ZbAxS7XzEuEAdaozcqvj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0c2KqQOu88nYEqfvk3YEQg"><strong>DEIXA ROLAR - SPED UP</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF">Eternxlkz</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273246260bb0377c16e8d7ffde1" href="https://open.spotify.com/track/4zrwPfq5ENLzjq41Txs2HR" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4zrwPfq5ENLzjq41Txs2HR"><strong>Want Her</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k">Mustard</a>, <a href="https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5">Quavo</a>, <a href="https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY">YG</a></p>
     </td>
   </tr>
   
