@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732ed719bad67261c7bf090c70" href="https://open.spotify.com/track/7LL40F6YdZgeiQ6en1c7Lk" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616" href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7LL40F6YdZgeiQ6en1c7Lk"><strong>Robot Rock</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"><strong>Babydoll</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs">Dominic Fike</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273307910d4242c0d6b1fedf955" href="https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bd93287316ca9c26102c41e3" href="https://open.spotify.com/track/13c5BYcCJk6myBN6xQh6Uj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU"><strong>Wolves</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx">Selena Gomez</a>, <a href="https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T">Marshmello</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/13c5BYcCJk6myBN6xQh6Uj"><strong>Baianá - Prince Kaybee Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM">Bakermat</a>, <a href="https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C">Prince Kaybee</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32" href="https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273956af31e7f5c45234b863716" href="https://open.spotify.com/track/561KH32varxPqqwIY4gA7z" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"><strong>SICKO MODE</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/561KH32varxPqqwIY4gA7z"><strong>Balada</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN">Gusttavo Lima</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273970ce512c6e443586d0be229" href="https://open.spotify.com/track/2sp5BRWoPsQsJeDX72M2tu" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730f5bddb58455041268379408" href="https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2sp5BRWoPsQsJeDX72M2tu"><strong>Moonlight</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4">XXXTENTACION</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv"><strong>Too Faded</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2">Rob $tone</a>, <a href="https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A">P-Lo</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02" href="https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273105e6bf6a616b53138d0d094" href="https://open.spotify.com/track/3IgxVvaYzwBYkkGUEjkwrJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C"><strong>Goodbyes (feat. Young Thug)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a>, <a href="https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn">Young Thug</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3IgxVvaYzwBYkkGUEjkwrJ"><strong>Bad Habits (Lo-Fi Remix)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/50M2U36omwOgPWLhFSiYUZ">LoFi Remix Guys</a></p>
     </td>
   </tr>
   
