@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616" href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733a889f1a384b6c54abb527d7" href="https://open.spotify.com/track/1VUGWjzlqudhTqvhc17miB" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"><strong>Babydoll</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs">Dominic Fike</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1VUGWjzlqudhTqvhc17miB"><strong>Live Fast - PUBGM</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN">Alan Walker</a>, <a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a>, <a href="https://open.spotify.com/artist/7Gui07OSDQGktpwL3oH8yt">Kameron</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bd93287316ca9c26102c41e3" href="https://open.spotify.com/track/13c5BYcCJk6myBN6xQh6Uj" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735eb4fdcdce583bf9b92334ce" href="https://open.spotify.com/track/1cmQe4EYZI3J0dygdL701Q" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/13c5BYcCJk6myBN6xQh6Uj"><strong>Baianá - Prince Kaybee Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM">Bakermat</a>, <a href="https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C">Prince Kaybee</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1cmQe4EYZI3J0dygdL701Q"><strong>Rock That Body</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS">Black Eyed Peas</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273956af31e7f5c45234b863716" href="https://open.spotify.com/track/561KH32varxPqqwIY4gA7z" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27354a277d652eba4cd35a2e78a" href="https://open.spotify.com/track/7D4FK4maB3qK0YJexCUJ7Q" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/561KH32varxPqqwIY4gA7z"><strong>Balada</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN">Gusttavo Lima</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7D4FK4maB3qK0YJexCUJ7Q"><strong>Da Funk</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730f5bddb58455041268379408" href="https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738b27d35aa2c6dcf99895d664" href="https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv"><strong>Too Faded</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2">Rob $tone</a>, <a href="https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A">P-Lo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu"><strong>Empty</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273105e6bf6a616b53138d0d094" href="https://open.spotify.com/track/3IgxVvaYzwBYkkGUEjkwrJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e1a0c1c1391f7c70c7dd0ddc" href="https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3IgxVvaYzwBYkkGUEjkwrJ"><strong>Bad Habits (Lo-Fi Remix)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/50M2U36omwOgPWLhFSiYUZ">LoFi Remix Guys</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp"><strong>Pensando a lei</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS">Shiva</a></p>
     </td>
   </tr>
   
