@@ -13,21 +13,21 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b3994c94dfb241923664bb4d" href="https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27339a66c9851771f1770c20313" href="https://open.spotify.com/track/27YP211Rr8RezhiFVDLFI8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"><strong>Sweet Dreams (Are Made of This) - 2005 Remaster</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB">Eurythmics</a>, <a href="https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum">Annie Lennox</a>, <a href="https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg">Dave Stewart</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/27YP211Rr8RezhiFVDLFI8"><strong>Waiting For Tomorrow (feat. Mike Shinoda)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ">Martin Garrix</a>, <a href="https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2">Pierce Fulton</a>, <a href="https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD">Mike Shinoda</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273aa556ac3fabe4cf28f6e622e" href="https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27346557fdc7325844aa2177155" href="https://open.spotify.com/track/5rAUZy2eDdegBxUVYxePK2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"><strong>Night Away (Dance) (feat. Tion Wayne)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy">A1 x J1</a>, <a href="https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt">Tion Wayne</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rAUZy2eDdegBxUVYxePK2"><strong>In The End - Mellen Gi Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU">Tommee Profitt</a>, <a href="https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4">Fleurie</a>, <a href="https://open.spotify.com/artist/6Hpe3EZqFMWYtJ61D0GjSa">Mellen Gi</a></p>
     </td>
   </tr>
   
@@ -43,21 +43,21 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" href="https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cc08fd1c89e82db9cbb105ce" href="https://open.spotify.com/track/6W30ttL2kUQ5jT4CnXPJdG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"><strong>Sweater Weather</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh">The Neighbourhood</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6W30ttL2kUQ5jT4CnXPJdG"><strong>X 1 MEX (feat. Dani Faiv)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU">BLOODY VINYL</a>, <a href="https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w">Slait</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt">MILES</a>, <a href="https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ">Dani Faiv</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" href="https://open.spotify.com/track/7Bxv0WL7UC6WwQpk9TzdMJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b3994c94dfb241923664bb4d" href="https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7Bxv0WL7UC6WwQpk9TzdMJ"><strong>Within</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"><strong>Sweet Dreams (Are Made of This) - 2005 Remaster</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB">Eurythmics</a>, <a href="https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum">Annie Lennox</a>, <a href="https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg">Dave Stewart</a></p>
     </td>
   </tr>
   
