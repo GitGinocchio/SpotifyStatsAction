@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733a889f1a384b6c54abb527d7" href="https://open.spotify.com/track/1VUGWjzlqudhTqvhc17miB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b3994c94dfb241923664bb4d" href="https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1VUGWjzlqudhTqvhc17miB"><strong>Live Fast - PUBGM</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN">Alan Walker</a>, <a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a>, <a href="https://open.spotify.com/artist/7Gui07OSDQGktpwL3oH8yt">Kameron</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"><strong>Sweet Dreams (Are Made of This) - 2005 Remaster</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB">Eurythmics</a>, <a href="https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum">Annie Lennox</a>, <a href="https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg">Dave Stewart</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733a889f1a384b6c54abb527d7" href="https://open.spotify.com/track/1VUGWjzlqudhTqvhc17miB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273aa556ac3fabe4cf28f6e622e" href="https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1VUGWjzlqudhTqvhc17miB"><strong>Live Fast - PUBGM</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN">Alan Walker</a>, <a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a>, <a href="https://open.spotify.com/artist/7Gui07OSDQGktpwL3oH8yt">Kameron</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"><strong>Night Away (Dance) (feat. Tion Wayne)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy">A1 x J1</a>, <a href="https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt">Tion Wayne</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735eb4fdcdce583bf9b92334ce" href="https://open.spotify.com/track/1cmQe4EYZI3J0dygdL701Q" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af" href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1cmQe4EYZI3J0dygdL701Q"><strong>Rock That Body</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS">Black Eyed Peas</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"><strong>The Days - NOTION Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK">Chrystal</a>, <a href="https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM">NOTION</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27354a277d652eba4cd35a2e78a" href="https://open.spotify.com/track/7D4FK4maB3qK0YJexCUJ7Q" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" href="https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7D4FK4maB3qK0YJexCUJ7Q"><strong>Da Funk</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"><strong>Sweater Weather</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh">The Neighbourhood</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" href="https://open.spotify.com/track/7Bxv0WL7UC6WwQpk9TzdMJ" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7Bxv0WL7UC6WwQpk9TzdMJ"><strong>Within</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738b27d35aa2c6dcf99895d664" href="https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu"><strong>Empty</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a></p>
     </td>
   </tr>
   
@@ -116,6 +116,19 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb84f1202871531a5afcd31cdc" href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4" alt="Artist image" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"><strong>Coez</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;">concerto, indie</p>
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;">Popularity: <strong>69%</strong></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab6761610000e5eb2f753acc479ee3f7fef8ec9f" href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -124,19 +137,6 @@ Show your spotify stats inside your README.md
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;">Popularity: <strong>70%</strong></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb465195e7c93a95c530acdfe4" href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi" alt="Artist image" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi"><strong>POSEIDON</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">hardstyle</p>
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>53%</strong></p>
     </td>
   </tr>
   
