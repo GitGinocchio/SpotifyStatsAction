@@ -23,6 +23,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733a889f1a384b6c54abb527d7" href="https://open.spotify.com/track/1VUGWjzlqudhTqvhc17miB" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1VUGWjzlqudhTqvhc17miB"><strong>Live Fast - PUBGM</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN">Alan Walker</a>, <a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a>, <a href="https://open.spotify.com/artist/7Gui07OSDQGktpwL3oH8yt">Kameron</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2735eb4fdcdce583bf9b92334ce" href="https://open.spotify.com/track/1cmQe4EYZI3J0dygdL701Q" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu"><strong>Empty</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e1a0c1c1391f7c70c7dd0ddc" href="https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp"><strong>Pensando a lei</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS">Shiva</a></p>
     </td>
   </tr>
   
