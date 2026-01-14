@@ -13,31 +13,21 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739aff38f63984dd93cd1d750b" href="https://open.spotify.com/track/6TCmU4U7Ooqep96bnYx5lH" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f" href="https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6TCmU4U7Ooqep96bnYx5lH"><strong>Sweet Tooth</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"><strong>Another Love</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX">Tom Odell</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27339a66c9851771f1770c20313" href="https://open.spotify.com/track/27YP211Rr8RezhiFVDLFI8" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f2a39a7b2f9b4eb6256d3787" href="https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/27YP211Rr8RezhiFVDLFI8"><strong>Waiting For Tomorrow (feat. Mike Shinoda)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ">Martin Garrix</a>, <a href="https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2">Pierce Fulton</a>, <a href="https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD">Mike Shinoda</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27346557fdc7325844aa2177155" href="https://open.spotify.com/track/5rAUZy2eDdegBxUVYxePK2" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rAUZy2eDdegBxUVYxePK2"><strong>In The End - Mellen Gi Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU">Tommee Profitt</a>, <a href="https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4">Fleurie</a>, <a href="https://open.spotify.com/artist/6Hpe3EZqFMWYtJ61D0GjSa">Mellen Gi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"><strong>Sure Thing - Sped Up</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK">Miguel</a></p>
     </td>
   </tr>
   
@@ -53,11 +43,21 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cc08fd1c89e82db9cbb105ce" href="https://open.spotify.com/track/6W30ttL2kUQ5jT4CnXPJdG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738a01c7b77a34378a62f46402" href="https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6W30ttL2kUQ5jT4CnXPJdG"><strong>X 1 MEX (feat. Dani Faiv)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU">BLOODY VINYL</a>, <a href="https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w">Slait</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt">MILES</a>, <a href="https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ">Dani Faiv</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"><strong>Life Is Good (feat. Drake)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i">Future</a>, <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739aff38f63984dd93cd1d750b" href="https://open.spotify.com/track/6TCmU4U7Ooqep96bnYx5lH" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6TCmU4U7Ooqep96bnYx5lH"><strong>Sweet Tooth</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
     </td>
   </tr>
   
