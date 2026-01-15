@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bf3e522cd3fed64ae064095f" href="https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273384e92e692a9166c4613a15c" href="https://open.spotify.com/track/18Kku2sNYVn52MnyTohexT" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"><strong>Trust</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG">Brent Faiyaz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18Kku2sNYVn52MnyTohexT"><strong>audio 2</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn">Birthh</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27319fc40e920401ce322487abf" href="https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e3b2cb06d40da6c4d2ec4a55" href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy"><strong>Red Light Green Light</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk">DaBaby</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr"><strong>Truman</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn">Birthh</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735b051a6621e38571b3ab45e1" href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733cb05b32e3873d2ebc700d2f" href="https://open.spotify.com/track/4pgY0lwBqOVvnoy4SbMYqk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF"><strong>Bottiglie Vuote (feat. Max Pezzali)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a>, <a href="https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9">Max Pezzali</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4pgY0lwBqOVvnoy4SbMYqk"><strong>Chlorine</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn">Birthh</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739d4cb13f84ae3a5fd0a93890" href="https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e3b2cb06d40da6c4d2ec4a55" href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"><strong>Ridere</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr"><strong>Truman</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn">Birthh</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736aafb01504b69173c877bdca" href="https://open.spotify.com/track/3lz2JgAt4cyr04qDlBgTOv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27387d3146807ad53b05a7daaac" href="https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3lz2JgAt4cyr04qDlBgTOv"><strong>Watch Me</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT">Jaden</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"><strong>Yo Voy (feat. Daddy Yankee)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1">Zion & Lennox</a></p>
     </td>
   </tr>
   
