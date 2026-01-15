@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27381376e47003d45f6513b5657" href="https://open.spotify.com/track/1u73tmG4xQschbK8cXxSD9" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273eee9b3a97adcf463b383b95d" href="https://open.spotify.com/track/5m2z3gWspjmiOkKZ5QCyxp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1u73tmG4xQschbK8cXxSD9"><strong>Love Tonight</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB">Shouse</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5m2z3gWspjmiOkKZ5QCyxp"><strong>Ascend (My Mind Edit)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD">Dezko</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273227edcd51b6622cdcbe9f43c" href="https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27391f7222996c531b981e7bb3d" href="https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"><strong>My Ordinary Life</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF">The Living Tombstone</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"><strong>Candy Shop</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh">50 Cent</a>, <a href="https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf">Olivia</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731f74480c2297fe08d015a3a6" href="https://open.spotify.com/track/2TnfUjv4rwqskSHCj4NY7b" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7" href="https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2TnfUjv4rwqskSHCj4NY7b"><strong>En nuit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1">Videoclub</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"><strong>Sweet but Psycho</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F">Ava Max</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cfdf40cf325b609a52457805" href="https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5" href="https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV"><strong>1-800-273-8255</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L">Logic</a>, <a href="https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR">Alessia Cara</a>, <a href="https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny">Khalid</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"><strong>Still D.R.E.</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7">Dr. Dre</a>, <a href="https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG">Snoop Dogg</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb" href="https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273388fa0d99169587dc09aac28" href="https://open.spotify.com/track/3cwfw0MdUYnhz9sxpDA0UY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"><strong>Come & Go (with Marshmello)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a>, <a href="https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T">Marshmello</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3cwfw0MdUYnhz9sxpDA0UY"><strong>Show the World</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/508InMEbY1sCuMpYnnFUeL">Mads</a></p>
     </td>
   </tr>
   
