@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fe3cf32b1320e8ded39d8c74" href="https://open.spotify.com/track/53DB6LJV9B8sz0p1s6tlGS" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bf3e522cd3fed64ae064095f" href="https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/53DB6LJV9B8sz0p1s6tlGS"><strong>Roll Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop">Wiz Khalifa</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"><strong>Trust</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG">Brent Faiyaz</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95" href="https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27319fc40e920401ce322487abf" href="https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL"><strong>Swang</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D">Rae Sremmurd</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy"><strong>Red Light Green Light</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk">DaBaby</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731c940b02360a12cd8f588916" href="https://open.spotify.com/track/1EPi3TSB6vGbGQ4IHVpxco" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735b051a6621e38571b3ab45e1" href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1EPi3TSB6vGbGQ4IHVpxco"><strong>AVANGARD - Slowed</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw">LONOWN</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF"><strong>Bottiglie Vuote (feat. Max Pezzali)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a>, <a href="https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9">Max Pezzali</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738cdada7a23c8fc1ad9975fc3" href="https://open.spotify.com/track/2OIXm3ZM0pbSXQYrq9C5RN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739d4cb13f84ae3a5fd0a93890" href="https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2OIXm3ZM0pbSXQYrq9C5RN"><strong>Acqua Calda E Limone (feat. Ernia)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3">Rkomi</a>, <a href="https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm">Ernia</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"><strong>Ridere</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273eee9b3a97adcf463b383b95d" href="https://open.spotify.com/track/5m2z3gWspjmiOkKZ5QCyxp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736aafb01504b69173c877bdca" href="https://open.spotify.com/track/3lz2JgAt4cyr04qDlBgTOv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5m2z3gWspjmiOkKZ5QCyxp"><strong>Ascend (My Mind Edit)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD">Dezko</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3lz2JgAt4cyr04qDlBgTOv"><strong>Watch Me</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT">Jaden</a></p>
     </td>
   </tr>
   
