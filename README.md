@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733c182241fcd86aeca2c68a63" href="https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735eb4fdcdce583bf9b92334ce" href="https://open.spotify.com/track/22538YKRjtLLuosd61VUOn" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"><strong>Blue Monday</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3">New Order</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/22538YKRjtLLuosd61VUOn"><strong>Imma Be</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS">Black Eyed Peas</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732d94d0f04e9a58d1654b760b" href="https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" href="https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"><strong>7 Years</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7">Lukas Graham</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"><strong>Numb / Encore</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB">JAY-Z</a>, <a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c56dcd1015c1ffb8c56d2988" href="https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e73e3beee7c0261509fcc4f5" href="https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S"><strong>Lust</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo">Lil Skies</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"><strong>Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC">Durdenhauer</a>, <a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a>, <a href="https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN">Skepta</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b9d9cb2c469fee6ed2586523" href="https://open.spotify.com/track/2RI69fPdOCYqfUm4K3i9DC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731c08bca073e89ae32c68ffaa" href="https://open.spotify.com/track/3Y2zex8JatFQaHwVFBvKxH" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2RI69fPdOCYqfUm4K3i9DC"><strong>Be Alone</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF">The Living Tombstone</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Y2zex8JatFQaHwVFBvKxH"><strong>Blizzard</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV">Kavinsky</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27393b1e96fad758869d0974162" href="https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732ffc2c580b6595a3e675a730" href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"><strong>Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k">Mustard</a>, <a href="https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC">NAV</a>, <a href="https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD">Playboi Carti</a>, <a href="https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I">A Boogie Wit da Hoodie</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"><strong>Timber</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg">Pitbull</a>, <a href="https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX">Kesha</a></p>
     </td>
   </tr>
   
