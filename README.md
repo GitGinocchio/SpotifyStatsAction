@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e540272ec3db0c1cdf517f5b" href="https://open.spotify.com/track/0kN8aoF74sj0UCFwMQoIBK" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733c182241fcd86aeca2c68a63" href="https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0kN8aoF74sj0UCFwMQoIBK"><strong>Mediterranean</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S">Quality Control</a>, <a href="https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW">Offset</a>, <a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"><strong>Blue Monday</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3">New Order</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" href="https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732d94d0f04e9a58d1654b760b" href="https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"><strong>Heather</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea">Conan Gray</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"><strong>7 Years</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7">Lukas Graham</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273df8ddb3c7ae8ddbe42353d70" href="https://open.spotify.com/track/4q3ZKc4CcEwhzuusvsr4Dg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c56dcd1015c1ffb8c56d2988" href="https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4q3ZKc4CcEwhzuusvsr4Dg"><strong>Little Rat</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn">Birthh</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S"><strong>Lust</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo">Lil Skies</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e3b2cb06d40da6c4d2ec4a55" href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b9d9cb2c469fee6ed2586523" href="https://open.spotify.com/track/2RI69fPdOCYqfUm4K3i9DC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr"><strong>Truman</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn">Birthh</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2RI69fPdOCYqfUm4K3i9DC"><strong>Be Alone</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF">The Living Tombstone</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e3b2cb06d40da6c4d2ec4a55" href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27393b1e96fad758869d0974162" href="https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr"><strong>Truman</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn">Birthh</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"><strong>Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k">Mustard</a>, <a href="https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC">NAV</a>, <a href="https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD">Playboi Carti</a>, <a href="https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I">A Boogie Wit da Hoodie</a></p>
     </td>
   </tr>
   
