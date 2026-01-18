@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213" href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"><strong>What I've Done</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27311447aead485afd7c57aa042" href="https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/37dBIimJUarbZWM5v8YY6u"><strong>Vossi Bop</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd">Stormzy</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268" href="https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa"><strong>Ball For Me (feat. Nicki Minaj)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a>, <a href="https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh">Nicki Minaj</a></p>
     </td>
   </tr>
   
