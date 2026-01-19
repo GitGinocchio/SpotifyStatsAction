@@ -186,21 +186,21 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731164d485c1327d039b38ff9f" href="https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e3b2cb06d40da6c4d2ec4a55" href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"><strong>MONTAGEM COMA</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS">ANDROMEDA</a>, <a href="https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we">elysian.</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr"><strong>Truman</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn">Birthh</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d373870c9704e1c7f4444eb3" href="https://open.spotify.com/track/32BYnwOGutLN0QZTtqP562" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731164d485c1327d039b38ff9f" href="https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/32BYnwOGutLN0QZTtqP562"><strong>PELIGROSA - Slowed + Reverb</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0B93TRuu9Ew2TJHsYH23C9">kathyxoxo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"><strong>MONTAGEM COMA</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS">ANDROMEDA</a>, <a href="https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we">elysian.</a></p>
     </td>
   </tr>
   
