@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f7410ab075ebae4cc4fcfdd4" href="https://open.spotify.com/track/3Rak9PxrkDU2IGv4XThNQT" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737b166d09fb2617867e8174f8" href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Rak9PxrkDU2IGv4XThNQT"><strong>con me (feat. thasup)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt">MILES</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp"><strong>Soltero</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MwtG2G8H4bgSlsS86ToJS">Leonardo De Andreis</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273849abffac09d39a26488d850" href="https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f8df6578b620736a10703029" href="https://open.spotify.com/track/0ZNJpxHTflC7s4A6uJrpDz" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc"><strong>Preda</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW">43.Nove</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0ZNJpxHTflC7s4A6uJrpDz"><strong>The Grand Duchess (Remix)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gpOQ6zpHZobl99wEQQRwj">Laurent Dury</a>, <a href="https://open.spotify.com/artist/1OL8ZT0qHoKYWOSrRUHOpv">Eddy Pradelles</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f5a70642adc9263568c569f7" href="https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737b166d09fb2617867e8174f8" href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ"><strong>L.O.V.E.U (feat. hannah bahng)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32">d4vd</a>, <a href="https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9">hannah bahng</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp"><strong>Soltero</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MwtG2G8H4bgSlsS86ToJS">Leonardo De Andreis</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730cb0b554ab60bdae9819e50e" href="https://open.spotify.com/track/1vy5rv1YEyaNolsRzVh6xz" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e3b2cb06d40da6c4d2ec4a55" href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1vy5rv1YEyaNolsRzVh6xz"><strong>vabbè ciao</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7">Alfa</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273df8ddb3c7ae8ddbe42353d70" href="https://open.spotify.com/track/4q3ZKc4CcEwhzuusvsr4Dg" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4q3ZKc4CcEwhzuusvsr4Dg"><strong>Little Rat</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr"><strong>Truman</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn">Birthh</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305f5045b4ff6cb74fa963f96" href="https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2L5ZLwbqYIBKq5ZdqUxgZg"><strong>Roi - Instrumental</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug">Mckyyy</a></p>
     </td>
   </tr>
   
