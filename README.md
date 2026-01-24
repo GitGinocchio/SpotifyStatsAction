@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737b166d09fb2617867e8174f8" href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273da9e59639a9759d8952890c6" href="https://open.spotify.com/track/4axYWgXASdsCBHuwInAubT" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp"><strong>Soltero</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MwtG2G8H4bgSlsS86ToJS">Leonardo De Andreis</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4axYWgXASdsCBHuwInAubT"><strong>I don't let go</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4">XXXTENTACION</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737b166d09fb2617867e8174f8" href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739409a944b39e3ff4454b31bc" href="https://open.spotify.com/track/4Uw4g8YcKtAnoyWKWFNSF2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp"><strong>Soltero</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MwtG2G8H4bgSlsS86ToJS">Leonardo De Andreis</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Uw4g8YcKtAnoyWKWFNSF2"><strong>Step On Up</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF">The Living Tombstone</a>, <a href="https://open.spotify.com/artist/411VUMJLq5DVLoU7OaBwk7">McGwire</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737b166d09fb2617867e8174f8" href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273df8ddb3c7ae8ddbe42353d70" href="https://open.spotify.com/track/4q3ZKc4CcEwhzuusvsr4Dg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp"><strong>Soltero</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MwtG2G8H4bgSlsS86ToJS">Leonardo De Andreis</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4q3ZKc4CcEwhzuusvsr4Dg"><strong>Little Rat</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn">Birthh</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f8df6578b620736a10703029" href="https://open.spotify.com/track/0ZNJpxHTflC7s4A6uJrpDz" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890" href="https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0ZNJpxHTflC7s4A6uJrpDz"><strong>The Grand Duchess (Remix)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7gpOQ6zpHZobl99wEQQRwj">Laurent Dury</a>, <a href="https://open.spotify.com/artist/1OL8ZT0qHoKYWOSrRUHOpv">Eddy Pradelles</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"><strong>Walk It Talk It</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG">Migos</a>, <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737b166d09fb2617867e8174f8" href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27389070654f69ee060803403f3" href="https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp"><strong>Soltero</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MwtG2G8H4bgSlsS86ToJS">Leonardo De Andreis</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg"><strong>CRUDELIA - I nervi</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
