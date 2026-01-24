@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27322ff72d81de2ce4398322255" href="https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dfabdcea41553b2671927fc5" href="https://open.spotify.com/track/5xjyCc4doomao4SkrAK29U" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR"><strong>Lonely (with Lil Wayne)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk">DaBaby</a>, <a href="https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865">Lil Wayne</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5xjyCc4doomao4SkrAK29U"><strong>EEYUH! x Fluxxwave - Slowed + Reverb</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6">Clovis Reyes</a>, <a href="https://open.spotify.com/artist/3UrGictkKDBfGKpK2ZiWGX">HR</a>, <a href="https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY">Irokz</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a84dcfaf785b6cbc2ce257f6" href="https://open.spotify.com/track/0OrmUDKqcDcTIlPpS5Dt1B" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732b636541b78ac5ac237326ed" href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0OrmUDKqcDcTIlPpS5Dt1B"><strong>R-101</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/36LAa1XMfd4yEJh3Xpr2XZ">Max Duff</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/656rIdAunRvlwjTA1ZQftg"><strong>FEAR!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a>, <a href="https://open.spotify.com/artist/1PRbFVisaZiK7iQDHFbARw">MultiPlabell</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273399b1dc0d027f8e4c36648cb" href="https://open.spotify.com/track/23vZqJEwX9lKdWxGDpBF7G" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f8c9987765cd590630b7f760" href="https://open.spotify.com/track/33v2IZOj9mFdeKkNKUNsZg" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/23vZqJEwX9lKdWxGDpBF7G"><strong>Roi - Sped Up</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ">skyemane</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/33v2IZOj9mFdeKkNKUNsZg"><strong>DEIXA ROLAR</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF">Eternxlkz</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27318fe5f786c4a429f47b1b253" href="https://open.spotify.com/track/6vWEAOUSxohKxhp0K1BsxL" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27375a7d2c3da232adfd6a7ff72" href="https://open.spotify.com/track/5BTZSG989vO5PR8El2kMqW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6vWEAOUSxohKxhp0K1BsxL"><strong>Mixed Personalities (feat. Kanye West)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg">YNW Melly</a>, <a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5BTZSG989vO5PR8El2kMqW"><strong>take it from the starz - Slowed & reverb</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6Bx9gM8VBh0Jw8GVCWZ6gY">Roman Nasenmensch</a>, <a href="https://open.spotify.com/artist/3jhFLnyMdTENttqTTe7jHX">domi4wave</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b016a92bc9aa41ef87655abc" href="https://open.spotify.com/track/0vYdtKJFWHGmyTtai6JDDn" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273eaa3b1520d16b0b5ddaf81c5" href="https://open.spotify.com/track/5F7Tywb6G47ooULUmLv9au" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0vYdtKJFWHGmyTtai6JDDn"><strong>The Crystal Ship</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj">Cigarettes After Sex</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5F7Tywb6G47ooULUmLv9au"><strong>take it from the starz</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6Bx9gM8VBh0Jw8GVCWZ6gY">Roman Nasenmensch</a>, <a href="https://open.spotify.com/artist/3jhFLnyMdTENttqTTe7jHX">domi4wave</a></p>
     </td>
   </tr>
   
