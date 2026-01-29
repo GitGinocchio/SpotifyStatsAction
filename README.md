@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc" href="https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736f3e9696889a2425338e0836" href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"><strong>Apocalypse</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj">Cigarettes After Sex</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp"><strong>Chill Bill (feat. J. Davi$ & Spooks)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2">Rob $tone</a>, <a href="https://open.spotify.com/artist/1rs3y69kDwkIdGJcOYngQt">J. Davi$</a>, <a href="https://open.spotify.com/artist/36Tn5h23ysORlLKc42UXfe">J Spooks</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bb4cc06a0334303c3684b776" href="https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734bb26d8bdb8c2458d5f9b63e" href="https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa"><strong>Lights - Sped Up Version</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ">Ellie Goulding</a>, <a href="https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER">Speed Radio</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"><strong>Vamos a la Playa</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI">Righeira</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737b166d09fb2617867e8174f8" href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f1a7e98c66e32bf63d0ac2dc" href="https://open.spotify.com/track/7sziTn5nHwrWf4K7gISaaU" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/17UCc0DqbBZqPds7ZypsNp"><strong>Soltero</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3MwtG2G8H4bgSlsS86ToJS">Leonardo De Andreis</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7sziTn5nHwrWf4K7gISaaU"><strong>Summer Paradise (feat. Sean Paul) - Single Version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ">Simple Plan</a>, <a href="https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9">Sean Paul</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d" href="https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273301e4d515e8c817774243471" href="https://open.spotify.com/track/2jB8uFaRxpf5H6N8yJY4CT" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"><strong>Walking On A Dream</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c">Empire Of The Sun</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2jB8uFaRxpf5H6N8yJY4CT"><strong>On the Road - From Road 96</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD">Robert Parker</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27317add53ee7ef16ac10e6f8a9" href="https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27389283baf10a269d44bf8cf9d" href="https://open.spotify.com/track/5tpHqAvqZ8vbrY6Yatd8xB" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"><strong>Juliet</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8">Cavetown</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5tpHqAvqZ8vbrY6Yatd8xB"><strong>Zen</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS">Pinguini Tattici Nucleari</a></p>
     </td>
   </tr>
   
