@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d" href="https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"><strong>Walking On A Dream</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c">Empire Of The Sun</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27317add53ee7ef16ac10e6f8a9" href="https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2TnfUjv4rwqskSHCj4NY7b"><strong>En nuit</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1">Videoclub</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c6d348e2dec6b0b302e9e101" href="https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a"><strong>2minuti</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r">Calcutta </a></p>
     </td>
   </tr>
   
