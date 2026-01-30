@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cb0697945af18f523fa11217" href="https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5" href="https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6"><strong>Overnight</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA">Parcels</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"><strong>Nonstop</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736f3e9696889a2425338e0836" href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163" href="https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp"><strong>Chill Bill (feat. J. Davi$ & Spooks)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2">Rob $tone</a>, <a href="https://open.spotify.com/artist/1rs3y69kDwkIdGJcOYngQt">J. Davi$</a>, <a href="https://open.spotify.com/artist/36Tn5h23ysORlLKc42UXfe">J Spooks</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"><strong>Do I Wanna Know?</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH">Arctic Monkeys</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734bb26d8bdb8c2458d5f9b63e" href="https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fa225aa8e8f65e2aebe340eb" href="https://open.spotify.com/track/0oR0Wr9N52K1vbAOuGvMJz" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"><strong>Vamos a la Playa</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI">Righeira</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0oR0Wr9N52K1vbAOuGvMJz"><strong>blun7 a swishland</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f1a7e98c66e32bf63d0ac2dc" href="https://open.spotify.com/track/7sziTn5nHwrWf4K7gISaaU" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732c25dad9f8fd54652f7ba5df" href="https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7sziTn5nHwrWf4K7gISaaU"><strong>Summer Paradise (feat. Sean Paul) - Single Version</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ">Simple Plan</a>, <a href="https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9">Sean Paul</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn"><strong>High Life</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi">Daft Punk</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273301e4d515e8c817774243471" href="https://open.spotify.com/track/2jB8uFaRxpf5H6N8yJY4CT" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273562ebcdaf05bbf3b128c76a1" href="https://open.spotify.com/track/3QQjwMmvdWOzRpdvaQ0EkL" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2jB8uFaRxpf5H6N8yJY4CT"><strong>On the Road - From Road 96</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD">Robert Parker</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3QQjwMmvdWOzRpdvaQ0EkL"><strong>Vai Me Bota</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq">KREZUS</a>, <a href="https://open.spotify.com/artist/6xnXWvVPKAOt7SY2bg38r7">Mc Lysa</a></p>
     </td>
   </tr>
   
