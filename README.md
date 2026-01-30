@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cb045e684adce8d49ada4045" href="https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27305b473c6da97e374248a1bd5" href="https://open.spotify.com/track/6lruHh1jF7ezgbLv72xYmf" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv"><strong>What They Want</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS">Russ</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6lruHh1jF7ezgbLv72xYmf"><strong>FML</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs">Arizona Zervas</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bd261ea19dea90f0b7c6e44a" href="https://open.spotify.com/track/7bK8TcIG9bYEcMG3DGWX49" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ecb8455c697c79e12445b4a0" href="https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7bK8TcIG9bYEcMG3DGWX49"><strong>Caos Dolce Caos</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr">Sinomine</a>, <a href="https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b">Pi Greco</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"><strong>NEXT!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG">NCTS</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273119cb56f073efd326643dcfe" href="https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739f1b21f21b13ff2d3e891f6b" href="https://open.spotify.com/track/2fhOljbX79loRcdl47SFye" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"><strong>No Money</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu">Galantis</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2fhOljbX79loRcdl47SFye"><strong>Moonlight on the River</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM">Mac DeMarco</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369" href="https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735ee839f6415e0d02fc4f2b49" href="https://open.spotify.com/track/0LEFmgIj8ABU7CelzGh5Bs" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"><strong>For The Night (feat. Lil Baby & DaBaby)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj">Pop Smoke</a>, <a href="https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK">Lil Baby</a>, <a href="https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk">DaBaby</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0LEFmgIj8ABU7CelzGh5Bs"><strong>Oprah's Bank Account (Lil Yachty & DaBaby feat. Drake)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw">Lil Yachty</a>, <a href="https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk">DaBaby</a>, <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737a3ac958bb7d53520cd8d798" href="https://open.spotify.com/track/4Og6B1JiYjCp2Fh7IU8OUF" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27347f930accd8ac01686401fa2" href="https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4Og6B1JiYjCp2Fh7IU8OUF"><strong>Costole rotte</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy"><strong>Dark Horse</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X">Katy Perry</a>, <a href="https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi">Juicy J</a></p>
     </td>
   </tr>
   
