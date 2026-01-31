@@ -13,6 +13,26 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" href="https://open.spotify.com/track/2lDgdWIGLYuk74pDeRPgPF" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2lDgdWIGLYuk74pDeRPgPF"><strong>Chosen</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr">Måneskin</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737db0d21fc5696a3fcedfb933" href="https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad"><strong>GREECE (feat. Drake)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP">DJ Khaled</a>, <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4">Drake</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2738e55edb69ca44a25b52b17bb" href="https://open.spotify.com/track/22xea6Z2a8BbyVeCksSBX9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -38,26 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv"><strong>Soldier</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR">Eminem</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f27e4bdc58ebe249a6b90da0" href="https://open.spotify.com/track/3JR2RztQcOjUQGQSybxDIO" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3JR2RztQcOjUQGQSybxDIO"><strong>ONE OF ME (feat. Elton John)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq">Lil Nas X</a>, <a href="https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b">Elton John</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27305b473c6da97e374248a1bd5" href="https://open.spotify.com/track/6lruHh1jF7ezgbLv72xYmf" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6lruHh1jF7ezgbLv72xYmf"><strong>FML</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs">Arizona Zervas</a></p>
     </td>
   </tr>
   
