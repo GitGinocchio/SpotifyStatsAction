@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739dc572babb6e4f8d58d8e79e" href="https://open.spotify.com/track/4irGBwTW4EfsdiK05Vjm2N" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b4141fad9af613c35f55d589" href="https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4irGBwTW4EfsdiK05Vjm2N"><strong>G come giungla</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz">Ligabue</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"><strong>Mood (feat. iann dior)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z">24kGoldn</a>, <a href="https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS">iann dior</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273cc9401f48dacaeaf5b426396" href="https://open.spotify.com/track/7tCGLc0sYfEh9zY6g4RR9H" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f23aee9d3be9fcbca1bc6352" href="https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7tCGLc0sYfEh9zY6g4RR9H"><strong>Fly in Hell</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI">VØJ</a>, <a href="https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or">ZODIVK</a>, <a href="https://open.spotify.com/artist/0prNIqZMr1aog4xj7qQo1A">Lastfragment</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"><strong>XO Tour Llif3</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz">Lil Uzi Vert</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27349efdc44d0733042f8b99d57" href="https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738a6ccb507dd6a66f7f6e2440" href="https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud"><strong>L$D</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"><strong>Lalala</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx">Y2K</a>, <a href="https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz">bbno$</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738b13da17b2d5f5d85f8bd05f" href="https://open.spotify.com/track/2ouC5Zp9p98n6kAsXarudl" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27378f4c813ac4ce639cc1dc06d" href="https://open.spotify.com/track/7stjNSqm4nBsqWBjmH2JCU" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ouC5Zp9p98n6kAsXarudl"><strong>Da Grind (Featuring Apocalypse)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv">Masta Ace</a>, <a href="https://open.spotify.com/artist/0vXwNOvcQeF60KiLkzyRmt">Apocalyspe</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7stjNSqm4nBsqWBjmH2JCU"><strong>Happy Hour (feat. Jack Mazzoni & Miani)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A">DJ Matrix</a>, <a href="https://open.spotify.com/artist/2ZhNwwAIjVKhN9iy4br78h">Jack Mazzoni</a>, <a href="https://open.spotify.com/artist/0iKMsh8JKwQqqD8Lx9LaR2">Miani</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273588c08dcded5bc5a1c99aa71" href="https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737367bda909b94e90f06d9f11" href="https://open.spotify.com/track/5sY2JkXHvXEuxtL07kLEDP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"><strong>Morenita</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By">HUGEL</a>, <a href="https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs">Cumbiafrica</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5sY2JkXHvXEuxtL07kLEDP"><strong>ザ・ワードII - Remixed by 鳥居真道 (トリプルファイヤー)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m">SHIGEO SEKITO</a>, <a href="https://open.spotify.com/artist/6HMz4nku6buTKjLiHTmRxU">鳥居真道</a></p>
     </td>
   </tr>
   
