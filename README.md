@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b4141fad9af613c35f55d589" href="https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27385502324cc500e621e165d78" href="https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"><strong>Mood (feat. iann dior)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z">24kGoldn</a>, <a href="https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS">iann dior</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2FKnNu9PmgcUSXXBgR2phR"><strong>When The Devil Speaks…</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF">ThxSoMch</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f23aee9d3be9fcbca1bc6352" href="https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cca8e4f480faca1e75815237" href="https://open.spotify.com/track/7HfAmljHy9CCEzkN85tKcY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"><strong>XO Tour Llif3</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz">Lil Uzi Vert</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7HfAmljHy9CCEzkN85tKcY"><strong>L'Emozione Non Ha voce (Io Non So Parlar D'Amore)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV">Adriano Celentano</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738a6ccb507dd6a66f7f6e2440" href="https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf" href="https://open.spotify.com/track/2ki3wfhypRITdKm6VEv0A0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"><strong>Lalala</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx">Y2K</a>, <a href="https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz">bbno$</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ki3wfhypRITdKm6VEv0A0"><strong>E yo mamma</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27378f4c813ac4ce639cc1dc06d" href="https://open.spotify.com/track/7stjNSqm4nBsqWBjmH2JCU" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733c29e91ff6eaef48d451b43f" href="https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7stjNSqm4nBsqWBjmH2JCU"><strong>Happy Hour (feat. Jack Mazzoni & Miani)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A">DJ Matrix</a>, <a href="https://open.spotify.com/artist/2ZhNwwAIjVKhN9iy4br78h">Jack Mazzoni</a>, <a href="https://open.spotify.com/artist/0iKMsh8JKwQqqD8Lx9LaR2">Miani</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"><strong>CRAZY LOVE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737367bda909b94e90f06d9f11" href="https://open.spotify.com/track/5sY2JkXHvXEuxtL07kLEDP" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739efc623f9c64c8efb583b186" href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5sY2JkXHvXEuxtL07kLEDP"><strong>ザ・ワードII - Remixed by 鳥居真道 (トリプルファイヤー)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m">SHIGEO SEKITO</a>, <a href="https://open.spotify.com/artist/6HMz4nku6buTKjLiHTmRxU">鳥居真道</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"><strong>Just Can’t Get Enough</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS">Black Eyed Peas</a></p>
     </td>
   </tr>
   
