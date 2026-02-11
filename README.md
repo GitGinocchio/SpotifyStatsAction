@@ -84,7 +84,7 @@ Show your spotify stats inside your README.md
       <p style="margin: 5px 0 0 0; color: grey;"></p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>74%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>73%</strong></p>
     </td>
   </tr>
   
@@ -97,7 +97,7 @@ Show your spotify stats inside your README.md
       <p style="margin: 5px 0 0 0; color: grey;">concerto</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>68%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>67%</strong></p>
     </td>
   </tr>
   
