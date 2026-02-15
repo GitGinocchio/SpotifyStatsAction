@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735880f9b11a2e6289f9db78d5" href="https://open.spotify.com/track/18E4wq8is4m6wL8HxrEaQ9" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732bb3ac98fb41c25995ea206a" href="https://open.spotify.com/track/2cMiDQKmcpafCRLAkUWYJk" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18E4wq8is4m6wL8HxrEaQ9"><strong>Ladro Di Fiori</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH">BLANCO</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2cMiDQKmcpafCRLAkUWYJk"><strong>Bette Davis Eyes</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6D5GQzBNf2sGaCAJF4IaAp">Disco Fever</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" href="https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733f97d4244eff5852477d9ee0" href="https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"><strong>Sweater Weather</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh">The Neighbourhood</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"><strong>Hot N Cold</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X">Katy Perry</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734dbdd4d3c69bec0d471fc479" href="https://open.spotify.com/track/63SevszngYpZOwf63o61K4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ef2e4d695cb2d76681855b8f" href="https://open.spotify.com/track/3BvheqhKGQgFMSiiJh6ayj" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/63SevszngYpZOwf63o61K4"><strong>Nevermind</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt">Dennis Lloyd</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3BvheqhKGQgFMSiiJh6ayj"><strong>Bleeding Out</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q">Imagine Dragons</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522" href="https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27371af28545729f60b3eca66f7" href="https://open.spotify.com/track/7floNISpH8VF4z4459Qo18" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"><strong>Applause</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms">Lady Gaga</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7floNISpH8VF4z4459Qo18"><strong>Look At Me!</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4">XXXTENTACION</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273d0bbfea6226b5c3707de92ed" href="https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e" href="https://open.spotify.com/track/6lwJPy78yr392u5uVUQKww" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"><strong>Say So</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5">Doja Cat</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6lwJPy78yr392u5uVUQKww"><strong>Sunday Morning - Demo</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
     </td>
   </tr>
   
