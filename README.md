@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b21b175823da8ac8cf34dac3" href="https://open.spotify.com/track/5jRR9de75gD6zCzoRZkyKB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735880f9b11a2e6289f9db78d5" href="https://open.spotify.com/track/18E4wq8is4m6wL8HxrEaQ9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5jRR9de75gD6zCzoRZkyKB"><strong>INSONAMIA</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5AOzeroMxe112GJoFnCcyG">Ronald Figo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/18E4wq8is4m6wL8HxrEaQ9"><strong>Ladro Di Fiori</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH">BLANCO</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273387d22e3246263ff715077ab" href="https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" href="https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE"><strong>DRESS!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF">Eternxlkz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"><strong>Sweater Weather</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh">The Neighbourhood</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734af62b470b781cdc46c3cf29" href="https://open.spotify.com/track/3vUMN9hezWjBac9UE8xkVd" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734dbdd4d3c69bec0d471fc479" href="https://open.spotify.com/track/63SevszngYpZOwf63o61K4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3vUMN9hezWjBac9UE8xkVd"><strong>2000</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL">vowl.</a>, <a href="https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA">Sace</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/63SevszngYpZOwf63o61K4"><strong>Nevermind</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt">Dennis Lloyd</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f8c9987765cd590630b7f760" href="https://open.spotify.com/track/33v2IZOj9mFdeKkNKUNsZg" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522" href="https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/33v2IZOj9mFdeKkNKUNsZg"><strong>DEIXA ROLAR</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF">Eternxlkz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"><strong>Applause</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms">Lady Gaga</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273621cf840fd3549bfd47eca9d" href="https://open.spotify.com/track/5XuCHa19u2xLeGa8MJHAwu" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d0bbfea6226b5c3707de92ed" href="https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5XuCHa19u2xLeGa8MJHAwu"><strong>Fluxxwave</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6">Clovis Reyes</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"><strong>Say So</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5">Doja Cat</a></p>
     </td>
   </tr>
   
