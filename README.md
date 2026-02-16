@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735880f9b11a2e6289f9db78d5" href="https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s"><strong>Finché Non Mi Seppelliscono</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH">BLANCO</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b2737c39dd133836c2c1c87e34d6" href="https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3BvheqhKGQgFMSiiJh6ayj"><strong>Bleeding Out</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q">Imagine Dragons</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27371af28545729f60b3eca66f7" href="https://open.spotify.com/track/7floNISpH8VF4z4459Qo18" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7floNISpH8VF4z4459Qo18"><strong>Look At Me!</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4">XXXTENTACION</a></p>
     </td>
   </tr>
   
