@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7" href="https://open.spotify.com/track/2iRSl0OHGu6dszXk7qTQnt" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c147f8859677405f07879735" href="https://open.spotify.com/track/1mblCC44D31Yu2o3DhrvbJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2iRSl0OHGu6dszXk7qTQnt"><strong>Lying from You - Live LP Underground Tour 2003</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1mblCC44D31Yu2o3DhrvbJ"><strong>PAROLE (Sono solo parole) (feat. Noemi, Lazza & Tedua)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq">Drillionaire</a>, <a href="https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA">Noemi</a>, <a href="https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM">Lazza</a>, <a href="https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7">Tedua</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2735880f9b11a2e6289f9db78d5" href="https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268" href="https://open.spotify.com/track/2VdT56BGpdqNHUgOe1j5vc" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s"><strong>Finché Non Mi Seppelliscono</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH">BLANCO</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2VdT56BGpdqNHUgOe1j5vc"><strong>Rich & Sad</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737c39dd133836c2c1c87e34d6" href="https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27342bb10c2f8224e5c11e4aa92" href="https://open.spotify.com/track/1oUudyBYVGMIC8JXeIsFzq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"><strong>Don't Stop Me Now - Remastered 2011</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d">Queen</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1oUudyBYVGMIC8JXeIsFzq"><strong>CLOSE (feat. Travis Scott) - From SR3MM</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D">Rae Sremmurd</a>, <a href="https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX">Swae Lee</a>, <a href="https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu">Slim Jxmmi</a>, <a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732bb3ac98fb41c25995ea206a" href="https://open.spotify.com/track/2cMiDQKmcpafCRLAkUWYJk" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27367eab79381b5a7bb19fc1df9" href="https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2cMiDQKmcpafCRLAkUWYJk"><strong>Bette Davis Eyes</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6D5GQzBNf2sGaCAJF4IaAp">Disco Fever</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"><strong>Belly Dancer</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj">Imanbek</a>, <a href="https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R">BYOR</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733f97d4244eff5852477d9ee0" href="https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27382ff07e438fe501bbd527fb3" href="https://open.spotify.com/track/0KT2Olmn19XSPgtkYuPdv7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"><strong>Hot N Cold</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X">Katy Perry</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0KT2Olmn19XSPgtkYuPdv7"><strong>Just My Imagination</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4cYrseKEKGRdi8DSPOe8pM">Ksmk</a></p>
     </td>
   </tr>
   
