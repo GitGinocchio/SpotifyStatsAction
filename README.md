@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fe3cf32b1320e8ded39d8c74" href="https://open.spotify.com/track/0prF3F4FoKvxBObaeXLVHv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d0bbfea6226b5c3707de92ed" href="https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0prF3F4FoKvxBObaeXLVHv"><strong>When I'm Gone</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop">Wiz Khalifa</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"><strong>Say So</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5">Doja Cat</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273946f1ea32cc7681e7a86e9ca" href="https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738f05338b112b25d40aad90c6" href="https://open.spotify.com/track/1Pfsxuqiq2Shzsxnx6D5I4" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"><strong>Quevedo: Bzrp Music Sessions, Vol. 52/66</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36">Bizarrap</a>, <a href="https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K">Quevedo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Pfsxuqiq2Shzsxnx6D5I4"><strong>Margherita</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ffd3f00fc718dda0ef50d237" href="https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739585ff55fff75c5c07a619cb" href="https://open.spotify.com/track/3x0I5B06JLht9EbWqGbGLK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"><strong>Heads Will Roll - A-Trak Remix Radio Edit</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2">Yeah Yeah Yeahs</a>, <a href="https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt">A-Trak</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3x0I5B06JLht9EbWqGbGLK"><strong>Don't Know Nothing</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731c98b8198862c9b761703c6c" href="https://open.spotify.com/track/76mNr58LT9ASZ5D0ltYQwq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32" href="https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/76mNr58LT9ASZ5D0ltYQwq"><strong>APPLAUSE - Hardstyle</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"><strong>BUTTERFLY EFFECT</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02" href="https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27321b2b485aef32bcc96c1875c" href="https://open.spotify.com/track/4lVonIcSSHhcqXG1mowTC0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"><strong>Take What You Want (feat. Ozzy Osbourne & Travis Scott)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a>, <a href="https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY">Ozzy Osbourne</a>, <a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4lVonIcSSHhcqXG1mowTC0"><strong>II. Earth: The Oldest Computer (The Last Night)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL">Childish Gambino</a>, <a href="https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I">Azealia Banks</a></p>
     </td>
   </tr>
   
@@ -129,14 +129,14 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb2f753acc479ee3f7fef8ec9f" href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"><strong>Eternxlkz</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">phonk, brazilian phonk</p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"><strong>Maroon 5</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;">pop</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>68%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>85%</strong></p>
     </td>
   </tr>
   
