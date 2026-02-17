@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c147f8859677405f07879735" href="https://open.spotify.com/track/1mblCC44D31Yu2o3DhrvbJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fe3cf32b1320e8ded39d8c74" href="https://open.spotify.com/track/0prF3F4FoKvxBObaeXLVHv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1mblCC44D31Yu2o3DhrvbJ"><strong>PAROLE (Sono solo parole) (feat. Noemi, Lazza & Tedua)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq">Drillionaire</a>, <a href="https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA">Noemi</a>, <a href="https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM">Lazza</a>, <a href="https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7">Tedua</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0prF3F4FoKvxBObaeXLVHv"><strong>When I'm Gone</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop">Wiz Khalifa</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268" href="https://open.spotify.com/track/2VdT56BGpdqNHUgOe1j5vc" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273946f1ea32cc7681e7a86e9ca" href="https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2VdT56BGpdqNHUgOe1j5vc"><strong>Rich & Sad</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"><strong>Quevedo: Bzrp Music Sessions, Vol. 52/66</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36">Bizarrap</a>, <a href="https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K">Quevedo</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27342bb10c2f8224e5c11e4aa92" href="https://open.spotify.com/track/1oUudyBYVGMIC8JXeIsFzq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ffd3f00fc718dda0ef50d237" href="https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1oUudyBYVGMIC8JXeIsFzq"><strong>CLOSE (feat. Travis Scott) - From SR3MM</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D">Rae Sremmurd</a>, <a href="https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX">Swae Lee</a>, <a href="https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu">Slim Jxmmi</a>, <a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"><strong>Heads Will Roll - A-Trak Remix Radio Edit</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2">Yeah Yeah Yeahs</a>, <a href="https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt">A-Trak</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27367eab79381b5a7bb19fc1df9" href="https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731c98b8198862c9b761703c6c" href="https://open.spotify.com/track/76mNr58LT9ASZ5D0ltYQwq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"><strong>Belly Dancer</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj">Imanbek</a>, <a href="https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R">BYOR</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/76mNr58LT9ASZ5D0ltYQwq"><strong>APPLAUSE - Hardstyle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl">SICK LEGEND</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27382ff07e438fe501bbd527fb3" href="https://open.spotify.com/track/0KT2Olmn19XSPgtkYuPdv7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02" href="https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0KT2Olmn19XSPgtkYuPdv7"><strong>Just My Imagination</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4cYrseKEKGRdi8DSPOe8pM">Ksmk</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"><strong>Take What You Want (feat. Ozzy Osbourne & Travis Scott)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60">Post Malone</a>, <a href="https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY">Ozzy Osbourne</a>, <a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a></p>
     </td>
   </tr>
   
