@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d" href="https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737f2bc865b522cedbfbc43fed" href="https://open.spotify.com/track/6wKTt2B7XcSjgv3tQdkgVq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"><strong>Walking On A Dream</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c">Empire Of The Sun</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6wKTt2B7XcSjgv3tQdkgVq"><strong>THE HILLS - HARDSTYLE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi">POSEIDON</a>, <a href="https://open.spotify.com/artist/0b4iy80Bqcg2Qbd1XeyRB8">ZYZZMODE</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ceaeb9d72a6398f943ca9ad8" href="https://open.spotify.com/track/4WImQJDzGuT2tUV22tsTma" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27382ff07e438fe501bbd527fb3" href="https://open.spotify.com/track/0KT2Olmn19XSPgtkYuPdv7" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4WImQJDzGuT2tUV22tsTma"><strong>No Va Be</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn">Il Pagante</a>, <a href="https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp">Vegas Jones</a>, <a href="https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6">Chadia</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0KT2Olmn19XSPgtkYuPdv7"><strong>Just My Imagination</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4cYrseKEKGRdi8DSPOe8pM">Ksmk</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" href="https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738f05338b112b25d40aad90c6" href="https://open.spotify.com/track/6Pnziw2QOsrYVJjvXpZ8fZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv"><strong>Cleanin' Out My Closet</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR">Eminem</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6Pnziw2QOsrYVJjvXpZ8fZ"><strong>Come nelle canzoni</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2734ae8ff731c49965bf2083405" href="https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27355e36b0dc5b0ef008fc85319" href="https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7"><strong>Love Story</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB">Indila</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9"><strong>Falling Down - Bonus Track</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3">Lil Peep</a>, <a href="https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4">XXXTENTACION</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733f66b5b49ccea004a5ef0db2" href="https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dd0a40eecd4b13e4c59988da" href="https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq"><strong>Lose Yourself</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR">Eminem</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1"><strong>Happier</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T">Marshmello</a>, <a href="https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc">Bastille</a></p>
     </td>
   </tr>
   
