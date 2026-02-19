@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5" href="https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27333ebdffaa447ff19ce9f24bb" href="https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"><strong>Still D.R.E.</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7">Dr. Dre</a>, <a href="https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG">Snoop Dogg</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"><strong>A Milli</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865">Lil Wayne</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" href="https://open.spotify.com/track/3e7Y6sfFlIdBMJhX7wpqVO" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a70fc3466b087db6b7734fa8" href="https://open.spotify.com/track/6j7IIZzkv5XKiQWtepoKe0" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3e7Y6sfFlIdBMJhX7wpqVO"><strong>44 More</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L">Logic</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6j7IIZzkv5XKiQWtepoKe0"><strong>I love it (Remix)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Yn8oLPPC1t7HX7BC1JDJq">Naxsy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27332ba22ba4df6a89bb6bfe3cf" href="https://open.spotify.com/track/7BxpObs6K7Yio5lVb3sMYX" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dfabdcea41553b2671927fc5" href="https://open.spotify.com/track/5xjyCc4doomao4SkrAK29U" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7BxpObs6K7Yio5lVb3sMYX"><strong>G Walk (with Chris Brown)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk">Lil Mosey</a>, <a href="https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z">Chris Brown</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5xjyCc4doomao4SkrAK29U"><strong>EEYUH! x Fluxxwave - Slowed + Reverb</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6">Clovis Reyes</a>, <a href="https://open.spotify.com/artist/3UrGictkKDBfGKpK2ZiWGX">HR</a>, <a href="https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY">Irokz</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" href="https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/7vhq9QBKXVAs9ywrkeKRft" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"><strong>Paradise</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU">Coldplay</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vhq9QBKXVAs9ywrkeKRft"><strong>gRiZzly</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb">yungest Moonstar</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738f05338b112b25d40aad90c6" href="https://open.spotify.com/track/1Pfsxuqiq2Shzsxnx6D5I4" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738fba5806a323efd272677c4d" href="https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Pfsxuqiq2Shzsxnx6D5I4"><strong>Margherita</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4">Coez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"><strong>Blame (feat. John Newman)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY">Calvin Harris</a>, <a href="https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf">John Newman</a></p>
     </td>
   </tr>
   
