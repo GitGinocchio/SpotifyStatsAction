@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e9b6f26ff354f4d70847f02d" href="https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf"><strong>hot girl bummer</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM">blackbear</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><strong>What's My Age Again?</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP">blink-182</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/46IqWVJe44RJmA6nU4Hn4U" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273881de5c93d75eee36d9cee69" href="https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/46IqWVJe44RJmA6nU4Hn4U"><strong>LeanTro</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b"><strong>Overseas</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y">D-Block Europe</a>, <a href="https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r">Central Cee</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX"><strong>Occhiaie</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b9fe16b21ea333150c0f50f6" href="https://open.spotify.com/track/671qmOyhzkza64D9fMhN7k" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/671qmOyhzkza64D9fMhN7k"><strong>Post To Be (feat. Rileyy Lanez)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR">Lil Tjay</a>, <a href="https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr">Rileyy Lanez</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/7ExwSavnmqgcYZOBveO48H" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7ExwSavnmqgcYZOBveO48H"><strong>noN puoi faRe naDa</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb">yungest Moonstar</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e60b56aa1e58fe76240a101b" href="https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"><strong>Tell Em</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx">Cochise</a>, <a href="https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO">$NOT</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27333ebdffaa447ff19ce9f24bb" href="https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"><strong>A Milli</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865">Lil Wayne</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a70fc3466b087db6b7734fa8" href="https://open.spotify.com/track/6j7IIZzkv5XKiQWtepoKe0" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6j7IIZzkv5XKiQWtepoKe0"><strong>I love it (Remix)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Yn8oLPPC1t7HX7BC1JDJq">Naxsy</a></p>
     </td>
   </tr>
   
