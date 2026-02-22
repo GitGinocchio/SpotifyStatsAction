@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b05bb0c56d3465765471e2d0" href="https://open.spotify.com/track/1zNPEGBmkAUaR12u5tmghC" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273850b49fb96234b82d350f1cb" href="https://open.spotify.com/track/7FQFYsFDvai1JNZeC0SlqM" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1zNPEGBmkAUaR12u5tmghC"><strong>By The River</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk">Juliàn</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7FQFYsFDvai1JNZeC0SlqM"><strong>Marine Layer</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN">juniorodeo</a>, <a href="https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h">Delayde</a>, <a href="https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS">azula</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730f8de1e5b9bcda204878c246" href="https://open.spotify.com/track/2v1GOJAYFs0iNvrkWMKNQW" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738e23c0035f6c2b671f3db15c" href="https://open.spotify.com/track/1Y1epT6oyfI62WIxZT69WG" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2v1GOJAYFs0iNvrkWMKNQW"><strong>Bodies</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2Gq799yTibgF2YWweyB16G">kudo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Y1epT6oyfI62WIxZT69WG"><strong>Enchanted</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf">Sátyr</a>, <a href="https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt">Phlocalyst</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273317a428e4a9680348efa0e11" href="https://open.spotify.com/track/6yDmJpDhQQW9FdkMWVZxNF" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732fbe3a62f9e6fff502057708" href="https://open.spotify.com/track/64GNiTVTOZ7I4O8YmjJzYZ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6yDmJpDhQQW9FdkMWVZxNF"><strong>Dahlia</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX">no one's perfect</a>, <a href="https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO">Kanisan</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/64GNiTVTOZ7I4O8YmjJzYZ"><strong>Fragments Of The Moon</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ">Hoogway</a>, <a href="https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN">Lofi Girl</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b4013d829cb53de1dcfe91b6" href="https://open.spotify.com/track/0CP56G5KNagPpYpmYkHSCG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273643b1da0cda55b83070193ab" href="https://open.spotify.com/track/0UtZHPDlzD9EOVOC68oUvd" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0CP56G5KNagPpYpmYkHSCG"><strong>Beyond the Dreams</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb">Hevi</a>, <a href="https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b">Stuffed Tomato</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0UtZHPDlzD9EOVOC68oUvd"><strong>Overgrown</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp">Tenno</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ad9185244cd4eb3d4ce61499" href="https://open.spotify.com/track/5U4nfRPAIpTpJK8Dje2lnU" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27364b5710605f7088846ec6b63" href="https://open.spotify.com/track/1e5o40ATZpz0BhLwctXSPq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5U4nfRPAIpTpJK8Dje2lnU"><strong>Sleeping On Clouds</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS">Mujo</a>, <a href="https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx">steezy prime</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1e5o40ATZpz0BhLwctXSPq"><strong>message in a bottle</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD">chief.</a></p>
     </td>
   </tr>
   
