@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691" href="https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"><strong>What's My Age Again?</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP">blink-182</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"><strong>Daddy Cool</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb">Boney M.</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273881de5c93d75eee36d9cee69" href="https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273609c6159deccae5151b7dafa" href="https://open.spotify.com/track/1OMMoNIjkXqsAEgpdroLeN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b"><strong>Overseas</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y">D-Block Europe</a>, <a href="https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r">Central Cee</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1OMMoNIjkXqsAEgpdroLeN"><strong>Intro - Live Version</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N">Justice</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27383627891f19fcba34ca5f1ae" href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c" href="https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7i7iqHvilL3S95Np8Pg6iX"><strong>Occhiaie</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6pTrxLsUwhhpJyrEeEr4Bh">Galeffi</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"><strong>Godzilla (feat. Juice WRLD)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR">Eminem</a>, <a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz">Juice WRLD</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b9fe16b21ea333150c0f50f6" href="https://open.spotify.com/track/671qmOyhzkza64D9fMhN7k" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27347f930accd8ac01686401fa2" href="https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/671qmOyhzkza64D9fMhN7k"><strong>Post To Be (feat. Rileyy Lanez)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR">Lil Tjay</a>, <a href="https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr">Rileyy Lanez</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"><strong>Roar</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X">Katy Perry</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f6da146e4b29f6cb182c6a72" href="https://open.spotify.com/track/7ExwSavnmqgcYZOBveO48H" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737fa88f7fab105c0905177383" href="https://open.spotify.com/track/3tjKbhvPU6mV0nnJQ987SP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7ExwSavnmqgcYZOBveO48H"><strong>noN puoi faRe naDa</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb">yungest Moonstar</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3tjKbhvPU6mV0nnJQ987SP"><strong>Freed from Desire (Xtm Remix Edit)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ">Gala</a>, <a href="https://open.spotify.com/artist/4zD1wnIvCIplhiQPvF1c0z">XTM</a></p>
     </td>
   </tr>
   
