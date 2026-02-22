@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c20ad7bbceac96755d854565" href="https://open.spotify.com/track/6hLAuWPtyJjBmKSQcy0Sy0" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b41daa2de46e560ad8882777" href="https://open.spotify.com/track/0fJoShBEKiXEhiRDZXLql3" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6hLAuWPtyJjBmKSQcy0Sy0"><strong>Rainy Day</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81">Two Scents</a>, <a href="https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi">Lucid Keys</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0fJoShBEKiXEhiRDZXLql3"><strong>Magical Connection</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx">Peak Twilight</a>, <a href="https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU">Prithvi</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ffcb512c0f156191f6555eba" href="https://open.spotify.com/track/4dXVVNd2zbfiN28oPCL10J" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27332a94044b7099718de0f3f72" href="https://open.spotify.com/track/6iRwC34sU6GK9kxSMsVoHi" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4dXVVNd2zbfiN28oPCL10J"><strong>youth</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx">steezy prime</a>, <a href="https://open.spotify.com/artist/2XCHpjjS3zJJy9OafEt7bC">Ayzic</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6iRwC34sU6GK9kxSMsVoHi"><strong>Moonlight Rays</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a">Casiio</a>, <a href="https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G">Kainbeats</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736570a0a5d482d709fffdb25b" href="https://open.spotify.com/track/34RsckCJNK4LvVIhlbLnmt" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27355c4e03f7b5f70525b04eaed" href="https://open.spotify.com/track/6CGaL5oB3qk9uDQUli1Ift" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/34RsckCJNK4LvVIhlbLnmt"><strong>We'll Be Alright</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB">softy</a>, <a href="https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs">Lucid Green</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6CGaL5oB3qk9uDQUli1Ift"><strong>Sleep Well</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK">MyceliumBug</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27321e76d9927744bfe63d2592a" href="https://open.spotify.com/track/0NnGOsVYJJ0SX7Twq5PARG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27319d449773e023b4123a83ae9" href="https://open.spotify.com/track/2nnAjCjsuxtB0vT63mvuQM" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0NnGOsVYJJ0SX7Twq5PARG"><strong>Light Years Away</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7">Laffey</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2nnAjCjsuxtB0vT63mvuQM"><strong>Reassuring Skies</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR">Lenny Loops</a>, <a href="https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq">Hoffy Beats</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27333d726c0865b0594ae6e85cd" href="https://open.spotify.com/track/3xzLhje7HAORr5AVeKN29O" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bbc9a851562516b2674a5e46" href="https://open.spotify.com/track/4xde8X3rQNK1opo5eCRRww" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3xzLhje7HAORr5AVeKN29O"><strong>Another Time</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6">LESKY</a>, <a href="https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX">No Spirit</a>, <a href="https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4">Beyond Moments</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4xde8X3rQNK1opo5eCRRww"><strong>Circadian</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0liH4Jfiz66Rqjz4DH3JZk">S N U G</a>, <a href="https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin">Enluv</a></p>
     </td>
   </tr>
   
