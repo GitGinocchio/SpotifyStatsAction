@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bd78dd480b8a9a5ba17e48b7" href="https://open.spotify.com/track/55v0qQRNpvwviqvxRmkGWa" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e3b2cb06d40da6c4d2ec4a55" href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/55v0qQRNpvwviqvxRmkGWa"><strong>Cabin In A Forest</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3">xander.</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr"><strong>Truman</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn">Birthh</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273418835e65ab1860e4957fd29" href="https://open.spotify.com/track/3QsiuKJn3I2ygYoerq6xqo" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732fdf9c84f7b954b284031dea" href="https://open.spotify.com/track/7kLWq3Z9XSs8cHTLB9nl0w" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3QsiuKJn3I2ygYoerq6xqo"><strong>Wildflower</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U">Blue Wednesday</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7kLWq3Z9XSs8cHTLB9nl0w"><strong>Giant (with Rag'n'Bone Man) - Robin Schulz Remix</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY">Calvin Harris</a>, <a href="https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf">Rag'n'Bone Man</a>, <a href="https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S">Robin Schulz</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27301d858b562e46bc0da61cd04" href="https://open.spotify.com/track/5aDBxpjdSrnA93H5OEf8iv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27322aa3408a990edf3bdabd676" href="https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5aDBxpjdSrnA93H5OEf8iv"><strong>Distant Thoughts</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG">Towerz</a>, <a href="https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ">Hoogway</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ"><strong>TUTA GOLD</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd">Mahmood</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27346f67940889325815715e092" href="https://open.spotify.com/track/0F027elrqz1WMdcPgPDyPu" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fafb4022c8ca1c4498e10b19" href="https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0F027elrqz1WMdcPgPDyPu"><strong>Cascade</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4CSOdm2yCuB71TxCfV105e">Kinissue</a>, <a href="https://open.spotify.com/artist/2XCHpjjS3zJJy9OafEt7bC">Ayzic</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"><strong>La La La</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5">Naughty Boy</a>, <a href="https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI">Sam Smith</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27304501dc2cfc3f562df66ea2f" href="https://open.spotify.com/track/2mpMZKy6Bo4y1DcXt9z8tN" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2733c99beb69493d536304468a6" href="https://open.spotify.com/track/20RGzyaSxamjFTyq5qKuhv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2mpMZKy6Bo4y1DcXt9z8tN"><strong>cool winds</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2Gq799yTibgF2YWweyB16G">kudo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/20RGzyaSxamjFTyq5qKuhv"><strong>Gang</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX">Badda TD</a></p>
     </td>
   </tr>
   
