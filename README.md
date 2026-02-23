@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e58a70a125fa04b5e69571e8" href="https://open.spotify.com/track/7nJB3EHiK9KOEogORYv7OM" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cb27da21872c9a9dec2ca417" href="https://open.spotify.com/track/6EmZHSVhBVINc3jUkLcxid" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7nJB3EHiK9KOEogORYv7OM"><strong>Inner Peace</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP">Bcalm</a>, <a href="https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU">Banks</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6EmZHSVhBVINc3jUkLcxid"><strong>Crush</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7">Laffey</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f1b486bf2186427c90513d4b" href="https://open.spotify.com/track/1caCq5bzgexlP2oiShDkji" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735c354b8dc6788ce9e58927e1" href="https://open.spotify.com/track/75MMSZZYu5UCEENHcyWoak" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1caCq5bzgexlP2oiShDkji"><strong>Far Away</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA">DLJ</a>, <a href="https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ">Hoogway</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/75MMSZZYu5UCEENHcyWoak"><strong>A Friendly Hello</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK">Living Room</a>, <a href="https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0">Otaam</a>, <a href="https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt">Phlocalyst</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b30386f6d11b1632b3c63370" href="https://open.spotify.com/track/4nVxdzfl3Ttpj6WiuNcRRa" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27381247f70ebf6ba9001313cdd" href="https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4nVxdzfl3Ttpj6WiuNcRRa"><strong>Flower of Memories</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp">Tenno</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"><strong>Away</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA">Chiccote's Beats</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c1f927d24adab2182ab88dc4" href="https://open.spotify.com/track/0ifswaFQFkbS6tQCEGDrrb" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734929f6f62ad541f8740408c3" href="https://open.spotify.com/track/5fU2bSQzXMNIzfksE9vzcA" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0ifswaFQFkbS6tQCEGDrrb"><strong>Moving On</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb">Tibeauthetraveler</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5fU2bSQzXMNIzfksE9vzcA"><strong>Prenma</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs">Loafy Building</a>, <a href="https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK">Mondo Loops</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273423ca343109c9208c948ac89" href="https://open.spotify.com/track/6i3aTHUPv1wCgLd9835Mmn" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e52fc0f6aed4b6cd5dd11592" href="https://open.spotify.com/track/3RO0O1JTECMmboZmWVk1vu" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6i3aTHUPv1wCgLd9835Mmn"><strong>Reflecting</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs">Loafy Building</a>, <a href="https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ">Hoogway</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3RO0O1JTECMmboZmWVk1vu"><strong>Just You</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0">Swink</a></p>
     </td>
   </tr>
   
