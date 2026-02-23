@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bd78dd480b8a9a5ba17e48b7" href="https://open.spotify.com/track/55v0qQRNpvwviqvxRmkGWa" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/55v0qQRNpvwviqvxRmkGWa"><strong>Cabin In A Forest</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3">xander.</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273418835e65ab1860e4957fd29" href="https://open.spotify.com/track/3QsiuKJn3I2ygYoerq6xqo" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3QsiuKJn3I2ygYoerq6xqo"><strong>Wildflower</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U">Blue Wednesday</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27301d858b562e46bc0da61cd04" href="https://open.spotify.com/track/5aDBxpjdSrnA93H5OEf8iv" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5aDBxpjdSrnA93H5OEf8iv"><strong>Distant Thoughts</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG">Towerz</a>, <a href="https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ">Hoogway</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27346f67940889325815715e092" href="https://open.spotify.com/track/0F027elrqz1WMdcPgPDyPu" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0F027elrqz1WMdcPgPDyPu"><strong>Cascade</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4CSOdm2yCuB71TxCfV105e">Kinissue</a>, <a href="https://open.spotify.com/artist/2XCHpjjS3zJJy9OafEt7bC">Ayzic</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27304501dc2cfc3f562df66ea2f" href="https://open.spotify.com/track/2mpMZKy6Bo4y1DcXt9z8tN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2mpMZKy6Bo4y1DcXt9z8tN"><strong>cool winds</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2Gq799yTibgF2YWweyB16G">kudo</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731d4ca3b016a3586fae5687e5" href="https://open.spotify.com/track/7vWU7z6GAbJuQgsVSriod9" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vWU7z6GAbJuQgsVSriod9"><strong>Sweet Meetings</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu">Cosmic Koala</a>, <a href="https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz">Dimension 32</a>, <a href="https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi">Lucid Keys</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738e10f6f060023fe469e0d541" href="https://open.spotify.com/track/62BhTmNdpOZ86ADz0H0Z2g" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/62BhTmNdpOZ86ADz0H0Z2g"><strong>Voyage</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI">Sleepermane</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ffcb512c0f156191f6555eba" href="https://open.spotify.com/track/4dXVVNd2zbfiN28oPCL10J" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4dXVVNd2zbfiN28oPCL10J"><strong>youth</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx">steezy prime</a>, <a href="https://open.spotify.com/artist/2XCHpjjS3zJJy9OafEt7bC">Ayzic</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e0c2a4f1bba71724fda8b65d" href="https://open.spotify.com/track/7A5bb5lFySrohhjVJSujqr" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7A5bb5lFySrohhjVJSujqr"><strong>slowly, surely</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3vVw6m3rihy77VuqxApdLA">Blurred Figures</a>, <a href="https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA">another silent weekend</a></p>
     </td>
   </tr>
   
