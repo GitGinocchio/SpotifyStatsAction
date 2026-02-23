@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2736d2dce5d405d9b94bfe34b30" href="https://open.spotify.com/track/3NnbCl0NFwEP3VlsDbio3D" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27304501dc2cfc3f562df66ea2f" href="https://open.spotify.com/track/2mpMZKy6Bo4y1DcXt9z8tN" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3NnbCl0NFwEP3VlsDbio3D"><strong>miss you</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb">Tibeauthetraveler</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2mpMZKy6Bo4y1DcXt9z8tN"><strong>cool winds</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2Gq799yTibgF2YWweyB16G">kudo</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273dde6c6894221a008d5c0abf7" href="https://open.spotify.com/track/3hPxeqVispRkA8yWOjAcYJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2731d4ca3b016a3586fae5687e5" href="https://open.spotify.com/track/7vWU7z6GAbJuQgsVSriod9" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3hPxeqVispRkA8yWOjAcYJ"><strong>better days</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx">steezy prime</a>, <a href="https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu">Devon Rea</a>, <a href="https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q">fnonose</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7vWU7z6GAbJuQgsVSriod9"><strong>Sweet Meetings</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu">Cosmic Koala</a>, <a href="https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz">Dimension 32</a>, <a href="https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi">Lucid Keys</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273776bcab1bf693b27f36fe5b8" href="https://open.spotify.com/track/33VX7FynVkGs5fvoYdGmpR" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738e10f6f060023fe469e0d541" href="https://open.spotify.com/track/62BhTmNdpOZ86ADz0H0Z2g" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/33VX7FynVkGs5fvoYdGmpR"><strong>Orange Leaves</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ">TABAL</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/62BhTmNdpOZ86ADz0H0Z2g"><strong>Voyage</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI">Sleepermane</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27319a83217ff50e50178393495" href="https://open.spotify.com/track/6oHfNyqM1MgNe8hpTG4j9a" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ffcb512c0f156191f6555eba" href="https://open.spotify.com/track/4dXVVNd2zbfiN28oPCL10J" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6oHfNyqM1MgNe8hpTG4j9a"><strong>Leaves</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy">M e a d o w</a>, <a href="https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf">Sátyr</a>, <a href="https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC">Drxnk</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4dXVVNd2zbfiN28oPCL10J"><strong>youth</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx">steezy prime</a>, <a href="https://open.spotify.com/artist/2XCHpjjS3zJJy9OafEt7bC">Ayzic</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27364eea9dd535be9bd4a206b1e" href="https://open.spotify.com/track/7JCDlx0qMAMQYxJLKpmdTG" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e0c2a4f1bba71724fda8b65d" href="https://open.spotify.com/track/7A5bb5lFySrohhjVJSujqr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7JCDlx0qMAMQYxJLKpmdTG"><strong>Summer Kisses</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl">Yestalgia</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7A5bb5lFySrohhjVJSujqr"><strong>slowly, surely</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3vVw6m3rihy77VuqxApdLA">Blurred Figures</a>, <a href="https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA">another silent weekend</a></p>
     </td>
   </tr>
   
