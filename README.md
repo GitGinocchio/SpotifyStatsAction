@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273e3b2cb06d40da6c4d2ec4a55" href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738786b2c0a5f0a022766349df" href="https://open.spotify.com/track/10VVCjsMTbM39bPzygGSex" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr"><strong>Truman</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn">Birthh</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/10VVCjsMTbM39bPzygGSex"><strong>Hydrogen</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT">M|O|O|N</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732fdf9c84f7b954b284031dea" href="https://open.spotify.com/track/7kLWq3Z9XSs8cHTLB9nl0w" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273243b73f0b9fd2500f491f5bf" href="https://open.spotify.com/track/6f7AS760ziuLhtGDzEPGDU" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7kLWq3Z9XSs8cHTLB9nl0w"><strong>Giant (with Rag'n'Bone Man) - Robin Schulz Remix</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY">Calvin Harris</a>, <a href="https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf">Rag'n'Bone Man</a>, <a href="https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S">Robin Schulz</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6f7AS760ziuLhtGDzEPGDU"><strong>Caterina - Aeroplano</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO">883</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27322aa3408a990edf3bdabd676" href="https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273780a8609d3adfe119da97aac" href="https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ"><strong>TUTA GOLD</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd">Mahmood</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC"><strong>Brivido</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27">Guè</a>, <a href="https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7">Marracash</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fafb4022c8ca1c4498e10b19" href="https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c73fbc3c168eeb3b31d3e0bc" href="https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"><strong>La La La</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5">Naughty Boy</a>, <a href="https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI">Sam Smith</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1"><strong>Pieces</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys">AVAION</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733c99beb69493d536304468a6" href="https://open.spotify.com/track/20RGzyaSxamjFTyq5qKuhv" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c73fbc3c168eeb3b31d3e0bc" href="https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/20RGzyaSxamjFTyq5qKuhv"><strong>Gang</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX">Badda TD</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1"><strong>Pieces</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys">AVAION</a></p>
     </td>
   </tr>
   
