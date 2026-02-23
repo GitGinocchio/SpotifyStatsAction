@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2733e2627ee6338da9ee94738d2" href="https://open.spotify.com/track/1L2PKNp3lGnpt7mjgaQy43" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e58a70a125fa04b5e69571e8" href="https://open.spotify.com/track/7nJB3EHiK9KOEogORYv7OM" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1L2PKNp3lGnpt7mjgaQy43"><strong>I Thought We Were Friends</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM">Yasumu</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7nJB3EHiK9KOEogORYv7OM"><strong>Inner Peace</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP">Bcalm</a>, <a href="https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU">Banks</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273961dd74ee9267771834df5c4" href="https://open.spotify.com/track/33LpEx1bDXRkeznxhFpO76" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f1b486bf2186427c90513d4b" href="https://open.spotify.com/track/1caCq5bzgexlP2oiShDkji" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/33LpEx1bDXRkeznxhFpO76"><strong>on fiji hill</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6WBZG0alPQd3mwP53qU6ZG">fosse</a>, <a href="https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN">juniorodeo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1caCq5bzgexlP2oiShDkji"><strong>Far Away</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA">DLJ</a>, <a href="https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ">Hoogway</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739c47010b2f5854ceb2129635" href="https://open.spotify.com/track/5UoeeNuozxuHA0c5YTR6Ro" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b30386f6d11b1632b3c63370" href="https://open.spotify.com/track/4nVxdzfl3Ttpj6WiuNcRRa" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5UoeeNuozxuHA0c5YTR6Ro"><strong>Dancing in the Dark</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK">Mondo Loops</a>, <a href="https://open.spotify.com/artist/3MhGQxnXMGb8fgTlAqcxeu">Aiguille</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4nVxdzfl3Ttpj6WiuNcRRa"><strong>Flower of Memories</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp">Tenno</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732fbe3a62f9e6fff502057708" href="https://open.spotify.com/track/3Hyw4Sh4ZwTec90osRkvni" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c1f927d24adab2182ab88dc4" href="https://open.spotify.com/track/0ifswaFQFkbS6tQCEGDrrb" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3Hyw4Sh4ZwTec90osRkvni"><strong>Endless</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ">Hoogway</a>, <a href="https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN">Lofi Girl</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0ifswaFQFkbS6tQCEGDrrb"><strong>Moving On</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb">Tibeauthetraveler</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273850b49fb96234b82d350f1cb" href="https://open.spotify.com/track/7FQFYsFDvai1JNZeC0SlqM" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273423ca343109c9208c948ac89" href="https://open.spotify.com/track/6i3aTHUPv1wCgLd9835Mmn" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7FQFYsFDvai1JNZeC0SlqM"><strong>Marine Layer</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN">juniorodeo</a>, <a href="https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h">Delayde</a>, <a href="https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS">azula</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6i3aTHUPv1wCgLd9835Mmn"><strong>Reflecting</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs">Loafy Building</a>, <a href="https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ">Hoogway</a></p>
     </td>
   </tr>
   
