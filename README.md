@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737c7ed5faa3f2ef5845a13801" href="https://open.spotify.com/track/4MXOWDR7dN1UKiN59bZEBR" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738f3b162c21659daa0271025f" href="https://open.spotify.com/track/3IXjt8jGCkXvMnkl9jFRdq" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4MXOWDR7dN1UKiN59bZEBR"><strong>In Place</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t">dryhope</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3IXjt8jGCkXvMnkl9jFRdq"><strong>When The Sun Rises</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9">Dosi</a>, <a href="https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj">So.Lo</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f71c920f566765d50da91152" href="https://open.spotify.com/track/4DXiysMNtsUdwKGZJF9gS8" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f9f3960601d2ffa870eac3c5" href="https://open.spotify.com/track/6jRcP1mlu2lqAmbod8s5Ng" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4DXiysMNtsUdwKGZJF9gS8"><strong>first flowers</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi">Lucid Keys</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6jRcP1mlu2lqAmbod8s5Ng"><strong>i hope this never ends</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA">Jhove</a>, <a href="https://open.spotify.com/artist/1uJZwuCV2hXbQDSdJvj198">kokoro</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739fc8a25840f83d6fbdc8b391" href="https://open.spotify.com/track/7wBNm2oGFRUbFbjpI0XH3m" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739fc8a25840f83d6fbdc8b391" href="https://open.spotify.com/track/1ZChp1dzdv1Sv2JiRcaHPF" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7wBNm2oGFRUbFbjpI0XH3m"><strong>Floatwave</strong></a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1ZChp1dzdv1Sv2JiRcaHPF"><strong>After Earth</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK">Mondo Loops</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273c1f927d24adab2182ab88dc4" href="https://open.spotify.com/track/0ifswaFQFkbS6tQCEGDrrb" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273f71c920f566765d50da91152" href="https://open.spotify.com/track/2fRA4hph4MtfgOgoMSpyND" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0ifswaFQFkbS6tQCEGDrrb"><strong>Moving On</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb">Tibeauthetraveler</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2fRA4hph4MtfgOgoMSpyND"><strong>her name was june</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi">Lucid Keys</a>, <a href="https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz">Dimension 32</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fdc81852835c53ecfb593c53" href="https://open.spotify.com/track/3AtWu72Bx588pqyFTLy4R7" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27349ad3ef94ef3d3213f2e1197" href="https://open.spotify.com/track/06v0cmXHezC73h0rSYzUVr" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3AtWu72Bx588pqyFTLy4R7"><strong>the songbird and the bookworm - instrumental</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U">Blue Wednesday</a>, <a href="https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN">Lofi Girl</a>, <a href="https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn">Powfu</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/06v0cmXHezC73h0rSYzUVr"><strong>Parallels</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4">ENRA</a></p>
     </td>
   </tr>
   
