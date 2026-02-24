@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2730f44f2a2a7b2dc144f360af8" href="https://open.spotify.com/track/1ENqQuE2cRVZAdhbWUnQmX" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b875b5b018b3cf9c9fa256ed" href="https://open.spotify.com/track/7HmN3o3K10kMkBqAvKJYQA" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1ENqQuE2cRVZAdhbWUnQmX"><strong>It Takes Time</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BeumVAbvoeULv5kuq5lhS">jxsn</a>, <a href="https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS">morningtime</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7HmN3o3K10kMkBqAvKJYQA"><strong>coffee</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n">96 Zeus</a>, <a href="https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB">HM Surf</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738a748c9238928efa9f6bb242" href="https://open.spotify.com/track/5rG0ICM5bSXEydXFXBGfOH" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b81c79671188fb74753d43af" href="https://open.spotify.com/track/3TDh5XdOE8iHMdihmSz1Dv" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rG0ICM5bSXEydXFXBGfOH"><strong>Secret Waterfall</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU">iamalex</a>, <a href="https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG">Felty</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3TDh5XdOE8iHMdihmSz1Dv"><strong>Beauty In All Forms</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ">Hoogway</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ceb58d55c42de14843e57329" href="https://open.spotify.com/track/25kv1ggF12fCrGCCyEXLFx" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273fdc81852835c53ecfb593c53" href="https://open.spotify.com/track/5prg752VhhJHudG8wRsTj5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/25kv1ggF12fCrGCCyEXLFx"><strong>In Full Bloom</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf">Sátyr</a>, <a href="https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb">marsquake</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5prg752VhhJHudG8wRsTj5"><strong>bridge to my heart - instrumental</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U">Blue Wednesday</a>, <a href="https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN">Lofi Girl</a>, <a href="https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn">Powfu</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739612441be14bc795884f9802" href="https://open.spotify.com/track/6oe5zExzYwBSM11Oht4WEM" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b53999bc82ffba5139db5e8e" href="https://open.spotify.com/track/0V0bQUdAe8yzkX8lUXnQVf" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6oe5zExzYwBSM11Oht4WEM"><strong>An Unknown Journey</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ">TABAL</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0V0bQUdAe8yzkX8lUXnQVf"><strong>Kukui Leaves</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt">Phlocalyst</a>, <a href="https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ">Mr. Käfer</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27362d6ecd24d49df6e95972f07" href="https://open.spotify.com/track/6wQOgdcT5kAgZ396bMBxL1" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730f44f2a2a7b2dc144f360af8" href="https://open.spotify.com/track/6AMngyMfRIqMTH2m1cDtVL" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6wQOgdcT5kAgZ396bMBxL1"><strong>Moonglow</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/77aATgrzmuoRjmqxPcEIHU">brillion.</a>, <a href="https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB">HM Surf</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6AMngyMfRIqMTH2m1cDtVL"><strong>Préface</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BeumVAbvoeULv5kuq5lhS">jxsn</a></p>
     </td>
   </tr>
   
