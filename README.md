@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27336d226f28c36cf36812299af" href="https://open.spotify.com/track/0TBiQ2XtsiDFhqJderAvvf" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2730f44f2a2a7b2dc144f360af8" href="https://open.spotify.com/track/1ENqQuE2cRVZAdhbWUnQmX" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0TBiQ2XtsiDFhqJderAvvf"><strong>Interstellar</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK">Living Room</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1ENqQuE2cRVZAdhbWUnQmX"><strong>It Takes Time</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7BeumVAbvoeULv5kuq5lhS">jxsn</a>, <a href="https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS">morningtime</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27325e8e29b4861d8711104ed0d" href="https://open.spotify.com/track/3OGLIMjuSTYFLioQ6AnzpB" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2738a748c9238928efa9f6bb242" href="https://open.spotify.com/track/5rG0ICM5bSXEydXFXBGfOH" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3OGLIMjuSTYFLioQ6AnzpB"><strong>Ethereal</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb">Hevi</a>, <a href="https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6">H.1</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5rG0ICM5bSXEydXFXBGfOH"><strong>Secret Waterfall</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU">iamalex</a>, <a href="https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG">Felty</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f71c920f566765d50da91152" href="https://open.spotify.com/track/2zwCggyALA1E51BkJ4XY3J" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ceb58d55c42de14843e57329" href="https://open.spotify.com/track/25kv1ggF12fCrGCCyEXLFx" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2zwCggyALA1E51BkJ4XY3J"><strong>sunsoles</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi">Lucid Keys</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/25kv1ggF12fCrGCCyEXLFx"><strong>In Full Bloom</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf">Sátyr</a>, <a href="https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb">marsquake</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732fbe3a62f9e6fff502057708" href="https://open.spotify.com/track/2jIJj6qVz8oEvVuiUpakPK" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739612441be14bc795884f9802" href="https://open.spotify.com/track/6oe5zExzYwBSM11Oht4WEM" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2jIJj6qVz8oEvVuiUpakPK"><strong>Set Sail</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0">Krynoze</a>, <a href="https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk">Juliàn</a>, <a href="https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN">Lofi Girl</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6oe5zExzYwBSM11Oht4WEM"><strong>An Unknown Journey</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ">TABAL</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273ad6fb84b0db6e9f729c9d6ef" href="https://open.spotify.com/track/5cAo2gzpwYoLwmA1Mr3UZl" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27362d6ecd24d49df6e95972f07" href="https://open.spotify.com/track/6wQOgdcT5kAgZ396bMBxL1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5cAo2gzpwYoLwmA1Mr3UZl"><strong>Embrace</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA">cxlt.</a>, <a href="https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q">amies</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6wQOgdcT5kAgZ396bMBxL1"><strong>Moonglow</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/77aATgrzmuoRjmqxPcEIHU">brillion.</a>, <a href="https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB">HM Surf</a></p>
     </td>
   </tr>
   
