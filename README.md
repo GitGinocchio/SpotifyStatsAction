@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" href="https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27397dd24bcfd5631d0c2145610" href="https://open.spotify.com/track/4JniCFU7RuaucBbS21CWoP" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"><strong>Numb / Encore</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB">JAŸ-Z</a>, <a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4JniCFU7RuaucBbS21CWoP"><strong>Afterglow</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a">Casiio</a>, <a href="https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI">Sleepermane</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27336eaa88d33968ee025d0b3d1" href="https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b38b6b51ceed6e1322033177" href="https://open.spotify.com/track/5Hpwb8l7NHJkiCZOPRmfIK" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"><strong>Ascend</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD">Dezko</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5Hpwb8l7NHJkiCZOPRmfIK"><strong>Ventura</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0rIfbcjazp0ICQF2AU0Qjv">Your Magnolia</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273643f18e672290824afe13ead" href="https://open.spotify.com/track/1ZWd4kJoM1WkMspdsafSZh" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739fc8a25840f83d6fbdc8b391" href="https://open.spotify.com/track/2BAuLMmlGoviN0Mm8nVMqS" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1ZWd4kJoM1WkMspdsafSZh"><strong>Berlin</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe">Sebastian Kamae</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2BAuLMmlGoviN0Mm8nVMqS"><strong>Moonrise Magic</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK">Mondo Loops</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273f71c920f566765d50da91152" href="https://open.spotify.com/track/5ePAU0FPcBzGkJcBn6RqKl" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273d6328b86891b818e94388281" href="https://open.spotify.com/track/1R83WQM8LXRqT2hu8qK59I" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5ePAU0FPcBzGkJcBn6RqKl"><strong>fresh ink, fallen leaves</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi">Lucid Keys</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1R83WQM8LXRqT2hu8qK59I"><strong>Stargazing</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW">kyu</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fdc81852835c53ecfb593c53" href="https://open.spotify.com/track/1hfttStmFXnNAZIcxzVjGs" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739fc8a25840f83d6fbdc8b391" href="https://open.spotify.com/track/4FmBtSw0iyBjqhAswxMiRT" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1hfttStmFXnNAZIcxzVjGs"><strong>until i lose my hearing. - instrumental</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA">Jhove</a>, <a href="https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN">Lofi Girl</a>, <a href="https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn">Powfu</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4FmBtSw0iyBjqhAswxMiRT"><strong>Himalayan Sunrise</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK">Mondo Loops</a></p>
     </td>
   </tr>
   
