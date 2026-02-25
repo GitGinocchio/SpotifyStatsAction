@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" href="https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"><strong>Numb / Encore</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB">JAŸ-Z</a>, <a href="https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz">Linkin Park</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27336eaa88d33968ee025d0b3d1" href="https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1hfttStmFXnNAZIcxzVjGs"><strong>until i lose my hearing. - instrumental</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA">Jhove</a>, <a href="https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN">Lofi Girl</a>, <a href="https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn">Powfu</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738f3b162c21659daa0271025f" href="https://open.spotify.com/track/3IXjt8jGCkXvMnkl9jFRdq" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3IXjt8jGCkXvMnkl9jFRdq"><strong>When The Sun Rises</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9">Dosi</a>, <a href="https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj">So.Lo</a></p>
     </td>
   </tr>
   
