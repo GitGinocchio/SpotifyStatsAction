@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27337635e3378d647da30f550d1" href="https://open.spotify.com/track/6qutVKj1RLPxtgmAzBm29f" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273309cf93185a8da5d71a7652d" href="https://open.spotify.com/track/2ghWOTwCFmH9gcEqUze4A1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6qutVKj1RLPxtgmAzBm29f"><strong>Lo-fi For U</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7">Tedua</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2ghWOTwCFmH9gcEqUze4A1"><strong>Cloud Drift</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX">entsy</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273fdc81852835c53ecfb593c53" href="https://open.spotify.com/track/5prg752VhhJHudG8wRsTj5" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273cdc05196c49c6a8ca74963b7" href="https://open.spotify.com/track/4SUe31MObM2JZoa2l7fioa" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5prg752VhhJHudG8wRsTj5"><strong>bridge to my heart - instrumental</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U">Blue Wednesday</a>, <a href="https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN">Lofi Girl</a>, <a href="https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn">Powfu</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4SUe31MObM2JZoa2l7fioa"><strong>window seats</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6IK9tbMR95RzFZhaHvHi5E">driftø blues</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2738f3b162c21659daa0271025f" href="https://open.spotify.com/track/44coAhexy3XvxokLRFjPih" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27345bcb99a5c5067aefddb1e55" href="https://open.spotify.com/track/2W9bT5Axd73dDGvdmiRIlx" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/44coAhexy3XvxokLRFjPih"><strong>Close The Box</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9">Dosi</a>, <a href="https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj">So.Lo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2W9bT5Axd73dDGvdmiRIlx"><strong>night walk</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK">bearé</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273917d59c9a9100327f7e4fee3" href="https://open.spotify.com/track/1Ml2U7hJpibVXssaKbVK75" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734f6299e4ea4fd0842df49475" href="https://open.spotify.com/track/3HivCVJPa249LI1anA9h5V" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1Ml2U7hJpibVXssaKbVK75"><strong>Stargazing</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi">Lucid Keys</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3HivCVJPa249LI1anA9h5V"><strong>midnight train ride</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7qu1gKQbwWXzGHTS8SIG4v">lazyland</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739fc8a25840f83d6fbdc8b391" href="https://open.spotify.com/track/7ws2OWGm2n8vmqwnxKfP2X" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273be23eb0989f2e7bdcf9a7aa1" href="https://open.spotify.com/track/5GPsqzfp70vEgspr5Jq69a" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7ws2OWGm2n8vmqwnxKfP2X"><strong>Melodies for Moving On</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK">Mondo Loops</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5GPsqzfp70vEgspr5Jq69a"><strong>Wandering at Midnight</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2ObEDdI5CoHwLzGVhesRqC">Demized</a></p>
     </td>
   </tr>
   
