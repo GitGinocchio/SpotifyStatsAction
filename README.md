@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c9f0625c05b6e6f2e3dad525" href="https://open.spotify.com/track/6WuRi1AJsdOcfWEddjaD1W" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6WuRi1AJsdOcfWEddjaD1W"><strong>Getting There</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM">Plaxon</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273309cf93185a8da5d71a7652d" href="https://open.spotify.com/track/2ghWOTwCFmH9gcEqUze4A1" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -48,16 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3HivCVJPa249LI1anA9h5V"><strong>midnight train ride</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/7qu1gKQbwWXzGHTS8SIG4v">lazyland</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273be23eb0989f2e7bdcf9a7aa1" href="https://open.spotify.com/track/5GPsqzfp70vEgspr5Jq69a" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5GPsqzfp70vEgspr5Jq69a"><strong>Wandering at Midnight</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2ObEDdI5CoHwLzGVhesRqC">Demized</a></p>
     </td>
   </tr>
   
