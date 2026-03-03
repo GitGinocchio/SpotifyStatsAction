@@ -13,51 +13,51 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2731dcba4a728ca0b17cbd204a5" href="https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273c44013257c466d2e6d34b30d" href="https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"><strong>Me Gustas Tu</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM">Manu Chao</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"><strong>L'universo tranne noi</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9">Max Pezzali</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bcb970f7474fb04eac10a481" href="https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411" href="https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk"><strong>BUBBLE (feat. thasup & Salmo)</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx">Takagi & Ketra</a>, <a href="https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA">thasup</a>, <a href="https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW">Salmo</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"><strong>DtMF</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X">Bad Bunny</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739585ff55fff75c5c07a619cb" href="https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2732d2de21fdba8311699547ebe" href="https://open.spotify.com/track/3BbGm7VB7sooq9mrS45IZa" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"><strong>Moves Like Jagger - Studio Recording From "The Voice" Performance</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">Maroon 5</a>, <a href="https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS">Christina Aguilera</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3BbGm7VB7sooq9mrS45IZa"><strong>Skins</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq">KREZUS</a>, <a href="https://open.spotify.com/artist/7MwpWn0EgCOiihOx6HVQDs">Surreal_dvd</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4" href="https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734b3656b847d344d9ad53be34" href="https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"><strong>Father Stretch My Hands Pt. 1</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">Kanye West</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b"><strong>SUICIDE YEAR</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx">WEEDMANE</a>, <a href="https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO">Suicideyear</a></p>
     </td>
   </tr>
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27337e0363fa7449b0fca965284" href="https://open.spotify.com/track/5HNh8yFshtfPBjia8qax5W" alt="Album cover" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21" href="https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/5HNh8yFshtfPBjia8qax5W"><strong>MEMORIZING 2</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4DFb3uFxOl0R1mZBmUPGvi">DJ DELACROIX</a>, <a href="https://open.spotify.com/artist/4uuwY98I54DdbA453Lfy98">OXXED</a>, <a href="https://open.spotify.com/artist/3OaHCFKRFT4r8o1x6SdgPT">!NFNX</a></p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY"><strong>CORALINE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr">Måneskin</a></p>
     </td>
   </tr>
   
