@@ -13,6 +13,16 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273e8624537ab89ae32598f5844" href="https://open.spotify.com/track/0DRky0I9vrl7UPCQofTXVW" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/0DRky0I9vrl7UPCQofTXVW"><strong>✻H+3+ЯД✻7luCJIo0T6... (Slowed + Reverb)</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9">vyrval</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b27338f8b756ea13eda8e6cfd0f6" href="https://open.spotify.com/track/1AhGUbxpTSQ6VJ0tr8XVW3" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -28,16 +38,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2NCFzAtWAMhHePWUdNFLHD"><strong>around the world (la la la la la) - slowed + reverb</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5ENhy70PiA8QzfghaFQ7Ey">slō</a>, <a href="https://open.spotify.com/artist/4xEsDLdD6DgtKhlCCJq4Ri">twilight</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27303e163577d68506f8e73f39f" href="https://open.spotify.com/track/4QFXTATD5QOuQ21kFEnClU" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4QFXTATD5QOuQ21kFEnClU"><strong>Papaoutai - Remake Cover</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0kFpfUKcW4ltMuRarIN0li">renewwed</a>, <a href="https://open.spotify.com/artist/6p771GeIOWiMBSVihGILpS">capella</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
     </td>
   </tr>
   
