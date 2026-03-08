@@ -13,6 +13,36 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b273ba4193251c87eef1f9a9afde" href="https://open.spotify.com/track/3OXUD0lu9acI8fJ128ahux" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3OXUD0lu9acI8fJ128ahux"><strong>Assurdo</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC">Tredici Pietro</a>, <a href="https://open.spotify.com/artist/1sHljqzdPCaYRcFrkHW8if">Mr. Monkey</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b27346f43545dc3d194f04568e14" href="https://open.spotify.com/track/3vwObRd71oUa145riRt42O" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/3vwObRd71oUa145riRt42O"><strong>uomo che cade</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC">Tredici Pietro</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734305c86a243ca7e7db9d710c" href="https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu" alt="Album cover" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu"><strong>OSSESSIONE</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH">Samurai Jay</a>, <a href="https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y">Vito Salamanca</a></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab67616d0000b273e8624537ab89ae32598f5844" href="https://open.spotify.com/track/0DRky0I9vrl7UPCQofTXVW" alt="Album cover" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -28,36 +58,6 @@ Show your spotify stats inside your README.md
     <td style="vertical-align: top; padding-left: 10px;">
       <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/1AhGUbxpTSQ6VJ0tr8XVW3"><strong>Animal</strong></a></p>
       <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/29FwFqbM5JlAydGybJL1HJ">Robopup</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27307d606dba6a4592bcf05b28c" href="https://open.spotify.com/track/2NCFzAtWAMhHePWUdNFLHD" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/2NCFzAtWAMhHePWUdNFLHD"><strong>around the world (la la la la la) - slowed + reverb</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/5ENhy70PiA8QzfghaFQ7Ey">slō</a>, <a href="https://open.spotify.com/artist/4xEsDLdD6DgtKhlCCJq4Ri">twilight</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27303e163577d68506f8e73f39f" href="https://open.spotify.com/track/4QFXTATD5QOuQ21kFEnClU" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4QFXTATD5QOuQ21kFEnClU"><strong>Papaoutai - Remake Cover</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0kFpfUKcW4ltMuRarIN0li">renewwed</a>, <a href="https://open.spotify.com/artist/6p771GeIOWiMBSVihGILpS">capella</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab67616d0000b27303e163577d68506f8e73f39f" href="https://open.spotify.com/track/4QFXTATD5QOuQ21kFEnClU" alt="Album cover" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/track/4QFXTATD5QOuQ21kFEnClU"><strong>Papaoutai - Remake Cover</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;"><a href="https://open.spotify.com/artist/0kFpfUKcW4ltMuRarIN0li">renewwed</a>, <a href="https://open.spotify.com/artist/6p771GeIOWiMBSVihGILpS">capella</a>, <a href="https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo">Tazzy</a></p>
     </td>
   </tr>
   
