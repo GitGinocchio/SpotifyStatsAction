@@ -77,19 +77,6 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb3b96cd66c6bf065f7b773a33" href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS" alt="Artist image" style="width: 60px; height: 60px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"><strong>Pinguini Tattici Nucleari</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">concerto</p>
-    </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>65%</strong></p>
-    </td>
-  </tr>
-  
-  <tr style="border-bottom: 1px solid #ddd;">
-    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -116,6 +103,19 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb3b96cd66c6bf065f7b773a33" href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS" alt="Artist image" style="width: 60px; height: 60px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"><strong>Pinguini Tattici Nucleari</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;">concerto</p>
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <p style="margin: 0; color: black;">Popularity: <strong>65%</strong></p>
+    </td>
+  </tr>
+  
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px 10px 10px 0;">
       <img src="https://i.scdn.co/image/ab6761610000e5ebc29ee5bd25bcb741f9377b05" href="https://open.spotify.com/artist/3EYY5FwDkHEYLw5V86SAtl" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
@@ -129,14 +129,14 @@ Show your spotify stats inside your README.md
   
   <tr style="border-bottom: 1px solid #ddd;">
     <td style="padding: 10px 10px 10px 0;">
-      <img src="https://i.scdn.co/image/ab6761610000e5eb2f753acc479ee3f7fef8ec9f" href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF" alt="Artist image" style="width: 60px; height: 60px;">
+      <img src="https://i.scdn.co/image/ab6761610000e5eb465195e7c93a95c530acdfe4" href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi" alt="Artist image" style="width: 60px; height: 60px;">
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"><strong>Eternxlkz</strong></a></p>
-      <p style="margin: 5px 0 0 0; color: grey;">phonk, brazilian phonk</p>
+      <p style="margin: 0; color: black;"><a href="https://open.spotify.com/artist/7Dq2NReQjrw6PJHSMCQQEi"><strong>POSEIDON</strong></a></p>
+      <p style="margin: 5px 0 0 0; color: grey;">hardstyle</p>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
-      <p style="margin: 0; color: black;">Popularity: <strong>68%</strong></p>
+      <p style="margin: 0; color: black;">Popularity: <strong>51%</strong></p>
     </td>
   </tr>
   
